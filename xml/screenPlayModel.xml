@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <header><!--metadata in here -->
+        <title>.....</title>
+        <screenWriter>....</screenWriter>
+        <drafts>
+            <revision color="..." date="yyyy-mm-dd"/>
+            <revision color="..." date="yyyy-mm-dd"/>
+            <revision color="..." date="yyyy-mm-dd"/>
+        </drafts>
+        <productionStart date="yyyy-mm-dd"/> <!--Optional: if available. -->
+        <release date="yyyy-mm-dd"/><!--Look this up and verify -->
+        <digitalProject>
+            <editor who="bca">Bianka Alexander</editor>
+            <span from="yyyy-mm-dd" to="yyyy-mm-dd"/>
+            <desc>.......</desc>
+            <sourceText>
+                <siteName>.....</siteName>
+                <link><!--Website URL --></link>
+                <dateRetrieved>yyyy-mm-dd</dateRetrieved>
+            </sourceText>
+        </digitalProject>
+    </header>
+    <script>
+        <scene n="5">
+            <stage type="setting">EXT. SPINNER’S END - LATE AFTERNOON (MOMENTS LATER)</stage> 
+            <stage type="business">Like a rat in a maze, Narcissa makes her way through a labyrinth of dilapidated brick houses. Bellatrix trails.</stage> 
+            <sp who="BELLATRIX">Cissy! You mustn’t do this. He can’t be trusted.</sp>
+            <sp who="NARCISSA">The Dark Lord trusts him.</sp>
+        </scene>
+        
+        
+        
+        
+        
+        
+        
+    </script>
+</xml>
