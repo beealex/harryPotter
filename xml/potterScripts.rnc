@@ -1,17 +1,18 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = xml
-xml = element xml {header, script}
-header = element header {title, screenWriter, drafts, productionStart, release, digitalProject}
+xml = element xml {(header, script)?}
+header = element header {title?, screenWriter, drafts, productionStart, release?, digitalProject}
 title = element title {text}
 screenWriter = element screenWriter {text}
-drafts = element drafts {revision}
+drafts = element drafts {revision+}
 revision = element revision {color, date}
 color = attribute color {text}
+#Since we decided to exclude the draft/revisions, this may not be necessary at all
 date = attribute date {xsd:gDay | xsd:gYearMonth | xsd:gYear}
 productionStart = element productionStart {date}
 release = element release {date}
-digitalProject = element digitalProject {editor, span, desc, sourceText}
+digitalProject = element digitalProject {editor+, span?, desc, sourceText}
 editor = element editor {who, text}
 span = element span {from, to, text}
 from = attribute from {xsd:gDay | xsd:gYearMonth | xsd:gYear}
@@ -20,13 +21,17 @@ desc = element desc {text}
 sourceText = element sourceText {siteName, link, dateRetrieved}
 siteName = element siteName {text}
 link = element link {text}
-dateRetrieved = element dateRetrieved {text}
-script = element script {scene}
-scene = element scene {stage, sp}
-stage = element stage {type, text}
+dateRetrieved = element dateRetrieved {date}
+script = element script {(scene)+}
+scene = element scene {(stage, sp)+}
+stage = element stage {(type)*, text}
 type = attribute type {text}
+#Read through scripts to determine the chunk of stage types there are
 sp = element sp {who, text}
 who = attribute who {text}
+#who = attribute who {ptr*, text}
+#ptr = attribute ptr {"#HP", "#HG","RW"}
+#As the script is being marked up, include the speaker ptr (#HP, #HG) here
 
 
 
