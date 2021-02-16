@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="potterScripts.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <header><!--metadata in here -->
         <title>.....</title>
@@ -12,7 +13,8 @@
         <release date="yyyy-mm-dd"/><!--Look this up and verify -->
         <digitalProject>
             <editor who="bca">Bianka Alexander</editor>
-            <span from="yyyy-mm-dd" to="yyyy-mm-dd"/>
+            <advisor who="ebb">Elisa Beshero-Bondar</advisor>
+            <span from="1999-07-14" to="1999-07-20"/>
             <desc>.......</desc>
             <sourceText>
                 <siteName>.....</siteName>
@@ -22,9 +24,9 @@
         </digitalProject>
     </header>
     <script>
-        <scene n="5">
-            <stage type="setting">EXT. SPINNER’S END - LATE AFTERNOON (MOMENTS LATER)</stage> 
-            <stage type="business">Like a rat in a maze, Narcissa makes her way through a labyrinth of dilapidated brick houses. Bellatrix trails.</stage> 
+        <scene>
+            <stage cat="EXT" where="SPINNER’S END - LATE AFTERNOON (MOMENTS LATER)">Like a rat in a maze, Narcissa makes her way through a labyrinth of dilapidated brick houses. Bellatrix trails.</stage> 
+            
             <sp who="BELLATRIX">Cissy! You mustn’t do this. He can’t be trusted.</sp>
             <sp who="NARCISSA">The Dark Lord trusts him.</sp>
         </scene>

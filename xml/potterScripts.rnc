@@ -1,33 +1,37 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = xml
-xml = element xml {(header, script)?}
-header = element header {title?, screenWriter, drafts, productionStart, release?, digitalProject}
+xml = element xml {header, script}
+header = element header {title, screenWriter, drafts?, productionStart, release, digitalProject}
 title = element title {text}
 screenWriter = element screenWriter {text}
 drafts = element drafts {revision+}
 revision = element revision {color, date}
 color = attribute color {text}
 #Since we decided to exclude the draft/revisions, this may not be necessary at all
-date = attribute date {xsd:gDay | xsd:gYearMonth | xsd:gYear}
+date = attribute date {xsd:date | xsd:gYearMonth | xsd:gYear}
 productionStart = element productionStart {date}
 release = element release {date}
-digitalProject = element digitalProject {editor+, span?, desc, sourceText}
+digitalProject = element digitalProject {editor, advisor, span, desc, sourceText}
 editor = element editor {who, text}
+advisor = element advisor {who, text}
 span = element span {from, to, text}
-from = attribute from {xsd:gDay | xsd:gYearMonth | xsd:gYear}
-to = attribute to {xsd:gDay | xsd:gYearMonth | xsd:gYear}
+from = attribute from {xsd:date | xsd:gYearMonth | xsd:gYear}
+to = attribute to {xsd:date | xsd:gYearMonth | xsd:gYear}
 desc = element desc {text}
 sourceText = element sourceText {siteName, link, dateRetrieved}
 siteName = element siteName {text}
-link = element link {text}
-dateRetrieved = element dateRetrieved {date}
+link = element link {xsd:anyURI}
+dateRetrieved = element dateRetrieved {xsd:date | xsd:gYearMonth | xsd:gYear}
 script = element script {(scene)+}
-scene = element scene {(stage, sp)+}
-stage = element stage {(type)*, text}
-type = attribute type {text}
+scene = element scene {stage, (stage | sp)+}
+# ^[EXINT]+\.
+stage = element stage {cat?, where?, text}
+cat = attribute cat {"INT"| "EXT"}
+where = attribute where {text}
 #Read through scripts to determine the chunk of stage types there are
-sp = element sp {who, text}
+sp = element sp {who, mixed{stage*}}
+#Makes it possible to have only text or text and stage elements
 who = attribute who {text}
 #who = attribute who {ptr*, text}
 #ptr = attribute ptr {"#HP", "#HG","RW"}
