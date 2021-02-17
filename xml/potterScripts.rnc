@@ -24,7 +24,7 @@ siteName = element siteName {text}
 link = element link {xsd:anyURI}
 dateRetrieved = element dateRetrieved {xsd:date | xsd:gYearMonth | xsd:gYear}
 script = element script {(scene)+}
-scene = element scene {stage, (stage | sp)+}
+scene = element scene {stage, (stage | sp)*}
 # ^[EXINT]+\.
 stage = element stage {cat?, where?, text}
 cat = attribute cat {"INT"| "EXT"}
