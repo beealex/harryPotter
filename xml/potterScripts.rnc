@@ -27,7 +27,7 @@ script = element script {(scene)+}
 scene = element scene {stage, (stage | sp)*}
 # ^[EXINT]+\.
 stage = element stage {cat?, where?, text}
-cat = attribute cat {"INT"| "EXT"}
+cat = attribute cat {"INT"| "EXT" | "INT/EXT"}
 where = attribute where {text}
 #Read through scripts to determine the chunk of stage types there are
 sp = element sp {who, mixed{stage*}}
