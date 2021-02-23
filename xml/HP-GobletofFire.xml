@@ -312,7 +312,7 @@ as Arthur has walked past.
 
 </stage></sp>
 <sp who="#HARRY">
-(Smiling) I love magic.
+<stage>Smiling</stage> I love magic.
 
 </sp>
 </scene>
@@ -413,7 +413,7 @@ Think you're in love Ron?
 
 </sp>
 <sp who="#TWINS">
-(Singing) Viktor I love you! Viktor
+<stage>Singing</stage> Viktor I love you! Viktor
 I do!<stage>
 
 Harry joins in.
@@ -1440,7 +1440,7 @@ No I didn't enter.
 </sp>
 <sp who="#RITA">
 Course you didn't. Everyone loves a
-rebel Harry. (to the quill) Scratch
+rebel Harry. <stage>to the quill</stage> Scratch
 that last. Speaking of your parents,
 were they alive, how do you think they'd
 feel? proud? or concerned that your
@@ -1450,7 +1450,7 @@ deathwish.
 
 </sp>
 <sp who="#HARRY">
-(looking at the notepad) Hey, my eyes
+<stage>looking at the notepad</stage> Hey, my eyes
 aren't glistening with the ghosts of
 my past.
 
@@ -1463,7 +1463,7 @@ to read.
 
 </stage>
 <sp who="#SIR">
-(VOICEOVER) Harry. I couldn't risk sending
+<stage>VOICEOVER</stage> Harry. I couldn't risk sending
 Edward. It was since the world cup and
 the ministry's been intercepting more
 and more owls and she's too easily recognised.
@@ -1480,7 +1480,7 @@ AGH!
 
 </sp>
 <sp who="#SIR">
-(VOICEOVER CONT'D) The bird bites.
+<stage>VOICEOVER CONT'D</stage> The bird bites.
 
 </sp>
 </scene>
@@ -1495,7 +1495,7 @@ ARE SELECTED" and reads.
 
 </stage></sp>
 <sp who="#RITA">
-(VOICEOVER) Harry Potter aged 12, suspect
+<stage>VOICEOVER</stage> Harry Potter aged 12, suspect
 entrant in the tri-wizard tournament.
 His eyes swimming with the ghosts of
 his...<stage>
@@ -1642,7 +1642,7 @@ Oh, right sorry.
 
 </sp>
 <sp who="#HARRY">
-(reading a book) Magical water plants
+<stage>reading a book</stage> Magical water plants
 of the highland Lochs?
 
 </sp>
@@ -1654,7 +1654,7 @@ Neville waves. Hermione and Ron are walking up to them.
 
 </stage></sp>
 <sp who="#HERMIONE">
-(Whispering to Ron) We've already been
+<stage>Whispering to Ron</stage> We've already been
 through enough people why don't you
 just go and do it yourself? Ughh. What
 do you want me to say again?<stage>
@@ -1844,7 +1844,7 @@ off more insults.
 
 </stage></sp>
 <sp who="#HARRY">
-(to Cedric) Can I have a word?
+<stage>to Cedric</stage> Can I have a word?
 
 </sp>
 <sp who="#CEDRIC">
@@ -1879,7 +1879,7 @@ Ron and Seamus are walking along. Harry approaches them.
 
 </stage></sp>
 <sp who="#HARRY">
-(To Ron) You're a right foul git you
+<stage>To Ron</stage> You're a right foul git you
 know that?
 
 </sp>
@@ -2079,7 +2079,7 @@ the front page.
 
 </sp>
 <sp who="#VIKTOR">
-(To Rita) You have no business here.
+<stage>To Rita</stage> You have no business here.
 This tent is for champions and friends.
 
 </sp>
@@ -2176,7 +2176,7 @@ Harry is sitting alone nervously.
 
 </stage>
 <sp who="#DUMBLEDORE">
-(VOICEOVER THE LOUDSPEAKER) Three of
+<stage>VOICEOVER THE LOUDSPEAKER</stage> Three of
 our champions have now faced their dragons
 and so each one of them will proceed
 to the next task. And now our fourth
@@ -2333,7 +2333,7 @@ from his mouth. They laugh at him.
 
 </stage>
 <sp who="#HERMIONE">
-(Reading a newspaper) Look at this!
+<stage>Reading a newspaper</stage> Look at this!
 I can't believe it she's done it again.
 Miss Granger a plain but ambitious girl
 seems to be developing a taste for famous
@@ -2426,21 +2426,21 @@ like a babbling, bumbling band of baboons.
 
 </sp>
 <sp who="#FRED">
-(Whispering to George) Try saying that
+<stage>Whispering to George</stage> Try saying that
 five times faster.<stage>
 
 They try.
 
 </stage></sp>
 <sp who="#MCGONAGALL">
-(Continued) Now to dance is to let the
+<stage>Continued</stage> Now to dance is to let the
 body breathe, inside every girl a secret
 swan slumbers longing to burst forth
 and take flight.
 
 </sp>
 <sp who="#RON">
-(Whispering to Seamus) Something's about
+<stage>Whispering to Seamus</stage> Something's about
 to burst out of Hilary but I don't think
 it's a swan.
 
@@ -2479,7 +2479,7 @@ three.
 
 </sp>
 <sp who="#HARRY">
-(To the Weasly twins) Oi! Never gonna
+<stage>To the Weasly twins</stage> Oi! Never gonna
 let him forget this are you?
 
 </sp>
@@ -2652,7 +2652,7 @@ Yes?
 
 </sp>
 <sp who="#HARRY">
-Um. (Mumbling) I just wondered if maybe
+Um. <stage>Mumbling</stage> I just wondered if maybe
 you wanted to go to the ball with me?
 
 </sp>
@@ -2886,7 +2886,7 @@ they walk together.
 
 </stage></sp>
 <sp who="#PADMA">
-(To Ron) Is that Hermione Granger? With
+<stage>To Ron</stage> Is that Hermione Granger? With
 Viktor Krum??
 
 </sp>
@@ -2962,7 +2962,7 @@ No.
 
 </sp>
 <sp who="#RON">
-(To Hermione) He's using you.
+<stage>To Hermione</stage> He's using you.
 
 </sp>
 <sp who="#HERMIONE">
@@ -3339,7 +3339,7 @@ Do I?
 
 </sp>
 <sp who="#DUMBLEDORE">
-(Over a loudspeaker) Welcome to the
+<stage>Over a loudspeaker</stage> Welcome to the
 second task. Last night something was
 stolen from each of our champions. A
 treasure of sorts. These four treasures,
@@ -3354,13 +3354,13 @@ their own.
 
 </sp>
 <sp who="#MOODY">
-(To Harry) Put that in your mouth.<stage>
+<stage>To Harry</stage> Put that in your mouth.<stage>
 
 Harry puts the gilliweed in his mouth and starts choking.
 
 </stage></sp>
 <sp who="#DUMBLEDORE">
-(Continued) You may begin at the start
+<stage>Continued</stage> You may begin at the start
 of the cannon.<stage>
 
 The cannon fires and the champions enter the water, three of
@@ -3398,7 +3398,7 @@ We see Fleur get trapped, she screams.
 
 </stage>
 <sp who="#DUMBLEDORE">
-(Over the loudspeaker) The Beauxbatons
+<stage>Over the loudspeaker</stage> The Beauxbatons
 champion Miss Delacour has unfortunately
 been forced to retire. She will take
 no further part in this task.
@@ -3465,7 +3465,7 @@ I want all the judges over here now.
 
 </sp>
 <sp who="#FLEUR">
-(To Harry) You saved her, even though
+<stage>To Harry</stage> You saved her, even though
 she wasn't yours to save. My little
 sister!<stage>
 
@@ -3473,7 +3473,7 @@ Fleur kisses Harry on the face.
 
 </stage></sp>
 <sp who="#FLEUR">
-Thank you! And you... (Looks to Ron).
+Thank you! And you... <stage>Looks to Ron</stage>.
 You helped!
 
 </sp>
@@ -3728,7 +3728,7 @@ Dead?
 
 </sp>
 <sp who="#MOODY">
-(To Dumbledore) Yeah took a piece of
+<stage>To Dumbledore</stage> Yeah took a piece of
 me with him though didn't he.<stage>
 
 Mad-Eye points to his mechanical eye.
@@ -3983,7 +3983,7 @@ The crowd cheer on hearing his name.
 
 </stage></sp>
 <sp who="#DUMBLEDORE">
-(continued) and Mr Potter tied for first
+<stage>continued</stage> and Mr Potter tied for first
 position they will be the first to enter
 the maze. Followed by Mr Krum...<stage>
 
@@ -3991,7 +3991,7 @@ The bulgarian crowd go nuts.
 
 </stage></sp>
 <sp who="#DUMBLEDORE">
-(continued) The first person to touch
+<stage>continued</stage> The first person to touch
 the cup will be the winner. I've instructed
 the staff to patrol the perimeter, if
 at any point should a contestant wish
@@ -4001,7 +4001,7 @@ wands. Contestants, gather round.
 
 </sp>
 <sp who="#DUMBLEDORE">
-(To the contestants) In the maze you'll
+<stage>To the contestants</stage> In the maze you'll
 find not dragons or creatures of the
 deep. Instead you'll face something
 more challenging. You see, people change
@@ -4270,7 +4270,7 @@ Thank you master, thank you.
 
 </sp>
 <sp who="#VOLDEMORT">
-(To Cedric's corpse) Oh, such a handsome
+<stage>To Cedric's corpse</stage> Oh, such a handsome
 boy.
 
 </sp>
@@ -4363,7 +4363,7 @@ We can delay it for a moment to give
 you time but only a moment, do you understand?
 </sp>
 <sp who="#CEDRIC">
-(voice) Harry take my body back will
+<stage>voice</stage> Harry take my body back will
 you? Take my body back to my father.
 </sp>
 <sp who="#LILYPOTTER">
@@ -4631,7 +4631,7 @@ time for heroes.
 
 </stage>
 <sp who="#DUMBLEDORE">
-(Speaking to all pupils) Today we acknowledge
+<stage>Speaking to all pupils</stage> Today we acknowledge
 a really terrible loss. Cedric Diggory
 was as you all know, exceptionally hard
 working, intricately fair minded. And
