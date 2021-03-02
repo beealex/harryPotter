@@ -21,7 +21,7 @@ Warner Boulevard WARNER BROS. ENT.
 Burbank, California 91522 All Rights Reserved </header>
 <script>
 <scene>
-<sp>DARKNESS. 
+<sp><stage>DARKNESS. 
 THUNDER -- or something like it -- sounds in the distance. 
 BOOM. Then again. BOOM. 
 We GLIDE THROUGH the inky blackness. Ambient flashes 
@@ -32,8 +32,8 @@ Blank behind glasses.
 we -FLASH! 
 The PUPIL CONTRACTS and 
 CUT TO: 
+</stage>
 </sp>
-
 </scene>
 <scene><stage cat="INT" where=" MINISTRY OF MAGIC - ATRIUM - WIDER ANGLE - DAY">
 To find... HARRY POTTER, standing numbly beside ALBUS DUMBLEDORE amidst a MOB of REPORTERS. CAMERAS FLASH. 
@@ -6824,8 +6824,7 @@ DISSOLVE INTO:
 We RACK FOCUS and Dumbledore’s troubled face bleeds 
 through Riddle’s. 
 
-</stage>
-</scene>
+
 <sp>HARRY 
 Sir -
 
@@ -6956,12 +6955,16 @@ Harry peers into Dumbledore’s eyes. Dumbledore nods.
 
 Once again, I shall ask too much
 
-of you. 
-
-INT./EXT. GARGOYLE CORRIDOR -LATE DAY
-Harry stands at a window, looking out. He brings his fingers to his chest again when... Hermione comes up behind him. 
+of you.
 
 </sp>
+</stage>
+</scene>
+    
+<scene><stage cat="INT/EXT" where="GARGOYLE CORRIDOR -LATE DAY">
+Harry stands at a window, looking out. He brings his fingers to his chest again when... Hermione comes up behind him. 
+
+
 <sp>HERMIONE 
 Harry. It’s time. 
 
@@ -8408,6 +8411,8 @@ No one says a word.
 </sp>
 <sp>THE END 
 </sp>
+</stage>
+</scene>
 </stage>
 </scene>
 </script>
