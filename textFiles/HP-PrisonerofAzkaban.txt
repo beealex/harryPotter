@@ -1,29 +1,21 @@
-HARRY POTTER 
+HARRY POTTER AND THE PRISONER OF AZKABAN 
 
-AND THE 
-
-PRISONER OF AZKABAN 
-
-by 
-Steve Kloves 
+by Steve Kloves 
 
 Based on the book by 
 
 J.K. Rowling 
 FULL TAN DRAFT 
-February 24, 2003 
+<date>February 24, 2003</date> 
 
-
 FADE IN: 
 
-1 EXT. NUMBER FOUR PRIVET DRIVE - MIDDLE OF THE NIGHT 1 
-
+EXT. NUMBER FOUR PRIVET DRIVE - MIDDLE OF THE NIGHT 
 The street slumbers, adrift in shadow. Then... a curious 
 BEAM OF LIGHT BOBS beyond the second-story window of 
 Number Four. 
 
-2 INT. HARRY'S ROOM - SAME TIME - MIDDLE OF THE NIGHT 2 
-
+INT. HARRY'S ROOM - SAME TIME - MIDDLE OF THE NIGHT 
 A tent of blankets. Within... the SHADOW of a BOY. A 
 WHISPER: 
 
@@ -31,7 +23,7 @@ HARRY
 Lumos Maxima... 
 
 The tent BLOOMS SOFTLY with light -- briefly illuminating 
-a bedside PHOTOGRAPH (of James & Lily Potter) -- then 
+a bedside PHOTOGRAPH (of James &amp; Lily Potter) -- then 
 goes dark. 
 
 HARRY 
@@ -59,7 +51,7 @@ speaks:
 HARRY 
 Lumos... MAXIMA! 
 
-2A EXT. NUMBER FOUR PRIVET DRIVE - SAME TIME - NIGHT 2A 
+EXT. NUMBER FOUR PRIVET DRIVE - SAME TIME - NIGHT 
 
 A BLINDING BLAST OF LIGHT FLASHES from the second story 
 window of Number Four. DOGS BARK. And a TITLE CARD 
@@ -69,21 +61,18 @@ HARRY POTTER
 and the 
 Prisoner of Azkaban 
 
-
-3. 
-
-2B INT. HARRY'S ROOM - SAME TIME - NIGHT 2B 
+INT. HARRY'S ROOM - SAME TIME - NIGHT 
 The light in the hallway SNAPS on, Harry's tent droops 
 once more and, seconds later, Harry's door eases open. 
 Uncle Vernon peers in and switches on the light. The 
 room is utterly SILENT. Slowly, he closes the door. 
-3 
+
 thru 
-5 
-OMITTED 3 
+
+OMITTED 
 thru 
-5 
-6 INT. FOUR PRIVET DRIVE - STAIRWAY/FRONT HALL - DAY 6 
+
+INT. FOUR PRIVET DRIVE - STAIRWAY/FRONT HALL - DAY 
 The DOORBELL CHIMES and a shrill VOICE THUNDERS: 
 Harry! 
 AUNT PETUNIA (O.S.) 
@@ -117,12 +106,6 @@ others, but he pines so when I'm
 away. Don't you, darling? 
 Aunt Marge puckers her lips at Ripper and leads him down 
 the hallway. Harry follows with Uncle Vernon. 
-(CONTINUED) 
-
-
-4. 
-
-6 CONTINUED: 6 
 
 HARRY 
 
@@ -184,17 +167,9 @@ waddles forward, and extends his plump palm obediently.
 Harry looks on, then sees Ripper snuffling about his 
 ankle. 
 
-7 INT. FOUR PRIVET DRIVE - DINING ROOM - DUSK 7 
-
+INT. FOUR PRIVET DRIVE - DINING ROOM - DUSK 
 As Harry clears the dishes, Uncle Vernon brings out a 
 bottle of brandy. 
-
-(CONTINUED) 
-
-
-5. 
-
-7 CONTINUED: 7 
 
 UNCLE VERNON 
 Can I tempt you, Marge? 
@@ -254,17 +229,9 @@ AUNT PETUNIA
 Nothing. That is... he didn't 
 work. He was -- unemployed. 
 
-(CONTINUED) 
-
-
-6. 
-
-7 CONTINUED: (2) 7 
-
 AUNT MARGE 
 Of course. And a drunk, 
 I expect -
-
 
 HARRY 
 That's a lie. 
@@ -317,10 +284,7 @@ fixes his teeth to his trousers. Harry frightened by
 what he's done, watches Aunt Marge BOUNCE GENTLY across 
 the ceiling and into the CONSERVATORY. 
 
-
-7. 
-
-7A EXT. BACK YARD - CONTINUOUS ACTION - DUSK 7A 
+EXT. BACK YARD - CONTINUOUS ACTION - DUSK 
 
 The others race outside. As Aunt Marge begins to float 
 away, Uncle Vernon grips her hands. 
@@ -334,19 +298,16 @@ RISE. Aunt Marge looks fearfully into his eyes...
 AUNT MARGE 
 Vernon. Don't you dare -
 
-
 But he does. He lets go. Falls to his knees. And 
 watches Aunt Marge float away. 
 
-8 INT. HARRY'S ROOM - DUSK (SECONDS LATER) 8 
-
+INT. HARRY'S ROOM - DUSK (SECONDS LATER) 
 Harry crashes inside, takes his TRUNK, then puts his heel 
 to a LOOSE FLOORBOARD and removes his WAND from its 
 hiding place. Turning, he grabs the PHOTOGRAPH of his 
 parents. 
 
-9 INT. HALLWAY - DUSK (SECONDS LATER) 9 
-
+INT. HALLWAY - DUSK (SECONDS LATER) 
 BOOM! BOOM! BOOM! Harry tows the TRUNK down the 
 stairs... finds Uncle Vernon waiting for him. 
 
@@ -378,17 +339,13 @@ Harry realizes it's true. Briefly falters. Then:
 HARRY 
 Anywhere's better than here. 
 
-9A EXT. NUMBER FOUR PRIVET DRIVE - DUSK (SECONDS LATER) 9A 
+EXT. NUMBER FOUR PRIVET DRIVE - DUSK (SECONDS LATER) 
 
 As Harry storms out with his trunk, we DOLLY TO the 
 street WITH him. High in the sky, a plump DOT rises. 
 Aunt Marge. 
 
-
-8. 
-
-10 EXT. MAGNOLIA CRESCENT - NIGHT (LATER) 10 
-
+EXT. MAGNOLIA CRESCENT - NIGHT (LATER) 
 Harry walks and walks and walks, then... stops. Glances 
 about. An empty PLAYGROUND. SWINGS CREAKING gently on 
 rusted chains. A tiny CAROUSEL, kissed gently by the 
@@ -445,13 +402,6 @@ Fell over.
 STAN SHUNPIKE 
 Wha' choo fall over for? 
 
-(CONTINUED) 
-
-
-9. 
-
-10 CONTINUED: 10 
-
 HARRY 
 I didn't do it on purpose. 
 
@@ -467,8 +417,7 @@ As Stan grabs Harry's trunk, Harry peers into the shadows
 across the street -- now simply shadows -- and climbs 
 aboard. 
 
-11 INT. THE KNIGHT BUS - NIGHT (MOMENTS LATER) 11 
-
+INT. THE KNIGHT BUS - NIGHT (MOMENTS LATER) 
 No seats. Only BEDS. The BRASS frames need a shine, the 
 lines a wash. In one bed, a DISHEVELED WIZARD GRUNTS, 
 turns over in his sleep. 
@@ -506,13 +455,6 @@ more. Harry brushes the fringe of his hair over his
 scar, watches an AMBULANCE -- SIREN WAILING -- careen 
 past. 
 
-(CONTINUED) 
-
-
-10. 
-
-11 CONTINUED: 11 
-
 STAN SHUNPIKE 
 Whereabouts you headin'? 
 
@@ -521,7 +463,6 @@ Harry hesitates. He hadn't thought about this. Decides.
 HARRY 
 The Leaky Cauldron. That's in 
 London -
-
 
 STAN SHUNPIKE 
 Is it now? Get that, Ern? The 
@@ -566,13 +507,6 @@ STAN SHUNPIKE
 Who is that? That's Sirius Black, 
 that is. Don' tell me you ne'er 
 been hearin' o' Sirius Black? 
-
-(CONTINUED) 
-
-
-11. 
-
-11 CONTINUED: (2) 11 
 
 Harry shakes his head, still staring at the man's face. 
 
@@ -629,34 +563,31 @@ sent flying once more. Grabbing fast to the center POLE,
 he pirouettes through the air when Ernie... SLAMS on the 
 BRAKES. 
 
-
-12. 
-
-12 EXT. CHARING CROSS ROAD/LEAKY CAULDRON - NIGHT 12 
+EXT. CHARING CROSS ROAD/LEAKY CAULDRON - NIGHT 
 The Knight Bus fishtails INTO VIEW and SQUEALS to a stop, 
 centimeters from a PARKED CAR. WHOOSH! The bus settles 
 and -- TINK! -- taps the bumper. Instantly, the car's 
 ALARM wails. 
-12A INT. THE KNIGHT BUS - SAME TIME - NIGHT 12A 
+INT. THE KNIGHT BUS - SAME TIME - NIGHT 
 The chandelier sways drunkenly as the bus doors open. 
 The steps GROAN with heavy feet and a FIGURE appears: 
 TOM, Innkeeper of the Leaky Cauldron pub. 
 TOM 
 Mr. Potter... at last. 
-12B EXT. LEAKY CAULDRON - NIGHT (MOMENTS LATER) 12B 
+EXT. LEAKY CAULDRON - NIGHT (MOMENTS LATER) 
 As the Knight Bus rockets off, Tom and Harry are 
 revealed, Harry glances up, reads the SIGN above: THE 
 LEAKY CAULDRON. Tom drags Harry's trunk inside, then 
 pauses and, with a FLICK of his wand, silences the car 
 alarm. 
-13 INT. LEAKY CAULDRON - BAR/HALLWAY - NIGHT (MOMENTS 
+INT. LEAKY CAULDRON - BAR/HALLWAY - NIGHT (MOMENTS 
 LATER) 
-13 
+
 Harry trails Tom through the quiet room. The BARTENDER 
 glances up, his gaze lingering perhaps a bit too long. A 
 solitary WIZARD reads a book while, at his elbow, his 
 COFFEE CUP STIRS ITSELF. Tom leads Harry upstairs. 
-14 INT. LEAKY CAULDRON - BACK ROOM - NIGHT 14 
+INT. LEAKY CAULDRON - BACK ROOM - NIGHT 
 As Harry follows Tom inside, he finds a SNOW WHITE OWL 
 (HEDWIG) perched atop a chair. 
 Hedwig! 
@@ -672,12 +603,6 @@ in the glass, but the man doesn't turn. Tom takes a
 position against the wall, fishes a pair of WALNUTS from 
 his pocket and -- CRACK -- crushes the shells between his 
 palms. 
-(CONTINUED) 
-
-
-13. 
-
-14 CONTINUED: 14 
 
 CORNELIUS FUDGE 
 I should tell you, Mr. Potter, 
@@ -709,7 +634,6 @@ understand. I broke the law.
 Underage wizards aren't allowed to 
 use magic at home -
 
-
 CORNELIUS FUDGE 
 
 (dishing up a bowl) 
@@ -734,15 +658,7 @@ what's that got to do with me?
 CRACK! Tom SHATTERS another WALNUT. Fudge smiles 
 nervously. 
 
-(CONTINUED) 
-
-
-14. 
-
-CONTINUED: 
-
-(2) 14 
-
+(2) 
 CORNELIUS FUDGE 
 Hm? Oh, nothing. You're safe, 
 that's what matters. Tomorrow 
@@ -761,10 +677,8 @@ here it would be best if you
 
 didn't... wander. 
 
-15 OMITTED 15 
-
-16 EXT. LEAKY CAULDRON - ROOM ELEVEN - MORNING 16 
-
+OMITTED 
+EXT. LEAKY CAULDRON - ROOM ELEVEN - MORNING 
 THROUGH the window: the rooftops of London. A TRAIN 
 PASSES and CAMERA PULLS BACK, REVEALS Harry, standing 
 with Hedwig. He turns, eyes his schoolbooks. He studies 
@@ -781,8 +695,7 @@ POUNCES -- FLUMPH! The BOOK ROARS angrily, muffled
 beneath the pillow. Harry takes the ROPE, prepares to 
 rebind it. 
 
-17 INT. LEAKY CAULDRON - HALLWAY/ROOM ELEVEN - MORNING 17 
-
+INT. LEAKY CAULDRON - HALLWAY/ROOM ELEVEN - MORNING 
 A YOUNG WITCH in maid's robes pushes a cart down the 
 hall. Harry exits his room as the witch KNOCKS on a 
 door. 
@@ -797,24 +710,18 @@ YOUNG WITCH
 (unperturbed) 
 I'll come back later. 
 
-(CONTINUED) 
-
-
-15. 
-
-17 CONTINUED: 17 
 Something SMALL and FAST dashes by Harry's feet. 
 Looking, he spies a rather ragged-looking RAT (SCABBERS), 
 pursued by a decidedly UGLY ORANGE CAT (CROOKSHANKS). 
-18 
+
 thru 
-22 
-OMITTED 18 
+
+OMITTED 
 thru 
-22 
-23 INT. LEAKY CAULDRON - STAIRWAY - MORNING (MOMENTS 
+
+INT. LEAKY CAULDRON - STAIRWAY - MORNING (MOMENTS 
 LATER) 
-23 
+
 As Harry moves down the stairs, VOICES come from below. 
 RON (O.S.) 
 I'm warning you, Hermione! Keep 
@@ -843,19 +750,13 @@ HERMIONE/RON
 CUT TO: 
 CLOSEUP - A DOG-EARED CLIPPING 
 from The Daily Prophet. 
-(CONTINUED) 
-
-
-16. 
-
-23 CONTINUED: 23 
 
 A HEADLINE SCREAMS: "GRAND PRIZE WINNER VISITS EGYPT!" 
 In the accompanying PHOTO, the entire WEASLEY FAMILY 
 stands before the GREAT PYRAMIDS, waving. Smack in the 
 middle is Ron, Scabbers perched on his shoulder. 
 
-23A INT. LEAKY CAULDRON - MORNING (MOMENTS LATER) 23A 
+INT. LEAKY CAULDRON - MORNING (MOMENTS LATER) 
 
 As Ron smoothes the dog-eared clipping onto the table, 
 Harry studies it. Hermione ignores it, stroking 
@@ -868,7 +769,6 @@ RON
 Brilliant. It's got loads of old 
 stuff. Mummies. Death masks. 
 Tombs -
-
 
 HERMIONE 
 You know, the ancient Egyptians of 
@@ -903,13 +803,6 @@ if relieved to see him.
 
 MRS. WEASLEY 
 It's good to see you, Harry. 
-
-(CONTINUED) 
-
-
-17. 
-
-23A CONTINUED: 23A 
 
 HARRY 
 Good to see you too, Mrs. Weasley. 
@@ -964,13 +857,6 @@ HARRY
 That he escaped from Azkaban. 
 That he killed someone... 
 
-(CONTINUED) 
-
-
-18. 
-
-23A CONTINUED: (2) 23A 
-
 ARTHUR WEASLEY 
 
 Harry, thirteen years ago, when 
@@ -1002,7 +888,6 @@ Voldemort...?
 ARTHUR WEASLEY 
 Harry, I hate it when you say -
 
-
 HARRY 
 I know, sorry. Ron hates it too. 
 
@@ -1033,7 +918,6 @@ Harry. I want you to swear
 
 that -- whatever you might hear -
 
-
 you won't go looking for Black. 
 
 HARRY 
@@ -1044,23 +928,16 @@ for someone who wants to kill me?
 
 Mr. Weasley nods, then claps Harry on the shoulder. 
 
-(CONTINUED) 
-
-
-19. 
-
-23A CONTINUED: (3) 23A 
-
 ARTHUR WEASLEY 
 Just watch yourself, will you, 
 Harry? 
-24 
-& 
-25 
-OMITTED 24 
-& 
-25 
-26 EXT. PLATFORM NINE AND THREE QUARTERS - MORNING 26 
+
+&amp; 
+
+OMITTED 
+&amp; 
+
+EXT. PLATFORM NINE AND THREE QUARTERS - MORNING 
 As the HOGWARTS EXPRESS BLEATS ITS HORN, we CRANE OVER 
 the milling horde of students. Parents hurry their 
 children onboard, tiny siblings wave goodbyes... and Mr. 
@@ -1069,7 +946,7 @@ window.
 Ron! 
 MRS. WEASLEY 
 She hands Scabbers through the open window to him. 
-27 INT. HOGWARTS EXPRESS - TRAIN CAR - DAY (MOMENTS LATER) 27 
+INT. HOGWARTS EXPRESS - TRAIN CAR - DAY (MOMENTS LATER) 
 The aisle teems with students. Harry, Ron and Hermione 
 work their way down the aisle, looking for an empty 
 compartment. 
@@ -1093,12 +970,6 @@ NEVILLE LONGBOTTOM.
 Hi, Harry. 
 NEVILLE 
 Ron. Hermione. 
-(CONTINUED) 
-
-
-20. 
-
-27 CONTINUED: 27 
 
 HARRY/HERMIONE/RON 
 Hi, Neville. 
@@ -1108,8 +979,7 @@ As he bumps past, Hermione nods to a compartment.
 HERMIONE 
 C'mon. We're in here. 
 
-28 INT. TRAIN COMPARTMENT - CONTINUOUS ACTION - DAY 28 
-
+INT. TRAIN COMPARTMENT - CONTINUOUS ACTION - DAY 
 As they slip inside, they find a MAN in SHABBY ROBES 
 (PROFESSOR LUPIN) slumped against the window, asleep. He 
 looks ill, exhausted. The trio eye him warily. WHISPER. 
@@ -1147,18 +1017,13 @@ Close the door.
 Hermione and Ron exchange a curious glance, then Ron 
 rises, slides the door shut, OVER CAMERA, and we -
 
-
 CUT TO: 
 
-29 EXT. HOGWARTS EXPRESS - LATE DAY (LATER) 29 
-
+EXT. HOGWARTS EXPRESS - LATE DAY (LATER) 
 Storm clouds, like dark ghosts, toss SHEETS of RAIN onto 
 the scarlet engine as it heads north. 
 
-
-21. 
-
-30 INT. TRAIN COMPARTMENT - LATE DAY 30 
+INT. TRAIN COMPARTMENT - LATE DAY 
 Ron and Hermione stare at Harry, faces stricken in the 
 lantern light that now glows in the compartment. 
 Crookshanks slumbers in his CAGE. 
@@ -1189,18 +1054,12 @@ corridor.
 HARRY'S POV -- All along the carriage, HEADS look out 
 curiously. Then -- the train JERKS -- the car SWAYS -and 
 the LAMPS running along the ceiling FLICKER and... 
-31 EXT. TRAIN - SAME TIME - DUSK 31 
+EXT. TRAIN - SAME TIME - DUSK 
 ... die. One by one. Until all is... 
-32 INT. TRAIN COMPARTMENT - SAME TIME - DUSK 32 
+INT. TRAIN COMPARTMENT - SAME TIME - DUSK 
 Dark. 
 RON 
 What's going on? 
-(CONTINUED) 
-
-
-22. 
-
-32 CONTINUED: 32 
 
 A thin WISP of STEAM escapes Ron's mouth. Harry notices. 
 
@@ -1256,13 +1115,6 @@ BLACK.
 
 WHITE. 
 
-(CONTINUED) 
-
-
-23. 
-
-32 CONTINUED: (2) 32 
-
 BLACK... 
 
 With a DESPERATE GASP, Harry opens his eyes. Blinks. 
@@ -1314,13 +1166,6 @@ As he leaves, Harry turns to Ron and Hermione.
 HARRY 
 What happened to me? 
 
-(CONTINUED) 
-
-
-24. 
-
-32 CONTINUED: (3) 32 
-
 RON 
 Well, you sort of went... rigid. 
 We thought maybe you were having a 
@@ -1354,31 +1199,20 @@ No one was screaming, Harry.
 Harry looks to the window and we PUSH IN ON his 
 REFLECTION. It becomes a GLIMMERING PUDDLE and... 
 
-33 OMITTED 33 
-
-34 EXT. HOGWARTS CASTLE - NIGHT 34 
-
+OMITTED 
+EXT. HOGWARTS CASTLE - NIGHT 
 SPLASH!... a CARRIAGE WHEEL shatters the glassy surface 
 as we TILT UP, catch a procession of HORSELESS CARRIAGES, 
 carrying students toward the glimmering castle. 
 Gradually, the sweet sound of a CHOIR rises on the air, a 
 FLASH of LIGHTNING bleaches the night sky and we -
 
-
 CUT TO: 
 
-35 EXT./INT. GREAT HALL - NIGHT (LATER) 35 
-
+EXT./INT. GREAT HALL - NIGHT (LATER) 
 ... the CAMERA as it GLIDES TOWARD the windows of the 
 Great Hall, TOWARD the CANDLELIT SILHOUETTES glimmering 
 within, PASSING THROUGH the glass. 
-
-(CONTINUED) 
-
-
-25. 
-
-35 CONTINUED: 35 
 
 At the High Table, Lupin sits with SEVERUS SNAPE, MINERVA 
 McGONAGALL, RUBEUS HAGRID and ALBUS DUMBLEDORE. We TRACK 
@@ -1430,13 +1264,6 @@ to announce that his place will be
 filled by none other than our own 
 Rubeus Hagrid! 
 
-(CONTINUED) 
-
-
-26. 
-
-35 CONTINUED: (2) 35 
-
 Harry, Ron, and Hermione stare at each other -stunned 
 -- then APPLAUD vigorously. Hagrid turns ruby 
 red, rises, and nearly topples the staff table, sending 
@@ -1481,35 +1308,24 @@ them. It is not in the nature of
 
 a Dementor to be forgiving. 
 
-36 INT. ENTRANCE HALL - NIGHT (LATER) 36 
-
+INT. ENTRANCE HALL - NIGHT (LATER) 
 Students exit the Great Hall, scale the Marble Staircase. 
 
-37 INT. MARBLE STAIRCASE/SEVENTH FLOOR - NIGHT 37 
-
+INT. MARBLE STAIRCASE/SEVENTH FLOOR - NIGHT 
 Harry, Ron and Hermione arrive at the seventh floor 
 landing and approach the FAT LADY in the portrait. 
 
 HARRY 
 Fortuna Major. 
 
-38 INT. GRYFFINDOR COMMON ROOM - NIGHT 38 
-
+INT. GRYFFINDOR COMMON ROOM - NIGHT 
 The Gryffindors trail through the common room, the girls 
 heading one way, boys the other. 
 
-39 INT. TOWER DORMITORY - NIGHT (LATER) 39 
-
+INT. TOWER DORMITORY - NIGHT (LATER) 
 While those around him sleep, Harry takes the PHOTOGRAPH 
 of his parents, sets it next to his bed, then glances 
 around in quiet contentment. 
-
-(CONTINUED) 
-
-
-27. 
-
-39 CONTINUED: 39 
 
 RON 
 Good to be home, eh, Harry? 
@@ -1518,12 +1334,12 @@ Harry turns -- caught -- and finds Ron studying him from
 his own bed, Scabbers cradled in his hand. Harry nods 
 and turns to the window.. 
 
-39A EXT. HOGWARTS CASTLE - SAME TIME - NIGHT 39A 
+EXT. HOGWARTS CASTLE - SAME TIME - NIGHT 
 
 The Dementors drift to their positions outside the 
 grounds. 
 
-39B INT. TOWER DORMITORY - SAME TIME - NIGHT 39B 
+INT. TOWER DORMITORY - SAME TIME - NIGHT 
 
 Harry continues to stare. 
 
@@ -1536,8 +1352,7 @@ FADE OUT.
 
 FADE IN: 
 
-40 EXT. HOGWARTS CASTLE - GROUNDS - MORNING 40 
-
+EXT. HOGWARTS CASTLE - GROUNDS - MORNING 
 As BRIDGE and CASTLE glimmer in the distance, Hagrid 
 emerges from the Forbidden Forest, dragging a fistful of 
 dead FERRETS by the tail. A BIRD appears, circles his 
@@ -1551,20 +1366,11 @@ lovely song, when -- THWOCK! -- a branch punts the bird
 into the air. As feathers fly, the WHOMPING WILLOW 
 resumes its shape. 
 
-41 OMITTED 41 
-
-42 INT. DIVINATION CLASSROOM - MORNING 42 
-
+OMITTED 
+INT. DIVINATION CLASSROOM - MORNING 
 Harry, Ron and Hermione sit on fat little pouffes in a 
 murky, incense-laden room, along with Neville, Dean, 
 Seamus, LAVENDER BROWN, PARVATI PATIL and others. 
-
-(CONTINUED) 
-
-
-28. 
-
-42 CONTINUED: 42 
 
 PROFESSOR TRELAWNEY (O.S.) 
 Welcome, my children. In this 
@@ -1622,13 +1428,6 @@ finally... the crystal ball.
 (eyeing Parvati) 
 By the way, dear, beware a red-
 haired man. 
-
-(CONTINUED) 
-
-
-29. 
-
-42 CONTINUED: (2) 42 
 
 Parvati eyes Ron dubiously. Edges her pouffe away. 
 
@@ -1700,13 +1499,6 @@ What do you see in Mr. Potter's
 
 cup, Mr. Weasley? 
 
-(CONTINUED) 
-
-
-30. 
-
-42 CONTINUED: (3) 42 
-
 RON 
 Well. He's got a wonky sort of 
 cross -- that's trials and 
@@ -1754,17 +1546,10 @@ disappears. And a new image emerges slowly...
 
 Sirius Black. 
 
-43 EXT. CASTLE/BRIDGE/WHOMPING WILLOW/HAGRID'S HUT - DAY 43 
-
+EXT. CASTLE/BRIDGE/WHOMPING WILLOW/HAGRID'S HUT - DAY 
 The trio emerge from the BRIDGE and make their way toward 
 Hagrid's hut. The Whomping Willow looms in the distance. 
 
-(CONTINUED) 
-
-
-31. 
-
-43 CONTINUED: 43 
 HERMIONE 
 Death omens. Honestly. If you 
 ask me, Divination's a very wooly 
@@ -1784,7 +1569,7 @@ Don't be silly. How could anyone
 be in two classes at once? 
 (mimicking Trelawney) 
 Broaden your minds... 
-43A EXT. HAGRID'S HUT - DAY (MOMENTS LATER) 43A 
+EXT. HAGRID'S HUT - DAY (MOMENTS LATER) 
 STUDENTS gather around Hagrid as Harry, Ron and Hermione 
 arrive. Draco, Crabbe, and Goyle stand with the 
 Slytherins. 
@@ -1792,7 +1577,7 @@ HAGRID
 C'mon now, get a move on! Got a 
 real treat for yeh. Great lesson 
 comin' up. Follow me. 
-44 EXT. PADDOCK - HAGRID'S HUT - DAY (MOMENTS LATER) 44 
+EXT. PADDOCK - HAGRID'S HUT - DAY (MOMENTS LATER) 
 Hagrid leads them toward a small paddock just this side 
 of the Forbidden Forest. In the paddock, a freestanding 
 IRON RACK hangs with DEAD FERRETS, BUZZING with FLIES. 
@@ -1802,12 +1587,6 @@ Gather 'round. Find yerself a spot.
 That's it. Now, firs' thing yeh'll 
 want ter do is open yer books -DRACO 
 And exactly how do we do that? 
-(CONTINUED) 
-
-
-32. 
-
-44 CONTINUED: 44 
 
 Hagrid looks. Belts, rope, Spellotape: any means 
 available have been employed to bridle The Monster Book 
@@ -1842,7 +1621,6 @@ classes.
 HARRY 
 Listen, you stupid prat -
 
-
 Eyes WIDENING in fear, Malfoy steps back, points. 
 
 DRACO 
@@ -1863,13 +1641,6 @@ HAGRID
 Gee up, there! 
 (grinning) 
 Beau'iful, isn' he? 
-
-(CONTINUED) 
-
-
-33. 
-
-44 CONTINUED: (2) 44 
 
 There seems no consensus on this, but the students stare 
 in wary wonder nonetheless. As Hagrid coaxes the beast 
@@ -1922,13 +1693,6 @@ Tentatively, Harry reaches out, lays his hand on
 Buckbeak's fierce beak. The class CLAPS. Harry 
 smiles. 
 
-(CONTINUED) 
-
-
-34. 
-
-44 CONTINUED: (3) 44 
-
 HAGRID 
 Look at that! I reckon he migh' 
 let yeh ride 'im! 
@@ -1979,12 +1743,6 @@ Brilliant... Professor.
 They both grin, when Draco pushes past them roughly, 
 strides toward Buckbeak. 
 
-(CONTINUED) 
-
-
-35. 
-
-44 CONTINUED: (4) 44 
 DRACO 
 Give me a go at that thing. If 
 Potter can do it, it must be 
@@ -2018,19 +1776,13 @@ you all just... Class dismissed!
 And with that, Hagrid -- looking shaken -- swoops up 
 Malfoy, flops him over his shoulder, and lumbers 
 toward the castle. 
-45 INT. GREAT HALL - NIGHT 45 
+INT. GREAT HALL - NIGHT 
 As Lavender and Parvati huddle over a DOZEN TEACUPS, 
 Avidly interpreting patterns in HUSHED VOICES, Draco, 
 arm bound in a SLING, holds court before a clot of 
 Slytherins. 
 PANSY 
 Does it hurt terribly, Draco? 
-(CONTINUED) 
-
-
-36. 
-
-45 CONTINUED: 45 
 
 DRACO 
 
@@ -2085,12 +1837,6 @@ Dementors? He's already slipped
 by them once, hasn't he? Who's 
 to say he can't do it again? 
 
-(CONTINUED) 
-
-
-37. 
-
-45 CONTINUED: (2) 45 
 As a flicker of fear passes through Harry's face, BEM, 
 a Nigerian boy, stares grimly at the grainy image of 
 Black. 
@@ -2100,17 +1846,17 @@ anywhere. It's like trying to
 catch smoke. Like trying to 
 catch smoke with your bare 
 hands. 
-46 EXT. HOGWARTS CASTLE - MORNING 46 
+EXT. HOGWARTS CASTLE - MORNING 
 Beautiful flowers gleam in the dawn light, then, slowly 
 begin to WITHER. The dew FREEZES, the grass grows 
 brittle. Seconds later, the Dementors sweep by. 
-47 
-& 
-48 
-OMITTED 47 
-& 
-48 
-49 INT. LUPIN'S CLASSROOM - MORNING 49 
+
+&amp; 
+
+OMITTED 
+&amp; 
+
+INT. LUPIN'S CLASSROOM - MORNING 
 A tall WARDROBE RATTLES VIOLENTLY as Harry, Ron and 
 several classmates regard it warily. 
 PROFESSOR LUPIN 
@@ -2129,12 +1875,6 @@ HERMIONE
 Ron JUMPS, glances at Hermione, then WHISPERS to Harry. 
 RON 
 When'd she get here? 
-(CONTINUED) 
-
-
-38. 
-
-49 CONTINUED: 49 
 
 HERMIONE 
 
@@ -2145,7 +1885,6 @@ They take the shape of whatever
 a particular person fears most. 
 
 That's what makes it so -
-
 
 PROFESSOR LUPIN 
 
@@ -2210,13 +1949,6 @@ Hmmm... yes. Neville, I believe
 
 you live with your grandmother? 
 
-(CONTINUED) 
-
-
-39. 
-
-49 CONTINUED: (2) 49 
-
 NEVILLE 
 Yes, but I don't want the Boggart 
 to turn into her either. 
@@ -2270,13 +2002,6 @@ Neville blinks, amazed, then slowly, grins himself.
 Lupin drops the needle on an OLD GRAMAPHONE. As a 
 SCRATCHY RHUMBA fills the room, he points to Ron. 
 
-(CONTINUED) 
-
-
-40. 
-
-49 CONTINUED: (3) 49 
-
 PROFESSOR LUPIN 
 Ron! Forward! 
 
@@ -2329,13 +2054,6 @@ flickers through Lupin's face. The Jack-In-The-Box
 pivots on its spring, its face tumbling toward Harry, 
 becoming more sinister, transforming into a... 
 
-(CONTINUED) 
-
-
-41. 
-
-49 CONTINUED: (4) 49 
-
 ... Dementor. Suddenly the MUSIC FADES. Harry starts to 
 raise his wand, then... freezes, transfixed. The 
 Dementor looms closer and closer, when... 
@@ -2367,8 +2085,7 @@ subdued, remains behind. At the doorway, Lupin glances
 back, exchanges a private glance with him. As he exits, 
 the WARDROBE gives one last RATTLE. 
 
-50 EXT. CLOCK TOWER COURTYARD - MORNING (TWO WEEKS LATER) 50 
-
+EXT. CLOCK TOWER COURTYARD - MORNING (TWO WEEKS LATER) 
 A great buzzing queue of STUDENTS -- Third Years and 
 older -- each clutching a PERMISSION FORM -- pass by a 
 glowering Filch. 
@@ -2397,12 +2114,6 @@ the Village. That's the rule,
 
 Potter. 
 
-(CONTINUED) 
-
-
-42. 
-
-50 CONTINUED: 50 
 HARRY 
 Yes, Professor, but I thought if 
 you said I could go -PROFESSOR 
@@ -2421,15 +2132,15 @@ them go.
 So. 
 PROFESSOR LUPIN (O.S.) 
 No Hogsmeade, eh ? 
-51 
+
 thru 
-54 
-OMITTED 51 
+
+OMITTED 
 thru 
-54 
-55 EXT. BRIDGE (HOGWARTS GROUNDS) - MORNING (MOMENTS 
+
+EXT. BRIDGE (HOGWARTS GROUNDS) - MORNING (MOMENTS 
 LATER) 
-55 
+
 Deep in the distance, some BOYS skate about on brooms, 
 tossing a RAGGED QUAFFLE back and forth. CAMERA TILTS. 
 FINDS Harry and Lupin walking along the bridge. 
@@ -2448,12 +2159,6 @@ smoke at the ears. And Zonko's
 Joke Shop may be dangerous, but 
 you can't beat their Stink 
 Pellets. 
-(CONTINUED) 
-
-
-43. 
-
-55 CONTINUED: 55 
 
 HARRY 
 
@@ -2490,7 +2195,7 @@ But then, I remembered that night
 on the train... and the 
 Dementors...
 
- (CONTINUED) 
+ 
 
 PROFESSOR LUPIN 
 Well, well. I'm impressed. That 
@@ -2511,13 +2216,6 @@ I think it was my mother. The
 night she was murdered. 
 
 Harry looks up. Finds Lupin studying him. 
-
-(CONTINUED) 
-
-
-44. 
-
-55 CONTINUED: (2) 55 
 
 PROFESSOR LUPIN 
 
@@ -2586,8 +2284,7 @@ That's how they'd want to be
 
 remembered. 
 
-56 INT. GREAT HALL - EVENING (LATER) 56 
-
+INT. GREAT HALL - EVENING (LATER) 
 The Hall buzzes with tales of Hogsmeade, as students swap 
 stories, sample sweets, and send SOAP BUBBLES of all 
 shapes, sizes and colors into the air. A MARIONETTE of a 
@@ -2597,16 +2294,9 @@ from Neville's fingertips. Seamus passes his hand
 through the light beams and -- FLUMPH! -- the Harlequin 
 collapses. 
 
-(CONTINUED) 
-
-
-45. 
-
-56 CONTINUED: 56 
-
 HERMIONE 
 And the post office! It's about 
-200 owls, all sitting on color-
+owls, all sitting on color-
 coded shelves, depending on how 
 fast you want your letter to go! 
 
@@ -2658,13 +2348,6 @@ can't hurt.
 
 With that, Harry pops a PEPPER IMP into his mouth. 
 
-(CONTINUED) 
-
-
-46. 
-
-56 CONTINUED: (2) 56 
-
 RON 
 Oh, careful of those, they'll make 
 your... 
@@ -2674,7 +2357,7 @@ On cue, SMOKE CURLS from Harry's ears and nose.
 RON 
 Never mind. 
 
-57 INT. MOVING STAIRCASE/SEVENTH FLOOR CORRIDOR - NIGHT 57 
+INT. MOVING STAIRCASE/SEVENTH FLOOR CORRIDOR - NIGHT 
 (LATER) 
 
 As Harry, Ron, and Hermione climb the stairs, they find a 
@@ -2709,7 +2392,6 @@ the second floor again.
 GINNY 
 No. You don't understand -
 
-
 Hermione GASPS. GRABS Harry's arm. He looks. SEES: 
 The Fat Lady's portrait has been SLASHED VICIOUSLY, great 
 strips of canvas hanging from the frame. Just then, 
@@ -2719,13 +2401,6 @@ DUMBLEDORE
 Mr. Filch. Round up the ghosts. 
 Tell them to search every painting 
 in the castle for the Fat Lady. 
-
-(CONTINUED) 
-
-
-47. 
-
-57 CONTINUED: 57 
 
 Just then, there is a SCREAM. The students dash to the 
 landing, where all THE PAINTINGS WHISPER FEARFULLY. 
@@ -2767,34 +2442,23 @@ Secure the castle, Mr. Filch. The
 
 rest of you... to the Great Hall. 
 
-58 MONTAGE - SECURING THE CASTLE - NIGHT 58 
-
+MONTAGE - SECURING THE CASTLE - NIGHT 
 CLOCK TOWER DOOR: Great GROANING TUMBLERS fall. 
 SPINDLES rotate. CYLINDERS -- one after another --fire 
 into place. 
 
 WINDOWS: Iron SPIKES, sharp as razors, rise instantly. 
 
-59 OMITTED 59 
-
-60 EXT. HOGWARTS CASTLE - CONTINUOUS ACTION - NIGHT 60 
-
+OMITTED 
+EXT. HOGWARTS CASTLE - CONTINUOUS ACTION - NIGHT 
 One by one, deep in the distance, the LIGHTS of the Great 
 Hall go out. Dementors appear, COVERING FRAME, then 
 separate like a curtain... 
 
-61 INT. GREAT HALL - NIGHT (HOURS LATER) 61 
-
+INT. GREAT HALL - NIGHT (HOURS LATER) 
 CAMERA DRIFTS THROUGH the silent room, OVER an ocean of 
 SLEEPING BAGS, FINDS Harry lying awake, staring at the 
 net of stars glimmering beyond the highest window. 
-
-(CONTINUED) 
-
-
-48. 
-
-61 CONTINUED: 61 
 
 A gentle CREAK is heard and Harry's eyes shift, see Snape 
 pass through the great doors, converge with Dumbledore. 
@@ -2823,7 +2487,6 @@ You may recall, prior to the start
 of term, I did express my concerns 
 when you appointed Professor -
 
-
 DUMBLEDORE 
 I do not believe a single 
 professor inside this castle 
@@ -2848,17 +2511,9 @@ It's astonishing what the body can
 endure when the mind allows itself 
 to rest. 
 
-62 EXT. HOGWARTS CASTLE - DAY 62 
-
+EXT. HOGWARTS CASTLE - DAY 
 The Whomping Willow idly casts off a few withering 
 leaves. 
-
-(CONTINUED) 
-
-
-49. 
-
-62 CONTINUED: 62 
 
 SIR CADOGAN (V.O.) 
 
@@ -2866,8 +2521,7 @@ What villains are these that
 
 trespass upon my private lands! 
 
-63 INT. GRYFFINDOR COMMON ROOM - MORNING 63 
-
+INT. GRYFFINDOR COMMON ROOM - MORNING 
 The Fat Lady has been replaced by a PAINTING of a TINY 
 KNIGHT (SIR CADOGAN). Stalking a bare stretch of grass 
 as his PONY grazes nearby, he brandishes his sword wildly 
@@ -2923,22 +2577,13 @@ Yeah, we'll call you... if we ever
 
 need someone mental. 
 
-64 OMITTED 64 
-
-65 INT. LUPIN'S CLASSROOM - MORNING (LATER) 65 
-
+OMITTED 
+INT. LUPIN'S CLASSROOM - MORNING (LATER) 
 SNAP! Snape PULLS DOWN a SCREEN over the blackboard, 
 turns. 
 
-(CONTINUED) 
-
-
-50. 
-
-65 CONTINUED: 65 
-
 SNAPE 
-Turn to page 394. 
+Turn to page 
 
 As the students eye Snape with guarded curiosity, Malfoy 
 finishes SCRAWLING something on a bit of PARCHMENT and 
@@ -2954,7 +2599,7 @@ That's not really your concern, is
 it, Potter? Suffice it to say, 
 your Professor finds himself 
 incapable of teaching at the 
-present time. Page 394. 
+present time. Page 
 
 Snape waves the MOTH away, blows out a candle and a SLIDE 
 SHOW BEGINS. An ANCIENT WOODCUT of a HORRIFIC BEAST 
@@ -2970,7 +2615,6 @@ learning about Red Caps and
 Hinkypunks. We're not meant to 
 start nocturnal beasts for 
 weeks -
-
 
 SNAPE 
 Quiet! 
@@ -2989,13 +2633,6 @@ a werewolf?
 As the class stares mutely at a SLIDE of an ATTACKING 
 WEREWOLF, Hermione waiting desperately for someone to 
 respond to Snape's question, the moth flutters by Harry. 
-
-(CONTINUED) 
-
-
-51. 
-
-65 CONTINUED: (2) 65 
 
 SWAT! He pins it to his desk. A tiny cloud of moth dust 
 mushrooms into the air and Harry lifts his palm. 
@@ -3053,13 +2690,6 @@ weekend then you do as an artist.
 
 (MORE) 
 
-(CONTINUED) 
-
-
-52. 
-
-65 CONTINUED: (3) 65 
-
 SNAPE (CONT'D) 
 If not, I fear you'll perish, 
 given the weather forecast. Until 
@@ -3073,13 +2703,13 @@ and PIKE. Harry glances down at the drawing once more
 and we hear a true RUMBLE of THUNDER and -CUT 
 TO: 
 ... a STITCH OF LIGHTNING... 
-66 
-& 
-67 
-OMITTED 66 
-& 
-67 
-68 EXT. QUIDDITCH PITCH - A STITCH OF LIGHTNING - DAY 68 
+
+&amp; 
+
+OMITTED 
+&amp; 
+
+EXT. QUIDDITCH PITCH - A STITCH OF LIGHTNING - DAY 
 as it strikes one of the GOLDEN QUIDDITCH RINGS and the 
 clouds bloom with ICY BLUE light. Far below, in the 
 stands, RAIN lashes the SEA OF UMBRELLAS. As one flies 
@@ -3097,12 +2727,6 @@ second ROCKETS DIRECTLY AT HIM.
 SWOOP! -- Harry ducks, watches the BLUDGER SHATTER the 
 BROOM of a HUFFLEPUFF BEATER. The Beater goes into a 
 wild spiral, vanishes in the mist. 
-(CONTINUED) 
-
-
-53. 
-
-68 CONTINUED: 68 
 
 IN THE STANDS 
 
@@ -3155,13 +2779,6 @@ Come on! Faster!
 The trace of a smile forms on Harry's lips as he closes 
 on the Snitch... only yards away... reaching out... 
 when... 
-
-(CONTINUED) 
-
-
-54. 
-
-68 CONTINUED: (2) 68 
 
 ... a THIN GLAZE of ICE clouds his GLASSES. He wipes at 
 them, then flinches: BLOOD trickles down his cheek. The 
@@ -3216,13 +2833,6 @@ Not a sound. For the longest time. Then... VOICES:
 RON 
 Looks a bit peaky, doesn't he? 
 
-(CONTINUED) 
-
-
-55. 
-
-68 CONTINUED: (3) 68 
-
 FRED 
 Peaky? What d'you expect him to 
 look like? He fell fifty feet. 
@@ -3243,8 +2853,7 @@ in the hospital wing.
 HERMIONE 
 Harry! How're you feeling? 
 
-69 INT. HOSPITAL WING - DAY 69 
-
+INT. HOSPITAL WING - DAY 
 As Harry edges up against his pillow, we see a NURSE in 
 the b.g., removing the SPOKES of an umbrella from a 
 Hufflepuff player's neck. Harry doesn't look so good 
@@ -3275,13 +2884,6 @@ the grounds. Dumbledore was
 furious. After he saved you, he 
 sent them straight off. 
 
-(CONTINUED) 
-
-
-56. 
-
-69 CONTINUED: 69 
-
 Harry nods grimly, stares at the RAIN LASHING the window. 
 
 RON 
@@ -3303,8 +2905,7 @@ I'm sorry about your broom, Harry.
 
 There's no chance of fixing it? 
 
-70 EXT. BLACK LAKE - LATE AFTERNOON 70 
-
+EXT. BLACK LAKE - LATE AFTERNOON 
 Harry shakes his head in response to Lupin's question, 
 then -- WHOOSH! -- sets Hedwig free of her traces. As 
 she soars into the sky, Harry and Lupin watch from the 
@@ -3353,12 +2954,6 @@ I'd consider you a fool if you
 
 weren't. 
 
-(CONTINUED) 
-
-
-57. 
-
-70 CONTINUED: 70 
 HARRY 
 I need to learn how to fight them. 
 You could teach me, Professor. 
@@ -3383,25 +2978,18 @@ PROFESSOR LUPIN
 Harry looks up, watches Hedwig pinwheel through the blue, 
 past the CLOCK TOWER and EXIT FRAME. CAMERA HOLDS, the 
 skies PALES, and SNOW begins to fall. We TILT DOWN... 
-70A EXT. HOGWARTS CASTLE - DAY (WEEKS LATER) 70A 
+EXT. HOGWARTS CASTLE - DAY (WEEKS LATER) 
 ... to Hogwarts castle, weeks later, dusted in white. 
-71 EXT./INT. CLOCK TOWER - DAY 71 
+EXT./INT. CLOCK TOWER - DAY 
 Harry, framed in the window, stares out, looking forlorn. 
 In REFLECTION, SNOW falls on the glass. 
 HARRY'S POV 
 A ragged line of students follows McGonagall toward the 
 bridge. Harry's POV becomes OBJECTIVE and... 
-72 EXT. CLOCK TOWER COURTYARD - DAY 72 
-
+EXT. CLOCK TOWER COURTYARD - DAY 
 ... FOOTPRINTS appear in the snow, moving quickly to join 
 the other students. 
 
-(CONTINUED) 
-
-
-58. 
-
-72 CONTINUED: 72 
 Suddenly, Fred and George appear, heading the opposite 
 way and... the FOOTPRINTS reverse themselves... as if 
 Fred and George were escorting an invisible person. 
@@ -3411,7 +2999,7 @@ GEORGE
 But not clever enough. 
 FRED 
 Besides, we've got a better way. 
-73 INT. ENTRANCE HALL - DAY (MOMENTS LATER) 73 
+INT. ENTRANCE HALL - DAY (MOMENTS LATER) 
 The great doors open and Fred and George enter. The 
 INVISIBILITY CLOAK drops and Harry is revealed, looking 
 cross. Instantly, Fred slaps a WORN ROLL OF PARCHMENT 
@@ -3441,12 +3029,6 @@ The Marauder's Map'...?
 GEORGE 
 Ah... Moony, Wormtail, Padfoot and 
 Prongs. We owe them so much. 
-(CONTINUED) 
-
-
-59. 
-
-73 CONTINUED: 73 
 
 HARRY 
 
@@ -3507,13 +3089,6 @@ out of the castle. But we'd
 
 recommend... 
 
-(CONTINUED) 
-
-
-60. 
-
-73 CONTINUED: (2) 73 
-
 FRED/GEORGE 
 This one. 
 
@@ -3542,8 +3117,7 @@ and say, 'Mischief managed.'
 
 Otherwise, anyone can read it. 
 
-74 INT. DIVINATION STAIRWELL - DAY (MOMENTS LATER) 74 
-
+INT. DIVINATION STAIRWELL - DAY (MOMENTS LATER) 
 Harry approaches a STATUE of a hump-backed, ONE-EYED 
 WITCH. 
 
@@ -3559,8 +3133,7 @@ revealing a DARK OPENING in the floor. As Harry
 crouches, squinting, a cool DRAFT OF AIR ruffles his hair 
 and the CAMERA DRIFTS INTO the DARKNESS... 
 
-75 INT. UNDERGROUND PASSAGEWAY - DAY (LATER) 75 
-
+INT. UNDERGROUND PASSAGEWAY - DAY (LATER) 
 A tiny LIGHT bobs in the distance, fracturing the 
 darkness, then Harry appears, the tip of his wand 
 GLOWING, map in hand. INSERT MAP: "Harry Potter" glides 
@@ -3573,10 +3146,7 @@ Harry stops, cranes his neck. STONE STEPS. Taps the map.
 HARRY 
 Mischief managed. 
 
-
-61. 
-
-76 INT. HONEYDUKE'S SWEETSHOP - CELLAR - SAME TIME - DAY 76 
+INT. HONEYDUKE'S SWEETSHOP - CELLAR - SAME TIME - DAY 
 CRATES. HUGE ROLLING BINS. A WOOD STAIRCASE. A 
 trapdoor lifts. Harry's eyes appear. As he pulls 
 himself up, a DOOR BANGS OPEN. Dense CHATTER ROARS from 
@@ -3587,19 +3157,19 @@ A box of Jelly Slugs as well,
 Horace. We're nearly cleared out. 
 HORACE grunts, begins moving boxes. Harry looks up to 
 the cellar door, takes out the invisibility cloak... 
-77 INT. HONEYDUKE'S SWEETSHOP - SAME TIME - DAY 77 
+INT. HONEYDUKE'S SWEETSHOP - SAME TIME - DAY 
 The CELLAR DOOR EASES open -- but no one appears. We 
 TRACK THROUGH a sweet tooth's dream, SWARMING with 
 customers. Up ahead, Neville prepares to lick the 
 LOLLIPOP in his hand, when it simply floats from his 
 fingers and out the door... 
-78 EXT. MAIN STREET (HOGSMEADE VILLAGE) - CONTINUOUS 
+EXT. MAIN STREET (HOGSMEADE VILLAGE) - CONTINUOUS 
 ACTION - DAY 
-78 
+
 ... into the MISTY, FOG-SHROUDED chaos of Main Street. 
 As the lollipop drifts on, FOOTPRINTS appear in the snow 
 below... 
-79 EXT. SHRIEKING SHACK - DAY (LATER) 79 
+EXT. SHRIEKING SHACK - DAY (LATER) 
 At this elevation, the MIST hangs in thick, undulating 
 veils, the Shrieking Shack an eerie silhouette in the 
 gloom. Ron and Hermione stand stiffly, attempting, as 
@@ -3616,12 +3186,6 @@ Should we move a bit closer?
 Huh? 
 RON 
 Oh... All right... 
-(CONTINUED) 
-
-
-62. 
-
-79 CONTINUED: 79 
 
 They take a step. One step. Stop dead. 
 
@@ -3663,7 +3227,6 @@ DRACO
 How dare you speak to me, you 
 filthy, little mud -
 
-
 SPLAT! Malfoy takes a SNOWBALL to the grill. Splutters: 
 
 DRACO 
@@ -3675,13 +3238,6 @@ about uneasily.
 
 DRACO 
 Well, don't just stand there! 
-
-(CONTINUED) 
-
-
-63. 
-
-79 CONTINUED: (2) 79 
 
 Crabbe and Goyle start for Ron and Hermione, when -FLUMPH! 
 -- their knees go out and they fall headfirst 
@@ -3721,10 +3277,9 @@ funny!
 But he's smiling. They all are. As he and Hermione pelt 
 Harry with SNOWBALLS, we -
 
-
 CUT TO: 
 
-80 EXT. MAIN STREET (HOGSMEADE VILLAGE) - DAY (MOMENTS 80 
+EXT. MAIN STREET (HOGSMEADE VILLAGE) - DAY (MOMENTS 
 LATER) 
 
 The trio trudge through the SWIRLING SNOW. Harry's 
@@ -3745,13 +3300,6 @@ He's going to turn it over to
 
 Professor McGonagall, aren't you? 
 
-(CONTINUED) 
-
-
-64. 
-
-80 CONTINUED: 80 
-
 RON 
 
 Oh sure. Along with his 
@@ -3759,7 +3307,6 @@ Oh sure. Along with his
 invisibility cloak, his pack of 
 
 exploding snap cards, his -
-
 
 HERMIONE 
 Oh, shut up. 
@@ -3813,23 +3360,11 @@ Harry Potter.
 MADAM ROSMERTA 
 Harry Potter! 
 
-(CONTINUED) 
-
-
-65. 
-
-81 
-
-82 
-
-CONTINUED: (2) 80 
-
 Fudge looks around nervously, then jerks his head toward 
 
 the pub. As he leads Rosmerta and McGonagall inside, 
 
 we -
-
 
 CUT BACK TO: 
 
@@ -3840,7 +3375,7 @@ Harry?
 
 He's gone. FOOTPRINTS track through the snow, into the pub. 
 
-INT. THREE BROOMSTICKS PUB - HARRY'S POV FROM UNDER THE 81 
+INT. THREE BROOMSTICKS PUB - HARRY'S POV FROM UNDER THE 
 INVISIBILITY CLOAK - DAY (MOMENTS LATER) 
 
 ... as he THREADS THROUGH the teeming pub, PAST a SIGN 
@@ -3853,7 +3388,7 @@ briefly past a frosted window, then... THREE SHRUNKEN
 
 HEADS swing INTO VIEW. 
 
-SHRUNKEN HEAD #1 
+SHRUNKEN HEAD #
 So I says to him, 'Careful, Ned. 
 Don't want to go losing your head!' 
 
@@ -3879,8 +3414,7 @@ Too late. CAMERA TILTS. The KNOB turns, the door
 
 opens... 
 
-INT. THREE BROOMSTICKS PUB - CARD ROOM - DAY 82 
-
+INT. THREE BROOMSTICKS PUB - CARD ROOM - DAY 
 ... and SNOW flutters off the sill of a HALF-OPEN WINDOW. 
 
 McGonagall turns, frowning, and re-closes the door, 
@@ -3891,13 +3425,6 @@ POV SHIFTS FROM one TO the other as they speak.
 
 MADAM ROSMERTA 
 Come on then. Let's hear it. 
-
-(CONTINUED) 
-
-
-66. 
-
-82 CONTINUED: 82 
 
 PROFESSOR McGONAGALL 
 
@@ -3982,13 +3509,6 @@ wants to finish what he started.
 MADAM ROSMERTA 
 Harry. 
 
-(CONTINUED) 
-
-
-67. 
-
-82 CONTINUED: (2) 82 
-
 McGonagall nods, then looks pained. 
 
 CORNELIUS FUDGE 
@@ -4009,7 +3529,7 @@ BLAM! The pub doors fly open, REVEAL Main Street, where
 Ron and Hermione wait, rubbing their hands against the 
 chill. As they look down, CAMERA TILTS... 
 
-83 EXT. MAIN STREET (HOGSMEADE VILLAGE) - MOMENTS LATER -83 
+EXT. MAIN STREET (HOGSMEADE VILLAGE) - MOMENTS LATER -
 DAY 
 
 ... and FOOTPRINTS appear in the snow. HARRY'S POV ENDS. 
@@ -4017,8 +3537,7 @@ CAMERA TILTS UP, FOLLOWS Hermione and Ron until they
 LEAVE FRAME, then HOLDS ON a POSTER of BLACK, fluttering 
 against a lamppost: "Have you seen this wizard?" 
 
-84 EXT. OUTSKIRTS OF TOWN - DAY (MOMENTS LATER) 84 
-
+EXT. OUTSKIRTS OF TOWN - DAY (MOMENTS LATER) 
 At the end of a ROCKY OUTCROP, the FOOTPRINTS end and 
 SOBS are heard. Ron takes Hermione's arm, discouraging 
 her from going further, but she does, filling the 
@@ -4042,18 +3561,13 @@ does, I'm going to be ready. When
 
 he does, I'm going to kill him. 
 
-85 EXT. HOGWARTS CASTLE - DUSK (TRANSITION TO SPRING) 85 
-
+EXT. HOGWARTS CASTLE - DUSK (TRANSITION TO SPRING) 
 Butterflies flutter over the great green lawn. The GIANT 
 SQUID breaks through the last GLAZE of ICE on the Black 
 Lake. The Whomping Willow shakes the water from its 
 branches... 
 
-
-68. 
-
-86 INT. ASTRONOMY ROOM - DUSK 86 
-
+INT. ASTRONOMY ROOM - DUSK 
 The DYING SUN streams through high windows, painting 
 Harry's face a fierce AMBER-RED as he stands opposite 
 Lupin. ANCIENT CHARTS drape the walls while gleaming 
@@ -4108,13 +3622,6 @@ wand...
 HARRY 
 Expecto Patronum... 
 
-(CONTINUED) 
-
-
-69. 
-
-86 CONTINUED: 86 
-
 PROFESSOR LUPIN 
 Right then. Shall we? 
 
@@ -4168,13 +3675,6 @@ out of interest, what were you
 thinking of? What memory did you 
 choose? 
 
-(CONTINUED) 
-
-
-70. 
-
-86 CONTINUED: (2) 86 
-
 HARRY 
 The first time I rode a broom. 
 
@@ -4204,7 +3704,6 @@ himself.
 PROFESSOR LUPIN 
 Think, Harry, think -
 
-
 HARRY 
 Just do it! 
 
@@ -4229,13 +3728,6 @@ CRACK! The Dementor vanishes. Harry's arm drops.
 Slack. Lupin eyes Harry with a kind of awe. His voice 
 barely a WHISPER. 
 
-(CONTINUED) 
-
-
-71. 
-
-86 CONTINUED: (3) 86 
-
 Well done. 
 PROFESSOR LUPIN 
 HARRY 
@@ -4258,33 +3750,27 @@ don't even know if it's real...
 Harry grips the door, pushes past. 
 HARRY 
 But it's the best I have. 
-87 INT. TOWER DORMITORY - NIGHT 87 
+INT. TOWER DORMITORY - NIGHT 
 All the boys asleep. 
 All except Harry, who lies in bed, studying the photo of 
 his parents, barely visible in the fluttering light of a 
 guttering candle. As the FLAME DIES with a soft HISS, 
 all goes BLACK and we -CUT 
 TO: 
-88 EXT. HOGWARTS CASTLE - NIGHT (LATER) 88 
+EXT. HOGWARTS CASTLE - NIGHT (LATER) 
 A hulking, haunted goliath against the sky. 
-89 EXT. COURTYARD - NIGHT 89 
+EXT. COURTYARD - NIGHT 
 A cautious breeze rises. Leaves scud across the gravel. 
-90 INT. GREAT HALL - NIGHT 90 
-
+INT. GREAT HALL - NIGHT 
 A church. Empty. Silent. 
 
-
-72. 
-
-91 INT. SEVENTH FLOOR CORRIDOR - NIGHT 91 
-
+INT. SEVENTH FLOOR CORRIDOR - NIGHT 
 A WINDOWPANE RATTLES, up high, the corridor thatched in 
 shadow. Slowly... CAMERA BEGINS TO MOVE. CREEPING 
 FORWARD. A SHADOW ENGULFS Sir Cadogan, dozing against 
 his tree... 
 
-92 INT. TOWER DORMITORY - NIGHT (MOMENTS LATER) 92 
-
+INT. TOWER DORMITORY - NIGHT (MOMENTS LATER) 
 A WHISTLE SHRIEKS. The Sneakoscope, whirling madly, 
 skitters across the bedside cabinet and -- CLICK! CLICK! 
 CLICK! -- taps against a WATER GLASS, sending shafts of 
@@ -4313,12 +3799,12 @@ Crookshanks. Seizing the moment, the SILHOUETTE grasps
 the curtains and swings through the open window, plunging 
 into the night. Harry rushes to the window, looks down. 
 
-92A EXT. GRYFFINDOR TOWER - CONTINUOUS ACTION - NIGHT 92A 
+EXT. GRYFFINDOR TOWER - CONTINUOUS ACTION - NIGHT 
 
 The SILHOUETTE leaps from ledge to ledge with an animal's 
 grace, then... vanishes. 
 
-92B INT. TOWER DORMITORY - CONTINUOUS ACTION - NIGHT 92B 
+INT. TOWER DORMITORY - CONTINUOUS ACTION - NIGHT 
 
 Harry sweeps Ron's curtains aside. His bed is... empty. 
 
@@ -4331,11 +3817,7 @@ his head out from under the bed.
 RON 
 Is he gone? 
 
-
-73. 
-
-93 INT. GRYFFINDOR COMMON ROOM - NIGHT (LATER) 93 
-
+INT. GRYFFINDOR COMMON ROOM - NIGHT (LATER) 
 The entire Gryffindor House, in pajamas, stand before 
 McGonagall, who wears a TARTAN ROBE and an expression of 
 singular irritation. 
@@ -4390,12 +3872,6 @@ PROFESSOR McGONAGALL
 Is it always going to be you, 
 Longbottom? 
 
-(CONTINUED) 
-
-
-74. 
-
-93 CONTINUED: 93 
 NEVILLE 
 I'm afraid so, ma'am. 
 PROFESSOR McGONAGALL 
@@ -4420,13 +3896,13 @@ Hermione turns, sees Harry staring out the window.
 HARRY 
 He was right there. Close enough to touch. 
 I could've killed him. 
-94 
+
 thru 
-96 
-OMITTED 94 
+
+OMITTED 
 thru 
-96 
-96A EXT. SLOPE - DAY 96A 
+
+EXT. SLOPE - DAY 
 The trio make their way down the slope. 
 RON 
 I find it astonishing that someone 
@@ -4439,12 +3915,6 @@ absolutely no proof whatsoever
 that my sweet, unassuming cat ate 
 his shabby, decidedly decrepit 
 rat. 
-(CONTINUED) 
-
-
-75. 
-
-96A CONTINUED: 96A 
 
 RON 
 
@@ -4482,8 +3952,7 @@ Ron stops, wishes he could take it back. They all wish
 he could. Avoiding each other's eyes, they turn, 
 continue on. 
 
-97 EXT. BLACK LAKE - DAY (MOMENTS LATER) 97 
-
+EXT. BLACK LAKE - DAY (MOMENTS LATER) 
 Hagrid, wearing a GIGANTIC, HAIRY BROWN SUIT and perhaps 
 the world's ugliest YELLOW AND ORANGE TIE, stands knee-
 deep in the shallows of the Black Lake, skimming rocks as 
@@ -4522,13 +3991,6 @@ no teacher in their righ' mind
 
 would expose their students to... 
 
-(CONTINUED) 
-
-
-76. 
-
-97 CONTINUED: 97 
-
 HERMIONE 
 (dreading it) 
 And...? 
@@ -4559,13 +4021,11 @@ Lucius Malfoy did. An' the
 Committee granted it. Buckbeak's 
 bin sentenced ter death. 
 
-98 EXT. HOGWARTS CASTLE - NIGHT 98 
-
+EXT. HOGWARTS CASTLE - NIGHT 
 Dark. Ominous. Dementors drift in the distance. 
 Restless... 
 
-99 INT. TOWER DORMITORY - NIGHT 99 
-
+INT. TOWER DORMITORY - NIGHT 
 Silent. A room of shadows. While those around him 
 slumber, Harry lies awake, unable to sleep. Finally, he 
 turns to his cupboard, takes the Marauder's Map. 
@@ -4580,11 +4040,7 @@ Hogwarts radiate across the parchment, then... a TINY DOT
 catches Harry's eye. He frowns. It reads: "Peter 
 Pettigrew." 
 
-
-77. 
-
-100 INT. CORRIDOR - NIGHT (MOMENTS LATER) 100 
-
+INT. CORRIDOR - NIGHT (MOMENTS LATER) 
 Harry moves down a DARK corridor, map in hand, WAND 
 
 AGLOW. In the PAINTINGS he passes, the subjects SNORE 
@@ -4638,19 +4094,11 @@ I was... I was... sleepwalking...
 
 A sneer curdles the corners of Snape's lips. 
 
-(CONTINUED) 
-
-
-78. 
-
-100 CONTINUED: 100 
-
 SNAPE 
 How extraordinarily like your 
 father you are, Potter. He, too, 
 was exceedingly arrogant. 
 Strutting about the castle -
-
 
 HARRY 
 My dad didn’t strut. Nor do I. 
@@ -4697,12 +4145,6 @@ to Professor Snape and...'
 SNAPE 
 Go on. 
 
-(CONTINUED) 
-
-
-79. 
-
-100 CONTINUED: (2) 100 
 HARRY 
 '... and request that he keep his 
 abnormally large nose out of other 
@@ -4738,15 +4180,9 @@ product. Nevertheless, I shall
 pursue any hidden qualities it may 
 possess. As you say, it's my area 
 of expertise. Come, Harry. 
-101 INT. CORRIDOR/LUPIN'S OFFICE - EVENING (MOMENTS LATER) 101 
+INT. CORRIDOR/LUPIN'S OFFICE - EVENING (MOMENTS LATER) 
 Harry walks aside a fuming Lupin, who grips the map 
 fiercely. 
-(CONTINUED) 
-
-
-80. 
-
-101 CONTINUED: 101 
 
 PROFESSOR LUPIN 
 I don't know how this map came to 
@@ -4804,13 +4240,6 @@ If you do. I'll know.
 
 CUT TO: 
 
-(CONTINUED) 
-
-
-81. 
-
-101 CONTINUED: (2) 101 
-
 CLOSEUP - CRYSTAL BALL 
 
 murky with smoke. 
@@ -4818,8 +4247,7 @@ murky with smoke.
 PROFESSOR TRELAWNEY (V.O.) 
 Relax... Let your mind... go... 
 
-102 INT. DIVINATION CLASSROOM - MORNING 102 
-
+INT. DIVINATION CLASSROOM - MORNING 
 The students gaze into CRYSTAL BALLS, faces reflecting 
 the mist within, so that their very skin seems to be made 
 of smoke. 
@@ -4888,10 +4316,7 @@ On these occasions, I take no joy
 
 in my gift, Miss Brown. 
 
-
-82. 
-
-102A EXT. DIVINATION CLASSROOM - MORNING (LATER) 102A 
+EXT. DIVINATION CLASSROOM - MORNING (LATER) 
 
 As the students exit, Ron, walking separately from Harry, 
 turns to Neville. 
@@ -4910,7 +4335,7 @@ Ron stops, glances at Harry, then moves off. Harry
 watches him go, along with the others, then spies 
 Hermione's crystal ball lying on the landing. 
 
-102B INT. DIVINATION CLASSROOM - DAY (MOMENTS LATER) 102B 
+INT. DIVINATION CLASSROOM - DAY (MOMENTS LATER) 
 
 Harry sets Hermione's crystal back on its stand, starts 
 to go, when... the SMOKE within the crystal suddenly 
@@ -4923,7 +4348,6 @@ finds...
 
 HARRY 
 Professor Trelawney -
-
 
 PROFESSOR TRELAWNEY 
 He will return tonight.... 
@@ -4958,23 +4382,17 @@ Her voice is normal once more. Harry shakes his head.
 HARRY 
 No. Nothing. 
 
-
-83. 
-
-103 INT. DIVINATION STAIRWELL - DAY (MOMENTS LATER) 103 
-
+INT. DIVINATION STAIRWELL - DAY (MOMENTS LATER) 
 Harry -- clearly unsettled by his encounter with 
 Trelawney -- hastens down the stairs, and we... 
 
 FADE OUT. 
 
-104 INT. CLOCKTOWER COURTYARD - DAY (LATER) 104 
-
+INT. CLOCKTOWER COURTYARD - DAY (LATER) 
 SWOOK! SWOOK! We FADE UP ON a MOVING POV OF a CROW as 
 it glides to the flock circling the feet of a POT-BELLIED 
 MAN (THE EXECUTIONER) sitting in the courtyard. As he 
 sharpens his AXE -- SWOOK! SWOOK! -- we -
-
 
 CUT TO: 
 
@@ -4982,11 +4400,9 @@ HARRY, RON AND HERMIONE
 
 hurrying past. The Executioner looks up and we -
 
-
 CUT TO: 
 
-105 EXT. HOGWARTS CASTLE - BRIDGE - LATE AFTERNOON 105 
-
+EXT. HOGWARTS CASTLE - BRIDGE - LATE AFTERNOON 
 ... Harry, leading Ron and Hermione toward Hagrid's hut. 
 
 HERMIONE 
@@ -4998,7 +4414,7 @@ It just got worse.
 
 She and Ron look and SEE: 
 
-106 EXT. SUNDIAL GARDEN - CONTINUOUS ACTION - LATE 106 
+EXT. SUNDIAL GARDEN - CONTINUOUS ACTION - LATE 
 AFTERNOON 
 
 Malfoy, along with Crabbe and Goyle, lurks within a 
@@ -5013,16 +4429,8 @@ blubbering oaf?! Oh, this is
 going to be rich. Did I tell you, 
 Father said I can keep the head -
 
-
 (looking up) 
 Ah. Come to see the show? 
-
-(CONTINUED) 
-
-
-84. 
-
-106 CONTINUED: 106 
 
 HERMIONE 
 
@@ -5050,14 +4458,13 @@ Crabbe and Goyle huffing and puffing behind.
 HERMIONE 
 That felt good. 
 
-107 EXT. SLOPE/PUMPKIN PATCH - LATE AFTERNOON (MOMENTS 107 
+EXT. SLOPE/PUMPKIN PATCH - LATE AFTERNOON (MOMENTS 
 LATER) 
 
 The trio makes their way down the slope and past 
 Buckbeak, chewing on a ferret with idle satisfaction. 
 
-108 INT. HAGRID'S HUT - LATER (LATE AFTERNOON/DUSK) 108 
-
+INT. HAGRID'S HUT - LATER (LATE AFTERNOON/DUSK) 
 Hagrid stands by the window watching Buckbeak. Harry and 
 Ron sit. Hermione makes tea. 
 
@@ -5087,13 +4494,6 @@ know. Says he wants ter be with
 me when it... when it happens. 
 
 Great man, Dumbledore. 
-
-(CONTINUED) 
-
-
-85. 
-
-108 CONTINUED: 108 
 
 HERMIONE 
 We'll stay with you too, Hagrid. 
@@ -5147,13 +4547,6 @@ with powder, emerges.
 RON 
 Scabbers! You're alive! 
 
-(CONTINUED) 
-
-
-86. 
-
-108 CONTINUED: (2) 108 
-
 HAGRID 
 
 Yeh should keep a closer eye on 
@@ -5205,7 +4598,6 @@ it'll be trouble! Big trouble!
 
 'Specially you, Harry -
 
-
 BANG! BANG! BANG! The door SHAKES. Hagrid stiffens in 
 fear. Harry reaches up, puts his finger to Hagrid's 
 trembling lips, speaks softly to the others. 
@@ -5213,18 +4605,11 @@ trembling lips, speaks softly to the others.
 HARRY 
 C'mon. 
 
-109 EXT. HAGRID'S HUT - PUMPKIN PATCH - WIDE SHOT - DUSK 109 
+EXT. HAGRID'S HUT - PUMPKIN PATCH - WIDE SHOT - DUSK 
 (MOMENTS LATER) 
 
 As the trio exit through the back door, Fudge, Dumbledore 
 and the Executioner enter through the front. 
-
-(CONTINUED) 
-
-
-87. 
-
-109 CONTINUED: 109 
 
 A veil of crows flutters onto the roof. More drop into 
 the patch, begin to slowly circle Buckbeak. 
@@ -5244,8 +4629,7 @@ Nothing, I just thought I saw...
 
 Never mind. 
 
-110 EXT. SUNDIAL GARDEN - DUSK (MOMENTS LATER) 110 
-
+EXT. SUNDIAL GARDEN - DUSK (MOMENTS LATER) 
 The trio slip silently into a stand of trees. Beyond 
 them, Hagrid's hut glimmers desolately in the dying sun. 
 High in the CLOCK TOWER, a BELL begins to TOLL. 
@@ -5281,13 +4665,6 @@ then drops from sight. A SICKENING CHOP! fouls the
 breeze and Ron and Harry stare toward the trees in numb 
 disbelief. Hermione, face turned away, trembles... 
 
-(CONTINUED) 
-
-
-88. 
-
-110 CONTINUED: 110 
-
 DING! 
 
 The SUN sets, dropping behind the mountains in the 
@@ -5316,12 +4693,12 @@ Ron! No!
 As Ron pelts after Scabbers, Harry and Hermione give 
 chase. 
 
-110A EXT. RIDGE - CONTINUOUS ACTION - DUSK 110A 
+EXT. RIDGE - CONTINUOUS ACTION - DUSK 
 
 Ron reaches the summit, disappears over the top. 
 Hermione and Harry follow. 
 
-110B EXT. WHOMPING WILLOW - CONTINUOUS ACTION - DUSK 110B 
+EXT. WHOMPING WILLOW - CONTINUOUS ACTION - DUSK 
 Harry and Hermione reach the top of the ridge. Stop. 
 HERMIONE 
 Harry. You do realize what tree 
@@ -5331,12 +4708,6 @@ RON
 Now behave yourself. 
 CAMERA PULLS BACK: Ron is kneeling under the Whomping 
 Willow. 
-(CONTINUED) 
-
-
-89. 
-
-110B CONTINUED: 110B 
 
 HARRY 
 That's not good. 
@@ -5364,7 +4735,6 @@ the ground.
 HERMIONE 
 I've got you -
 
-
 Hermione pitches herself onto Harry's feet... and the 
 three of them go scudding along. 
 
@@ -5391,13 +4761,6 @@ HARRY
 Nooooo!!! 
 
 But Ron closes his eyes, releases his hands fully, and... 
-
-(CONTINUED) 
-
-
-90. 
-
-110B CONTINUED: (2) 110B 
 
 Disappears. As his VOICE ECHOES deep into the earth... 
 
@@ -5453,11 +4816,7 @@ the branch in tandem -- the two boomerang back, hurtling
 toward the trunk of the tree, through the gap, and into 
 the darkness... 
 
-
-91. 
-
-111 INT. WILLOW ROOTS - TUNNEL - NIGHT (MOMENTS LATER) 111 
-
+INT. WILLOW ROOTS - TUNNEL - NIGHT (MOMENTS LATER) 
 ... below. OOMPH! Harry hits the ground hard. OOMPH! 
 Hermione falls on top of him. 
 
@@ -5479,7 +4838,7 @@ I have a hunch. I just hope I'm
 
 wrong... 
 
-111A INT. TUNNEL TO SHRIEKING SHACK - NIGHT 111A 
+INT. TUNNEL TO SHRIEKING SHACK - NIGHT 
 
 Harry and Hermione make their way through the primitive 
 passageway, ducking the roots that dangle overhead. 
@@ -5487,8 +4846,7 @@ Then, abruptly, the tunnel... ends. Confused, Harry and
 Hermione glance about, then -- as one -- peer up. A 
 small opening. Harry reaches up, hoists himself through. 
 
-112 INT. SHRIEKING SHACK - DECREPIT ROOM - NIGHT 112 
-
+INT. SHRIEKING SHACK - DECREPIT ROOM - NIGHT 
 Harry pulls Hermione up. Looks about. Paper peels from 
 the walls. Stains -- suspiciously similar to dried blood 
 -- blot the floorboards. Shattered furniture lies strewn 
@@ -5503,8 +4861,7 @@ aren't we?
 Harry doesn't answer, staring at the DOG PRINTS in the DUST 
 on the floor. The CEILING CREAKS. They dash to the stairs. 
 
-113 INT. HALLWAY - LANDING - NIGHT (SECONDS LATER) 113 
-
+INT. HALLWAY - LANDING - NIGHT (SECONDS LATER) 
 They come out, look down. A wide, shiny stripe cuts 
 through the DUST-LADEN floor -- as if something has been 
 dragged -- to the end of the hallway, where a LIGHT seeps 
@@ -5513,28 +4870,18 @@ from a door.
 HARRY 
 Nox. 
 
-(CONTINUED) 
-
-
-92. 
-
-113 CONTINUED: 113 
-
 His wand-light dies. Slowly, they step to the door. 
 Exchange a look. She nods, wand ready, and Harry KICKS 
 the door aside. 
 
-114 INT. UPSTAIRS ROOM - SAME TIME 114 
-
+INT. UPSTAIRS ROOM - SAME TIME 
 Ron sits upon a sagging bed, clutching his bloody foot. 
 
 HERMIONE 
 Ron! You're okay -
 
-
 HARRY 
 The dog -- where's the -
-
 
 RON 
 
@@ -5576,13 +4923,6 @@ Going to kill me, Harry?
 
 HARRY 
 Yes. 
-
-(CONTINUED) 
-
-
-93. 
-
-114 CONTINUED: 114 
 
 Harry raises his wand. BLAM! -- the DOOR CRASHES OPEN: 
 Lupin. 
@@ -5638,14 +4978,6 @@ do it alone.
 PROFESSOR LUPIN 
 Wait, Sirius -
 
-
-(CONTINUED) 
-
-
-94. 
-
-114 CONTINUED: (2) 114 
-
 SIRIUS BLACK 
 
 I did my waiting! Twelve years of 
@@ -5680,7 +5012,6 @@ betrayed James and Lily!
 
 PROFESSOR LUPIN 
 Harry! You've got to listen -
-
 
 HARRY 
 
@@ -5717,13 +5048,6 @@ What're you talking about?
 
 There's nobody here. 
 
-(CONTINUED) 
-
-
-95. 
-
-114 CONTINUED: (3) 114 
-
 SIRIUS BLACK 
 Oh yes there is... 
 
@@ -5759,7 +5083,6 @@ hoped I'd be the one to catch you.
 PROFESSOR LUPIN 
 Severus -
 
-
 SNAPE 
 I told Dumbledore you were helping 
 your old friend into the castle. 
@@ -5778,13 +5101,6 @@ Give me a reason. I beg you.
 
 PROFESSOR LUPIN 
 Don't be a fool, Severus! 
-
-(CONTINUED) 
-
-
-96. 
-
-114 CONTINUED: (4) 114 
 
 SIRIUS BLACK 
 He can't help it. It's habit by 
@@ -5842,13 +5158,6 @@ PROFESSOR LUPIN
 Pettigrew. He was at school with 
 us. We thought he was a friend. 
 
-(CONTINUED) 
-
-
-97. 
-
-114 CONTINUED: (5) 114 
-
 HARRY 
 No. Pettigrew's dead. He killed 
 him. 
@@ -5862,7 +5171,6 @@ Map.
 
 HARRY 
 The Map was lying then -
-
 
 SIRIUS BLACK 
 The Map never lies. Pettigrew's 
@@ -5879,7 +5187,6 @@ Not you, you idiot. Your rat.
 RON 
 Scabbers? Scabbers has been in my 
 family for -
-
 
 SIRIUS BLACK 
 
@@ -5899,19 +5206,11 @@ HARRY
 All they could find of Pettigrew 
 was his -
 
-
 SIRIUS BLACK 
 Finger. Dirty coward cut it off 
 so everyone would think he was 
 dead. Then he transformed into a 
 rat. 
-
-(CONTINUED) 
-
-
-98. 
-
-114 CONTINUED: (6) 114 
 
 Harry stares into Black's sunken eyes. Wanting to 
 believe. Desperate to believe. Glances at Ron, his 
@@ -5953,7 +5252,6 @@ just like your father. Like
 James. We were the best of 
 friends, he and I -
 
-
 SIRIUS BLACK 
 Shut up! 
 
@@ -5963,13 +5261,6 @@ you have no idea the weapons he
 possesses! Ask yourself what you 
 would have done, Sirius. What 
 would you have done! 
-
-(CONTINUED) 
-
-
-99. 
-
-114 CONTINUED: (7) 114 
 
 SIRIUS BLACK 
 Died! Died rather than betray my 
@@ -6015,21 +5306,14 @@ him to the castle.
 PETTIGREW 
 Bless you, boy! Bless you -
 
-
 HARRY 
 Get off! I said we'd take you to 
 the castle. After that, the 
 Dementors can have you. 
 
-115 OMITTED 115 
-& & 
-116 116 
-
-
-100. 
-
-117 EXT. WHOMPING WILLOW - NIGHT (LATER) 117 
-
+OMITTED 
+&amp; &amp; 
+EXT. WHOMPING WILLOW - NIGHT (LATER) 
 As Pettigrew emerges from the gap, he prattles 
 desperately: 
 
@@ -6085,13 +5369,6 @@ like Pettigrew. Besides: Dead,
 the truth dies with him. Alive... 
 you're free. 
 
-(CONTINUED) 
-
-
-101. 
-
-117 CONTINUED: 117 
-
 Sirius studies Harry's profile, moved by this. 
 
 SIRIUS BLACK 
@@ -6107,7 +5384,6 @@ And, well, I'll understand if you
 choose to stay with your aunt and 
 uncle, but, so you know, you 
 could -
-
 
 HARRY 
 Come live with you? When! 
@@ -6147,13 +5423,6 @@ You know the man you truly are,
 Remus. This flesh is only flesh. 
 
 (MORE) 
-
-(CONTINUED) 
-
-
-102. 
-
-117 CONTINUED: (2) 117 
 
 SIRIUS BLACK (CONT'Dpounding Lupin's
 
@@ -6210,13 +5479,6 @@ into the tall grass. As it charges after, Harry pushes
 past Snape, dashes into the night. Hermione makes to 
 follow, but Snape holds her back. 
 
-(CONTINUED) 
-
-
-103. 
-
-117 CONTINUED: (3) 117 
-
 HERMIONE 
 Harry! 
 
@@ -6256,7 +5518,7 @@ Falls. Rises. Falls again. Each time becoming more
 human. As he disappears over the ridge, Harry sprints 
 after. 
 
-117A EXT. BLACK LAKE - SAME TIME - NIGHT 117A 
+EXT. BLACK LAKE - SAME TIME - NIGHT 
 
 Harry stumbles down to Black, who lies on the water's 
 edge, now fully a man, arms and face gleaming with 
@@ -6269,13 +5531,6 @@ Harry looks into his glassy eyes.
 
 HARRY 
 Sirius! 
-
-(CONTINUED) 
-
-
-104. 
-
-117A CONTINUED: 117A 
 
 A fragile MIST escapes Harry's mouth. A raw WIND TOSSES 
 his hair. CHILL-BUMPS pebble his SKIN. A FRINGE of ICE 
@@ -6319,29 +5574,19 @@ SILHOUETTE, then... it is gone.
 Silence drops like a curtain. MIST rises from the lake. 
 As Snape appears at the top of the rise, we -
 
-
 FADE TO BLACK. 
 
 FADE IN: 
 
-118 INT. HOSPITAL WING - NIGHT (LATER) 118 
-
+INT. HOSPITAL WING - NIGHT (LATER) 
 CAMERA PULLS BACK SLOWLY... out of HERMIONE'S SHADOW, 
 which ripples against the curtain that encircles Harry's 
 bed. A HAND reaches out -- Harry's hand -- and sweeps 
 the CURTAIN ASIDE. Ron lies opposite, his leg BANDAGED. 
 Hermione paces. Stops. 
 
-(CONTINUED) 
-
-
-105. 
-
-118 CONTINUED: 118 
-
 HERMIONE 
 Harry -
-
 
 HARRY 
 I saw my dad. 
@@ -6389,16 +5634,8 @@ HARRY
 It's true, sir. Sirius is 
 innocent -
 
-
 RON 
 It's Scabbers who did it! 
-
-(CONTINUED) 
-
-
-106. 
-
-118 CONTINUED: (2) 118 
 
 DUMBLEDORE 
 Scabbers...? 
@@ -6413,7 +5650,6 @@ see, he used to be my brother
 
 Percy's -
 
-
 HERMIONE 
 
 The point is... we know the truth. 
@@ -6425,7 +5661,6 @@ DUMBLEDORE
 I do, Miss Granger. But I'm sorry 
 
 to say the word of three thirteen
-
 
 year-old wizards will convince few 
 
@@ -6487,13 +5722,6 @@ innocent life may be spared
 
 tonight. 
 
-(CONTINUED) 
-
-
-107. 
-
-118 CONTINUED: (3) 118 
-
 Dumbledore hands Harry and Hermione each a stick of 
 CHOCOLATE, then starts to go... stops. 
 
@@ -6519,7 +5747,7 @@ can't walk...
 As Ron and Harry exchange a curious glance, the BELL 
 continues to CHIME -- DING! DING! -- and... 
 
-119 INT. HOSPITAL WING - TIME REVERSAL - NIGHT/LATE 119 
+INT. HOSPITAL WING - TIME REVERSAL - NIGHT/LATE 
 AFTERNOON 
 
 TIME REVERSES in a dizzying backward blur, as if a tape 
@@ -6545,24 +5773,14 @@ seven-thirty?
 HARRY 
 Huh? Dunno... going to Hagrid's? 
 
-(CONTINUED) 
-
-
-108. 
-
-119 CONTINUED: 119 
-
 HERMIONE 
 Come on! We can't be seen! 
 
 Hermione grabs Harry's arm, slams through the door. 
 
-120 OMITTED 120 
+OMITTED 
 thru thru 
-122 122 
-
-123 EXT. BRIDGE - LATE AFTERNOON (MOMENTS LATER) 123 
-
+EXT. BRIDGE - LATE AFTERNOON (MOMENTS LATER) 
 Harry and Hermione come to a mad, huffing halt. 
 
 HARRY 
@@ -6573,8 +5791,7 @@ She holds up a hand, silencing him. Annoyed, Harry
 follows her gaze and BLINKS in DISBELIEF. Across the 
 grounds... 
 
-124 EXT. SUNDIAL GARDEN - SAME TIME - LATE AFTERNOON 124 
-
+EXT. SUNDIAL GARDEN - SAME TIME - LATE AFTERNOON 
 ... he sees himself, along with Hermione and Ron, about 
 to confront Malfoy, Crabbe, and Goyle near the monoliths. 
 
@@ -6601,12 +5818,6 @@ return to this moment. Clearly
 something happened he wants us to 
 change. 
 
-(CONTINUED) 
-
-
-109. 
-
-124 CONTINUED: 124 
 A soft SMACK is HEARD. They turn, see Malfoy land on 
 the seat of his pants in the Sundial Garden, rub his 
 kisser. 
@@ -6645,18 +5856,10 @@ Buckbeak? But... how will saving
 Buckbeak help Sirius? 
 We'll see. 
 HERMIONE 
-125 EXT. HAGRID'S HUT - PUMPKIN PATCH - LATE AFTERNOON/DUSK 125 
-
+EXT. HAGRID'S HUT - PUMPKIN PATCH - LATE AFTERNOON/DUSK 
 As Buckbeak feasts on a ferret, Harry and Hermione duck 
 behind a pile of pumpkins. Peering into the hut, Harry 
 sees Hermione and Ron embrace awkwardly. 
-
-(CONTINUED) 
-
-
-110. 
-
-125 CONTINUED: 125 
 
 He grins, turns, only to find Hermione analyzing the 
 moment with considerable fascination. Caught -- regards 
@@ -6685,7 +5888,6 @@ handing Scabbers to Ron.
 HARRY 
 That's Pettigrew -
 
-
 As he starts to rise, Hermione grabs him, speaks 
 fiercely. 
 
@@ -6710,13 +5912,6 @@ can't be seen.
 
 Hermione turns, watches Fudge and the others drawing 
 closer. She frowns, glances into the hut. 
-
-(CONTINUED) 
-
-
-111. 
-
-125 CONTINUED: (2) 125 
 
 HERMIONE 
 Fudge is coming and... we're not 
@@ -6769,13 +5964,6 @@ she hears her own voice:
 HERMIONE (O.S.) 
 Nothing, I just thought I saw... 
 Never mind. 
-
-(CONTINUED) 
-
-
-112. 
-
-125 CONTINUED: (3) 125 
 
 Harry and Hermione watch themselves start up the slope. 
 The coast clear, they slip out of the trees. 
@@ -6830,13 +6018,6 @@ DUMBLEDORE (O.S.)
 Excuse me, Minister. I believe I 
 must sign as well... 
 
-(CONTINUED) 
-
-
-113. 
-
-125 CONTINUED: (4) 125 
-
 Harry PULLS at the chain, straining mightily... 
 
 DING! when Hermione POPS UP, BOWS QUICKLY, and dangles a 
@@ -6890,15 +6071,7 @@ DUMBLEDORE
 (a hint of amusement) 
 How extraordinary! 
 
-(CONTINUED) 
-
-
-125 CONTINUED: CONTINUED: 
-
-114. 
-
-(5) 125 
-
+(5) 
 CORNELIUS FUDGE 
 Come now, Dumbledore. Someone's 
 obviously released him. 
@@ -6916,7 +6089,6 @@ along.
 CORNELIUS FUDGE 
 We should search the grounds -
 
-
 DUMBLEDORE 
 Search the skies if you must, 
 Minister. In the meantime, I 
@@ -6933,8 +6105,7 @@ SICKENING CHOP!
 
 The CROWS SCATTER to the skies. 
 
-126 EXT. FORBIDDEN FOREST - DUSK (MOMENTS LATER) 126 
-
+EXT. FORBIDDEN FOREST - DUSK (MOMENTS LATER) 
 Harry and Hermione race through the trees as Buckbeak 
 lopes easily behind. 
 
@@ -6951,15 +6122,11 @@ HERMIONE
 
 No idea. 
 
-127 EXT. EDGE OF FOREST AT WHOMPING WILLOW - DUSK 127 
-
+EXT. EDGE OF FOREST AT WHOMPING WILLOW - DUSK 
 SUBJECTIVE POV, GLIDING THROUGH a thicket of trees, TO 
 the forest's edge, the trees thinning, REVEALING... 
 
-
-115. 
-
-127A EXT. EDGE OF FOREST AT WHOMPING WILLOW - DUSK 127A 
+EXT. EDGE OF FOREST AT WHOMPING WILLOW - DUSK 
 
 ... the Whomping Willow THRASHING. Hermione disappears 
 down the hole, then a FIGURE approaches the tree. Lupin. 
@@ -6991,7 +6158,7 @@ And now we wait.
 HERMIONE 
 Now we wait. 
 
-127B EXT. EDGE OF FOREST AT WHOMPING WILLOW - DUSK TO NIGHT 127B 
+EXT. EDGE OF FOREST AT WHOMPING WILLOW - DUSK TO NIGHT 
 (LATER) 
 
 We look UPWARD, see the tops of the trees etched against 
@@ -7012,12 +6179,6 @@ Hermione...
 HERMIONE 
 Yes? 
 
-(CONTINUED) 
-
-
-116. 
-
-127B CONTINUED: 127B 
 HARRY 
 Before. Down by the lake. When I 
 was with Sirius... I did see 
@@ -7044,7 +6205,7 @@ Hermione nods, not wanting to press Harry further, then
 glances beyond the trees, toward the Whomping Willow. 
 Here we come. 
 HERMIONE 
-128 EXT. EDGE OF FOREST AT WHOMPING WILLOW - NIGHT 128 
+EXT. EDGE OF FOREST AT WHOMPING WILLOW - NIGHT 
 SHADOWS emerge under a FULL MOON: Black. Harry. 
 Pettigrew. Lupin. Hermione. Ron. Sleepwalking 
 Snape... 
@@ -7056,12 +6217,6 @@ He's asking me to come live with
 him. 
 Really? 
 HERMIONE 
-(CONTINUED) 
-
-
-117. 
-
-128 CONTINUED: 128 
 
 Harry nods, his voice wistful. 
 
@@ -7117,16 +6272,12 @@ called is running right this way.
 
 They exchange a glance and... RUN. 
 
-
-118. 
+&amp; 
 
-129 
-& 
-130 
-OMITTED 129 
-& 
-130 
-130A EXT. FOREST - NIGHT (MOMENTS LATER) 130A 
+OMITTED 
+&amp; 
+
+EXT. FOREST - NIGHT (MOMENTS LATER) 
 Harry and Hermione dash for the lives, swing behind a 
 HUGE TREE. As CAMERA BEGINS TO CIRCLE, the werewolf 
 appears. Pauses. As it approaches the tree, Harry and 
@@ -7160,20 +6311,15 @@ MOVING POV
 Looking UPWARD... THROUGH the trees as the sky wheels by, 
 Dementors streaking IN AND OUT OF VIEW. 
 
-130B EXT. EDGE OF FOREST AT BLACK LAKE - NIGHT (MOMENTS 130B 
+EXT. EDGE OF FOREST AT BLACK LAKE - NIGHT (MOMENTS 
 LATER) 
 
 CAMERA RUSHES IN, HOLDS ON Harry and Hermione's faces. 
-(CONTINUED) 
 
-
-119. 
-
-130B CONTINUED: 130B 
 Shocked. 
 Terror-stricken. 
 Opposite them, across the lake... 
-130C EXT. BLACK LAKE - SAME TIME 130C 
+EXT. BLACK LAKE - SAME TIME 
 ... a CYCLONE of DEMENTORS whirl madly above Harry and 
 Black. 
 INTERCUT BETWEEN BLACK LAKE AND EDGE OF FOREST. 
@@ -7207,12 +6353,6 @@ wand.
 A riddle unravels. He draws his 
 HARRY, NO! 
 HERMIONE 
-(CONTINUED) 
-
-
-120. 
-
-130C CONTINUED: 130C 
 
 Too late. Harry slashes through the trees, down to the 
 rocky outcrop, to the exact spot where his father 
@@ -7231,8 +6371,7 @@ statue, until each and every one is gone.
 
 Then he simply lets his arm drop. 
 
-131 EXT. HOGWARTS - SKY - FLYING - NIGHT (LATER) 131 
-
+EXT. HOGWARTS - SKY - FLYING - NIGHT (LATER) 
 WHOOSH! Harry and Hermione plunge INTO FRAME astride 
 Buckbeak, SOARING toward the castle. Outside the 
 grounds, the Dementors wait restlessly. Up ahead, Fudge 
@@ -7262,27 +6401,21 @@ No.
 in fear) 
 But I don't like this! 
 
-132 EXT. HOGWARTS - DARK TOWER - WIDE SHOT - NIGHT (MOMENTS 132 
+EXT. HOGWARTS - DARK TOWER - WIDE SHOT - NIGHT (MOMENTS 
 LATER) 
 
 We see Buckbeak land. 
 CUT TO: 
 
-133 EXT. DARK TOWER - TERRACE - NIGHT 133 
-
+EXT. DARK TOWER - TERRACE - NIGHT 
 Sirius paces within a SMALL CELL, a man condemned. 
 Spying Harry and Hermione, he stops. Stunned to see 
 them. 
 
-
-121. 
-
-134 INT. DARK TOWER - STAIRWELL - NIGHT (SAME TIME) 134 
-
+INT. DARK TOWER - STAIRWELL - NIGHT (SAME TIME) 
 Snape, TORCH in hand, leads the way as Fudge HUFFS after. 
 
-135 EXT. DARK TOWER - TERRACE - NIGHT (SAME TIME) 135 
-
+EXT. DARK TOWER - TERRACE - NIGHT (SAME TIME) 
 Hermione pushes past Harry. 
 
 HERMIONE 
@@ -7295,11 +6428,10 @@ Sirius tests the IRON DOOR. Still locked.
 HERMIONE 
 Didn't really expect that to work. 
 
-136 EXT. DARK TOWER - STAIRWELL - NIGHT (SAME TIME) 136 
+EXT. DARK TOWER - STAIRWELL - NIGHT (SAME TIME) 
 Snape and Fudge draw closer... 
 
-137 EXT. DARK TOWER - TERRACE - NIGHT (SAME TIME) 137 
-
+EXT. DARK TOWER - TERRACE - NIGHT (SAME TIME) 
 Wand flashing, Hermione tries spell after spell. 
 
 HERMIONE 
@@ -7310,7 +6442,6 @@ No. No. No. No.
 
 SIRIUS BLACK 
 You might try -
-
 
 HERMIONE 
 Quiet! I'm trying to think. 
@@ -7325,21 +6456,17 @@ KA-BOOM! The CELL DOOR ROCKETS to the sky.
 SIRIUS BLACK 
 That'll do. 
 
-138 EXT. SKY/HOGWARTS - HELICOPTER SHOT - NIGHT 138 
-
+EXT. SKY/HOGWARTS - HELICOPTER SHOT - NIGHT 
 We see Buckbeak spirit Harry, Hermione and Sirius off the 
 terrace and soar directly TOWARD us... Just as Snape and 
 Fudge reach the top of the Tower. 
 
-
-122. 
-
-139 EXT. BUCKBEAK - FLYING - NIGHT (MOMENTS LATER) 139 
+EXT. BUCKBEAK - FLYING - NIGHT (MOMENTS LATER) 
 Sirius laughs, hair blowing in the wind. 
 SIRIUS BLACK 
 You truly are your father's son, 
 Harry! 
-140 EXT. CLOCKTOWER COURTYARD - NIGHT (MOMENTS LATER) 140 
+EXT. CLOCKTOWER COURTYARD - NIGHT (MOMENTS LATER) 
 Black puts his hands to Hermione's waist, swings her off 
 Buckbeak and onto the ground next to Harry. 
 SIRIUS BLACK 
@@ -7373,24 +6500,15 @@ the glittering sky. Harry and Hermione stand watching,
 when... DING! They wheel. Look to the Clock Tower. 
 HERMIONE 
 We have to go. 
-(CONTINUED) 
-
-
-123. 
-
-140 CONTINUED: 140 
 
 As Harry and Hermione dash off, CAMERA TRACKS AFTER, 
 RISING WITH them as they race up the tower stairway, then 
 passing through the mechanism and on through to the end 
 of... 
 
-141 OMITTED 141 
+OMITTED 
 thru thru 
-143 143 
-
-144 INT. CORRIDOR/CLOCK TOWER - NIGHT (MOMENTS LATER) 144 
-
+INT. CORRIDOR/CLOCK TOWER - NIGHT (MOMENTS LATER) 
 ... the corridor. The Clock Tower BELL THUNDERS. The 
 DOOR OPENS. Dumbledore backs out... 
 
@@ -7418,8 +6536,7 @@ Did what?
 With a twinkle in his eye, Dumbledore swings open the 
 door. As Harry and Hermione enter. 
 
-145 INT. HOSPITAL WING - NIGHT (SAME TIME) 145 
-
+INT. HOSPITAL WING - NIGHT (SAME TIME) 
 ... they catch the faintest glimpse of... themselves... 
 
 across the room... just as they EVAPORATE. 
@@ -7431,13 +6548,6 @@ was just talking to you... over
 there. 
 
 Ron blinks. 
-
-(CONTINUED) 
-
-
-124. 
-
-145 CONTINUED: 145 
 
 Ron glances to the other side of the room. Frowns. 
 Hermione glances mischievously to Harry. 
@@ -7458,13 +6568,11 @@ the nervous type, Ron has.
 
 Ron stares at them, confounded. Slowly, they... GRIN. 
 
-146 EXT. HOGWARTS CASTLE - MORNING 146 
-
+EXT. HOGWARTS CASTLE - MORNING 
 The Whomping Willow sways in a light breeze. The Black 
 Lake shimmers, clouds drifting in its glassy mirror. 
 
-147 INT. CORRIDOR/LUPIN'S OFFICE - MORNING 147 
-
+INT. CORRIDOR/LUPIN'S OFFICE - MORNING 
 Harry walks softly toward an OPEN DOOR -- Lupin's 
 office -- and peers in. Lupin stands over a battered 
 suitcase, filling it with the last of his books. Without 
@@ -7494,13 +6602,6 @@ You've been sacked.
 PROFESSOR LUPIN 
 Resigned, actually. 
 
-(CONTINUED) 
-
-
-125. 
-
-147 CONTINUED: 147 
-
 HARRY 
 Resigned! But why! 
 
@@ -7523,12 +6624,10 @@ start arriving. Parents will not
 
 want a --someone like me -
 
-
 teaching their children. 
 
 HARRY 
 But Dumbledore -
-
 
 PROFESSOR LUPIN 
 
@@ -7549,7 +6648,6 @@ Well. At first I thought it was a
 horse, or perhaps a unicorn, but I 
 
 think it was -
-
 
 PROFESSOR LUPIN 
 A stag. 
@@ -7582,23 +6680,14 @@ end, you'll know them best by getting to know yourself.
 
 Lupin then -- with a wicked twinkle -- raises his wand. 
 
-(CONTINUED) 
-
-
-126. 
-
-147 CONTINUED: (2) 147 
-
 PROFESSOR LUPIN 
 Mischief managed. 
 
 Harry watches the Map go blank. Looks back. Lupin is 
 gone. 
 
-148 OMITTED 148 
-
-149 INT. GREAT HALL - DAY (MOMENTS LATER) 149 
-
+OMITTED 
+INT. GREAT HALL - DAY (MOMENTS LATER) 
 Ron stands amid a circle of excited Gryffindors. 
 
 RON 
@@ -7615,7 +6704,6 @@ Harry! Wherever did you get it!
 SEAMUS 
 Can I have a go, Harry? After 
 you, of course -
-
 
 RON 
 Quiet! 
@@ -7642,32 +6730,22 @@ fell out of the wrapping.
 
 Harry turns, sees Hermione holding up a FEATHER. 
 
-(CONTINUED) 
-
-
-127. 
-
-149 CONTINUED: 149 
-
 HARRY 
 That's a Hippogriff feather -
-
 
 As Harry stops short, Hermione raises her eyebrow. As 
 they share a secret glance, we... 
 
 CUT TO: 
 
-150 INT./EXT. HOGWARTS CASTLE - FRONT DOORS - DAY 150 
-
+INT./EXT. HOGWARTS CASTLE - FRONT DOORS - DAY 
 BOOM! The huge vertical DOORS BURST OPEN and Harry, 
 trailed by the others, exits with the Firebolt. As he 
 strides off, others join the assembly -- Hagrid, Malfoy, 
 Crabbe, and Goyle among them -- curious to see what the 
 commotion is all about. 
 
-151 EXT. COURTYARD - DAY (MOMENTS LATER) 151 
-
+EXT. COURTYARD - DAY (MOMENTS LATER) 
 As Harry stops, an expectant HUSH hangs over the moment. 
 
 SEAMUS 
@@ -7706,20 +6784,13 @@ HAGRID
 (nodding sagely) 
 Just a broom. 
 
-(CONTINUED) 
-
-
-128. 
-
-151 CONTINUED: 151 
 Harry's eye shifts to Ron and Hermione. A wink. 
 HARRY 
 The fastest broom in the world. 
 As everyone turns -- WHOOSH! -- Harry JETS OFF and we -CUT 
 TO: 
 
-152 EXT. HIGH IN THE SKY - DAY (SAME TIME) 152 
-
+EXT. HIGH IN THE SKY - DAY (SAME TIME) 
 A tiny DOT, GROWING LARGER AND LARGER, races upward. 
 It's Harry shooting straight into the blue on the 
 Firebolt. A SCREAM GROWS LOUDER as he approaches. A 
@@ -7735,4 +6806,3 @@ FADE OUT.
 
 THE END 
 
-
