@@ -9,8 +9,8 @@
         <release date="2010-12-14"/>
         <!--Look this up and verify -->
         <digitalProject>
-            <editor who="bca">Bianka Alexander</editor>
-            <advisor who="ebb">Elisa Beshero-Bondar</advisor>
+            <editor who="#bca">Bianka Alexander</editor>
+            <advisor who="#ebb">Elisa Beshero-Bondar</advisor>
             <span from="2020-10" to="2021-05"/>
             <desc>.....</desc>
             <sourceText>
@@ -570,9 +570,9 @@
             <stage>As Ron reacts, Harry’s eyes shift. Bellatrix Lestrange and Griphook, clutching
                 the sword, approach from the cottage. </stage>
             <sp who="#RON"> Bloody hell... that’s a sight. </sp>
-            <sp who="BELLATRIX(HERMIONE)"> Well, how do I look? </sp>
+            <sp who="#BELLATRIX(HERMIONE)"> Well, how do I look? </sp>
             <sp who="#RON"> Hideous. </sp>
-            <sp who="BELLATRIX(HERMIONE)"> Oh dear, I missed a spot, didn’tI? Hold still... </sp>
+            <sp who="#BELLATRIX(HERMIONE)"> Oh dear, I missed a spot, didn’tI? Hold still... </sp>
             <stage>Hermione poises her wand tip over the bit of ginger pushing through the brown of
                 Ron’s hair. </stage>
             <sp who="#RON"> Couldn’t do anything about that bit in the back that’s always flipping
@@ -593,7 +593,7 @@
                 Ron and Griphook fall back into the shadows and Hermione, as Bellatrix, steps to the
                 mouth of the alley to see if the coast is clear. A WARLOCK passes. </stage>
             <sp who="#WARLOCK"> Madam Lestrange. </sp>
-            <sp who="BELLATRIX(HERMIONE)"><stage>cheerily</stage> Good morning. The Warlock eyes her
+            <sp who="#BELLATRIX(HERMIONE)"><stage>cheerily</stage> Good morning. The Warlock eyes her
                 oddly, then continues on. As Hermione retreats back into the alley, Griphook emerges
                 from the shadows, his voice harsh and mocking. </sp>
             <sp who="#GRIPHOOK"> Good morning? Good morning? You’re Bellatrix Lestrange, not some
@@ -621,21 +621,21 @@
                 eerie silence. Hermione glances at Ron. He nods and she steps to the long counter,
                 where an AGED GOBLIN scribbles in his ledger. </stage>
             <sp who="#AGEDGOBLIN"> Identification. </sp>
-            <sp who="BELLATRIX(HERMIONE)"> I hardly think that will be </sp>
+            <sp who="#BELLATRIX(HERMIONE)"> I hardly think that will be </sp>
             <stage>necessary. </stage>
             <sp who="#AGEDGOBLIN"><stage>looking up</stage> Madam Lestrange! Dear me! How may I help
                 you today? </sp>
-            <sp who="BELLATRIX(HERMIONE)"> I wish to enter my vault. </sp>
+            <sp who="#BELLATRIX(HERMIONE)"> I wish to enter my vault. </sp>
             <sp who="#AGEDGOBLIN"> I see. Very well. Excuse me, won’t you?</sp>
             <stage>The goblin slips off his stool, goes to consult with another, even more ancient
                 goblin (BOGROD). </stage>
-            <sp who="BELLATRIX(HERMIONE)"> I don’t like to be kept waiting.</sp>
+            <sp who="#BELLATRIX(HERMIONE)"> I don’t like to be kept waiting.</sp>
             <stage>Hermione’s tone is harsh, authoritative. She turns to Ron, raises an eyebrow. He
                 nods, mouths “Well done,” then looks away, eyeing the guards stationed about the
                 room. One looks up, meets his gaze. </stage>
             <sp who="#TALLGOBLIN"> Next. </sp>
             <stage>Ron turns, sees the Tall Goblin eyeing him. </stage>
-            <sp who="BELLATRIX(HERMIONE)"> He’s with me. <stage>with utter disdain</stage> As
+            <sp who="#BELLATRIX(HERMIONE)"> He’s with me. <stage>with utter disdain</stage> As
                 difficult as that may be to imagine.</sp>
             <stage>Ron frowns, takes in the scene again. The SCRATCH of goblin quills seems to grow
                 louder. Ron fidgets, eyes the guard again, who is looking at him more closely now.
@@ -648,7 +648,7 @@
             <sp who="#GRIPHOOK "><stage>V.O.</stage> They know she’s an imposter! They’ve been
                 warned! Ron looks back, watches the two goblins return to Hermione. </sp>
             <sp who="#BOGROD"> Madam Lestrange. Would you mind presenting your wand? </sp>
-            <sp who="BELLATRIX(HERMIONE)"> And why should I do that? </sp>
+            <sp who="#BELLATRIX(HERMIONE)"> And why should I do that? </sp>
             <stage>Just then, the guard across the room begins to walk toward Ron. Ron’s eyes dance.
                 He averts his face, WHISPERS: </stage>
             <sp who="#RON"> Harry, what do we do? Harry...?</sp>
@@ -658,7 +658,7 @@
                 toward her. </stage>
             <sp who="#BOGROD"> It’s the bank’s policy. I’m sure you understand, given the current
                 climate --</sp>
-            <sp who="BELLATRIX(HERMIONE)"> No, I most certainly do not understand --</sp>
+            <sp who="#BELLATRIX(HERMIONE)"> No, I most certainly do not understand --</sp>
             <stage>Sensing Harry’s presence, she falters, her own voice emerging through
                 Bellatrix’s. Bogrod eyes her intensely. </stage>
             <sp who="#BOGROD"> I’m afraid I must insist. </sp>
@@ -1047,7 +1047,7 @@
             <stage>Harry slips the MIRROR from his pocket and ANGLES it. His own FACE SLIDES BRIEFLY
                 over the surface, then the end of the alley comes INTO VIEW. A DEATH EATER stands
                 there, wand glowing in the mist.</stage>
-            <sp who="DEATHEATER1">
+            <sp who="#DEATHEATER1">
                 <stage>O.S.</stage> Perhaps you need some convincing. </sp>
             <sp who="#RON"> What’s he mean by that?</sp>
             <stage>Hermione GASPS, eyes looking upward. Ron and Harry follow her gaze.</stage>
@@ -1118,7 +1118,7 @@
             <sp who="#ABERFORTH"> Nice job? Easy? An awkward silence, the tension heavy. </sp>
             <sp who="#HARRY"> We’ve been hunting Horcruxes. We think the last one’s in the school.
                 But we’ll need your help getting in. </sp>
-            <sp who="HARRY"> <stage>CONT'D</stage> If we can find it and kill it, then we kill him,
+            <sp who="#HARRY"> <stage>CONT'D</stage> If we can find it and kill it, then we kill him,
                 and then we can end this war once and for all. We need to get into Hogwarts tonight.
                 Aberforth stares at him for a moment, until the silence grows. </sp>
             <sp who="#ABERFORTH"> It’s not a job my brother’s given you, it’s a suicide mission. Do
@@ -1159,7 +1159,7 @@
             <sp who="#HERMIONE"> That’s Ariana, isn’t it? Your sister. She’s beautiful. </sp>
             <sp who="#ABERFORTH"> She’ll always be beautiful.</sp>
             <stage>Ron and Harry glance at each other, confused.</stage>
-            <sp who="HERMIONE"> * She died very young, didn’t she.</sp>
+            <sp who="#HERMIONE"> * She died very young, didn’t she.</sp>
             <stage>This hangs.</stage>
             <sp who="#ABERFORTH"> My brother sacrificed many things, Mr. Potter, in his journey to
                 find power, including her. She was devoted to him --he gave her everything, but
@@ -2286,8 +2286,7 @@
             <sp who="#SNAPE"> With you, of course, my Lord. </sp>
             <stage>Voldemort stares long at Snape, then, finally speaks: </stage>
             <sp who="#VOLDEMORT"> The Elder Wand cannot serve me properly, Severus, because I am not
-                its true master. </sp>
-            <sp>(MORE) VOLDEMORT <stage>CONT'D</stage> The Elder Wand belongs to thewizard who
+                its true master. VOLDEMORT <stage>CONT'D</stage> The Elder Wand belongs to thewizard who
                 killed its last owner. Ollivander was quite explicit about that. You killed
                 Dumbledore, Severus. While youlive, the Elder Wand cannot be truly mine. Snape
                 stares at Voldemort, then his eyes shift to Nagini, still circling. </sp>
@@ -2334,8 +2333,7 @@
                 aboard from the window and the trio peers out. As in the Enchanted Ceiling before, a
                 face appears in the dark clouds above. And then VOLDEMORT’S VOICE ECHOES: </stage>
             <sp who="#VOLDEMORT "><stage>V.O.</stage> You have fought valiantly... but in vain. I do
-                not wish this. Every drop of magical blood spilled is a terrible waste. </sp>
-            <sp>(MORE) VOLDEMORT <stage>V.O.</stage> (CONT'D) I therefore command my forces to
+                not wish this. Every drop of magical blood spilled is a terrible waste. I therefore command my forces to
                 retreat. In their absence, dispose of your dead with dignity. Treat your injured.
                     <stage>a beat</stage> Harry Potter, I speak now directly to you. On this night
                 you have allowed your friends to die for you rather than face me yourself. There is
@@ -2913,7 +2911,7 @@
                 Cho. Arthur Weasley. Ron and Hermione emerge and, seeing the procession... know.
                 Hermione draws a sharp breath and something about it -- the unadulterated sense of
                 loss contained within it -- causes those around her to look and know as well. </stage>
-            <sp who="#ARTHURWEASLEY"> What’s going on here, Neville?</sp>
+            <sp who="#MRWEASLEY"> What’s going on here, Neville?</sp>
             <stage>Neville starts to speak but falters and then, simply because he can’t bear to
                 look at Ginny’s face and the faces of the others looking to him for something,
                 anything, he turns his gaze to the Hat dangling in his hand. And as he does,

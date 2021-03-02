@@ -45,7 +45,7 @@
          <sp who="#DUDLEY">Ooo, tough guy. Not so tough in your bed, are you? </sp>
          <sp who="#HARRY">What? </sp>
          <stage>MRS. FIGG stands up and goes to the edge of her porch. </stage>
-         <sp who="#MRS.  FIGG">You boys go home now, or I'll be calling your parents! They pause and
+         <sp who="#MRSFIGG">You boys go home now, or I'll be calling your parents! They pause and
             edge away from Harry. </sp>
          <sp who="#DUDLEY">I heard you talking in your sleep, last night. Crying. "No, don't kill
             Cedric, don't kill Cedric! Dad, help me, heeelp me! He's going to kill me! Boo-hoo!"
@@ -238,7 +238,7 @@
             side, and runs into an umbrella stand, which clangs loudly as it hits the ground. To
             steady himself, he reaches out and pulls the sheet from the wall. Behind it is a
             portrait of an unpleasant, old, thin, woman. </stage>
-         <sp who="#MRS.  BLACK">Filth! Scum! Half-breeds, mutants, freaks, begone from this place!
+         <sp who="#MRSBLACK">Filth! Scum! Half-breeds, mutants, freaks, begone from this place!
             How dare you befoul the house of my fathers?! </sp>
          <stage>SIRIUS BLACK comes running into the entry hall. He skids to a halt next to Harry,
             looking up at MRS BLACK. </stage>
@@ -347,7 +347,7 @@
          <sp who="#SIRIUS">Well, they think I'm a mass- murderer, Lupin is a werewolf, Tonks and
             Arthur would lose their jobs at the Ministry... </sp>
          <sp who="#LUPIN">But Dumbledore is doing all he can. </sp>
-         <sp who="#MR.  WEASLEY">If he keeps it up, he might end up in Azkaban. And that would give
+         <sp who="#MRWEASLEY">If he keeps it up, he might end up in Azkaban. And that would give
             You- Know-Who a clear field to-- </sp>
          <stage>MR WEASLEY stops short and looks as if he'd nearly said too much. </stage>
          <sp who="#HARRY">What? </sp>
@@ -378,7 +378,7 @@
          <sp who="#MRWEASLEY">
             <stage>bracingly</stage> Probably just nerves... </sp>
          <sp who="#HARRY">Yeah...nerves... </sp>
-         <sp who="#MRS.  WEASLEY">Good luck, Harry! She hugs Harry.<stage> After the hug, Harry
+         <sp who="#MRSWEASLEY">Good luck, Harry! She hugs Harry.<stage> After the hug, Harry
                stands back, but is suddenly hugged by Hermione. </stage></sp>
          <sp who="#HERMIONE">They'll have to let you off, Harry... You were defending yourself! I
             checked the laws. </sp>
@@ -410,7 +410,7 @@
                The MAN taps his watch impatiently. Mr. Weasley holds up a finger, as to say, "just a
                second." The MAN sighs and turns around, tapping his foot. </stage></sp>
          <sp who="#FEMALEVOICE">Welcome to the Ministry of Magic. Please state your business. </sp>
-         <sp who="#MR.  WEASLEY">Harry Potter, disciplinary hearing. </sp>
+         <sp who="#MRWEASLEY">Harry Potter, disciplinary hearing. </sp>
          <sp who="#FEMALEVOICE">Pleas stand by.<stage> There is a pause, and then the whole phone
                booth begins to sink down into the ground. The MAN, his back to the booth, is
                completely oblivious. INT. MINISTRY OF MAGIC - DAY The booth sinks lower into the
@@ -446,12 +446,12 @@
                secret.<stage> The lift doors open. Harry and Mr. Weasley exit, running down
                corridors. Harry skids to a stop and looks down a dark hallway. Mr. Weasley stops as
                well, and glances back at Harry. </stage></sp>
-         <sp who="#MR.  WEASLEY">Come on, Harry! </sp>
+         <sp who="#MRWEASLEY">Come on, Harry! </sp>
          <sp who="#HARRY">I've been there before...<stage> Mr. WEASLEY looks nervous, then grabs
                Harry's robes and drag him along. </stage></sp>
-         <sp who="#MR.  WEASLEY">Now, Harry, I find that highly unlikely...<stage> A few moments
+         <sp who="#MRWEASLEY">Now, Harry, I find that highly unlikely...<stage> A few moments
                later, they arrive. </stage></sp>
-         <sp who="#MR.  WEASLEY">There you are, Harry, in you go...good luck... Harry enters the
+         <sp who="#MRWEASLEY">There you are, Harry, in you go...good luck... Harry enters the
             chamber. INT. COURTROOM - DAY One side of the courtroom is an elevated zigarat-shaped
             series of seats carved from black stone.<stage> The whole room is dark, save a light
                shining through from the ceiling down on the center of the room, where a single
@@ -505,7 +505,7 @@
          <sp who="#FUDGE">Very well. Weasley, fetch the witness. Percy goes to the door and lets
             MRS. FIGG in. She stands in front of Harry and Dumbledore nervously. </sp>
          <sp who="#FUDGE">Full name? </sp>
-         <sp who="#MRS.  FIGG">Arabella Doreen Figg, resident of Little Whinging. </sp>
+         <sp who="#MRSFIGG">Arabella Doreen Figg, resident of Little Whinging. </sp>
          <sp who="#FUDGE">So...what is your story? </sp>
          <sp who="#FIGG">I was sitting on my porch when I saw the two Dementors gliding towards the
             two boys. </sp>
@@ -548,11 +548,11 @@
       <scene>
          <stage cat="INT" where="HALL  -  DAY"> Harry exits the COURTROOM to find Mr. Weasley
             standing outside, beaming. </stage>
-         <sp who="#MR.  WEASLEY">Harry, you've been let off! That's wonderful! The door opens again
+         <sp who="#MRWEASLEY">Harry, you've been let off! That's wonderful! The door opens again
             and the whole of the Wizengamot exits. </sp>
          <sp who="#MRWEASLEY">You were tried by the full court? </sp>
          <sp who="#HARRY">I think so, yeah. </sp>
-         <sp who="#MR.  WEASLEY"><stage>concerned</stage> Well, no matter. Let's go home.<stage>
+         <sp who="#MRWEASLEY"><stage>concerned</stage> Well, no matter. Let's go home.<stage>
                Just then, Percy exits and brushes by Mr. Weasley without even looking at him.
             </stage></sp>
          <sp who="#HARRY">Er...is Percy mad at you? </sp>
@@ -1777,7 +1777,7 @@
             back, watching, as the Weasleys are reunited in the hall. Yet Harry is forgotten in the
             background. He stands apart from them, looking on, an intruder to their grief. Finally
             they separate. </stage>
-         <sp who="#MRS.  WEASLEY">Your father's alive. He's going to make it. There is relief
+         <sp who="#MRSWEASLEY">Your father's alive. He's going to make it. There is relief
             evident on all of their faces. Harry turns and leaves, re-entering the kitchen. </sp>
       </scene>
       <scene>
@@ -1809,7 +1809,7 @@
             with witches and wizards who have been damaged or injured in the course of their magical
             lives. Many move around wearing white robes with the insignia of a WAND and BONE crossed
             over each other. Mrs. Weasley marches very determinedly through the crowd. </stage>
-         <sp who="#MRS.  WEASLEY">This way, come on! </sp>
+         <sp who="#MRSWEASLEY">This way, come on! </sp>
       </scene>
       <scene>
          <stage cat="INT" where="ST.  MUNGO'S  HALLWAY  -  DAY"> Moody and Tonks stop outside the
@@ -1817,25 +1817,25 @@
          <sp who="#TONKS">We'll wait outside at first, Molly. It should be family first.<stage> Mrs.
                Weasley nods and pushes her children through the door. Harry holds back, but she
                beckons to him. </stage></sp>
-         <sp who="#MRS.  WEASLEY">Don't be silly, Harry. You too. And she ushered him inside. </sp>
+         <sp who="#MRSWEASLEY">Don't be silly, Harry. You too. And she ushered him inside. </sp>
       </scene>
       <scene>
          <stage cat="INT" where="WARD  -  DAY"> There are three patients in the ward. Arthur lies in
             the farthest bed by the window, propped up on several pillows and reading the paper. </stage>
-         <sp who="#MR.  WEASLEY">Hullo, everyone! Mrs. Weasley bends down and kisses Arthur. </sp>
-         <sp who="#MRS.  WEASLEY">How are you, dear? </sp>
+         <sp who="#MRWEASLEY">Hullo, everyone! Mrs. Weasley bends down and kisses Arthur. </sp>
+         <sp who="#MRSWEASLEY">How are you, dear? </sp>
          <sp who="#ARTHUR">I am absolutely fine. If they could take the bandages off, I'd walk out
             of here in a jiffy. He hugs Ginny with his good arm. </sp>
          <sp who="#FRED">How come they haven't taken them off, then? </sp>
          <sp who="#ARTHUR">Oh, I start bleeding like mad. The snake had some strange poison in it.
             Keeps the wounds open. But they'll find a cure, don't you doubt. George leans in close. </sp>
          <sp who="#GEORGE">What were you doing when it happened, dad? </sp>
-         <sp who="#MR.  WEASLEY">That's my own business. </sp>
+         <sp who="#MRWEASLEY">That's my own business. </sp>
          <sp who="#FRED">You were guarding it, weren't you? This weapon thing? </sp>
-         <sp who="#MRS.  WEASLEY">That's enough! She looks at Arthur. </sp>
-         <sp who="#MRS.  WEASLEY">Moody and Tonks are outside, Arthur. They'd like a word. She looks
+         <sp who="#MRSWEASLEY">That's enough! She looks at Arthur. </sp>
+         <sp who="#MRSWEASLEY">Moody and Tonks are outside, Arthur. They'd like a word. She looks
             at her children. </sp>
-         <sp who="#MRS.  WEASLEY">All of you, out, if you please. They turn and leave. Mr Weasley
+         <sp who="#MRSWEASLEY">All of you, out, if you please. They turn and leave. Mr Weasley
             calls Harry back. </sp>
          <sp who="#ARTHUR">Harry, stay a moment. Harry returns to the bed. </sp>
          <sp who="#ARTHUR">I never thanked you properly. </sp>
@@ -1854,7 +1854,7 @@
          <sp who="#MOODY">He probably sent it as a lookout. See what he's up against. That's the
             closest he's ever gotten to it. <stage>pause</stage> So, Potter says he saw the whole
             thing? </sp>
-         <sp who="#MRS.  WEASLEY">Yes. You know, Dumbledore seems like he's been waiting for
+         <sp who="#MRSWEASLEY">Yes. You know, Dumbledore seems like he's been waiting for
             something like this to happen. When I spoke to him this morning, he seemed very worried
             about Harry. </sp>
          <sp who="#MOODY">He should be. I mean, if You-Know- Who is really possessing him... Moody
@@ -1885,16 +1885,16 @@
             There are other apportioned sections of the room. </stage>
          <sp who="#HEALER">This is our long-term resident ward, for permanent spell damage. Well, I
             must go... She bustles away. </sp>
-         <sp who="#MRS.  LONGBOTTOM">Come along, Neville. Harry and the others turn. </sp>
+         <sp who="#MRSLONGBOTTOM">Come along, Neville. Harry and the others turn. </sp>
          <sp who="#RON">Hey, Neville! Neville turns beet-red, and looks away. His GRANDMOTHER looks
             at the three of them. </sp>
-         <sp who="#MRS.  LONGBOTTOM">Friends of yours, Neville? <stage>pause</stage> Ah, yes, Harry
+         <sp who="#MRSLONGBOTTOM">Friends of yours, Neville? <stage>pause</stage> Ah, yes, Harry
             Potter. Good to meet you, finally. And a Weasley. She turns to Hermione </sp>
-         <sp who="#MRS.  LONGBOTTOM">And you must be Miss Granger. Neville's mentioned you. </sp>
+         <sp who="#MRSLONGBOTTOM">And you must be Miss Granger. Neville's mentioned you. </sp>
          <sp who="#RON">Who're you visiting, Neville? Mrs. Longbottom turns to Neville. </sp>
-         <sp who="#MRS.  LONGBOTTOM">You haven't told them? </sp>
+         <sp who="#MRSLONGBOTTOM">You haven't told them? </sp>
          <sp who="#HERMIONE">Told us what? </sp>
-         <sp who="#MRS.  LONGBOTTOM">Neville's dear parents were tortured into insanity by You-Know-
+         <sp who="#MRSLONGBOTTOM">Neville's dear parents were tortured into insanity by You-Know-
             Who before he disappeared. Aurors, you know, very well respected.<stage> Just then,
                ALICE LONGBOTTOM, Neville's mother, emerges from behind the parition. She beckons
                tentatively to Neville, who goes to her. She gently, almost reverently, hands him a
@@ -1909,7 +1909,7 @@
          <stage cat="INT" where="GRIMMAULD  PLACE  -  DAY"> Mrs. Weasley, Harry, Ginny, Ron, Fred,
             George, Hermione, Moody, and Tonks walk into the entry hall of Grimmauld Place. Mrs.
             Weasley looks at Harry concernedly. </stage>
-         <sp who="#MRS.  WEASLEY">Are you all right, Harry dear? You look like you're going to be
+         <sp who="#MRSWEASLEY">Are you all right, Harry dear? You look like you're going to be
                sick.<stage> He doesn't answer, but marches up the stairs and shuts himself in his
                bedroom. </stage></sp>
       </scene>
@@ -2061,10 +2061,10 @@
       <scene>
          <stage cat="INT" where="DEPARTMENT  OF  MYSTERIES  -  DAY"> Harry skids to a stop and looks
             down a dark hallway. Mr. Weasley stops as well, and glances back at Harry. </stage>
-         <sp who="#MR.  WEASLEY">Come on, Harry! </sp>
+         <sp who="#MRWEASLEY">Come on, Harry! </sp>
          <sp who="#HARRY">I've been there before...<stage> Mr. WEASLEY looks nervous, then grabs
                Harry's robes and drag him along. </stage></sp>
-         <sp who="#MR.  WEASLEY">Now, Harry, I find that highly unlikely... </sp>
+         <sp who="#MRWEASLEY">Now, Harry, I find that highly unlikely... </sp>
       </scene>
       <scene>
          <stage cat="INT" where="SNAPE'S  OFFICE  -  DAY"> Snape lowers his wand, breaking the
