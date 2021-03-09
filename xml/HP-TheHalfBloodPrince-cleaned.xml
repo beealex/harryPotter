@@ -462,11 +462,12 @@ something is wrong about the place.
 <sp who="#DUMBLEDORE">
 Wand out, Harry. 
 </sp>
+</stage>
 </scene>
 <scene><stage cat="INT" where="SLUGHORN’S HOUSE - SAME TIME - NIGHT
-THROUGH a crack in the front door: Dumbledore and Harry move swiftly up the walk and enter. 
+THROUGH a crack in the front door: Dumbledore and Harry move swiftly up the walk and enter.">
 
-</sp>
+
 <sp who="#DUMBLEDORE">
 Lumos... 
 
@@ -477,7 +478,8 @@ The tip of Dumbledore’s WAND BLAZES. He sweeps the shadows. CALLS OUT.
 Horace! 
 
 Nothing. Dumbledore points his wand down a NARROW HALLWAY. Motes of dust dance in the wandlight, but nothing else. He starts down the hallway, toward theOPEN DOORWAY at its end. Slowly, the room beyond comesINTO VIEW: 
-
+</sp>
+</stage>
 </scene>
 <scene><stage> SLUGHORN’S HOUSE - SITTING ROOM - NIGHT
 Utter devastation. A GRANDFATHER CLOCK lays upon the floor, its face cracked. A PIANO sags in the corner,
@@ -676,6 +678,7 @@ see one. Regrettable. I would
 have considered it a personal triumph had you consented to return to Hogwarts, Horace. You 
 are, like my friend Mr. Potter --
 one of a kind. 
+</sp>
 </scene>
 <scene><stage> SLUGHORN’S HOUSE - NIGHT (MOMENTS LATER)
 Dumbledore HUMS placidly as he and Harry make their way down the walk. Seconds later, the front door swings 
@@ -691,7 +694,7 @@ mad times we live in! Mad!
 <sp who="#DUMBLEDORE">
 Indeed they are. 
 </sp>
-</stage>
+
 </scene>
 <scene><stage cat="EXT" where=" STREET (BUDLEIGH BABBERTON) - NIGHT (MOMENTS LATER)">
 Dumbledore leads Harry back toward the Village Square. 
@@ -770,7 +773,7 @@ Hedwig...? Mum!
 GINNY’S POV, looking up -- a dizzying perspective of 
 twisting railings and crooked bedroom doors. A CLOCK 
 hangs IN VIEW, bearing NINE HANDS, each inscribed with aWeasley name, each pointing to MORTAL PERIL. MRS. 
-WEASLEY appears, looks down. 
+WEASLEY appears, looks down. </stage>
 
 
 <sp who="#MRSWEASLEY ">
@@ -789,7 +792,7 @@ Eaters?
 <sp who="#GINNY">
 Exactly. How’d you guess? 
 
-Mrs. Weasley throws her hands up over her face. 
+<stage>Mrs. Weasley throws her hands up over her face. </stage>
 
 </sp>
 <sp who="#GINNY">
@@ -825,8 +828,8 @@ And his owl.
 <sp who="#MRSWEASLEY ">
 I seriously doubt that. 
 
-Just then, HEDWIG SCREECHES O.S. Ginny gives her an I-
-told-you-so when another door opens and RON WEASLEY looks down. 
+<stage>Just then, HEDWIG SCREECHES O.S. Ginny gives her an I-
+told-you-so when another door opens and RON WEASLEY looks down. </stage>
 
 </sp>
 <sp who="#RON">
@@ -841,8 +844,8 @@ Me, nosy. Is he up there with you?
 ‘Course not. Think I’d know if my best friend was in my room,
 wouldn’t I? 
 
-Another door opens: HERMIONE, in a robe, TOOTHBRUSH in 
-hand. 
+<stage>Another door opens: HERMIONE, in a robe, TOOTHBRUSH in 
+hand. </stage>
 
 </sp>
 <sp who="#HERMIONE">
@@ -863,14 +866,14 @@ Really?
 </sp>
 <sp who="#HARRY "><stage>O.S.</stage>
 Really. 
-
-Ginny spins. Harry. Standing in the doorway of the kitchen. 
+</sp>
+<stage>Ginny spins. Harry. Standing in the doorway of the kitchen. </stage>
 
 <sp who="#RON #HERMIONE #MRSWEASLEY">
 Harry! 
 
-As the others rocket downstairs, Ginny gives Harry a great grinning hug. There is something oddly charged in the moment, a surprise to both of them. The others 
-arrive. More hugs. 
+<stage>As the others rocket downstairs, Ginny gives Harry a great grinning hug. There is something oddly charged in the moment, a surprise to both of them. The others 
+arrive. More hugs. </stage>
 
 </sp>
 <sp who="#MRSWEASLEY ">
@@ -891,16 +894,13 @@ Dumbledore.
 That man. But then, what would we 
 
 do without him? Ron! 
-
-Ron is about to touch Hermione. She retracts her neck. 
-
 </sp>
+<stage>Ron is about to touch Hermione. She retracts her neck. </stage>
+
 <sp who="#RON">
 You’ve a bit of... 
-
-He gestures to the stray lace of toothpaste on Hermione’s chin. Quickly she wipes it off, gives him an odd look. 
-
 </sp>
+<stage>He gestures to the stray lace of toothpaste on Hermione’s chin. Quickly she wipes it off, gives him an odd look. 
 </stage>
 </scene>
 <scene><stage cat="EXT" where=" THE BURROW - ATTIC - NIGHT (LATER)">
@@ -908,7 +908,7 @@ He gestures to the stray lace of toothpaste on Hermione’s chin. Quickly she wi
 The Daily Prophet tumbles within a makeshift campfire ofBLUE FLAMES, but magically doesn’t disintegrate. Harry teases the fire with the tip of his wand, where The 
 Chosen One? mingles with Draco’s haunted face in the 
 flames. 
-
+</stage>
 
 <sp who="#HARRY">
 When’d you get here? 
@@ -942,7 +942,7 @@ Anyway, Dad stepped in, told her she was being barmy. Took a day or two, but she
 But we’re talking about Hogwarts.
 Dumbledore. What could be safer? 
 
-Hermione and Ron exchange another glance. 
+<stage>Hermione and Ron exchange another glance. </stage>
 
 </sp>
 <sp who="#HERMIONE">
@@ -957,11 +957,11 @@ Rubbish. He’s only -- what?
 <sp who="#RON">
 A hundred and fifty. Give or take 
 a few years. 
-
+<stage>
 Silence. Nods. Then the three break out laughing. Grow 
 quiet again. Harry takes another poke at the Prophet. 
-Draco’s haunted face appears briefly, then is gone. 
-
+Draco’s haunted face appears briefly, then is gone.</stage> 
+</sp>
 </scene>
     <scene> <stage cat="INT" where="WEASLEY’S WIZARD WHEEZES (DIAGON ALLEY) - CLOSE ON A SHOPPING BAG - DAY"> 
 
@@ -976,7 +976,7 @@ MAGENTA, stand upon a counter, selling to the masses:
 </stage>
 <sp who="#FRED #GEORGE ">
 Step up! Step up! 
-
+</sp>
 <sp who="#GEORGE">
 We’ve got Fainting Fancy... 
 
@@ -991,14 +991,14 @@ And just in time for school...
 </sp>
 <sp who="#FRED">
 Puking Pastilles! 
-
-A BOY stops chewing, turns PALE GREEN -- literally. 
+</sp>
+<stage>A BOY stops chewing, turns PALE GREEN -- literally. </stage>
 
 <sp who="#FRED #GEORGE">
 Into the cauldron, handsome. 
 
-Together, with the tips of their toes, Fred and George launch a SLOSHING CAULDRON down the counter, drop down on either side of Harry, begin to steer him through the 
-store. 
+<stage>Together, with the tips of their toes, Fred and George launch a SLOSHING CAULDRON down the counter, drop down on either side of Harry, begin to steer him through the 
+store. </stage>
 
 </sp>
 <sp who="#FRED">
@@ -1010,11 +1010,12 @@ Amazing.
 
 </sp>
 <sp who="#GEORGE">
-(to a browsing boy)
+<stage>(to a browsing boy)</stage>
 
 Pocket that and you’ll pay in more
 
 than Galleons, my friend. 
+</sp>
 
 <sp who="#FRED #GEORGE">
 
@@ -1022,10 +1023,10 @@ We’ve got eyes in the back of our
 
 heads. 
 
-The boy, working a SCREAMING YO-YO, blanches as Fred and 
+<stage>The boy, working a SCREAMING YO-YO, blanches as Fred and 
 George turn, reveal they do in fact have EYES IN THE BACK 
 OF THEIR HEADS -- phony, but unnerving. As the EYES 
-WINK, the tiny boy bolts. 
+WINK, the tiny boy bolts. </stage>
 
 </sp>
 <sp who="#GEORGE">
@@ -1046,7 +1047,7 @@ A real money spinner that.
 Handy if you need to make a quick 
 escape. Hello, ladies! 
 
-George drops one of the lumps in Harry’s hand, turns to Ginny and Hermione, who peruse a display of “Wonder Witch Love Potions.” 
+<stage>George drops one of the lumps in Harry’s hand, turns to Ginny and Hermione, who peruse a display of “Wonder Witch Love Potions.” </stage>
 
 </sp>
 <sp who="#GEORGE">
@@ -1066,7 +1067,7 @@ Meaning?
 <sp who="#FRED">
 Are you not currently dating Dean Thomas? 
 
-Harry pretends to consider a rack of “Ten-Second PimpleVanisher,” but secretly eavesdrops. 
+<stage>Harry pretends to consider a rack of “Ten-Second PimpleVanisher,” but secretly eavesdrops. </stage>
 
 </sp>
 <sp who="#GINNY">
@@ -1083,16 +1084,16 @@ Inside a cage, small round BALLS of FLUFF roll about,  SQUEAK.
 Aren’t they now. Pygmy Puffs.
 Can’t breed them fast enough. 
 
-Just then a HUGE BOY (CORMAC McLAGGEN) passes behind Hermione and, with his eyes, takes the full measure of her. Noticing, she turns, receives a faint smile as he 
-moves on. 
+<stage>Just then a HUGE BOY (CORMAC McLAGGEN) passes behind Hermione and, with his eyes, takes the full measure of her. Noticing, she turns, receives a faint smile as he 
+moves on.</stage> 
 
 </sp>
 <sp who="#RON">
 How much for this? 
-
-A TINY WOODEN MAN ascends a TINY GALLOWS and... DROPS. 
+</sp>
+<stage>A TINY WOODEN MAN ascends a TINY GALLOWS and... DROPS. 
 George rides a rolling ladder INTO FRAME, drops next to  
-Fred.  
+Fred. </stage> 
 
 <sp who="#FRED #GEORGE">
 Five Galleons. 
@@ -1100,14 +1101,14 @@ Five Galleons.
 </sp>
 <sp who="#RON">
 How much for me? 
-
+</sp>
 <sp who="#FRED #GEORGE">
 Five Galleons. 
 
 </sp>
 <sp who="#RON">
 But I’m your brother! 
-
+</sp>
 <sp who="#FRED #GEORGE ">
 Ten Galleons. 
 
@@ -1126,7 +1127,7 @@ Hi, Ron.
 Hi. 
 
 </sp>
-</stage>
+
 </scene>
 <scene><stage cat="EXT" where=" DIAGON ALLEY - LATE AFTERNOON (MOMENTS LATER)">
 The sun fades over an IRON ARCHWAY -- Welcome to Diagon Alley! -- as Harry, Ron and Hermione pass beneath. All 
@@ -1369,7 +1370,7 @@ Harry studies Malfoy when a BOY pushes through the accordion doors. As they begi
 </scene>
 <scene><stage cat="EXT" where=" HOGWARTS EXPRESS - MOVING - SAME TIME - DUSK">
 One train car -- and only one -- goes DARK: 
-
+</stage>
 </scene>
 <scene> HOGWARTS EXPRESS - AISLE/COMPARTMENT - SAME TIME - DUSK 
 
@@ -1409,6 +1410,7 @@ Confused, Pansy glances at Blaise, who snorts derisively.
 <sp who="#MALFOY">
 Amused, Blaise? We’ll see just who’s laughing in the end. 
 Blaise shakes his head, smiling as he looks out the window at the darkness. Just then the small bag in the  upper rack shifts. Malfoy’s eyes play over it. 
+</sp>
 </scene>
 <scene> <stage>STATION - DUSK/EVENING
 The Hogwarts Express steams into the station. 
@@ -1422,7 +1424,7 @@ Where’s Harry?
 </sp>
 <sp who="#RON">
 Probably on the platform. C’mon. 
-
+</sp>
 </scene>
 <scene><stage> COMPARTMENT - DUSK/EVENING
 As Blaise and Pansy make to exit, Malfoy takes down the small bag, grips the handle thoughtfully. 
@@ -1444,8 +1446,8 @@ bad manners to eavesdrop, Potter?
 
 Petrificus Totalus! 
 
-Malfoy wheels, points his wand at the luggage rack.
-Something hits the floor with a THUMP. The InvisibilityCloak slips away and reveals Harry, paralyzed on the floor. Malfoy grins. 
+<stage>Malfoy wheels, points his wand at the luggage rack.
+Something hits the floor with a THUMP. The Invisibility Cloak slips away and reveals Harry, paralyzed on the floor. Malfoy grins. </stage>
 
 </sp>
 <sp who="#MALFOY">
@@ -1455,15 +1457,15 @@ could wipe the drool off your
 
 chin. 
 
-Malfoy brings his boot down hard on Harry’s face. SNAP! 
-Blood squirts from Harry’s nose. Malfoy snatches up the Invisibility Cloak, pitches it over Harry. 
+<stage>Malfoy brings his boot down hard on Harry’s face. SNAP! 
+Blood squirts from Harry’s nose. Malfoy snatches up the Invisibility Cloak, pitches it over Harry. </stage>
 
 </sp>
 <sp who="#MALFOY">
 Enjoy the ride back to London. 
 
 </sp>
-</stage>
+
 </scene>
 <scene><stage cat="EXT" where=" STATION - EVENING (MOMENTS LATER)">
 Malfoy steps off, pulls his cloak tight and disappears into the night. Softly, a SOUND rises, of a GIRL LIGHTLY HUMMING and we -
@@ -1782,7 +1784,7 @@ That was cheerful.
 <scene><stage cat="INT" where=" CORRIDOR - MORNING">
 A TEEMING MASS of STUDENTS fight their way to class on first day of term. Amidst it all, McGonagall stands tall and stern. The twins pass by, bearing identical looks of consternation. </stage>
 
-</sp>
+
 <sp who="#MCGONAGALL">
 
 History of Magic is up, ladies,
@@ -1791,15 +1793,15 @@ not down. Mr. Davies -- that’s
 
 the girl’s toilet... 
 
-McGonagall’s eyes shift, find Harry and Ron sitting upon a ledge, clearly deriving immense pleasure from the chaos. 
+<stage>McGonagall’s eyes shift, find Harry and Ron sitting upon a ledge, clearly deriving immense pleasure from the chaos.</stage> 
 
 </sp>
 <sp who="#MCGONAGALL">
 Potter! 
 
-Harry’s smile droops. McGonagall beckons with a finger. 
+<stage>Harry’s smile droops. McGonagall beckons with a finger.</stage> 
 
-
+</sp>
 <sp who="#HARRY">
 This can’t be good. 
 
@@ -1870,7 +1872,7 @@ Ron trails Harry toward an open door. </stage>
 <sp who="#RON">
 But I don’t want to take Potions! 
 </sp>
-</scene>
+
 </scene>
 <scene><stage> SLUGHORN’S CLASSROOM - CONTINUOUS ACTION - MORNING
 As Harry drags Ron inside, the other students turn in unison. Hermione frowns. Lavender, seeing Ron, beams. 
@@ -2122,11 +2124,11 @@ it well.
 Slowly, Harry reaches out... takes the glittering vial. 
 
 </sp>
-</stage>
+
 </scene>
 <scene><stage cat="EXT" where=" CASTLE - NIGHT">
 The Castle is dark, but for one WINDOW. 
-
+</stage>
 </scene>
 <scene> DUMBLEDORE’S OFFICE - SAME TIME - NIGHT
 Dumbledore sits alone at his desk, the deep lines of his face illuminated by the shimmering PENSIEVE. TWO OBJECTS 
@@ -2234,11 +2236,11 @@ The IMAGE SHUDDERS and we -
 CUT TO: 
 
 </stage>
-</stage>
+
 </scene>
 <scene><stage cat="INT" where=" ORPHANAGE - CORRIDOR - PENSIEVE - DAY">
 A skinny, sharp-featured woman, MRS. COLE, leads Dumbledore down a drab corridor. CHILDREN’S VOICES carry from an unseen COURTYARD, splashing and shrieking, in the 
-midst of some game. 
+midst of some game. </stage>
 
 
 <sp who="#MRSCOLE ">
@@ -2265,13 +2267,14 @@ children. Nasty things.
 </sp>
 <sp who="#DUMBLEDORE">
 Perhaps you could give me an example. 
-Mrs. Cole starts to speak, then shakes her head, moves off. As Dumbledore makes to follow, his eyes happen upon 
+</sp>
+<stage>Mrs. Cole starts to speak, then shakes her head, moves off. As Dumbledore makes to follow, his eyes happen upon 
 a FRAMED PHOTOGRAPH on the wall, old and yellowing,
 depicting a SEASIDE SCENE of a SHARP ROCK OUTCROPPING and 
 a CAVE. As he exits, we HOLD ON it. 
 NEW ANGLE - CORRIDOR OUTSIDE TOM RIDDLE’S ROOM 
 Mrs. Cole’s hand appears. KNOCKS. She turns the KNOB. 
-
+</stage>
 </scene>
 <scene><stage> ORPHANAGE - RIDDLE’S ROOM - PENSIEVE - DAY
 A small room, grim and shadowy. TOM RIDDLE, 11 years old, sits atop a bed, hands in lap. The walls CRAWL with 
@@ -2464,8 +2467,8 @@ that normal. For someone like me?
 It is unusual. But not unheard 
 of. 
 
-Dumbledore exits then, without a backward glance, leaving11-year-old Tom Riddle alone. The IMAGE SHUDDERS and... 
-
+<stage>Dumbledore exits then, without a backward glance, leaving11-year-old Tom Riddle alone. The IMAGE SHUDDERS and...</stage> 
+</sp>
 </scene>
 <scene><stage> DUMBLEDORE’S OFFICE - NIGHT (PRESENT)
 ... Harry and Dumbledore reappear. The room has grownDIM in their absence. Dumbledore gestures. LAMPS BLAZE 
@@ -2516,14 +2519,13 @@ I did.
 <sp who="#HARRY">
 Do you want me to let him? 
 
-Dumbledore trails his ashen fingers in the surface of the Pensieve, vanquishing young Tom Riddle’s face. 
+<stage>Dumbledore trails his ashen fingers in the surface of the Pensieve, vanquishing young Tom Riddle’s face. </stage>
 
 </sp>
 <sp who="#DUMBLEDORE">
 Yes. 
 
 </sp>
-</stage>
 </scene>
 <scene><stage cat="EXT" where=" QUIDDITCH PITCH - MORNING">
 Harry tries -- with little success -- to get the attention of the throng of aspiring Quidditch players assembled on the pitch. 
@@ -2690,7 +2692,7 @@ slips away.
 <scene><stage cat="INT" where=" COMMON ROOM - NIGHT">
 Harry scans his Potions book. Hermione peruses the 
 Prophet. Ron cracks walnuts, pitching the pieces into the fire. 
-
+</stage>
 
 <sp who="#RON">
 Have to admit, thought I was going
@@ -2699,7 +2701,7 @@ to miss that last one. Hope
 
 Cormac’s not taking it too hard. 
 
-Behind her paper, Hermione rolls her eyes. 
+<stage>Behind her paper, Hermione rolls her eyes. </stage>
 
 </sp>
 <sp who="#RON">
@@ -2711,13 +2713,13 @@ Hermione. Cormac.
 <sp who="#HERMIONE">
 He’s vile. 
 
-Ron considers this, then glances across the room atLavender. 
+<stage>Ron considers this, then glances across the room at Lavender. </stage>
 
 </sp>
 <sp who="#HARRY">
 Ever heard of this spell? 
 
-Harry points to a notation in the margin underlined three times: “Sectumsempra. For Enemies.” Hermione frowns. 
+<stage>Harry points to a notation in the margin underlined three times: “Sectumsempra. For Enemies.” Hermione frowns. </stage>
 
 </sp>
 <sp who="#HERMIONE">
@@ -2728,7 +2730,7 @@ No I have not. And if you had a shred of self-respect you would turn that book i
 Not bloody likely. He’s top of the class. Even better than you,
 Hermione. Slughorn thinks he’s a genius. 
 
-Hermione casts Ron a withering glance. 
+<stage>Hermione casts Ron a withering glance. </stage>
 
 </sp>
 <sp who="#RON">
@@ -2741,12 +2743,12 @@ shall we?
 
 </sp>
 <sp who="#HARRY">
-(holding it out of reach)
+<stage>(holding it out of reach)</stage>
 No. 
 
 </sp>
 <sp who="#HERMIONE">
-(suspicious)
+<stage>(suspicious)</stage>
 Why not? 
 
 </sp>
@@ -2757,13 +2759,13 @@ It’s... old. The binding is fragile.
 <sp who="#HERMIONE">
 The binding is fragile? 
 
-She makes another grab for it, but Harry holds it clear.
-Then Ginny appears, plucks it out of his hand. 
+<stage>She makes another grab for it, but Harry holds it clear.
+Then Ginny appears, plucks it out of his hand. </stage>
 
 </sp>
 <sp who="#GINNY">
 Who’s the Half-Blood Prince? 
-
+</sp>
 <sp who="#HERMIONE #RON">
 The who? 
 
@@ -2773,14 +2775,13 @@ That’s what it says. Right here.
 
 ‘This Book is the Property of theHalf-Blood Prince.’ 
 
-Ginny points. Written on the frontispiece is: “This 
-Book is the Property of the Half-Blood Prince.” 
+<stage>Ginny points. Written on the frontispiece is: “This 
+Book is the Property of the Half-Blood Prince.” </stage>
 </sp>
-</stage>
 </scene>
 <scene><stage cat="EXT" where=" MAIN STREET (HOGSMEADE VILLAGE) - DAY">
 Students lean into a bitter wind, trudging through deep 
-snow. 
+snow. </stage>
 
 
 <sp who="#HERMIONE">
@@ -2794,9 +2795,9 @@ And, by the way, I don’t sleep with it.
 
 </sp>
 <sp who="#RON">
-(a sarcastic chortle)
+<stage>(a sarcastic chortle)</stage>
 Yeah. Right.
-(as Harry glares)
+<stage>(as Harry glares)</stage>
 Well, it’s true. I like a nice 
 chat before I go to bed. Now 
 you’re always reading that bloody book. It’s like being with Hermione. 
@@ -2804,29 +2805,31 @@ This time it’s Hermione’s turn to glare.
 </sp>
 <sp who="#HERMIONE">
 Well, I was curious. So I went 
-to -The 
-library. 
+to  
+</sp>
 <sp who="#HARRY #RON ">
-And? 
+-The library.
 </sp>
 <sp who="#HARRY">
+And? 
 </sp>
 <sp who="#HERMIONE">
 And... nothing. There’s no 
 reference to the Half-Blood Prince 
 anywhere. 
-Good. 
+
 </sp>
 <sp who="#HARRY">
-That settles it then. 
-Hermione starts to object, when: 
+Good. That settles it then. 
+
+<stage>Hermione starts to object, when: </stage>
 </sp>
 <sp who="#HAGRID">
 Hey, you three! 
 
-HAGRID emerges out of the trees, beard crusted in white,
+<stage>HAGRID emerges out of the trees, beard crusted in white,
 looking like a crazed Father Christmas. Behind him, deep in the woods, DARK SILHOUETTES --AURORS -- can be seen. 
-Hermione eyes them briefly, then nods to the PULSATING BURLAP BAG Hagrid clutches in his fist. 
+Hermione eyes them briefly, then nods to the PULSATING BURLAP BAG Hagrid clutches in his fist. </stage>
 
 </sp>
 <sp who="#HERMIONE">
@@ -2860,21 +2863,20 @@ Tha’s the one. He’s taken ill.
 I’m hopin’ ter nurse ‘im back.
 Keep yer fingers crossed. 
 
-Hagrid crosses his fingers. Ron forces a grin, does the same, shakes his head as Hagrid disappears back into the 
-trees. 
+<stage>Hagrid crosses his fingers. Ron forces a grin, does the same, shakes his head as Hagrid disappears back into the trees. </stage>
 
 </sp>
 <sp who="#RON">
 Barking. Does he not remember 
 that raving arachnid tried to eat us? What? 
 
-Ron sees Hermione staring at the Aurors again. 
+<stage>Ron sees Hermione staring at the Aurors again. </stage>
 
 </sp>
 <sp who="#HERMIONE">
 The Aurors. I know they’re here to protect us, but... somehow I don’t feel any safer. 
 
-Just then Harry spies Slughorn, heading down towards the Village, passing a weary Flitwick coming the other way. 
+<stage>Just then Harry spies Slughorn, heading down towards the Village, passing a weary Flitwick coming the other way.</stage> 
 
 </sp>
 <sp who="#SLUGHORN">
@@ -2888,14 +2890,13 @@ Emergency choir practice, I’m
 
 afraid, Horace. 
 
-Harry watches Slughorn continue on toward the Village. 
+<stage>Harry watches Slughorn continue on toward the Village. </stage>
 
 </sp>
 <sp who="#HARRY">
 Who’s up for a Butterbeer? 
 
 </sp>
-</stage>
 </scene>
 <scene><stage cat="INT" where=" THREE BROOMSTICKS - DAY (LATER)">
 As the trio enter, Harry glances round, locates Slughorn at the bar, planted plumply on a stool. 
@@ -3064,7 +3065,7 @@ Without a thought, she flicks her tongue up, wipes it clean.
 </scene>
 <scene><stage cat="EXT" where=" ROAD (OUTSIDE HOGSMEADE) - DAY (MOMENTS LATER)">
 The snow falls heavily now. Ron and Harry walk together,
-while Hermione trails several yards behind, pirouetting happily, letting snowflakes fall on her tongue. 
+while Hermione trails several yards behind, pirouetting happily, letting snowflakes fall on her tongue. </stage>
 
 
 <sp who="#RON">
@@ -3083,16 +3084,15 @@ Katie. You don’t know what it
 
 could be! 
 
-Up ahead, Katie Bell and Leanne stand in the drifting snow, ARGUING. Katie holds a SLENDER PACKAGE. Hermione 
-comes bumping up, drapes her arms over the boys. 
+<stage>Up ahead, Katie Bell and Leanne stand in the drifting snow, ARGUING. Katie holds a SLENDER PACKAGE. Hermione comes bumping up, drapes her arms over the boys. </stage>
 
 </sp>
 <sp who="#HERMIONE">
 What’s up? 
 
-At that very instant, Katie Bell RISES SIX FEET INTO THE AIR. Hair dancing violently in the wind, her face remains eerily placid. Then she... SCREAMS. Harry and Ron DASH FORWARD, seize her ankles. At their touch, she 
+<stage>At that very instant, Katie Bell RISES SIX FEET INTO THE AIR. Hair dancing violently in the wind, her face remains eerily placid. Then she... SCREAMS. Harry and Ron DASH FORWARD, seize her ankles. At their touch, she 
 FALLS to the snow, THRASHING and SHRIEKING, EYES ROLLED 
-UP in her skull. 
+UP in her skull. </stage>
 
 </sp>
 <sp who="#LEANNE">
@@ -3116,21 +3116,21 @@ I’ll get someone --
 <sp who="#HARRY">
 There’s no time! 
 
-Suddenly, a MASSIVE FIGURE LURCHES out of the WHITE:
-Hagrid. 
+<stage>Suddenly, a MASSIVE FIGURE LURCHES out of the WHITE:
+Hagrid. </stage>
 
 </sp>
 <sp who="#HAGRID">
 Get back! All o’ yeh! 
 
-He says this so forcefully the others instantly obey.
-Effortlessly, he scoops up Katie’s thrashing body and then, as if calming a terrified animal, presses his face close to hers and WHISPERS with great TENDERNESS: 
+<stage>He says this so forcefully the others instantly obey.
+Effortlessly, he scoops up Katie’s thrashing body and then, as if calming a terrified animal, presses his face close to hers and WHISPERS with great TENDERNESS: </stage>
 
 </sp>
 <sp who="#HAGRID">
 Now, now. Now, now... 
 
-Over and over he repeats this, soothingly, the words like a mantra, until Katie’s lids flutter and her body goes limp. 
+<stage>Over and over he repeats this, soothingly, the words like a mantra, until Katie’s lids flutter and her body goes limp. </stage>
 
 </sp>
 <sp who="#HAGRID">
@@ -3138,9 +3138,9 @@ Don’ go touchin’ tha’ but by the
 
 wrappin’s. Unnerstan’? 
 
-Hagrid nods darkly to the package in the snow. Harry kneels. Poking through the paper is an ORNATE OPAL NECKLACE. Taking off his scarf he carefully enfolds package and rises. Then, along with the others, he watches Hagrid lumber off, Katie cradled in his arms. In 
-seconds they are swallowed by the snow. The only sound is the ROAR of the WIND. 
-
+<stage>Hagrid nods darkly to the package in the snow. Harry kneels. Poking through the paper is an ORNATE OPAL NECKLACE. Taking off his scarf he carefully enfolds package and rises. Then, along with the others, he watches Hagrid lumber off, Katie cradled in his arms. In 
+seconds they are swallowed by the snow. The only sound is the ROAR of the WIND. </stage>
+</sp>
 </scene>
 <scene><stage> McGONAGALL’S OFFICE - LATER (LATE AFTERNOON)
 The necklace lies green and glittering upon McGonagall’s desk. 
@@ -3155,8 +3155,8 @@ this in her possession when she
 entered the Three Broomsticks, 
 
 Leanne? 
+</sp>
 
-</stage>
 <sp who="#LEANNE">
 It’s like I said. She went to the 
 
@@ -3267,6 +3267,7 @@ Ron and Hermione avert their eyes uncomfortably.
 </sp>
 <sp who="#MCGONAGALL">
 I suggest you return to your dormitory. All of you. 
+</sp>
 </scene>
 <scene><stage> BOYS’ DORMITORY (GRYFFINDOR TOWER) - NIGHT
 Harry and Ron lie awake in the darkened dormitory.
@@ -3345,7 +3346,7 @@ Harry sets the Map aside. We HOLD. Malfoy’s DOT moves down the 7th Floor corri
 <sp>SLUGHORN (V.O.) 
 
 A toast! 
-
+</sp>
 </scene>
 <scene><stage> SLUGHORN’S OFFICE - NIGHT
 Slughorn stands at the head of a table, goblet raised to the students seated before him, which in addition to 
@@ -3461,10 +3462,10 @@ What?
 <sp who="#HERMIONE">
 Nothing. 
 
-As Hermione smiles, she lightly strokes the crystal hourglass with a finger and we --
+<stage>As Hermione smiles, she lightly strokes the crystal hourglass with a finger and we --
 
-DISSOLVE TO: 
-
+DISSOLVE TO: </stage>
+</sp>
 </scene>
 <scene><stage> SLUGHORN’S OFFICE - NIGHT (LATER)
 ... LATER, the sand having run out with the evening. 
@@ -3600,7 +3601,7 @@ deep within.
 Nary a grain trickles through. 
 </sp>
 
-</stage>
+
 </scene>
 <scene><stage cat="INT" where=" GREAT HALL - MORNING">
 Ron enters the Hall, eyes lowered, knuckles taped forQuidditch, flexing his fingers anxiously as he makes for the Gryffindor table. Neville passes going the other 
@@ -3921,7 +3922,7 @@ agent.
 </scene>
 <scene><stage cat="INT" where=" LIBRARY - NIGHT">
 Harry trails Hermione through the stacks. 
-
+</stage>
 
 <sp who="#HERMIONE">
 He’s at perfect liberty to kiss
@@ -3955,7 +3956,7 @@ we’d really like... maybe we’d go together. As friends.
 
 </sp>
 <sp who="#HERMIONE">
-(stopping)
+<stage>(stopping)</stage>
 Why didn’t I think of that? 
 
 </sp>
@@ -3964,7 +3965,7 @@ So who are you taking?
 
 </sp>
 <sp who="#HERMIONE">
-(evasively)
+<stage>(evasively)</stage>
 Um... it’s a surprise. Besides, 
 it’s you we need to worry about.
 And you can’t pick just anyone.
@@ -3976,23 +3977,23 @@ trying to slip you a love potion.
 <sp who="#HARRY">
 Really...? 
 
-Harry considers a fine-boned GIRL with RAVEN HAIR(ROMILDA VANE). She is exquisite, an absolute work of... 
+<stage>Harry considers a fine-boned GIRL with RAVEN HAIR (ROMILDA VANE). She is exquisite, an absolute work of...</stage> 
 
 </sp>
 <sp who="#HERMIONE">
-(snapping fingers) 
+<stage>(snapping fingers) </stage>
 Hey! She’s only interested in you because she thinks you’re theChosen One. You know that, right? 
 
 </sp>
 <sp who="#HARRY">
 But I am the Chosen One. 
 
-Hermione cocks her head at him, exasperated. 
+<stage>Hermione cocks her head at him, exasperated. </stage>
 
 </sp>
 <sp who="#HARRY">
 Okay. Kidding. I’ll just ask someone I like. Someone cool. 
-
+</sp>
 </scene>
 <scene><stage> STAIRCASE/CORRIDOR - NIGHT 
 Luna Lovegood, decked out in a set of SPANGLED SILVER ROBES, and Harry, in basic black, make their way toward the STRAINS of CHRISTMAS MUSIC, RED LANTERNS lighting their way. 
@@ -4001,12 +4002,12 @@ Luna Lovegood, decked out in a set of SPANGLED SILVER ROBES, and Harry, in basic
 I’ve never been to this part of the castle. At least not while 
 awake. I sleepwalk, you see.
 It’s why I wear shoes to bed. 
-As Harry and Luna pass out of sight, we PICK UP Malfoy,
+<stage>As Harry and Luna pass out of sight, we PICK UP Malfoy,
 standing in the shadows of an alcove. He watches them 
-go, then moves off. 
+go, then moves off.</stage> 
 
 </sp>
-</stage>
+
 </scene>
 <scene><stage cat="INT" where=" HOGWARTS CASTLE - ANOTHER CORRIDOR - SAME TIME -">
 
@@ -4031,7 +4032,7 @@ eyes.
 CAMERA GLIDES PAST dozens of TOWERING SHELVES, dust-
 strewn and listing like dominoes, cluttered with all matter of strange OBJECTS. Draco appears, his legs pushing him on, wending his way through the narrow 
 passages. 
-
+</stage>
 <stage>NEW ANGLE - BEHIND LARGE RECTANGULAR MASS 
 We RISE ABOVE it, watch Draco walk directly TOWARD us and 
 stop. He stares at the solid mass before him. Reaches 
@@ -4047,7 +4048,7 @@ the cabinet again. Waits. Longer this time. Finally,
 he opens it. Removes the apple. Rotates it. 
 
 Someone has taken a BITE out of it. 
-
+</stage>
 </scene>
 <scene><stage> SLUGHORN’S OFFICE - NIGHT (MOMENTS LATER)
 FLASH! A CAMERA POPS, reveals Harry smiling with Slughorn before a PHOTOGRAPHER (ADRIAN). The ceiling and walls are draped with HANGINGS of emerald, crimson and gold, so the room feels like a tent... or the inside of a gift box. It is LOUD and packed with people. 
@@ -4056,7 +4057,7 @@ FLASH! A CAMERA POPS, reveals Harry smiling with Slughorn before a PHOTOGRAPHER 
 <sp who="#SLUGHORN">
 Thank you, Adrian! 
 
-(quietly to Harry)
+<stage>(quietly to Harry)</stage>
 
 One of mine. Class of ‘78. I had 
 
@@ -4064,7 +4065,7 @@ hoped for more out of him, but at
 
 least the pictures are in focus.
 
-(suddenly)
+<stage>(suddenly)</stage>
 
 Oh my! Excuse me, Harry. I must 
 
@@ -4072,7 +4073,7 @@ greet the new Minister of Magical
 
 Transportation. Class of ‘67. 
 
-(as he goes)
+<stage>(as he goes)</stage>
 
 Mingle, m’boy! Mingle! We’re all 
 
@@ -4080,10 +4081,9 @@ friends here. And we run the
 
 world. 
 
-Harry watches Slughorn make a beeline across the room,
-along the way nodding to the twins, who have apparently come with each other. 
-
-</stage>
+<stage>Harry watches Slughorn make a beeline across the room,
+along the way nodding to the twins, who have apparently come with each other. </stage>
+</sp>
 <sp who="#VOICE "><stage>O.S.</stage>
 Drink? 
 
@@ -4284,7 +4284,7 @@ Draco’s eyes shift, regard Snape. He shrugs free ofFilch.
 Certainly... Professor. 
 
 </sp>
-</stage>
+
 </scene>
 <scene><stage cat="EXT" where=" DARK CORRIDOR - NIGHT (MOMENTS LATER)">
 CAMERA GLIDES in the DARKNESS. VOICES are HEARD. </stage>
@@ -4488,13 +4488,13 @@ She smiles at him, hooks her ginger hair over one ear and Ron plops down between
 <scene><stage cat="EXT" where=" REEDS (SURROUNDING BURROW) - NIGHT (LATER)">
 Within the reeds. An eerie POV. TRACKING Harry and Mr.
 Weasley as they walk from the house to the adjacentWORKSHOP. 
-
+</stage>
 </scene>
-<scene> MR. WEASLEY’S WORKSHOP - NIGHT (MOMENTS LATER)
+<scene> <stage>MR. WEASLEY’S WORKSHOP - NIGHT (MOMENTS LATER)
 Harry trails Mr. Weasley through his cluttered workshop,
 which is chock-a-block with MUGGLE OBJECTS: Steam irons. 
 Toasters. Clock radios. Plugs. Lots of plugs. The 
-PARTY can still be heard, drifting faintly from the main house. 
+PARTY can still be heard, drifting faintly from the main house. </stage>
 
 
 <sp who="#MRWEASLEY ">
@@ -4505,7 +4505,7 @@ takes its toll -- his condition.
 
 </sp>
 <sp who="#HARRY">
-(studying him)
+<stage>(studying him)</stage>
 Are you alright, Mr. Weasley? 
 
 Arthur tries a smile, but it fades. He frowns, pained. 
@@ -4521,7 +4521,7 @@ days. It’s not been easy.
 
 </sp>
 <sp who="#HARRY">
-(a nod, then)
+<stage>(a nod, then)</stage>
 Did you get my owl? 
 
 </sp>
@@ -4623,7 +4623,6 @@ what happens when you don’t know
 if today will be your last. 
 
 </sp>
-</stage>
 </scene>
 <scene><stage cat="EXT" where=" REEDS (SURROUNDING BURROW) - NIGHT (LATER)">
 Similar eerie POV. On the porch, Molly and Arthur,
@@ -4786,7 +4785,7 @@ You’re lucky you weren’t killed.
 </scene>
 <scene><stage cat="INT" where=" HOGWARTS CASTLE - CORRIDOR - SAME TIME - DAY">
 Hermione reads the Daily Prophet as she walks alongsideHarry. The HEADLINE is GLOOMY: “MORE DISAPPEARANCES.” 
-
+</stage>
 
 <sp who="#HERMIONE">
 You have to realize who you are,
@@ -4795,13 +4794,13 @@ Harry.
 
 </sp>
 <sp who="#HARRY">
-(sharply)
+<stage>(sharply)</stage>
 
 I know who I am, Hermione, 
 
 alright?
 
-(frowning)
+<stage>(frowning)</stage>
 Sorry. 
 
 </sp>
@@ -4830,7 +4829,7 @@ Vanishing Cabinet?
 <sp who="#HARRY">
 You tell me. 
 
-Hermione frowns, pondering this. Then: 
+<stage>Hermione frowns, pondering this. Then: </stage>
 
 </sp>
 <sp who="#HERMIONE">
@@ -4843,12 +4842,10 @@ Who could tell the difference?
 </sp>
 <sp who="#RON "><stage>O.S.</stage>
 
-Lav, c’mon. Of course I’ll wear 
+Lav, c’mon. Of course I’ll wear it. 
 
-it. 
-
-They glance ahead, see Ron and a pouting Lavender. Ron 
-holds a GOLD CHAIN which spells out “My Sweetheart.” 
+<stage>They glance ahead, see Ron and a pouting Lavender. Ron 
+holds a GOLD CHAIN which spells out “My Sweetheart.” </stage>
 
 </sp>
 <sp who="#LAVENDERBROWN">
@@ -4858,11 +4855,11 @@ That’s my Won-Won.
 <sp who="#HERMIONE">
 Excuse me, I have to go vomit. 
 
-As Hermione exits, Harry spies Ginny, in an alcove,
+<stage>As Hermione exits, Harry spies Ginny, in an alcove,
 sitting by as Dean laughs with SEAMUS. Looking up, she sees Harry, gives a feeble wave. He waves back and we -
 
-CUT TO: 
-
+CUT TO:</stage> 
+</sp>
 </scene>
 <scene><stage> DUMBLEDORE’S OFFICE - NIGHT
 HARRY’S FACE PLUNGING INTO WATER, BREAKING THE SURFACE... 
@@ -4963,6 +4960,7 @@ Suddenly, a DENSE FOG engulfs the room and SLUGHORN’S VOICE twists into an ANG
 I don’t know anything about such things and I wouldn’t tell you if I did! Now get out of here at once and don’t ever let me catch 
 you mentioning it again! 
 The FOG grows thicker and... 
+</sp>
 </scene>
 <scene><stage> DUMBLEDORE’S OFFICE - NIGHT (PRESENT)
 ... CAMERA EMERGES FROM the swirling Pensieve. Harry blinks, finds Dumbledore studying him from across the 
@@ -5023,7 +5021,7 @@ to chance. You have no choice.
 You must not fail. 
 
 As Harry watches, the damp sheen enveloping Dumbledore’s hand evaporates and once again his fingers decay. 
-
+</sp>
 </scene>
 <scene><stage>EXT. SLUGHORN’S CLASSROOM - DAY
 As the CLASS BELL RINGS, a group of FIRST YEARS rise. 
@@ -5035,9 +5033,9 @@ poisoning one of you next time we
 meet. I’m joking! Off you go!
 Don’t forget your rattails, Miss Alys. 
 
-As the tiny ones scurry out, Harry is revealed, waiting just outside the door. He enters. For a moment, 
+<stage>As the tiny ones scurry out, Harry is revealed, waiting just outside the door. He enters. For a moment, 
 Slughorn merely HUMS over his briefcase, unaware.
-Then... 
+Then... </stage>
 
 </sp>
 <sp who="#SLUGHORN">
@@ -5070,7 +5068,7 @@ I’m not sure... That is, I don’t
 recall the name... exactly. But 
 it got me wondering... Are there some kinds of magic you’re not allowed to teach? 
 
-Slughorn looks up, eyes Harry carefully. 
+<stage>Slughorn looks up, eyes Harry carefully. </stage>
 
 </sp>
 <sp who="#SLUGHORN">
@@ -5083,20 +5081,20 @@ Yes, well, we don’t exactly see eye-to-eye, sir. What I mean to
 say is, he’s not like you. He 
 might... misunderstand. 
 
-Recognition flickers in Slughorn’s eyes. A glint of fear. 
+<stage>Recognition flickers in Slughorn’s eyes. A glint of fear. </stage>
 
 </sp>
 <sp who="#SLUGHORN">
 There can be no light without the dark. And so it is with magic.
 Myself, I have always strived to live within the light. I suggest you do the same. 
 
-Slughorn gathers his briefcase, starts to exit. 
+<stage>Slughorn gathers his briefcase, starts to exit. </stage>
 
 </sp>
 <sp who="#HARRY">
 Did you say the same to Tom Riddle, sir? When he came asking questions. 
 
-Slughorn freezes in the doorway, then slowly turns. 
+<stage>Slughorn freezes in the doorway, then slowly turns. </stage>
 
 </sp>
 <sp who="#SLUGHORN">
@@ -5106,11 +5104,10 @@ Didn’t he? Didn’t he!
 </sp>
 <sp who="#HARRY">
 Sir --
-Slughorn silences him with an upraised hand.
+<stage>Slughorn silences him with an upraised hand.
 without another word, he is gone. 
-Then, 
+Then, </stage>
 </sp>
-</stage>
 </scene>
 <scene><stage cat="INT" where=" CORRIDOR - DAY (MOMENTS LATER) ">
 Lightning flashes. Thunder rumbles. Rain lashes the 
@@ -5162,7 +5159,7 @@ Dead.
 </stage>
 </scene>
 <scene><stage cat="INT" where=" COMMON ROOM - NIGHT">
-Hermione does her homework while Harry peers at the Marauder’s Map. They are the only ones present. 
+Hermione does her homework while Harry peers at the Marauder’s Map. They are the only ones present. </stage>
 
 
 <sp who="#HERMIONE">
@@ -5186,7 +5183,7 @@ Nice.
 
 </sp>
 <sp who="#HERMIONE">
-(rising to go)
+<stage>(rising to go)</stage>
 
 You’re going to have to persuade
 
@@ -5200,7 +5197,7 @@ Hermione. I think Malfoy’s
 
 leaving the castle. 
 
-Hermione stops dead, looks back at Harry. He nods. 
+<stage>Hermione stops dead, looks back at Harry. He nods. </stage>
 
 </sp>
 <sp who="#HARRY">
@@ -5222,9 +5219,9 @@ The Map is wrong.
 <sp who="#HARRY">
 The Map is never wrong. 
 
-Hermione frowns, thinking, then shakes her head, turns 
-away. 
-
+<stage>Hermione frowns, thinking, then shakes her head, turns 
+away. </stage>
+</sp>
 </scene>
 <scene><stage> BOYS’ DORMITORY (GRYFFINDOR TOWER) - NIGHT (LATER)
 Harry slumps into the darkened dormitory. Stops. On the 
@@ -5267,7 +5264,7 @@ think... I think I love her.
 <sp who="#HARRY">
 Excuse me? 
 
-Ron nods. Harry looks bewildered. 
+<stage>Ron nods. Harry looks bewildered. </stage>
 
 </sp>
 <sp who="#HARRY">
@@ -5294,14 +5291,14 @@ Who’re you talking about?
 <sp who="#RON">
 Romilda, of course. Romilda Vane. 
 
-Harry stares at Ron... then grins. 
+<stage>Harry stares at Ron... then grins. </stage>
 
 </sp>
 <sp who="#HARRY">
 Okay. Very funny. 
 
-He turns to his bed, throws back the covers when... the 
-heart-shaped box caroms off his head. 
+<stage>He turns to his bed, throws back the covers when... the 
+heart-shaped box caroms off his head. </stage>
 
 </sp>
 <sp who="#HARRY">
@@ -5322,10 +5319,9 @@ her!
 <sp who="#RON">
 No. Can you introduce me? 
 
-Harry stops rubbing his head, eyes Ron oddly, then glances at the candy box at his feet. There is an 
-envelope. Taking it, he slides out a card: “Dear Harry.
+<stage>Harry stops rubbing his head, eyes Ron oddly, then glances at the candy box at his feet. There is an envelope. Taking it, he slides out a card: “Dear Harry.
 Thinking sweet thoughts of you. Happy Valentine’s Day.
-Romilda.” He suppresses a smile. 
+Romilda.” He suppresses a smile. </stage>
 
 </sp>
 <sp who="#HARRY">
@@ -5333,11 +5329,10 @@ Ron, these chocolates, they’re --
 C’mon. I’m going to introduce you to Romilda Vane. 
 
 </sp>
-</stage>
 </scene>
 <scene><stage cat="INT" where=" CORRIDOR - NIGHT (MOMENTS LATER)">
 Harry leads Ron, still in his PJs, toward a door. 
-
+</stage>
 
 <sp who="#RON">
 How do I look? 
@@ -5346,28 +5341,28 @@ How do I look?
 <sp who="#HARRY">
 Devastatingly handsome. 
 
-Harry RAPS on the door. FOOTSTEPS -- followed by a LOUD CRASH. 
+<stage>Harry RAPS on the door. FOOTSTEPS -- followed by a LOUD CRASH. </stage>
 
 </sp>
-<sp>SLUGHORN (O.S.) 
+<sp who="#SLUGHORN"><stage> (O.S.) </stage>
 
 Damn it all! 
 
-The door OPENS. Slughorn stands in a GREEN VELVET DRESSING GOWN and matching NIGHTCAP, looking bleary-eyed and annoyed. Something SMOKES on the floor behind him --
+<stage>The door OPENS. Slughorn stands in a GREEN VELVET DRESSING GOWN and matching NIGHTCAP, looking bleary-eyed and annoyed. Something SMOKES on the floor behind him --
 the FLOOR LAMP he’d sent wobbling the night of the dinner 
-party. 
+party.</stage> 
 
 </sp>
 <sp who="#SLUGHORN">
 Yes???!!!! 
 
-(warily)
+<stage>(warily)</stage>
 
 Oh. Potter. It’s you. I’m 
 
 afraid I’m busy at the moment --
 
-He starts to close the door. Harry sticks his foot in. 
+<stage>He starts to close the door. Harry sticks his foot in. </stage>
 
 </sp>
 <sp who="#HARRY">
@@ -5381,19 +5376,19 @@ absolutely --
 <sp who="#RON">
 Where’s Romilda? 
 
-Slughorn squints over Harry’s shoulder at Ron who is doing precisely the same from the other side. 
+<stage>Slughorn squints over Harry’s shoulder at Ron who is doing precisely the same from the other side.</stage> 
 
 </sp>
 <sp who="#SLUGHORN">
 What’s the matter with Wenby? 
 
-Harry leans forward, WHISPERS into Slughorn’s ear. He 
-frowns. 
+<stage>Harry leans forward, WHISPERS into Slughorn’s ear. He 
+frowns.</stage> 
 
 </sp>
 <sp who="#SLUGHORN">
 Ah. Very well. Bring him in. 
-
+</sp>
 </scene>
 <scene><stage> SLUGHORN’S OFFICE - NIGHT (MOMENTS LATER)
 Slughorn, with practiced ease, mixes a concoction of powders and potions into a goblet while Ron peers into a mirror. As he paces, Harry passes “the shelf” and finds,
@@ -5527,23 +5522,21 @@ I d-don’t understand -
 <sp who="#HARRY">
 Professor! Do something!! 
 
-Slughorn shuffles haplessly through his bag, MUMBLING, at a loss. Harry turns back to Ron -- his skin is turningBLUE. 
+<stage>Slughorn shuffles haplessly through his bag, MUMBLING, at a loss. Harry turns back to Ron -- his skin is turning BLUE. </stage>
 
 </sp>
 <sp who="#HARRY">
 He’s choking!! 
 
-Harry glances about, then leaps up, and frantically begins to strip the walls of its potion stores, looking for something, anything. A box tumbles, something spills: a scattering of stones, no bigger than a robin’s egg, shriveled and dry. Snatching one, he wrenches open Ron’s jaw and THRUSTS it deep into his THROAT. InstantlyRon stops moving, paralyzed. The room is suddenly silent. He’s not breathing. Harry places both hands behind Ron’s head and gives it a SHAKE. Another. 
+<stage>Harry glances about, then leaps up, and frantically begins to strip the walls of its potion stores, looking for something, anything. A box tumbles, something spills: a scattering of stones, no bigger than a robin’s egg, shriveled and dry. Snatching one, he wrenches open Ron’s jaw and THRUSTS it deep into his THROAT. InstantlyRon stops moving, paralyzed. The room is suddenly silent. He’s not breathing. Harry places both hands behind Ron’s head and gives it a SHAKE. Another.</stage> 
 
 </sp>
 <sp who="#HARRY">
-Breathe! C’mon, Ron, don’t be a 
+Breathe! C’mon, Ron, don’t be a prat. Breathe! BREATHE! 
 
-prat. Breathe! BREATHE! 
-
-Harry shakes him again and again... then stops. Ron’s 
+<stage>Harry shakes him again and again... then stops. Ron’s 
 head rolls limply from his fingers. Slughorn looks on,
-mouth agape. Useless. Then... A COUGH, a great hiccupping COUGH -- like a swimmer almost drowned -- and Ron is back. Breathing. 
+mouth agape. Useless. Then... A COUGH, a great hiccupping COUGH -- like a swimmer almost drowned -- and Ron is back. Breathing. </stage>
 
 </sp>
 <sp who="#RON">
@@ -5551,11 +5544,11 @@ These girls are gonna kill me,
 
 Harry. 
 
-Harry grins. Then Ron’s eyes flutter. Out. But 
-breathing. 
+<stage>Harry grins. Then Ron’s eyes flutter. Out. But 
+breathing. </stage>
 
 </sp>
-</stage>
+
 </scene>
 <scene><stage cat="INT" where=" HOSPITAL WING - EARLY MORNING (LATER)">
 Harry, Dumbledore, Snape, McGonagall, Ginny and a very somber Hermione circle Ron’s bed as MADAM POMFREY 
@@ -5859,10 +5852,10 @@ You have to get rid of it. Today.
 </scene>
 <scene><stage cat="INT" where=" SEVENTH FLOOR CORRIDOR - DAY (LATER)">
 Harry, Potions book in hand, follows Ginny past the empty birdcage and down the corridor when she pauses, turns to the wall and shuts her eyes. 
-
+</stage>
 <sp who="#GINNY">
 Take my hand. 
-
+</sp>
 </scene>
 <scene><stage> ROOM 0F REQUIREMENT - DAY (SECONDS LATER) 
 Ginny and Harry materialize. 
@@ -5890,8 +5883,8 @@ Who showed you this? First.
 Fred and George. First year. I 
 hid Tom Riddle’s diary here for a time. Wish I’d left it... 
 
-As Ginny drifts in the memory, Harry studies her, then a SCUFFLING SOUND is heard nearby. They turn, look off. 
-
+<stage>As Ginny drifts in the memory, Harry studies her, then a SCUFFLING SOUND is heard nearby. They turn, look off. </stage>
+</sp>
 <sp who="#GINNY #HARRY "><stage>at the same time</stage>
 What was that? 
 
@@ -5911,25 +5904,25 @@ wings.
 <sp who="#GINNY">
 See, you never know what you’ll find up here. 
 
-Harry nods, looks back to the cabinet, mystified. 
+<stage>Harry nods, looks back to the cabinet, mystified. </stage>
 
 </sp>
 <sp who="#GINNY">
 All right. Close your eyes. That 
 way you can’t be tempted. 
 
-Ginny slips the book from his fingers and starts to back 
+<stage>Ginny slips the book from his fingers and starts to back 
 away. She mouths: Close... your... eyes. As she leaves 
 FRAME, CAMERA PUSHES EVER-SO-SLOWLY IN ON Harry. Still. 
 Waiting. For a long moment, there is only silence. Then 
-a shadow gently eclipses Harry’s face. 
+a shadow gently eclipses Harry’s face. </stage>
 
 </sp>
 <sp who="#GINNY">
 There’s something else. Another 
 secret of sorts. One of mine... 
 
-Ginny leans in then and places her mouth on Harry’s. 
+<stage>Ginny leans in then and places her mouth on Harry’s. </stage>
 
 </sp>
 <sp who="#GINNY">
@@ -5937,11 +5930,11 @@ That can stay hidden up here too,
 
 if you like. 
 
-Harry opens his eyes, watches Ginny back away, then disappear around the corner. He stares at the empty air,
-blinking, then watches the black bird flutter overhead. 
+<stage>Harry opens his eyes, watches Ginny back away, then disappear around the corner. He stares at the empty air,
+blinking, then watches the black bird flutter overhead. </stage>
 
 </sp>
-</stage>
+
 </scene>
 <scene><stage cat="INT" where=" CORRIDOR - LATE AFTERNOON (LATER)">
 Harry, looking a tad dazed, walks aimlessly. 
@@ -6023,7 +6016,7 @@ going to Hagrid’s. I feel like
 it’s the place to be tonight, know
 
 what I mean? 
-
+</sp>
 <sp who="#HERMIONE #RON">
 No. 
 
@@ -6046,7 +6039,7 @@ Bored, he ponders the progress of his FAINT MUSTACHE in a mirror. Harry walks by
 <scene><stage cat="INT" where=" ENTRANCE HALL - DUSK (MOMENTS LATER)">
 Filch paces, standing guard while Mrs. Norris sits calmly by. A MOUSE appears in the OPEN helmet of a SUIT OF ARMOR, washes its face with its tiny paws, then spiesMrs. Norris -- who HISSES. The mouse makes a quick retreat and the FACE PLATE comes CLANGING down. As Filch 
 wheels, Harry strolls past. 
-
+</stage>
 </scene>
 <scene><stage> GROUNDS/HOGWARTS CASTLE - DUSK (MOMENTS LATER)
 TWO AURORS, twin SILHOUETTES, patrol the grounds. Harry approaches, about to intersect their paths when, at the last second, something on the ground catches his eye. He 
@@ -6061,7 +6054,7 @@ KNEELS, considers a BEETLE on its back, legs churning helplessly. Harry extends 
 Harry HUMS placidly. Up ahead, a FIGURE ripples beyond the steamy panes of the Greenhouse. It’s Slughorn,
 hunched over a PLANT whose TENDRILS coil eerily,
 resisting his attentions. Snip! He stealthily removes a sprig, looks up and JUMPS. 
-
+</stage>
 
 <sp who="#SLUGHORN">
 Merlin’s beard, Harry! 
@@ -6078,8 +6071,8 @@ was Madam Sprout.
 
 </sp>
 <sp who="#SLUGHORN">
-Well, yes, actually -(
-paranoid)
+Well, yes, actually -
+<stage>(paranoid)</stage>
 Why would you think that? 
 
 </sp>
@@ -6114,8 +6107,8 @@ Personally, these plants have
 
 always kind of freaked me out. 
 
-Harry gives a little SHIVER of the shoulders, smiles.
-Slughorn cocks his head, studies him oddly. 
+<stage>Harry gives a little SHIVER of the shoulders, smiles.
+Slughorn cocks his head, studies him oddly. </stage>
 
 </sp>
 <sp who="#SLUGHORN">
@@ -6145,12 +6138,12 @@ Sir?
 
 </sp>
 <sp who="#SLUGHORN">
-It’s nearly nightfall. Surely your ealize I can’t allow you to roam the grounds all by yourself. 
+It’s nearly nightfall. Surely you realize I can’t allow you to roam the grounds all by yourself. 
 
 </sp>
 <sp who="#HARRY">
 Well, then by all means come along, sir. 
-
+</sp>
 </scene>
 <scene><stage> HAGRID’S HUT - DUSK (MOMENTS LATER)
 Harry appears over a rise, strolling happily along...
@@ -6311,12 +6304,12 @@ Tha’ was... tha’ was... beautiful.
 Hagrid wipes his eyes, then rises. He walks to Aragog,
 studies him lovingly, then puts a shoulder to the big beast’s body... and sends him tumbling into the freshly-
 dug grave adjacent with a SICKENING THUNK. 
-
+</sp>
 <sp who="#HAGRID #SLUGHORN "><stage>(O.S.)</stage>
 <stage>(singing)</stage>
 
 And Odo the hero, they bore him back home... 
-
+</sp>
 </scene>
 <scene><stage> HAGRID’S HUT - NIGHT (HOURS LATER)
 Harry, Hagrid and Slughorn sit at the massive kitchen table, which is strewn with EMPTY WINE BOTTLES. Hagrid and Slughorn are feeling no pain, while Harry looks clear-
@@ -6328,7 +6321,7 @@ To the place he’d known as a lad,
 They laid him to rest with his hat inside out and his wand snapped in two, which was sad... 
 
 As they finish, both men CHUCKLE. Hagrid tops off everyone’s mug with a bit more wine. Harry brings his mug to his lap... then slyly pours it into the bucket at his feet. 
-
+</sp>
 </stage>
 <sp who="#HAGRID">
 I had ‘im from an egg, yeh know.
@@ -6473,8 +6466,8 @@ Finally, slowly, he removes his wand.
 Don’t think too badly of me once you’ve seen it. You don’t know 
 what he was like... even then. 
 
-Slughorn fishes out a tiny vial -- the one with the WORM-- but his hand is shaking so violently, Harry has to take it. Slowly, Slughorn raises his wand, touches it to his temple and withdraws a LONG, SILVER THREAD. Harry extends the vial and... it drops within. 
-
+<stage>Slughorn fishes out a tiny vial -- the one with the WORM-- but his hand is shaking so violently, Harry has to take it. Slowly, Slughorn raises his wand, touches it to his temple and withdraws a LONG, SILVER THREAD. Harry extends the vial and... it drops within. </stage>
+</sp>
 </scene>
 <scene><stage> DUMBLEDORE’S OFFICE - NIGHT
 Dumbledore holds the vial in wonderment. The worm hangs in eerie suspension. 
@@ -6483,17 +6476,16 @@ Dumbledore holds the vial in wonderment. The worm hangs in eerie suspension.
 <sp who="#DUMBLEDORE">
 How is he? Horace? 
 
-Harry shrugs. Dumbledore nods, then tips his hand. A 
+<stage>Harry shrugs. Dumbledore nods, then tips his hand. A 
 LONG strand hangs suspended like glass. A pearl forms...
 and as it hangs... Harry’s eyes shift, notice a DRAWING 
 on Dumbledore’s desk, one of Tom Riddle’s drawings seen 
-at the orphanage, of the CAVE and the distinct OUTCROPPING. Then... the pearl drops. 
+at the orphanage, of the CAVE and the distinct OUTCROPPING. Then... the pearl drops. </stage>
 
-FLASHBACK - INT. SLUGHORN’S OFFICE - NIGHT (YEARS PAST)
+<scene><stage>FLASHBACK - INT. SLUGHORN’S OFFICE - NIGHT (YEARS PAST)
 As before. The CRACKLING EMBERS of the FIRE. Slughorn,
-a circle of six. Riddle commanding the room. 
+a circle of six. Riddle commanding the room. </stage>
 
-</sp>
 <sp who="#TOMRIDDLE">
 
 Sir, is it true that Professor 
@@ -6669,6 +6661,7 @@ Riddle reaches out then and pinches the FLAME of a candle, killing it. As SMOKE 
 DISSOLVE INTO: 
 
 </sp>
+</scene>
 <scene><stage cat="INT" where="DUMBLEDORE’S OFFICE - SAME TIME - NIGHT (PRESENT)">
 ... the surface of the Pensieve, where Riddle quivers.
 We RACK FOCUS and Dumbledore’s troubled face bleeds 
@@ -6809,11 +6802,11 @@ of you.
     
 <scene><stage cat="INT/EXT" where="GARGOYLE CORRIDOR -LATE DAY">
 Harry stands at a window, looking out. He brings his fingers to his chest again when... Hermione comes up behind him. 
-
+</stage>
 
 <sp who="#HERMIONE">
 Harry. It’s time. 
-
+</sp>
 </scene>
 <scene><stage>EXT. COURTYARD -LATE DAY (MOMENTS LATER) 
 
@@ -6850,7 +6843,7 @@ Burke’s? It’s still there.
 <sp who="#HARRY">
 But I’m telling you. I saw it --
 
-Just then, the twins appear, pass. Harry watches them, a thought forming. 
+<stage>Just then, the twins appear, pass. Harry watches them, a thought forming. </stage>
 
 </sp>
 <sp who="#HARRY">
@@ -6864,14 +6857,14 @@ What if there are?
 <sp who="#HARRY">
 I don’t know... 
 
-Harry watches the twins vanish around a corner. 
+<stage>Harry watches the twins vanish around a corner. </stage>
 
 </sp>
 <sp who="#RON">
 Good luck, mate. 
 
-Harry turns back to Ron and Hermione, neither able to fully conceal heir concern. He smiles reassuringly,
-continues on. 
+<stage>Harry turns back to Ron and Hermione, neither able to fully conceal heir concern. He smiles reassuringly,
+continues on. </stage>
 
 </sp>
 <sp who="#HARRY">
@@ -6880,7 +6873,7 @@ I don’t need luck. I’ll be with
 Dumbledore. 
 
 </sp>
-</stage>
+
 </scene>
 <scene><stage cat="EXT" where=" ASTRONOMY TOWER -DYING LIGHT (LATER)">
 As Harry trots up the spiraling exterior stairs, he hears VOICES coming from the topmost level and pauses, peering up through the grid-like floor above: Dumbledore and 
@@ -7025,14 +7018,14 @@ It’s there, isn’t it?
 <scene><stage cat="EXT" where=" CAVE - SAME TIME -DUSK">
 Harry and Dumbledore materialize. It is quiet here,
 eerily so, the waves merely distant thunder. As Harry glances about, Dumbledore moves to an archway, passes beyond. Harry follows, finds Dumbledore standing below a towering dome of rock, probing its mysteries with the light from his wand. 
-
+</stage>
 
 <sp who="#DUMBLEDORE">
 This is the place. Oh yes, this
 
 place has known magic.
 
-(closing his eyes)
+<stage>(closing his eyes)</stage>
 
 Where you stand, Harry, Tom Riddle
 
@@ -7042,8 +7035,8 @@ when he was but a poor orphan boy
 
 with a penchant for cruelty... 
 
-Dumbledore’s wand stops briefly in its arc and his face registers pain, as if detecting some past unpleasantry.
-He begins to TRACE HIS FINGERS over the surface of the rock. 
+<stage>Dumbledore’s wand stops briefly in its arc and his face registers pain, as if detecting some past unpleasantry.
+He begins to TRACE HIS FINGERS over the surface of the rock. </stage>
 
 </sp>
 <sp who="#DUMBLEDORE">
@@ -7057,15 +7050,15 @@ this much is known: the children
 
 were damaged. 
 
-Dumbledore begins to MURMUR in a STRANGE WHISPER as his fingers play over the rock... then stop. His eyes open.
-He takes a dagger from his robes and draws the blade across his forearm, speckling the rock face with scarlet beads. 
+<stage>Dumbledore begins to MURMUR in a STRANGE WHISPER as his fingers play over the rock... then stop. His eyes open.
+He takes a dagger from his robes and draws the blade across his forearm, speckling the rock face with scarlet beads. </stage>
 
 </sp>
 <sp who="#HARRY">
 Sir! 
-
+<stage>
 The rock face SIZZLES like acid and begins to crumble,
-forming a narrow opening. 
+forming a narrow opening. </stage>
 
 </sp>
 <sp who="#DUMBLEDORE">
@@ -7084,7 +7077,7 @@ You should’ve let me, sir.
 Oh, no, Harry. Your blood is much 
 
 more precious than mine. 
-
+</sp>
 </scene>
 <scene><stage cat="EXT" where="ARCHWAY/UNDERGROUND LAKE - NIGHT (MOMENTS LATER)">
 Dumbledore and Harry emerge onto the rim of a VAST LAKE teeming with MIST. A chill hangs in the air. 
@@ -7389,17 +7382,16 @@ steadies him and the lake EXPLODES WITH FIRE. Harry wheels, watches the bodies i
 <sp who="#DUMBLEDORE">
 Go... 
 
-Harry turns, confused. Dumbledore’s hand finds his face. 
+<stage>Harry turns, confused. Dumbledore’s hand finds his face. </stage>
 
 </sp>
 <sp who="#DUMBLEDORE">
 We have to... go. 
 
-Harry glances to the boat. Flames lick the prow,
-darkening the wood, but do not destroy it. He nods. 
+<stage>Harry glances to the boat. Flames lick the prow,
+darkening the wood, but do not destroy it. He nods.</stage> 
 
 </sp>
-</stage>
 </scene>
 <scene><stage cat="EXT" where=" CAVE - ENTRANCE">
 Harry and Dumbledore emerge from the cave. Dumbledore, 
@@ -7434,15 +7426,14 @@ light, ominous and cool, plays across its shimmering surface. Flitwick, arms flo
 <scene><stage cat="EXT" where=" COURTYARD - SAME TIME - NIGHT">
 McGonagall stands in the courtyard as the CHOIR DRIFTS FAINTLY on the night air. She glances up to the sky, a curious expression on her face, then spies a pair ofFirst Years straggling across the courtyard. 
 
-</sp>
+</stage>
 <sp who="#MCGONAGALL">
 To your Houses. No dawdling. 
 
 <stage>As they scuttle off, McGonagall looks back to the sky. A 
 VORTEX of CLOUDS swirls eerily in on itself. We PULL BACK... 
-
-
 </stage>
+</sp>
 </scene>
 <scene><stage cat="INT" where=" CASTLE - WINDOW - SAME TIME - NIGHT">
 ... out of a window, its glass prickling with ambient light, and find Snape standing silently, staring at the gathering storm, his expression inscrutable. The choir a 
@@ -7770,21 +7761,20 @@ Harry scrambles up the stairs and lurches to the ramparts, BATHED IN THE GREEN L
 </scene>
 <scene><stage cat="EXT" where=" ASTRONOMY TOWER - SAME TIME - NIGHT">
 Snape leads Malfoy and Bellatrix down the spiraling staircase. 
-
+</stage>
 </scene>
-<scene> SLUGHORN’S CORRIDOR - NIGHT
+<scene> <stage>SLUGHORN’S CORRIDOR - NIGHT
 Snape leads on, his face a mask as he rounds a corner.
 STUDENTS in pajamas and robes peer at the emerald sky,
 then turn, stare curiously at their teacher and his companions. Snape sweeps past wordlessly. Draco averts 
 his eyes. Bellatrix leers at a TINY FIRST YEAR, leans 
-close: 
+close: </stage>
 
 
 <sp who="#BELLATRIX">
 Boo. 
 
 </sp>
-</stage>
 </scene>
 <scene><stage cat="INT" where=" OUTSIDE GREAT HALL -NIGHT">
 Hearing FOOTSTEPS, an AUROR turns, is BLASTED off his 
@@ -7828,7 +7818,7 @@ They’ll kill you if you stay.
 </scene>
 <scene><stage cat="INT" where=" CORRIDOR - SAME TIME - NIGHT">
 Hermione and Ron push through the other students, who are confused, crying. McGonagall appears, meets Ron and Hermione’s glance, continues on. 
-
+</stage>
 </scene>
 <scene><stage> HAGRID’S HUT/GROUNDS - SAME TIME - NIGHT
 Quiet here. A VIEW TOWARD the castle. We HOLD. Slowly FIGURES appear on the horizon. The Death Eaters. 
@@ -7841,7 +7831,7 @@ Greyback. Bellatrix, Draco. And Snape.
 Harry bursts through the entrance doors, wand in hand.
 Before him, the grounds shimmer eerily in the GREEN GLOW.
 He sees the FIGURES FLEEING towards Hagrid’s Hut. 
-
+</stage>
 </scene>
 <scene> HAGRID’S HUT / GROUNDS - SAME TIME - NIGHT
 Snape and the others race toward the edge of the grounds.
@@ -7868,47 +7858,47 @@ and takes aim again.
 <sp who="#HARRY">
 Cruciatus! 
 
-Snape raises his wand, parries the curse with ease. 
+<stage>Snape raises his wand, parries the curse with ease. </stage>
 
 </sp>
 <sp who="#HARRY">
 Incacerata! 
 
-Once again, Snape deflects the spell. 
+<stage>Once again, Snape deflects the spell.</stage> 
 
 </sp>
 <sp who="#HARRY">
 Impedimenta! 
 
-Another lazy flick of the arm, another curse defeated.
-Harry drops his arm in frustration. 
+<stage>Another lazy flick of the arm, another curse defeated.
+Harry drops his arm in frustration. </stage>
 
 </sp>
 <sp who="#HARRY">
 Fight! Fight back, you coward! 
 
-With staggering quickness, Snape’s wand whips forth and Harry is off his heels and crashing to the earth. 
+<stage>With staggering quickness, Snape’s wand whips forth and Harry is off his heels and crashing to the earth. </stage>
 
 </sp>
 <sp who="#SNAPE">
 Don’t ever associate that word and 
 my name again. 
 
-Harry raises himself up on one knee, points his wand when... a JET of RED LIGHT sends him crashing back into the grass. Snape wheels, sees Bellatrix standing behind. 
+<stage>Harry raises himself up on one knee, points his wand when... a JET of RED LIGHT sends him crashing back into the grass. Snape wheels, sees Bellatrix standing behind. </stage>
 
 </sp>
 <sp who="#SNAPE">
 No! He belongs to the Dark Lord! 
 
-Bellatrix eyes Snape levelly, then turns, trots off.
+<stage>Bellatrix eyes Snape levelly, then turns, trots off.
 Snape glances at Harry, then turns away himself, walking.
-Harry grimaces, pulls himself to his feet and aims one last time. 
+Harry grimaces, pulls himself to his feet and aims one last time. </stage>
 
 </sp>
 <sp who="#HARRY">
 Sectumsempra! 
 
-Bang! Snape wheels and once more sends Harry flying onto his back. Harry stares at the stars as they wheel over him, when Snape comes INTO VIEW. 
+<stage>Bang! Snape wheels and once more sends Harry flying onto his back. Harry stares at the stars as they wheel over him, when Snape comes INTO VIEW. </stage>
 
 </sp>
 <sp who="#SNAPE">
@@ -7921,13 +7911,13 @@ Harry goes still. His eyes shift, meet Snape’s.
 You may have gotten your mother’s eyes, but you’re as dim as your father. Yes. It’s me. I’m the 
 Half-Blood Prince. 
 
-Snape kicks Harry’s wand aside and turns away, joining Malfoy and the others where they wait beyond the flaming ruins of Hagrid’s Hut. They head for the darkness of the treeline. And VANISH. Harry pounds his fist into the ground, then stops. 
+<stage>Snape kicks Harry’s wand aside and turns away, joining Malfoy and the others where they wait beyond the flaming ruins of Hagrid’s Hut. They head for the darkness of the treeline. And VANISH. Harry pounds his fist into the ground, then stops. </stage>
 
 </sp>
 <sp who="#HARRY">
 Hagrid... HAGRID! 
 
-Harry races toward the hut when the DOOR flies off its hinges. Seconds later, Hagrid stumbles out, beardSMOKING. 
+<stage>Harry races toward the hut when the DOOR flies off its hinges. Seconds later, Hagrid stumbles out, beard SMOKING. </stage>
 
 </sp>
 <sp who="#HARRY">
@@ -7947,18 +7937,17 @@ Hagrid, Dumbledore -
 <sp who="#HAGRID">
 Only thing I can’t reckon is wha’ Snape was doin’ with tha’ lot. 
 
-Hagrid turns then, sees the HUGE THRONG of STUDENTS andSTAFF assembled outside the castle. 
+<stage>Hagrid turns then, sees the HUGE THRONG of STUDENTS and STAFF assembled outside the castle. </stage>
 
 </sp>
 <sp who="#HAGRID">
 An’ wha’s this wi’ the Dark Mar’? 
 Who’s been killed? 
-(stopping)
+<stage>(stopping)</stage>
 Where’s Dumbledore, ‘arry? 
 Where’s Dumbledore!! 
-Harry tries to speak, but he is mute. Hagrid goes still. 
+<stage>Harry tries to speak, but he is mute. Hagrid goes still. </stage>
 </sp>
-</stage>
 </scene>
 <scene><stage cat="EXT" where=" HOGWARTS CASTLE - MIDDLE COURTYARD - NIGHT">
 Ron, Hermione and Ginny stand with the staff. They turn and watch the throng of students part for Harry and Hagrid. 
@@ -7996,7 +7985,7 @@ Dumbledore’s chair -- empty. The House tables -- empty.
 <scene><stage cat="INT" where=" CORRIDOR - DAY ">
 A tapestry tosses lightly in the breeze. The PERCH in  
 the empty birdcage sways, SQUEAKING gently. 
-
+</stage>
 </scene>
 <scene><stage> DUMBLEDORE’S OFFICE - DAY
 Quiet. Still. Empty. Then:  
@@ -8027,21 +8016,20 @@ She falters. Harry gently sets the wand back upon the desk, retraces his steps t
 You should know... Professor 
 Dumbledore... 
 
-Harry turns then, studying her drawn face, no words 
-necessary. At a loss, she finishes quietly: 
+<stage>Harry turns then, studying her drawn face, no words 
+necessary. At a loss, she finishes quietly: </stage>
 
 </sp>
 <sp who="#MCGONAGALL">
 You meant a great deal to him. 
 
-Harry’s eyes rise. High upon the wall, the past Headmasters snooze in their frames. The last looks 
+<stage>Harry’s eyes rise. High upon the wall, the past Headmasters snooze in their frames. The last looks 
 remarkably peaceful, the trace of a smile on his lips as he sleeps. 
 
 Dumbledore.  
-Harry nods, lingering one last moment, and exits.   
+Harry nods, lingering one last moment, and exits.  </stage> 
 
-
-</stage>
+</sp>
 </scene>
 <scene><stage cat="INT" where=" TOWER DORMITORY - DAY">
 Harry stands at the window, alone in the empty dormitory.
@@ -8064,7 +8052,7 @@ Harry and Hermione stand by the ramparts while Ron and
 Ginny stand further along, just out of earshot. Harry  
 stares into the distance at the ashes of Hagrid’s Hut.
 Hermione toys with the locket before them.  
-
+</stage>
 
 <sp who="#HERMIONE">
 Do you think he would’ve done it.
@@ -8081,8 +8069,8 @@ always Snape. And I did
 
 nothing... 
 
-Hermione studies Harry, takes the locket from the  
-rampart. 
+<stage>Hermione studies Harry, takes the locket from the  
+rampart. </stage>
 
 </sp>
 <sp who="#HERMIONE">
@@ -8096,38 +8084,35 @@ Yeah, strange. Only... it’s not.
 
 It’s a fake.  
 
-As Hermione reacts, Harry nods.  
+<stage>As Hermione reacts, Harry nods.  </stage>
 
 </sp>
 <sp who="#HARRY">
 Go on. Open it.  
 
-Hermione pries open the locket and removes a piece of PARCHMENT folded in a tight square. READS: 
+<stage>Hermione pries open the locket and removes a piece of PARCHMENT folded in a tight square. READS: </stage>
 
 </sp>
 <sp who="#HERMIONE">
 ‘To the Dark Lord. I know I will 
-be dead long before you read this but I want you to know that it was I who discovered your secret. I 
-have stolen the real Horcrux and 
-intend to destroy it as soon as I 
-can. I face death in the hope that when you meet your match, you will be mortal once more. R.A.B.’ 
-(looking up)
+be dead long before you read this but I want you to know that it was I who discovered your secret. I have stolen the real Horcrux and intend to destroy it as soon as I can. I face death in the hope that when you meet your match, you will be mortal once more. R.A.B.’ 
+<stage>(looking up)</stage>
 R.A.B.? 
 
 </sp>
 <sp who="#HARRY">
 Dunno. But whoever they are, they have the real Horcrux. Which 
 means, it was a waste. All of it. 
-Hermione studies Harry’s troubled face, then glances at Ginny and Ron. 
+<stage>Hermione studies Harry’s troubled face, then glances at Ginny and Ron. </stage>
 
 </sp>
 <sp who="#HERMIONE">
 Ron’s okay with it, you know. 
 and Ginny. But if I were you, 
 when he’s around, I’d keep the snogging to a minimum. 
-You 
 
-Hermione smiles faintly, trying to cheer him, but Harry merely nods, looks away again. 
+
+<stage>Hermione smiles faintly, trying to cheer him, but Harry merely nods, looks away again. </stage>
 
 </sp>
 <sp who="#HARRY">
@@ -8142,38 +8127,39 @@ We reckoned --Ron and me.
 I have to finish what Dumbledore 
 started. I’m not sure where that 
 will lead me... but I’ll let you and Ron know where I am -- when I 
-can. (ALT: I have to finish what 
+can. 
+<stage>(ALT: I have to finish what 
 Dumbledore started. And... I have 
-to do it alone.) 
+to do it alone.) </stage>
 
 </sp>
 <sp who="#HERMIONE">
 I’ve always admired your courage,
 Harry, but sometimes... you’re really thick. 
 
-Harry turns, looking at her in surprise.  
+<stage>Harry turns, looking at her in surprise. </stage> 
 </sp>
 <sp who="#HERMIONE">
 You don’t honestly think you can find all those Horcruxes by yourself, do you?
-(leaning in; a 
-whisper) 
+<stage>(leaning in; a 
+whisper) </stage>
 You need us, Harry. 
 
-Harry just stares at her. She cocks her head, smiling,
+<stage>Harry just stares at her. She cocks her head, smiling,
 doing her best to coax one out of him. Finally, he does,
-briefly. 
+briefly.</stage> 
 
 </sp>
 <sp who="#HARRY">
 Yeah. I do. But do me a favor. 
 When I’m around? Keep the snogging to a minimum. 
 
-Hermione looks stunned. Reddens.  
+<stage>Hermione looks stunned. Reddens. </stage> 
 </sp>
 <sp who="#HERMIONE">
 Like that’s going to happen. 
 
-She glances at Ron, shakes her head.  
+<stage>She glances at Ron, shakes her head.  </stage>
 </sp>
 <sp who="#HERMIONE">
 Besides, he’s barking. 
@@ -8190,35 +8176,32 @@ Yes, but I’m exceptionally perceptive.
 <sp who="#HARRY">
 You’re brilliant. You both are. 
 
-Harry looks off again and Hermione follows his gaze. She 
+<stage>Harry looks off again and Hermione follows his gaze. She 
 looks out over the grounds. Slowly losing herself. We 
-can tell. She’s taking inventory. Pressing it into a scrapbook. 
+can tell. She’s taking inventory. Pressing it into a scrapbook. </stage>
 
 </sp>
 <sp who="#HERMIONE">
 Do you think we’ll ever... (comeback?) 
 
-She stops. Her eyes glisten briefly. Then she fights it back. Tough. Harry fights back his own emotion, reaches over and gives her hand a brief squeeze. Then releases 
-her. 
+<stage>She stops. Her eyes glisten briefly. Then she fights it back. Tough. Harry fights back his own emotion, reaches over and gives her hand a brief squeeze. Then releases 
+her. </stage>
 
 </sp>
 <sp who="#HARRY">
 I don’t know.  
-Hermione nods and Harry’s eyes shift, consider Ron andGinny. As if sensing his gaze, Ron turns and they exchange a look, something unspoken but true passing between them. 
+
+<stage>Hermione nods and Harry’s eyes shift, consider Ron andGinny. As if sensing his gaze, Ron turns and they exchange a look, something unspoken but true passing between them. 
 
 Just then a SONG rises on the air, mournful and haunting,
 and seconds later a BIRD soars out from beyond the tallest turret and begins to stitch its way across the sky. 
 
 Ron and Ginny cross to Harry and Hermione, lean against the rampart. All look to the horizon, watching the bird grow smaller while its song -- magically -- endures. 
 
-No one says a word.  
+No one says a word. </stage> 
 </sp>
 <stage>FADE OUT. 
-</stage>
-<stage>THE END 
-</stage>
-</stage>
-</scene>
+THE END 
 </stage>
 </scene>
 </script>
