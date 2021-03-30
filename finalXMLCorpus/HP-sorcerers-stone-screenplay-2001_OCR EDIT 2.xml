@@ -4730,16 +4730,14 @@ Norbert?
 <sp who="#HAGRID">
 Well, he's got ter have a name. 
 
-The dragon blinks at Hagrid, screws up its face 
+<stage>The dragon blinks at Hagrid, screws up its face 
 and... SNEEZES, spewing forth a shower of SPARKS, which sends 
-Fang whimpering and kindles a brief blaze in Hagrid's beard. 
-
-HAGRID (CONT'D)  
+Fang whimpering and kindles a brief blaze in Hagrid's beard. </stage> 
 Needs ter be trained up a bit, o' course. 
-( stopping cold) 
+(stopping cold) 
 Hey, you there! 
 
-All turn. Peering through the window is a FACE. 
+<stage>All turn. Peering through the window is a FACE. </stage>
 
 </sp>
 <sp who="#HARRY ">
@@ -4776,12 +4774,12 @@ castle-light. Beside her, Draco Malfoy grins arrogantly.
 </sp>
 <sp who="#RON ">
 It's bad. 
-
-INT. PROFESSOR MCGONAGALL's CLASSROOM - MOMENTS LATER 
+</sp>
+<scene><stage cat="INT" where="PROFESSOR MCGONAGALL's CLASSROOM - MOMENTS LATER">
 Harry, Ron and Hermione stand before a displeased McGonagall,
 while Malfoy looks on, practically quivering with pleasure. 
 
-</sp>
+</stage> 
 <sp who="#MCGONAGALL ">
 As every schoolchild knows, dragon-
 breeding is against our laws, has been 
@@ -4795,9 +4793,7 @@ Ironbelly running around the back garden.
 <sp who="#RON ">
 Norwegian Ridgeback. 
 
-Professor Mcgonagall's eyes shift, narrow on Ron. 
-
-RON (CONT'D) 
+<stage>Professor Mcgonagall's eyes shift, narrow on Ron.</stage> 
 I just meant... in this case... sorry. 
 
 </sp>
@@ -4877,28 +4873,27 @@ He won't be smiling tonight.
 Haven't you heard? For detention 
 they're taking us into the Dark 
 Forest. 
-
-EXT. HOGWARTS GROUNDS - NIGHT 
+</sp>
+<scene><stage cat="EXT" where="HOGWARTS GROUNDS - NIGHT">
 Beneath a pale moon, Filch, carrying a lantern, leads Harry, 
 Ron, Hermione and Malfoy across the dark grounds. 
+</stage> 
 
-</sp>
 <sp who="#FILCH ">
 A pity they let the old punishments die. 
 Was a time, detention would find you all 
 hanging by your thumbs in the dungeons...
-
-EXT. HAGRID'S HUT - MOMENTS LATER 
+</sp>
+</scene>
+<scene><stage cat="EXT" where="HAGRID'S HUT - MOMENTS LATER">
 As Filch and the others reach the yard, they find Hagrid 
 stringing a crossbow, Fang at his side. 
 
-</sp>
+</stage> 
 <sp who="#FILCH ">
 A sorry lot this, Hagrid. I pity you. 
 
-Filch squints, sees tears running down Hagrid's face. 
-
-FILCH (CONT'D) 
+<stage>Filch squints, sees tears running down Hagrid's face. </stage>
 Good god, man, you're not still on about 
 that bloody dragon, are you? 
 
@@ -4966,9 +4961,7 @@ not your fault we were out after
 hours. If we  hadn't come knocking on 
 your door in the middle of the night--
 
-Abruptly Hagrid kneels, takes something onto his fingers. 
-
-HARRY (CONT'D) 
+<stage>Abruptly Hagrid kneels, takes something onto his fingers. </stage> 
 (a bit warily) 
 What's that? 
 
@@ -4979,9 +4972,7 @@ The reason we're here.
 All righ' now, lis'en up. See this 
 here? 
 
-Hagrid holds up his fingers. They're marked with SILVER. 
-
-HAGRID (CONT'D) 
+<stage>Hagrid holds up his fingers. They're marked with SILVER. </stage>
 It's unicorn blood. I found one dead a 
 few weeks back and two before that 
 first term. This one here's been hurt 
@@ -5051,7 +5042,6 @@ HOOVES pummel the path behind him and some thing leaps clear
 over him, flickering past the moon above. It charges the hooded
 figure, drives it back into the trees... and 
 away. 
-
 A SHADOW FALLS across Harry's face. It is a CENTAUR with 
 eyes like pale saphires. He is FIRENZE.
 
@@ -5101,10 +5091,8 @@ Potter?
 <sp who="#HARRY ">
 The Sorcerer's Stone. 
 
-</sp>
- <stage>AND FOR THE UK AUDIENCE...</stage>
 
-HARRY (CONT'D) 
+ <stage>AND FOR THE UK AUDIENCE...</stage>
 The Philosopher's Stone.
 
 
@@ -5184,8 +5172,6 @@ exams were frightful. But I found that
 rather enjoyable. Weren't you stunnei:l not 
 to be asked about Elfric the Eager?
 
-
-
 </sp>
 <sp who="#RON ">
 I'm stunned my head didn't explode. 
@@ -5203,10 +5189,8 @@ It's happened before...
 <sp who="#HARRY ">
 Not like this...
 
-Harry glances across the grounds at Hagrid, sitting in his 
-front garden playing a FLUTE. At his feet, Fang's eyes droop. 
-
-HARRY (CONT' D) 
+<stage>Harry glances across the grounds at Hagrid, sitting in his 
+front garden playing a FLUTE. At his feet, Fang's eyes droop. </stage>
 No...
 
 </sp>
@@ -5225,10 +5209,12 @@ happens to have one? I mean, how many
 people wander around with dragon eggs in 
 their pocket? Why didn't I see it before? 
 
-INT. HAGRID'S HUT - MOMENTS LATER  
+</sp>
+</scene>
+<scene><stage cat="INT" where="HAGRID'S HUT - MOMENTS LATER">
 Hagrid shrugs, goes on polishing the FLUTE in his hand. 
 
-</sp>
+</stage> 
 <sp who="#HAGRID ">
 Ne'er saw his face... Kept his hood up. 
 
@@ -5330,12 +5316,10 @@ knows how to get past Fluffy.
 <sp who="#HERMIONE ">
 And with Dumbledore gone...
 
-SNAPE (O.S.) 
+<sp who="#SNAPE"> <stage>(O.S.) </stage>
 Good afternoon. 
 
-They freeze. Up ahead, Snape stands, studying them. 
-
-SNAPE (CONT'D) 
+<stage>They freeze. Up ahead, Snape stands, studying them. </stage> 
 Now what would three fine Gryffindors 
 such as yourselves be doing inside on 
 such a lovely day? 
@@ -5380,9 +5364,7 @@ Trevor! Shh! Go! You shouldn't be here!
 <sp who="#NEVILLE">
 Neither should you. 
 
-They all jump. Neville rises from an armchair. 
-
-NEVILLE (CONT'D) 
+<stage>They all jump. Neville rises from an armchair. </stage>
 You're sneaking out again, aren't you? 
 
 </sp>
@@ -5432,11 +5414,9 @@ Who's there? Know you're there, even if I
 can't see you. Are you ghoulie or ghostie 
 or wee student beastie? 
 
-Nothing. Peeves smiles slyly, reaches back, and hurls one of 
+<stage>Nothing. Peeves smiles slyly, reaches back, and hurls one of 
 the apples. It streaks through the air... then...disappears in 
-mid-flight. Peeves smile fades.  
-
-PEEVES (CONT'D) 
+mid-flight. Peeves smile fades.  </stage>
 Never mind. 
 
 He backpedals frantically, turns, and swoops off the way he 
@@ -5458,10 +5438,8 @@ stands chewing the apple.
 <sp who="#RON  ">
 Sorry. I get hungry when I'm nervous. 
 
-Harry pushes the door clear... finds... a giant quivering nose 
-and yellow fangs dripping with saliva. They GASP, then... 
-
-RON (CONT'D) 
+<stage>Harry pushes the door clear... finds... a giant quivering nose 
+and yellow fangs dripping with saliva. They GASP, then... </stage>
 Wait a minute. He's... 
 
 </sp>
@@ -5495,12 +5473,10 @@ We're coming.
 <sp who="#HARRY ">
 Right then. All together now.
 
-Straining mightily, they put their shoulders
+<stage>Straining mightily, they put their shoulders
 to the massive paw that lays across the trapdoor. 
 Once done, Harry flings it open. Below lies only 
-darkness... a faint whistling wind.
-
-HARRY (CONT'D) 
+darkness... a faint whistling wind.</stage>
 I'll go first. Don't follow until I give 
 you a sign. If something... bad 
 happens... get yourselves out--
@@ -5524,7 +5500,8 @@ its own particular snack, then, with a mighty GROWL,
 swoops. Instantly, the trio pitches themselves 
 into the darkness...
 
-INT. SHAFT/DEVIL'S SNARE - SECONDS LATER 
+</sp></scene>
+<scene><stage cat="INT" where="SHAFT/DEVIL'S SNARE - SECONDS LATER">
 Harry PLUMMETS down a glittering shaft, tumbling head over 
 heels, down, down, down, until... 
 
@@ -5532,7 +5509,7 @@ FLUMP! He lands in something soft and yarnlike, followed
 quickly by Ron and Hermione. Harry adjusts his glasses, looks 
 up. A tiny SQUARE OF LIGHT--the trapdoor--glimmers far above. 
 
-</sp>
+</stage> 
 <sp who="#RON ">
 That was...cool.
 
@@ -5580,7 +5557,7 @@ Kill us faster? Oh now I can relax.
 As they watch, Hermione takes a LONG, SLOW BREATH and... is 
 SUCKED beneath the surface... VANISHING. 
 
-HARRY/RON  
+<sp who="#HARRY #RON">  
 Hermione! 
 
 Panicking, Harry and Ron begin to struggle anew, but the  
@@ -5590,7 +5567,7 @@ vines only wrap more tightly around them.
 <sp who="#RON ">
 What are we going to do now! 
 
-HERMIONE (O.S.) 
+<sp who="#HERMIONE"><stage>(O.S.) </stage>
 Just relax. 
 
 </sp>
@@ -5598,7 +5575,7 @@ Just relax.
 (glancing about)
 Hermione? But how... where?
 
-HERMIONE (O.S.) 
+<sp who="#HERMIONE"> <stage>(O.S.) </stage>
 Do what I say! 
 
 Harry looks at Ron. He's almost completely entwined.
@@ -5609,13 +5586,14 @@ I suggest we do what she says.
 
 Harry takes a DEEP BREATH and closes his eyes. Slowly, like 
 witch's fingers... the vines DRAW him beneath the surface. 
-
-INT. STAIRCASE (BENEATH DEVIL'S SNARE) 
+</sp>
+</scene>
+<scene><stage cat="INT" STAIRCASE (BENEATH DEVIL'S SNARE)"> 
 Harry drops through the ceiling, twisting through the webby 
 undergrowth of Devil's snare and onto the ground next to 
 Hermione. From above, Ron can be HEARD screaming for HELP. 
 
-</sp>
+</stage>
 <sp who="#HERMIONE ">
 He's not relaxing, is he? 
 
@@ -5631,20 +5609,22 @@ Hermione furrows her brow, thinking ALOUD in a sing-song.
 <sp who="#HERMIONE">
 Devil's Snare, Devil's Snare. Dances in 
 the dark, delights in the damp...
-
-INT. SHAFT/DEVIL'S SNARE
+</sp>
+</scene>
+<scene><stage cat="INT" where="SHAFT/DEVIL'S SNARE">
 Ron, wrapped tight as a mummy by this point, cocks his ear in 
 disbelief.  
 
-</sp>
+</stage>
 <sp who="#RON">
 Is she doing a poem? It's not possible
 she's doing a poem, is it? 
-
-INT. STAIRCASE (BENEATH DEVIL'S SNARE) 
+</sp>
+</scene>
+<scene><stage cat="INT" where="STAIRCASE (BENEATH DEVIL'S SNARE)">
 Hermione ignores him, continuing in deep concentration. 
 
-</sp>
+</stage> 
 <sp who="#HERMIONE ">
 It's deadly fun, but will... sulk in the 
 sun! That's it! Light! Devil's Snare. 
@@ -5652,15 +5632,17 @@ hates the light!
 
 She whips out her wand, points it at the vines hanging from 
 the ceiling, and sends forth a BRIGHT BURST of GOLD. 
-
-INT. SHAFT/DEVIL'S SNARE 
+</sp>
+</scene>
+<scene><stage cat="INT" where="SHAFT/DEVIL'S SNARE">
 As the LIGHT BURNS through, the plant withers. An OPENING 
 forms, the vines SNAP free of Ron, and... he DROPS through. 
-
-INT. STAIRCASE (BENEATH DEVIL'S SNARE) 
+</stage>
+</scene>
+<scene><stage cat="INT" where="STAIRCASE (BENEATH DEVIL'S SNARE)">
 Ron lands heavily, looks up.  
 
-</sp>
+</stage>
 <sp who="#RON ">
 Lucky we didn't panic.  
 
@@ -5699,14 +5681,12 @@ these...
 <sp who="#HARRY ">
 They're not birds...
 
-Ron and Hermione turn, see Harry standing by the floating
-broom in the center of the room, looking up. 
-
-HARRY (CONT'D) 
+<stage>Ron and Hermione turn, see Harry standing by the floating
+broom in the center of the room, looking up. </stage>
 They're keys. And I'll bet one of them 
 fits that door.
 
-Hermione tests the doorknob, nods. 
+<stage>Hermione tests the doorknob, nods. </stage>
 
 </sp>
 <sp who="#HERMIONE ">
@@ -5716,10 +5696,8 @@ Locked.
 <sp who="#RON ">
 Alohomora! 
 
-Hermione turns, sees Ron waving his wand at the knob. No 
-good. It's still locked. He shrugs. 
-
-RON (CONT'D) 
+<stage>Hermione turns, sees Ron waving his wand at the knob. No 
+good. It's still locked. He shrugs. </stage>
 Well, it was worth a try. 
 
 </sp>
