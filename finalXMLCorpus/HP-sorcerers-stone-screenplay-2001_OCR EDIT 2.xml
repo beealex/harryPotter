@@ -8,8 +8,6 @@ Steve Kloves
 Based on the novel by J.K. Rowling 
 
 
-
-
 <scene><stage cat="EXT" where=" PRIVET DRIVE NIGHT ">
 Dark at this hour, except for the STREET LAMPS that dot the street,
 spilling deep pools of light upon the ground. 
@@ -25,36 +23,36 @@ He turns, spies a CAT, sitting on the wall of Number Four.
 He smiles knowingly
 
 </stage>
-<sp>DUMBLEDORE
+<sp who="DUMBLEDORE">
 I should have known you'd be here, Professor McGonagall.
 
 The cat leaps forward, TRANSFIGURES itself into a rather
 severe-looking woman in an EMERALD CLOAK. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL
+<sp who="PROFESSOR MCGONAGALL">
 Are the rumors true, Albus? 
 
 </sp>
-<sp>DUMBLEDORE
+<sp who="DUMBLEDORE">
 (smile fading) 
 I'm afraid so. The good. And the bad. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 And the boy? 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 Hagrid's bringing him. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 You think it ... wise ... to trust Hagrid 
 with something as important as this? 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 I would trust Hagrid with my life, 
 Professor. 
 
@@ -66,16 +64,16 @@ quite obviously, a GIANT. In his vast, muscular arms, he
 holds a BUNDLE of BLANKETS.  
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Ev'ning, Professor Dumbledore, sir. 
 Professor McGonagall. 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 No problems, I take it, Hagrid? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 No sir. Little tyke fell ter sleep as 
 we was flyin' o'er Bristol . 
 
@@ -83,7 +81,7 @@ Hagrid steps forward and Dumbledore takes the bundle, turns
 toward the doorstep. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Albus, do you really think it best to 
 leave him here; with these people? 
 I've been watching them all day. 
@@ -91,17 +89,17 @@ They're the worst sort of Muggles
 imaginable. They're ... 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 The only family he has. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 But this boy will be famous. There 
 won't be a child in our world who 
 doesn't know his name ... 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 Exactly. It would be enough to turn 
 any boy's head. Famous before he can 
 walk and talk. Famous for something he 
@@ -161,7 +159,7 @@ enormous cousin, DUDLEY, thunder down the last step. Just
 then, Harry's Aunt Petunia appears in the kitchen ahead. 
 
 </stage>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 There's the birthday boy! Don't you 
 look smart for your trip to the zoo. 
 
@@ -172,7 +170,7 @@ it burn. I want everything perfect on
 my Dimplin' s special day . 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Yes, Aunt Petunia. 
 
 </sp>
@@ -182,68 +180,68 @@ Yes, Aunt Petunia.
 Harry enters, finds his UNCLE VERNON reading the Daily Mail 
 behind a monstrous PILE OF PRESENTS. 
 </stage>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Bring my coffee, boy.
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Yes, Uncle Vernon. 
 
 
 Dudley enters, stares at the presents . 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 How many are there? 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Thirty-six. Counted them myself. 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 Thirty-six. But last year ... last year 
 I had thirty-seven ... 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Well now, son, some of these are quite 
 a bit bigger than last year-
 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 I DON'T CARE HOW BIG THEY ARE! 
 
 </sp>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 Now, now, here's what we'll do. Today, 
 when we're out, we'll buy you two more 
 presents. How's that, popkin? 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 So then I 'll have ... I' ll have ... 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Thirty-eight, popkin. 
 
 Aunt Petunia cuffs Harry on the head on her way to the RINGING TELEPHONE. 
 
 </sp>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 You just mind that bacon! 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Yes, Aunt Petunia. 
 
 As Dudley tears open a BOX of LEAD SOLDIERS, Uncle Vernon 
 ruffles his hair. 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Want your money's worth, don't you, 
 tiger. Well, look there. Aunt Marge's 
 sent you the Fourth Battalion. 
@@ -251,11 +249,11 @@ sent you the Fourth Battalion.
 Dudley twists the head off one. 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 This one's lost its head. 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Well now, son. Remember, we talked about 
 this. They're not meant to move ... 
 
@@ -263,43 +261,43 @@ As Dudley tosses the damaged soldier aside, Harry studies it
 closely, then ... Aunt Petunia HANGS UP the phone, turns. 
 
 </sp>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 Bad news. Mrs. Figgs' broken her leg. She 
 can't take him. 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 We could phone Yvonne. 
 
 </sp>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 Don't be silly. She hates the boy. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 You could just leave me here. 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 And come back to find the house in ruins? 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 I... Don't... Want... Him... To... Come! 
 He... always... spoils... everything! 
 
 </sp>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 Now, precious, don't cry. He won't spoil 
 anything. What if Mummy buys you three 
 more presents. 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 Three? 
 
 </sp>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 As many as you want, sweetums. 
 
 As Aunt Petunia cuddles him, Dudley shoots Harry a nasty grin through the gap in his mother's arms. 
@@ -311,7 +309,7 @@ As Aunt Petunia cuddles him, Dudley shoots Harry a nasty grin through the gap in
 As Harry gets in the car, Uncle Vernon leans close. 
 
 </stage>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 I'm warning you now, boy. Any funny 
 business, any at all, and you'll have no
 meals for a week. 
@@ -327,24 +325,24 @@ Happy children walk hand in hand with their parents, as...
 Dudley presses his pudgy nose to a gleaming plate of glass 
 
 </stage>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 Make it move. 
 
 Uncle Vernon looks over a zoo map at the HUGE BURMESE PYTHON 
 curled beyond the glass. RAPS his knuckles. Nothing. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 He's asleep.
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 He's boring.· 
 Dudley waddles away and the others follow, all but Harry, who 
 steps forward and rubs Dudley's nose print from the glass. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Sorry about him. He doesn't understand 
 what it's like, lying there day after 
 day, watching people press their ugly 
@@ -376,7 +374,7 @@ I see. That's me as well. I never knew my
 parents either... 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 MUMMY! DAD! COME HERE! You won't 
 what this snake is doing! 
 
@@ -396,7 +394,7 @@ and Dudley sits within, face pale, eyes frozen in terror.
 Uncle Vernon, face purple with rage, drags Harry by the ear. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 I swear, I don't know how it happened! 
 One minute the glass was there and then 
 it was gone. It was like magic. 
@@ -404,7 +402,7 @@ it was gone. It was like magic.
 Uncle Vernon hurls Harry into the cupboard, stares hard. 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 There's... no ... such... thing... as... magic! 
 
 The door SLAMS. Harry sits quietly. Then, from his pocket, he
@@ -426,22 +424,22 @@ and straw boater, tapping the floor with a KNOBBLY STICK,
 while a teary Aunt Petunia snaps a photo with a FLASH CAMERA. 
 
 </stage>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 Oh, Vernon, look at him. To think in only 
 a week he'll be off to Smeltings. 
 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Proudest moment of my life. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (with dread) 
 Will I have to wear that too? 
 
 </sp>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 You! Go to Smeltings? Don't be stupid. 
 You'll go to state school, where you 
 belong. That there'll be yours, once I'm 
@@ -451,12 +449,12 @@ Harry glances at a tub of grey mud boiling on the stove.
 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 But that's Dudley's old uniform. It'll 
 fit me like bits of old elephant skin. 
 
 </sp>
-<sp>AUNT PETUNIA  
+<sp who="AUNT PETUNIA  ">
 Fit you fine enough. Now fetch the post. 
 
 </sp>
@@ -482,22 +480,22 @@ Harry drops the post on the table and sits, staring in quiet
 wonderment at his envelope. Uncle Vernon takes the postcard. 
 
 </stage>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Marge's ill. Ate a funny whelk ... 
 
 BAM! Dudley brings the Smelting stick down hard on the table . 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 Dad! Look! Harry's got a letter! 
 
 Quickly, Uncle Vernon SNATCHES it away. 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 That's mine! 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Yours. Who'd be writing to you-
 
 Uncle Vernon's face goes pale. 
@@ -508,10 +506,10 @@ Uncle Vernon's face goes pale.
 The boys come flying into the hall, throw themselves against the door as it slams shut.
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 I want my letter! 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 I want my stick! 
 
 Harry and Dudley make a furious play for the keyhole, but 
@@ -522,32 +520,32 @@ HARRY'S POV
 of Uncle Vernon's thick black shoes pacing back and forth. 
 
 </sp>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 Vernon. Look at the address. How could 
 they possibly know where he sleeps? You 
 don't think they're watching 
 the house? 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Watching. Spying. Following us. We both know the 
 dangerous nonsense your sister and her husband were 
 mixed up in.
 
 </sp>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 But what should we do, Vernon? Should we
 write back. Tell them we don't 
 want-
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 No. We'll 
 ignore it. If they don't get an answer... 
 Yes, that's best... I'll burn it. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 NO! I WANT MY LETTER! 
 
 Uncle Vernon walks to the stove, flips on a gas jet. As the 
@@ -621,12 +619,12 @@ Aunt Petunia carefully sets a cup of coffee by Uncle Vernon,
 who sits in an armchair smiling strangely.
 
 </stage>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Fine day, Sunday. Best day of the week in 
 my opinion. Know why I say that, Dudley? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (entering)
 Because there's no post on Sundays. 
 
@@ -634,7 +632,7 @@ Uncle Vernon looks up brightly, but Harry's eyes are on the
 window behind him. Outside, the sky is DARK WITH OWLS. 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Right you are, Harry! No damn letters 
 today! No sir. Not one blasted ... 
 
@@ -651,7 +649,7 @@ As Uncle Vernon stumbles out, Harry shakes free of his grasp
 and stares dumbly: LETTERS swirl up and down the hall. 
 
 </stage>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 Who on earth wants to talk to you this 
 badly! 
 
@@ -659,14 +657,14 @@ A letter flutters on Harry's fingertips ... before Uncle Vernon
 sweeps it away, eyes crazed, SHOUTING CRAZILY: 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 That does it! We're going away! Far away! 
 Where they can't find us! Where they can't get to us! 
 
 Dudley glances at his mother 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 Daddy's gone mad, hasn't he? 
 
 </sp>
@@ -688,7 +686,7 @@ Harry puts the last touches to a BIRTHDAY CAKE he's etched in
 the dust that layers the floor. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 Make a wish, Harry. 
 
 Closing his eyes, he ... blows ... and the "flames" of dust 
@@ -702,7 +700,7 @@ Uncle Vernon comes sledding into the room in his socks, a
 RIFLE in hand, paper hanging by a string from the. barrel. 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 Who's there'? I warn you--I'm armed! 
 
 SMASH! The door falls flat. An IMMENSE SILHOUETTE stands 
@@ -713,7 +711,7 @@ standing on the front door. · ·
 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Er, right. Sorry 'bout that ... 
 
 Hagrid steps clear, takes the door, and fits it back into its 
@@ -726,27 +724,27 @@ along than I woulda expected.
 'Specially round the middle. 
 
 </sp>
-<sp>DUDLEY 
+<sp who="DUDLEY ">
 (terrified)
 I'm not Harry. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I am. 
 
 Hagrid turns, watches Harry's face come into the light. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Well now, course yeh are. 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 I demand that you leave at once, sir! 
 You are breaking and entering! 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Ah, dry up, Dursley, yeh great prune. 
 
 Hagrid takes the rifle, knots it like a piece of licorice. 
@@ -768,11 +766,11 @@ HAGRID (CONT'D).
 Baked it meself, words an' all. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Thank you . 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Well, it's not ev'ry day yer young man 
 turns 'leven. 
 
@@ -783,23 +781,23 @@ sizzle.
 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Excuse me, but ... who are you? 
 
 Harry stares blankly. Hagrid frowns. 
 
 </sp>
-<sp>HAGRID  
+<sp who="HAGRID  ">
 Blimey, Harry, did yeh never wonder 
 where yer parents learnt it all? 
 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Learned what? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 What? DURSLEY!!! Do yeh mean ter tell 
 me the boy knows nothin? 
 
@@ -814,25 +812,25 @@ For a moment, the hut is utterly silent.
 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 I'm a what? 
 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 A Wizard. And a thumpin' good 'un, 
 I'd wager, once yeh've been trained up a bit. 
 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 No. You've made a mistake. I ... I can't 
 be a ... wizard. I mean ... I'm 
 just ... Harry. Just Harry. 
 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Tha' right. Tell me, Harry. Ever make 
 somethin' strange 'appen? When yeh was 
 scared maybe. Or angry? 
@@ -841,7 +839,7 @@ As Harry looks up in recognition, Hagrid slaps a soggy
 ENVELOPE into Harry's hand. Harry opens it, reads. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 'Dear Mr. Potter, We are pleased to 
 inform you that you have been accepted 
 at Hogwarts School of Witchcraft and 
@@ -851,19 +849,19 @@ As Harry looks up, Hagrid winks, and takes a bite of
 sausage. 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 He'll not be going, I tell you! We 
 swore when we took him in 
 we'd put a stop to that rubbish! 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 You knew? You knew I'm a ... a wizard? 
 
 Aunt Petunia--looking furious--emerges from the shadows. 
 
 </sp>
-<sp>AUNT PETUNIA 
+<sp who="AUNT PETUNIA ">
 Of course we knew! How could you not 
 be, my dratted sister being what she 
 was? Oh, mother and father were so 
@@ -881,30 +879,30 @@ please, she went and got herself blown
 up and we get landed with you-
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Blown up? You told me my parents died 
 in a car crash. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 CAR CRASH! A car crash kill Lily and 
 James Potter? It's an outrage! A scandal! 
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 HE'LL NOT BE GOING, I TELL YOU! 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 An' I s'ppose a great Muggle like 
 yerself is gcin' ter stop him.  
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Muggle? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Non-magic folk. 
 
 (turning to Uncle Vernon) 
@@ -917,14 +915,14 @@ greatest headmaster Hogwart's has ever
 known, Albus Dumbledore--
 
 </sp>
-<sp>UNCLE VERNON 
+<sp who="UNCLE VERNON ">
 I will not pay for some crackpot old 
 fool to teach him magic tricks! 
 
 Hagrid spins, eyes bulging. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 NEVER ... INSULT ALBUS ... 
 ... DUMBLEDORE ... 
 IN ... FRONT... OF ... ME! 
@@ -968,7 +966,7 @@ who draws an eye . or two-- as a giant
 in Central London will.
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 'First year students will require three sets of plain work
 robes, one plain pointed hat for day wear, one pair of dragon-hide
 gloves...'
@@ -976,7 +974,7 @@ gloves...'
 Hagrid chuckles at a PARKING METER.
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Things these Muggles dream up ... 
 
 </sp>
@@ -985,7 +983,7 @@ Things these Muggles dream up ...
 Harry sits beside Hagrid, continues to read from his list. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 ' ... and the following Set Books: The 
 Standard Book of Spells by Miranda 
 Goshawk. One Thousand Magical Herbs and 
@@ -995,7 +993,7 @@ EXT. STREET /LEAKY CAULDRON - LONDON - DAWN
 Hagrid leads Harry on, parting the crowd easily. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 'One wand, one standard Size 2 pewter 
 cauldron and may bring, if they desire, 
 either an owl, a cat, or a toad.' 
@@ -1007,7 +1005,7 @@ Hagrid pauses by a NARROW GRAY DOOR that stands between a
 BOOK SHOP on one side and a RECORD SHOP on the other. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 If yeh know where to go. 
 
 
@@ -1018,7 +1016,7 @@ talks to the BARTENDER, who resembles gummy
 walnut. Harry and Hagrid enter. 
 
 </sp>
-<sp>BARTENDER 
+<sp who="BARTENDER ">
 Hagrid! The usual, I presume
 
 (spying Harry)
@@ -1031,26 +1029,26 @@ holding out their hands and gabbling, while Hagrid looks on,
 beaming. Slowly, a NERVOUS YOUNG MAN makes his way forward. 
 
 </sp>
-<sp>QUIRRELL 
+<sp who="QUIRRELL ">
 Harry P-P-Potter. C-Can't tell you how p-pleased 
 I am to meet you. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Professor! Didn't see yeh there. Harry, 
 this Professor Quirrell. He'll be 
 yer Defence Against the Dark Arts teacher 
 at Hogwarts. 
 
 </sp>
-<sp>QUIRRELL 
+<sp who="QUIRRELL ">
 F-F-Fearfully f-fascinating subject. NNot 
 that you n-need it, eh, P-P-Potter? 
 
 Quirrell's eyes flutter nervously over Harry's scar. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Yes, well, must get on. Lots ter buy, 
 
 (as he pulls Harry along) 
@@ -1062,12 +1060,12 @@ Hagrid TAPS the bricks of one wall with the tip of his
 umbrella while Harry stands by, deep in thought. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Why am I famous, Hagrid? All those people 
 back there. How is it they know who I am? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Don' know that I'm the right one ter tell 
 yeh that, Harry. Let's see now ... Three 
 up ... Two across ... Right. Stand back now. 
@@ -1088,25 +1086,25 @@ solid wall. All around him, Harry sees mothers and fathers
 with children in tow, clutching LISTS similar to his own. 
 
 </stage>
-<sp>PLUMP WOMAN 
+<sp who="PLUMP WOMAN ">
 Seventeen Sickles an ounce for Dragon Liver,
 can you imagine? They're mad! 
 
 </sp>
-<sp>MOTHER 
+<sp who="MOTHER ">
 It says brass, Trevor. As 
 such, you will get brass. 
 
 
 </sp>
-<sp>BOY 
+<sp who="BOY ">
 There it is! The Nimbus Two Thousand!
 Runs a good twenty times faster than the old
 Comets. Neil Marks himself rides it for the Chudley 
 Cannons. 
 
 </sp>
-<sp>FATHER 
+<sp who="FATHER ">
 Mind you don't drop your 
  bottle of eel's eye, Belinda. 
 I'll not buy you another. 
@@ -1117,26 +1115,26 @@ specializing in everything from cauldrons, owls and
 broomsticks to robes, 'unmentionables,' and spell books. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Dragon Liver? Do they mean from a real 
 dragon'? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Well, they don't mean a ruddy penguin. 
 Crikey, I'd like a dragon. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 You'd like a dragon'? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Vastly misunderstood beasts, Harry. 
 Vastly misunderstood ... 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (staring in a cauldron shop) 
 
 But how am I to pay for all this, Hagrid? 
@@ -1146,7 +1144,7 @@ Hagrid gestures to a TOWERING, SNOW-WHITE BUILDING ahead.
 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 There's yer money. Gringotts. Wizard's. 
 Bank. No place safer, Harry. Not one. 
 'Cept perhaps Hogwarts. 
@@ -1160,11 +1158,11 @@ Harry and Hagrid enter, a clever-looking goblin closes the
 door behind them, watches their every step. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 Hagrid, what exactly was that? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Yer basic Door Goblin. Clever as they 
 come goblins, but not yer most friendly 
 beasts. Best stay close. 
@@ -1175,11 +1173,11 @@ Mornin'. Mr. Harry Potter wishes to make
 a withdrawal. 
 
 </sp>
-<sp>GOBLIN 
+<sp who="GOBLIN ">
 And Mr. Harry Potter has his key? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Let's see, got it 'ere somewhere ... 
 
 The Goblin looks on disfavorably as Hagrid rifles his coat, 
@@ -1196,7 +1194,7 @@ a letter from Professor Dumbledore. It's
 about the You-Know-What in Vault You-Know-Which. 
 
 </sp>
-<sp>GOBLIN 
+<sp who="GOBLIN ">
 Very well. I'll have Griphook take you. 
 
 </sp>
@@ -1213,7 +1211,7 @@ revealing great glittering pyramids of coin. Harry is
 speechless.
 
 </stage>
-<sp>HAGRID
+<sp who="HAGRID">
 Din' think yer parents would leave yeh
 with nothin', did yeh?
 
@@ -1223,15 +1221,15 @@ with nothin', did yeh?
 The cart hurtles even DEPEPER, abruptly stops.
 
 </stage>
-<sp>GRIPHOOK
+<sp who="GRIPHOOK">
 Vault Seven Hundred Thirteen.
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 What's in here, Hagrid?
 
 </sp>
-<sp>HAGRID
+<sp who="HAGRID">
 Can't tell yeh that, Harry. Hogwarts business.
 Very secret.
 
@@ -1242,18 +1240,18 @@ Anyone but a Gringotts goblin tried that, they'd be
 sucked through the door.
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 How often do you check to see if anyone's inside?
 
 </sp>
-<sp>GRIPHOOK
+<sp who="GRIPHOOK">
 About once every ten years.
 
 Harry peers into the vault, sees... a GRUBBY LITTLE
 PACKAGE. Hagrid slips it into his LEFT COAT POCKET, returns.
 
 </sp>
-<sp>HAGRID
+<sp who="HAGRID">
 Best not mention this ter anyone either, Harry.
 
 </sp>
@@ -1264,11 +1262,11 @@ Harry's various purcahses. Harry studies the list
 in his hand.
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 I still need ... a wand. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 
 (points ahead) 
 
@@ -1287,7 +1285,7 @@ Hovering above them on a spindly ladder is a pale old man
 with eyes like silver moons. He is OLLIVANDER. 
 
 </stage>
-<sp>OLLIVANDER 
+<sp who="OLLIVANDER ">
 I wondered when I'd be seeing you, Mr. 
 Potter. Seems only yesterday your mother and father 
 were in here buying their first wands ... 
@@ -1306,7 +1304,7 @@ a CRYSTAL VASE OF BLACK ROSES shattering
 forth... to the sending floor. 
 
 </sp>
-<sp>OLLIVANDER 
+<sp who="OLLIVANDER ">
 No. No. Definitely not. No Matter. After all ... it's 
 the wand that chooses the wizard. 
 
@@ -1319,7 +1317,7 @@ Ollivander, meanwhile, stands at the top of a
 spindly ladder, eyeing his inventory.
 
 </stage>
-<sp>OLIVANDER
+<sp who="OLIVANDER">
 I wonder...
 
 Olivander descends, presents a box. Stifling a yawn,
@@ -1338,11 +1336,11 @@ dies, the shop returning to its eerie calm.
 Curious. Very curious.
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Sorry, but what's curious? 
 
 </sp>
-<sp>OLLIVANDER
+<sp who="OLLIVANDER">
 
 I remember every wand I've ever sold, 
 Mr. Potter. It so happens that the 
@@ -1360,11 +1358,11 @@ And who owned that wand?
 Ollivander exchanges a surprised glance with Hagrid. 
 
 </sp>
-<sp>HAGRID
+<sp who="HAGRID">
 We don't speak his name, Harry. 
 
 </sp>
-<sp>OLLIVANDER 
+<sp who="OLLIVANDER ">
 As I said, the wand chooses the 
 wizard, Mr. Potter. It's not always 
 clear why. But I think it's clear we 
@@ -1386,22 +1384,22 @@ say goodbye to Ollivander. He's gone. Harry runs outside.
 Harry runs up to Hagrid, looks at the owl. 
 
 </stage>
-<sp>HAGRID
+<sp who="HAGRID">
 Happy Birthday, Harry.  
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (excited)  
 
 For me? Really? He's Mine?
 
 </sp>
-<sp>HAGRID
+<sp who="HAGRID">
 Crikey, yeh'd think yeh hadn't gotten. 
 a birthday present before.  
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 I haven't. Not really. 
 
 </sp>
@@ -1411,11 +1409,11 @@ Hagrid and Harry sit at a table in the corner. Hagrid dips
 a spoon into a huge bowl of soup, looks up. 
 
 </stage>
-<sp>HAGRID 
+<sp who="HAGRID ">
 You all right, Harry? Yer very quiet. 
 
 </sp>
-<sp>HARRY. 
+<sp who="HARRY. ">
 (touching his scar) 
 
 He killed my parents, didn't he? The 
@@ -1425,7 +1423,7 @@ Hagrid. I know you do.
 Hagrid studies Harry, conflicted, then sets down his spoon. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 'Course I know. Who do yeh think 
 carried yeh out o' yer parents' house, 
 Hallowe'en night, ten years ago? Who  
@@ -1444,22 +1442,22 @@ go. His name was... was...
 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 Maybe if you wrote it down.
 
 </sp>
-<sp>HAGRID
+<sp who="HAGRID">
 Nah--can' spell it. All right-- Voldemort.
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 Voldemort? 
 
 ·Hagiid shivers, holds up his hand, and glances quickly 
 about the shadows of the pub before continuing. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Dark days those were, Harry. 
 Volde... You-Know-Who... started lookin' 
 fer followers. Got 'em too. Anyone 
@@ -1469,11 +1467,11 @@ once he decided to kill 'em. Not one.
 'Cept you. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Me? Voldemort tried to kill me? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 That's no ord'nary cut on your 
 forehead. A mark like that only comes 
 when yeh've been touched by a curse. 
@@ -1485,7 +1483,7 @@ Harry turns, sees an OLD WOMAN laughing with the gummy
 bartender. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 But what happened to Vol... to You-Know-Who? 
 
 HAGRID·· 
@@ -1508,7 +1506,7 @@ stand outside the station in the shimmering dawn light.
 Hagrid checks his WATCH, looks suddenly urgent. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Blimey, look at the time. 'Fraid I
 'ave ter be leavin' yeh now, Harry.
 Dumbledore will be wantin'
@@ -1525,7 +1523,7 @@ important, Harry. Stick ter yeh
 ticket... 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 There must be something wrong, Hagrid.
 This says Platform Nine and Three 
 Quarters. There's no such thing. 
@@ -1540,12 +1538,12 @@ halt in front of a pair of PLATFORM SIGNS. One reads NINE.
 One reads TEN. Harry turns to a passing STATION OFFICER. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Excuse me. Can you tell me where I might 
 find Platform Nine and Three-Quarters. 
 
 </sp>
-<sp>STATION OFFICER 
+<sp who="STATION OFFICER ">
 (grumbling off)
 Think you're funny, do you? Nine and 
 Three-Quarters indeed...  
@@ -1568,27 +1566,27 @@ Weasley turns to a pair of cheeky twins (FRED and GEORGE).
 Fred. You next. 
 
 </sp>
-<sp>FRED 
+<sp who="FRED ">
 I'm not Fred I'm George. Honestly, 
 woman, you call yourself our mother? 
 
 </sp>
-<sp>MRS. WEASLEY 
+<sp who="MRS. WEASLEY ">
 Sorry, George. 
 
 </sp>
-<sp>FRED 
+<sp who="FRED ">
 Only joking. I am Fred. 
 
 
 Fred dashes off, trailed by George. They too vanish.
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Excuse me. Could you tell me-- 
 
 </sp>
-<sp>MRS. WEASLEY 
+<sp who="MRS. WEASLEY ">
 How to get onto the platform? Not to 
 worry, dear. It's Ron's first time to 
 Hogwarts as well. 
@@ -1618,38 +1616,38 @@ QUARTERS on it. Just beyond, he sees Kings Cross and the
 world he's left behind. 
 
 </stage>
-<sp>NEW ANGLE ON PLATFORM 
+<sp who="NEW ANGLE ON PLATFORM ">
 Harry struggles with his heavy trunk as all around him people 
 say goodbye to their families. A round-faced boy (NEVILLE 
 LONGBOTTOM) turns frantically to his GRAN. 
 
 </sp>
-<sp>NEVILLE 
+<sp who="NEVILLE ">
 Gran! I've lost my toad again. 
 
 </sp>
-<sp>GRAN 
+<sp who="GRAN ">
 Oh, Neville. Honestly. Not again... 
 
 Further up, a BOY IN DREADLOCKS (LEE JORDAN) holds a BOX. 
 
 </sp>
-<sp>STUDENT 
+<sp who="STUDENT ">
 Go on, Lee. Give us a look. 
 
 As Lee lifts the LID, a LONG HAIRY LEG protrudes and students 
 SHRIEK. Unimpressed, one of the twins spots Harry struggling. 
 
 </sp>
-<sp>GEORGE 
+<sp who="GEORGE ">
 Want a hand? 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 Yes, please. 
 
 </sp>
-<sp>GEORGE 
+<sp who="GEORGE ">
 Oy! C'mere, Fred! Take a handle. 
 
 </sp>
@@ -1660,23 +1658,23 @@ trunks while Harry sets Hedwig with the owls. Harry wipes his
 sweaty hair off his brow... revealing his scar. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 Thanks very much. 
 
 </sp>
-<sp>GEORGE 
+<sp who="GEORGE ">
 Blimey. You're...
 
 </sp>
-<sp>FRED 
+<sp who="FRED ">
 Harry Potter. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What'? Oh, him. Yes. I mean, I am. 
 
 </sp>
-<sp>MRS. WEASLEY 
+<sp who="MRS. WEASLEY ">
 Fred! George! Come say goodbye to Ginny. 
 
 Mrs. Weasley stands waving, the redheaded girl clinging to 
@@ -1688,12 +1686,12 @@ compartment. Very much alone, he sits, peers out the window
 as Percy Weasley strides forth in billowing BLACK ROBES.
 
 </sp>
-<sp>PERCY 
+<sp who="PERCY ">
 Have to go, Mother. The other Prefects 
 are expecting me up front. 
 
 </sp>
-<sp>FRED 
+<sp who="FRED ">
 Mum! Guess who's on the train? Right now... 
 
 
@@ -1701,12 +1699,12 @@ FRED/GEORGE
 Harry Potter! 
 
 </sp>
-<sp>GINNY 
+<sp who="GINNY ">
 Oh, Mum, can I go on and see him? Please. 
 
 
 </sp>
-<sp>MRS. WEASLEY 
+<sp who="MRS. WEASLEY ">
 Certainly not. The boy isn't something
 you goggle at in a zoo. 
 
@@ -1723,12 +1721,12 @@ more owl teeling me you've blown up a
 toilet or something--
 
 </sp>
-<sp>FRED 
+<sp who="FRED ">
 Blown up a toilet? We've never blown up a 
 toilet.
 
 </sp>
-<sp>GEORGE 
+<sp who="GEORGE ">
 Great idea, though, thanks, Mum! 
 
 </sp>
@@ -1752,23 +1750,23 @@ slides open. Ron stands there. Seeing Harry,
 he hesitates.  
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 Mind? Everywhere else is full. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Not at all. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 I'm Ron, by the way. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I heard. I'm Harry. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 I... heard. 
 (unable to resist) 
 Is it true? I mean, have you really got 
@@ -1779,24 +1777,24 @@ Without prompting, Harry lifts his hair.. Shows the scar ..
 Wicked. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Are all your family wizards? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Huh? Oh. I think so. Well, Mum's got a 
 second cousin who's an accountant. But we 
 never talk about him. I heard you went to 
 live with Mugg1es. What are they like? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Horrible. Well, not all of them. Mine 
 are, though. Trade them for three wizard 
 brothers any day. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Five. I'm the sixth in our family to go 
 to Hogwarts. Everyone expects me to do as 
 well as the others. But if I do, it's no 
@@ -1818,14 +1816,14 @@ Ron looks embarrassed. Just then, a DIMPLED WOMAN pushing a
 TROLLEY FULL OF SWEETS pops her head in. 
 
 </sp>
-<sp>DIMPLED WOMAN 
+<sp who="DIMPLED WOMAN ">
 Anything off the trolley, dears? 
 
 Ron mumbles 'No thanks,' takes out a lumpy sandwich. Harry 
 studies him, then digs into his pockets, heavy with coin. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 We'll take the lot. 
 
 CLOSE UP: TROVE OF TREATS 
@@ -1838,18 +1836,18 @@ CLOSE UP: TROVE OF TREATS
 wondrous candies before him. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 'Bertie Bott's Every Flavor Beans'? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 They mean every flavor. There's 
 chocolate, peppermint... but you can also 
 get liver or spinach or tripe. George 
 reckons he had a bogey-flavored one once. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 These aren't real 'frogs, are they? 
 
 Harry holds up a pack of "CHOCOLATE FROGS"--something is 
@@ -1858,7 +1856,7 @@ has a very realistic leg squirreling out the corner of his
 mouth. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 (mumbling) 
 Just a spell. Besides, it's the card you 
 want. Each pack's got a Famous Witch or 
@@ -1876,16 +1874,16 @@ with a crooked nose, long silver beard, and half-moon
 glasses. Underneath is a name: ALBUS DUMBLEDORE. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I've gotten Dumbledore! 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 I've about six of him. Trade you Scabbers 
 though, if you get Agrippa or Ptolemy. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (reading the back) 
 Considered by many the greatest wizard 
 of modern times, Dumbledore is 
@@ -1902,27 +1900,27 @@ music, tenpin bowling, and...'
 One hundred arid fifty years old? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Thought he'd be older, did you? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 No-- I--Hey, he's gone. 
 
 Harry holds up the card--now blank--to Ron, who only shrugs. 
 
 </sp>
-<sp>RON
+<sp who="RON">
 Well, you can't expect him to hang around 
 all day, can you? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 It's just, in the Muggle world, people 
 stay put in photos. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Really? They don't move at all? Weird! 
 
 Just then, Scabbers SNORTS, falls back asleep. 
@@ -1936,7 +1934,7 @@ bushy brown hair and rather large front teeth looks in. She
 is HERMIONE GRANGER and is already wearing her school robes. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Has anyone seen a toad? A boy named 
 Neville has lost one. 
 (seeing Ron' s wand) 
@@ -1946,14 +1944,14 @@ She sits down. Ron looks a bit taken aback, but clears his
 throat nonetheless, poises his wand over Scabbers. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Sunshine, daisies, butter mellow, 
 Turn this stupid. fat rat yellow. 
 
 Scabbers SNORTS, but otherwise remains fat, grey, and asleep. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Are you sure that's a real spell? Well, 
 it's not very good, is it? I've only 
 tried a few simple ones myself but 
@@ -1970,11 +1968,11 @@ Rise and Fall of the Dark Arts and Great
 Wizarding Events of the 20th Century. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Am I? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Didn't you know? I'd have found out 
 everything I could if it was me. 
 
@@ -1990,11 +1988,11 @@ are ... ? ·
 Ron is still staring at the glasses, feeling a bit outdone. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Um... Ron Weasley. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Pleasure. Do either of you know what 
 House you'll be in? I'm hoping for 
 Gryffindor--I hear Dumbledore himself was 
@@ -2016,7 +2014,7 @@ spill out. Harry's robes shimmer grandly, while Ron's
 secondhand silks show a bit too much sneaker. 
 
 </stage>
-<sp>HAGRID
+<sp who="HAGRID">
 Firs' years! Firs' years over here!
 
 Hagrid gives Harry a wink as he comes loping out of the 
@@ -2034,7 +2032,7 @@ OF SILVER flickers through the black trees, like a dream.
 Harry watches, transfixed, then...
 
 </stage>
-<sp>HAGRID 
+<sp who="HAGRID ">
 You there! Don' be trailin' yer fingers in the water. Yeh might find yeh don' get
 'em all back. 
 
@@ -2056,7 +2054,7 @@ in an emerald cloak, stands before a pair of TOWERING DOORS.
 She lifts her chin, surveys the new students. 
 
 </stage>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Welcome to Hogwarts. In a moment, you
 will pass through these doors and join 
 your classmates, but before you can take 
@@ -2074,14 +2072,14 @@ Just then, a rather LARGE TOAD springs forth, CROAKS.
 
 
 </sp>
-<sp>NEVILLE 
+<sp who="NEVILLE ">
 Trevor! 
 
 Neville, blissfully relieved, gathers his toad, then peers up 
 from the hem of Professor McGonagall's robes. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL
+<sp who="PROFESSOR MCGONAGALL">
 ...will be a credit to whichever House 
 becomes yours. The Sorting Ceremony will 
 begin momentarily. 
@@ -2091,11 +2089,11 @@ goes, there is a BRIEF CLAMOR of SOUND from the students
 waiting in the Great Hall beyond. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 How exactly do they sort us? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Some kind of test, I think. Fred says it 
 hurts like hell, but I'm sure he was 
 joking. At least... I think he was. 
@@ -2104,7 +2102,7 @@ Just then, Draco Malfoy pushes through the crowd, shadowed by
 the boys from the boat. Malfoy stares openly at Harry's scar. 
 
 </sp>
-<sp>MALFOY  
+<sp who="MALFOY  ">
 It's true then, what they were saying on 
 the train. Harry Potter has come to 
 Hogwarts.  
@@ -2130,7 +2128,7 @@ the wrong sort. I can help you there.
 Malfoy extends his hand, but Harry's gaze remains level. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I think I can tell the wrong sort for 
 myself, thanks. 
 
@@ -2138,14 +2136,14 @@ Malfoy's eyes glitter with rage. Finally he drops his hand,
 turns away. 
 
 </sp>
-<sp>HERMIONE . 
+<sp who="HERMIONE . ">
 Well, he's rather disagreeable, isn't he? 
 
 Ron and Harry turn, see Hermione. Just then, Professor McGonagall 
 returns. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 We are ready for you. 
 
 </sp>
@@ -2157,7 +2155,7 @@ tables lined with students. Harry looks to the windows below
 the ceiling, finds glorious stars and an icy blue moon. 
 
 </stage>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 It' s not real, the ceiling. It's only 
 bewitched to look like the night sky. I 
 read about it in Hogwarts, A History. 
@@ -2166,7 +2164,7 @@ Professor McGonagall sweeps to the front of the room where a
 WIZARD'S HAT--patched and frayed--sits on a stool. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Before we begin, Professor Dumbledore 
 would like to say a few words. 
 
@@ -2174,21 +2172,21 @@ Harry watches with great interest as the great wizard himself
 rises from his seat at the High Table.
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 Yes, and here they are: Nitwit! Blubber! 
 Oddment! Tweak! Thank you! 
 
 The Great Hall THUNDERS with APPLAUSE. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 I hear he's a genius. 
 
 As the applause subsides, the hat TWITCHES. At the brim, a 
 rip OPENS WIDE, and the hat begins to TALK. 
 
 </sp>
-<sp>SORTING HAT  
+<sp who="SORTING HAT  ">
 Oh, you may not think I'm pretty 
 But don't judge on what you see 
 I'll eat myself if you can find 
@@ -2202,7 +2200,7 @@ As the students APPLAUD, the hat takes a bow and Professor
 McGonagall steps forward with a ROLL OF PARCHMENT.  
 
 </sp>
-<sp>PROFESSORMCGONAGALL 
+<sp who="PROFESSORMCGONAGALL ">
 When I call your name, you will come 
 forth, put on the hat and be sorted. 
 
@@ -2211,14 +2209,14 @@ forth, put on the hat and be sorted.
 Hermione Granger. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Oh dear. Here it is, isn't it? The 
 moment. Goodness. What if the hat says 
 nothing and we're all just left standing 
 here forever ... 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 (as she goes mumbling off) 
 
 Mental, that one. I'm telling you. 
@@ -2226,27 +2224,27 @@ Mental, that one. I'm telling you.
 Both watch Hermione seat herself, lower the Hat. 
 
 </sp>
-<sp>SORTING HAT 
+<sp who="SORTING HAT ">
 GRYFFINDOR! 
 
 Percy pulls out a chair for Hermione at the Gryffindor table. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Draco Malfoy. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Slytherin. 
 
 Draco Malfoy swaggers forth and grips the hat. He's barely touched it to his head, when: 
 
 </sp>
-<sp>SORTING HAT 
+<sp who="SORTING HAT ">
 SLYTHERIN! 
 
 </sp>
-<sp>RON
+<sp who="RON">
 (off Harry's amazement) 
 There's not a witch or wizard who went bad
 who wasn't in Slytherin. Draco's father 
@@ -2255,7 +2253,7 @@ when he got power. And one of the first
 to come back when he lost it. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL. 
+<sp who="PROFESSOR MCGONAGALL. ">
 Susan Bones. 
 
 As SUSAN BONES dashes up front, Harry glances to the High 
@@ -2267,39 +2265,39 @@ Harry's eyes. Instantly, a sharp, hot PAIN shoots across
 Harry's scar. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Ouch! 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Harry? What is it? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 N-nothing. I'm fine. 
 
 </sp>
-<sp>SORTING HAT 
+<sp who="SORTING HAT ">
 Hufflepuff! 
 
 As Susan Bones runs off...
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Ronald Weasley. 
 
 As Ron steps nervously away, Harry glances back to the High 
 Table. Snape has returned to his conversation. 
 
 </sp>
-<sp>SORTING HAT 
+<sp who="SORTING HAT ">
 Gryffindor! 
 
 Fred and George WHOOP LOUDLY as Ron comes grinning out of the 
 hat, greatly relieved. Harry starts to clap himself when... 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Harry Potter. 
 
 There is an abrupt drop in the CHATTER. As Harry makes his 
@@ -2311,7 +2309,7 @@ Harry sits, takes the hat, and... slowly... lowers it.
 He waits, then the hat begins to SPEAK. 
 
 </sp>
-<sp>SORTING HAT 
+<sp who="SORTING HAT ">
 Hmmm. Difficult. Very Difficult. Plenty 
 of courage, I see. Not a bad mind either. 
 There's talent, oh yes, and a thirst to 
@@ -2346,7 +2344,7 @@ listens as a rather wild-looking boy named SEAMUS talks to
 another student, DEAN THOMAS. 
 
 </stage>
-<sp>SEAMUS 
+<sp who="SEAMUS ">
 I'm half and half. Me dad's a Muggle, 
 Mam's a witch. Bit of a nasty shock for 
 him when he found out. 
@@ -2357,21 +2355,21 @@ Harry's goblet, Harry nods to the High Table,
 to Professor Snape. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Say, Percy. Who's 
 that teacher talking to Professor Quirrell? 
 
 </sp>
-<sp>PERCY 
+<sp who="PERCY ">
 Hm? Oh. Professor Snape. Head of 
 Slytherin House
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What's he teach? 
 
 </sp>
-<sp>PERCY
+<sp who="PERCY">
 Potions. But everyone knows it's the Dark 
 Arts he fancies. Been after Quirrell's 
 job for years.
@@ -2383,7 +2381,7 @@ PERCY (CONT'D)
 Hello, Sir Nicolas. Have a nice summer? 
 
 </sp>
-<sp>NEARLY HEADLESS NICK 
+<sp who="NEARLY HEADLESS NICK ">
 Dismal. What with the Slytherins winning 
 the House Cup six years in a row, the 
 Bloody Baron's become unbearable. 
@@ -2395,34 +2393,34 @@ NEARLY HEADLESS NICK (CONT'D)
 Then again, he's always been unbearable. 
 
 </sp>
-<sp>RON  
+<sp who="RON  ">
 I know you. You're Nearly Headless Nick. 
 
 </sp>
-<sp>NEARLY HEADLESS NICK 
+<sp who="NEARLY HEADLESS NICK ">
 I prefer Sir Nicolas, if you don't mind. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Nearly headless? How can you be nearly 
 headless? 
 
 </sp>
-<sp>NEARLY HEADLESS NICK 
+<sp who="NEARLY HEADLESS NICK ">
 Like this. 
 
 Seizing himself by the left ear, Nick swings his ENTIRE HEAD 
 off his neck and onto his shoulder, as if it were on a hinge. 
 
 </sp>
-<sp>NEVILLE 
+<sp who="NEVILLE ">
 (blanching) 
 I think I'm done eating. 
 
 Just then, Dumbledore rises at the High Table. 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 If I may, I have a few start-of-term 
 notices to announce. First Years should 
 note that the Dark Forest is strictly 
@@ -2455,7 +2453,7 @@ beside their plates, Harry and his fellow First Years join a
 rousing, but rather dischordant, chorus of VOICES. 
 
 </sp>
-<sp>SCHOOL SINGING 
+<sp who="SCHOOL SINGING ">
 Hogwarts, Hogwarts, Hoggy Warty Hogwarts 
 Teach us things worth knowing 
 Bring back what we've forgot 
@@ -2470,7 +2468,7 @@ stares in wonderment at the PORTRAITS on the walls: the
 people in them MOVE. 
 
 </stage>
-<sp>PERCY 
+<sp who="PERCY ">
 This is the most direct path to the 
 dormitory, except on Fridays, of course, 
 when the staircases change. 
@@ -2485,7 +2483,7 @@ sticks come flying forth. As the First Years duck and dodge,
 Percy sighs in annoyance. 
 
 </sp>
-<sp>PERCY 
+<sp who="PERCY ">
 Gryffindors, I givee you Peeves,
 Hogwarts resident poltergeist
 
@@ -2494,14 +2492,14 @@ eyes and wide mouth appears, clutching the last
 walking stick.
 
 </sp>
-<sp>PEEVES 
+<sp who="PEEVES ">
 Oooh! Ickle Firsties ! What fun! 
 
 With that, Peeves swoops off, wagging his tongue
 and bouncing a walking stick off Neville's head. 
 
 </sp>
-<sp>PERCY 
+<sp who="PERCY ">
 (walking on)
 Rather a nuisance, I'm afraid. Ah. 
 Here we are.  
@@ -2510,11 +2508,11 @@ At the very end of the corridor, hangs a PORTRAIT of a
 WOMAN in a pink silk dress. She looks at Percy. 
 
 </sp>
-<sp>PINK LADY 
+<sp who="PINK LADY ">
 Password? 
 
 </sp>
-<sp>PERCY 
+<sp who="PERCY ">
 Caput Draconis. 
 
 The portrait SWINGS FORWARD, revealing a ROUND HOLE in the 
@@ -2527,7 +2525,7 @@ The students enter a cozy, round room, filled with squashy
 armchairs. At the top of a SPIRAL STAIRCASE, are two DOORS.
 
 </stage>
-<sp>PERCY 
+<sp who="PERCY ">
 Girls' dormitory to the left. Boys to 
 the right. You'll find your belongings
 have already been brought up. Any questions? 
@@ -2553,19 +2551,19 @@ The stairway bustles with students as Harry and Ron make
 their way. Clearly lost, Ron consults his TIMETABLE. 
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 This is Staircase Twelve North, which 
 should take us to Backward Staircase 
 Seven--no wait a minute, we're on 
 Backward Staircase Seven... 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 How many staircases are there? 
 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 One hundred forty-two, though, in A
 History of Magic, Bathilda Bagshot makes 
 unattributed reference to three others. 
@@ -2574,7 +2572,7 @@ Harey and Ron watch Hermione pass by, apparently holding
 every single First Year course book in her arms, 
 
 </sp>
-<sp>RON
+<sp who="RON">
 I hate her. 
 
 INT. MCGONAGALL'S CLASSROOM - MORNING 
@@ -2583,7 +2581,7 @@ markings, particularly around the eyes, are somehow familiar.
 Harry and Ron burst in, glance around. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Whew! We made it, mate. Can you imagine 
 old McGonagall's face if we were late 
 first day out... 
@@ -2596,7 +2594,7 @@ RON (CONT'D)
 That was bloody brilliant! 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Thank you for that assessment, Mr. 
 Weasley. But perhaps it might be more 
 useful if I transfigured Mr. Potter or 
@@ -2604,11 +2602,11 @@ yourself into a pocket watch. That way
 one of you might be on time. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 We got lost. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Then perhaps a map. I trust you don't 
 need one to find your seats? 
 
@@ -2635,7 +2633,7 @@ sit in dead silence, eyes wandering to the PICKLED ANIMALS
 floating in GLASS JARS along the cold stone walls. 
 
 </stage>
-<sp>SNAPE 
+<sp who="SNAPE ">
 There will be no foolish wand waving or 
 silly incantations  in this class. As 
 such, I don't expect many of you to 
@@ -2668,27 +2666,27 @@ Where, Mr. Potter, would you look if I
 told you to find me a bezoar? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I don't know, sir. 
 
 </sp>
-<sp>SNAPE 
+<sp who="SNAPE ">
 And the difference between monkshood and 
 wolfsbane? 
 
 Harry sees Malfoy, Crabbe and Goyle sniggering. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I don't know, sir. 
 
 </sp>
-<sp>SNAPE 
+<sp who="SNAPE ">
 Pity. Clearly fame isn't everything, is 
 it, Mr. Potter. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Clearly Hermione knows. It seems a pity 
 not to ask her. 
 
@@ -2696,7 +2694,7 @@ Neville, Seamus and a few other Gryffindors LAUGH.
 
 
 </sp>
-<sp>SNAPE
+<sp who="SNAPE">
 Silence! And put your hand down, you 
 silly girl! 
 
@@ -2732,16 +2730,16 @@ GEMS drop in Gryffindor's, rise in Slytherin's. Down the
 table, Seamus is MUTTERING. 
 
 </stage>
-<sp>SEAMUS 
+<sp who="SEAMUS ">
 Eye of rabbit, harp string hum...
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What's Seamus trying to do to that glass 
 of water? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Turn it to rum. Actually managed a weak 
 tea yesterday before it...
 
@@ -2762,19 +2760,19 @@ Neville holds a GLASS BALL filled with WHITE SMOKE. Slowly,
 the smoke begins to turn a DEEP SCARLET. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 I've read about those. If the smoke turns 
 red it means you've forgotten something. 
 
 </sp>
-<sp>NEVILLE 
+<sp who="NEVILLE ">
 Only problem is... I can't remember what 
 I've forgotten. 
 
 Harry, Daily Prophet in hand, nudges Ron. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Hey, Ron. Somebody broke into Gringotts! 
 Listen: 'Believed to be the work of Dark 
 wizards or witches unknown, Gringotts 
@@ -2784,12 +2782,12 @@ question had, in fact, been emptied
 earlier that very same day.' That's odd. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 It's mad. Dad says there are dragons 
 guarding some of the vaults. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 No. It's just odd... That's the day Hagrid 
 and I were there. 
 
@@ -2802,7 +2800,7 @@ OF BROOMSTICKS. MADAME HOOCH, a rangy witch with short grey
 hair and hawk-like eyes, stands between the two groups. 
 
 </stage>
-<sp>MADAME HOOCH 
+<sp who="MADAME HOOCH ">
 Welcome to your first Flying Lesson. 
 Well, what are you all waiting for? 
 Everyone step up to a broomstick. Come 
@@ -2819,7 +2817,7 @@ SHOUTS of "Up!" ring on the cold afternoon air. Though he
 barely WHISPERS the command, Harry's broom SNAPS smartly into 
 his hand. Hermione's simply rolls over. Ron's FLIES UP and 
 </sp>
-<sp>CRACKS HIM IN THE NOSE. 
+<sp who="CRACKS HIM IN THE NOSE. ">
 
 MADAME HOOCH (CONT'D) 
 Now. Once you've got hold of the broom, I 
@@ -2832,11 +2830,11 @@ Goodness, boy, what have you done with
 your eyebrows? 
 
 </sp>
-<sp>SEAMUS 
+<sp who="SEAMUS ">
 Lost 'em, ma'am. 
 
 </sp>
-<sp>MALFOY
+<sp who="MALFOY">
 Excuse me, Madam Hooch. Given that a few 
 of us have been on sticks for years, 
 would it not make sense to separate the 
@@ -2846,7 +2844,7 @@ expert flyers from...
 the neophytes?  
 
 </sp>
-<sp>MADAME HOOCH 
+<sp who="MADAME HOOCH ">
 Thank you, Mr. Malfoy, but I'm sure even 
 an expert flyer such as yourself can 
 appreciate the benefits of reacquainting 
@@ -2902,17 +2900,17 @@ garden, watching with a pair of BINOCULARS. Malfoy scoops
 Neville's Remernbrall from the grass, cackles. 
 
 </sp>
-<sp>MALFOY
+<sp who="MALFOY">
 Did you see his face? Perhaps if the 
 great lump had given this a squeeze, he 
 would've remembered to fall on his fat arse. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Give it here, Malfoy. 
 
 </sp>
-<sp>MALFOY 
+<sp who="MALFOY ">
 No, I think I'll leave it somewhere for 
 Longbottom to find. How about up a tree? 
 
@@ -2926,7 +2924,7 @@ your reach?
 Harry glowers up at Malfoy, then GRABS his broom. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Harry! No! You heard what Madame Hooch 
 said. Besides you don't even know how 
 to fly. 
@@ -2936,12 +2934,12 @@ he realizes what the others see clearly: he's a natural.
 Turning his broomstick sharply, he hovers, glaring at Malfoy. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Give it here. Or I'll knock you off that 
 ruddy broom. 
 
 </sp>
-<sp>MALFOY 
+<sp who="MALFOY ">
 Is that so? 
 
 Harry SHOOTS forth like a javelin, Malfoy just managing to 
@@ -2963,7 +2961,7 @@ HAR-RY POT-TER!
 Harry's stomach drops. Malfoy grins hideously. 
 
 </sp>
-<sp>MALFOY 
+<sp who="MALFOY ">
 Chin up, Potter. They might let you stay 
 on as Hagrid's assistant. 
 
@@ -2979,7 +2977,7 @@ Harry trails silently after Professor McGonagall.
 Professor McGonagall leans into an adjacent classroom. 
 
 </stage>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Excuse me, Professor Quirrell, could I 
 borrow Wood for a moment. 
 
@@ -2997,57 +2995,57 @@ Harry and Ron walk, buffeted by the stream of students
 heading for dinner. Hermione walks a few steps behind. 
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 Seeker! But first years never make the 
 House teams. You must be the youngest 
 Quidditch player in-
 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 --a century. According to McGonagall. 
 Just then, Fred and George descend. 
 
 </sp>
-<sp>FRED 
+<sp who="FRED ">
 Well done, Harry. Wood's just told us. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Fred and George are on the team too. 
 Beaters. 
 
 </sp>
-<sp>GEORGE 
+<sp who="GEORGE ">
 Our job to make sure you don't get 
 bloodied up too bad. Can't make any 
 promises, of course. Rough game,
 Quidditch. 
 
 </sp>
-<sp>FRED 
+<sp who="FRED ">
 Brutal. But no one's died in years
 Someone will vanish occasionally...
 
 </sp>
-<sp>GEORGE 
+<sp who="GEORGE ">
 But they turn up in a month or two. 
 
 As the twins dash off, Ron reads Harry's troubled face.  
 </sp>
 
-<sp>RON
+<sp who="RON">
 Oh go on, Harry. Quidditch 
 is great. Best game there is.
 And you'll be great too.
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I've never even played Quidditch. What
 if I make a fool of myself?
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 You won't make a fool of yourself. 
 
 Ron and Harry turn. They hadn't even noticed Hermione. 
@@ -3065,12 +3063,12 @@ upon a SILVER TRAY, below a GRYFFINDOR LION, one NAME shines:
 James Potter. Seeker. 
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 Harry ... you didn't tell me your father 
 was a Seeker too. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I... didn't know. 
 
 </sp>
@@ -3080,7 +3078,7 @@ As Harry and Ron trail Hermione up the staircase, Ron
 WHISPERS. 
 </stage>
 
-<sp>RON
+<sp who="RON">
 
 I'm telling you, it's spooky. She knows 
 
@@ -3089,7 +3087,7 @@ more about you than you do.
 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 
 Who doesn't? 
 
@@ -3103,29 +3101,29 @@ Just then, the staircase LURCHES beneath their feet...
 ... and transports them to a very dark, very creepy corridor.
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 Does anybody feel like ... we shouldn't be 
 here? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 We're not supposed to be here. This is 
 the Third Floor. It's forbidden. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (intrigued)
 Why, though? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Because Dumbledore said so. Let's go. 
 
 Meow. They freeze. A CAT sits watching·them, eyes glittering 
 in the dark. Then ... a SHADOW scales the wall. 
 
 </sp>
-<sp>FILCH  
+<sp who="FILCH  ">
 Who goes there! 
 
 They turn, dash the opposite way. As they reach a DOOR, Harry 
@@ -3135,11 +3133,11 @@ FILCH (CONT'D)
 Lead me to them, my sweet.... 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 That's it. We' re done for. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Oh, move over. Alohomora! 
 
 Hermione gives her wand a swish and... the door swings open.
@@ -3154,23 +3152,23 @@ Standard Book of Spells. Chapter Seven.
 As·they fall inside, Hermione presses her ear to the door.
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 Chapter Seven?
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Shhh! Filch is... gone.
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 He probably thinks this door is locked. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 It was locked. 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 And for good reason... 
 
 Hermione and Ron turn. Standing a feet away is a DOG... only 
@@ -3190,34 +3188,34 @@ itself against it. They exchange a glance, dash off.
 The Pink Lady frowns as they spill through, stand gasping. 
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 What do they think they're doing 
 keeping a thing like that locked up in 
 school? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 You don't use your eyes, do you? 
 Didn't you see what it was standing 
 on? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 I wasn't looking at its feet. I was a 
 bit preoccupied with its heads. Or 
 maybe you didn't notice. There were 
 three. 
 
 </sp>
-<sp>HERMIONE
+<sp who="HERMIONE">
 It was standing on a trapdoor, which 
 means it's not there by accident. It's-
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Guarding something. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 That's right. Now, if you don't mind, I  
 think I'll go to bed before either of you 
 figures out another clever way to get us 
@@ -3229,7 +3227,7 @@ killed. Or worse... expelled.
 Harry stands with Oliver Wood on the empty practice pitch. 
 
 </stage>
-<sp>WOOD 
+<sp who="WOOD ">
 Quidditch is easy enough to understand. 
 Each team has seven players: Three 
 Chasers, two Beaters, one Keeper and the 
@@ -3244,11 +3242,11 @@ With me so far?
 Harry nods, points to a WOOD CRATE rocking violently. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I think so. What's in there? 
 
 </sp>
-<sp>WOOD 
+<sp who="WOOD ">
 Here. Take this. 
 
 Wood hands Harry a SMALL CLUB, kneels before the crate, and 
@@ -3264,11 +3262,11 @@ Beater. Careful now, it's coming back.
 As the ball screams back to earth, Wood crates it. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What was that? 
 
 </sp>
-<sp>WOOD 
+<sp who="WOOD ">
 Bludger. Nasty little buggers. But you're 
 a Seeker. The only ball I want you to 
 worry about is... this. 
@@ -3277,20 +3275,20 @@ Wood takes out a TINY BALL about the size of a walnut. BRIGHT
 GOLD, it has little, fluttering WINGS. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I like this ball. 
 
 </sp>
-<sp>WOOD 
+<sp who="WOOD ">
 You,like it now. Just wait. It's wicked 
 fast and damn near impossible to see. 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 What do I do with it? 
 
 </sp>
-<sp>WOOD 
+<sp who="WOOD ">
 Catch it. Before the other team's Seeker. 
 You catch this, the game is over. You 
 catch this, Potter... we win. 
@@ -3301,7 +3299,7 @@ PROFESSOR FLITWICK, a very tiny, gnome-like wizard, stands on
 a PILE OF BOOKS as he oversees the class. 
 
 </sp>
-<sp>PROFESSOR FLITWICK 
+<sp who="PROFESSOR FLITWICK ">
 
 Now don't forget that nice wrist movement 
 we've been practising. Swish and flick. 
@@ -3311,49 +3309,49 @@ Harry, paired with Seamus, poses his wand over the FEATHER
 before him and begins to swish and flick. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Wingardium Leviosa. 
 
 The feather flutters, but never leaves the table. 
 
 </sp>
-<sp>PROFESSOR FLITWICK 
+<sp who="PROFESSOR FLITWICK ">
 And enunciate! Never forget Wizard 
 Bartiffio, who said 's' instead of 'f' and 
 found himself on the floor with a buffalo 
 on his chest. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 WINGARDIUM LEVIOSA! 
 
 Ron windmills his arms grandly. Nothing. Hermione frowns. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Honestly. You're going to take someone's
 eye out. Besides, you're saying it wrong.
 It's Levi-ohhhh-sa. Not· Levi-o-saaaah.
 
 </sp>
-<sp>RON
+<sp who="RON">
 You do it then, if you're so clever. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Wingardium Leviosa. 
 
 Hermione swishes and flicks. Instantly the feather rises.
 
 </sp>
-<sp>PROFESSOR FLITWICK 
+<sp who="PROFESSOR FLITWICK ">
 Oh, well done! Everyone see here. Miss 
 Granger's done it! 
 
 PFFFT! Across the room, SMOKE curls between Seamus and Harry. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I think we're going to need another
 feather over here, Professor.
 
@@ -3363,7 +3361,7 @@ feather over here, Professor.
 As Harry and Ron cross the courtyard, Ron mimics Hermione. 
 
 </stage>
-<sp>RON
+<sp who="RON">
 It's Levi-ohhhhh-sa. Not Levi-o-saaaah. 
 She's a nightmare, honestly. No wonder  
 she hasn't got any friends. 
@@ -3372,7 +3370,7 @@ Just then, someone BUMPS into Harry. He turns, sees Hermione
 dash by, hugging her books, eyes glittering with tears. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 
 I think she heard you. 
 
@@ -3388,15 +3386,15 @@ McGonagall says something to Hagrid, who nods, then she steps
 away, approaches Harry. 
 
 </stage>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 How are you, Potter? All right? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Yes, Professor. Fine. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 I know ... that is, we know... the members 
 of the staff... that this is perhaps a 
 difficult night for you. Halloween. Your 
@@ -3405,21 +3403,21 @@ parents...
 Harry realizes what she is talking about. Nods. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I'm all right, Professor.
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Very well. 
 
 She turns, starts to go. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Professor... Thank you. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 You're welcome, Potter. 
 
 As she goes, Harry sees Ron glumly 
@@ -3427,7 +3425,7 @@ pushing his food around, listening to
 Neville speak across the EMPTY CHAIR to Seamus. 
 
 </sp>
-<sp>NEVILLE 
+<sp who="NEVILLE ">
 Parvati Patil said she wouldn't 
 come out of the girls' bathroom. 
 Said she's been in there all afternoon. 
@@ -3436,7 +3434,7 @@ Crying.
 Just then, Professor Quirrell runs into the room, CRIES OUT: 
 
 </sp>
-<sp>QUIRRELL 
+<sp who="QUIRRELL ">
 TROLL IN THE DUNGEON! TROLL IN THE 
 DUNGEON!Thought you ought to know...
 
@@ -3449,7 +3447,7 @@ standing at the front,
 purple smoke trailing from his wand. 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 Everyone will please not panic. Prefects, 
 lead your Houses back to the dormitories. 
 Teachers, follow me to the dungeons. 
@@ -3460,11 +3458,11 @@ Teachers, follow me to the dungeons.
 As they follow Percy up the stairs, Ron still looks glum. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 How could a troll get in? 
 </sp>
 
-<sp>RON 
+<sp who="RON ">
 Not on its own. Trolls are really stupid.
 Probably Peeves' playing jokes...
 (seeing Harry's face)
@@ -3472,7 +3470,7 @@ Probably Peeves' playing jokes...
 What? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Hermione. She doesn't know. 
 
 INT. GIRL'S BATHROOM CORRIOOR - MOMENTS LATER - NIGHT 
@@ -3481,7 +3479,7 @@ Hufflepuffs, then down a deserted hallway. As FOOTSTEPS ring
 out, they duck behind a STONE GRIFFIN, see Snape hurry past. 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 That's the third floor he's going to. 
 Teachers were supposed to go to the 
 dungeons...  
@@ -3490,7 +3488,7 @@ dungeons...
 What's that? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Smells like Fred's socks. Only... worse. 
 
 Much worse. Lumbering toward them is a TROLL with an ENORMOUS 
@@ -3499,20 +3497,20 @@ stupidly, peers into a doorway, then slouches slowly inside.
 Harry studies a SUIT OF ARMOR beside the door, thinks... 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Follow me.
 
 Harry edges forward, pulls the SWORD from the suit of armor, 
 and runs it through the door handle, trapping the troll. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Yes! 
 
 Harry grins, then HEARS a high, petrified SCREAM. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 This wouldn't be the girl's bathroom, 
 would it?
 
@@ -3540,26 +3538,26 @@ SMASH! The club comes thundering down yet again, this time
 just inches from her foot. 
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 Don't worry, Hermione! We're here! 
 (turning to Harry) 
 She's dead. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 I heard that! 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 What do we do? 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 (looking about frantically) 
 Confuse it! 
 
 </sp>
-<sp>RON  
+<sp who="RON  ">
 Confuse it? 
 (shrugging) 
 Hey, pea brain! 
@@ -3611,19 +3609,19 @@ Harry. Quickly, Harry rolls away...
 All is quiet for a moment. Then Hermione steps forward.
 
 </sp>
-<sp>HERMIONE
+<sp who="HERMIONE">
 Is it--dead? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I don't think so. Just knocked out. 
 
 </sp>
-<sp>RON
+<sp who="RON">
 No need to kill it, after all. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Yes, well, that was big of you. Ugh. 
 Troll snot. 
 
@@ -3634,19 +3632,19 @@ Harry notices a SPOT OF BLOOD on Snape's leg, sees Snape
 shift his cloak to cover it. 
 
 </sp>
-<sp>PROFESSOR MCGONAGAL
+<sp who="PROFESSOR MCGONAGAL">
 Explain yourselves! Both of you. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 It's my fault, Professor McGonagall. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Miss Granger! 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 I went looking for the troll. I've read 
 about them and thought I could handle it. 
 But I was wrong. If Harry and Ron hadn't 
@@ -3655,7 +3653,7 @@ come along ... I'd be dead.
 Ron drops his wand, stunned by Hermione's lie.  
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 I'm very disappointed in you, Miss 
 Granger. Five points will be taken from 
 Gryffindor for your very serious lack of 
@@ -3672,17 +3670,17 @@ points... for sheer dumb luck.
 Hermione walks silently beside Harry and Ron. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 Good of her to get us out of trouble like 
 that. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Mind you, we did save her from a full 
 grown mountain troll. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Mind you, she might not have needed 
 saving if we hadn't locked the thing in 
 with her. 
@@ -3690,7 +3688,7 @@ with her.
 Ron glances at Hermione, then away. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 What are friends for? 
 
 </sp>
@@ -3700,20 +3698,20 @@ Harry, Ron and Hermione sit together. Harry ignores his
 breakfast. Ron, as usual, is stuffing his face. 
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 Take a bit of toast, mate. Go on. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Ron's right, Harry. You're going to need 
 your strength today. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I'm not hungry. 
 
 </sp>
-<sp>SNAPE 
+<sp who="SNAPE ">
 (appearing) 
 Good luck today, Potter. Then again, now 
 that you've proven yourself against a 
@@ -3724,24 +3722,24 @@ against my boys.
 Snape smiles, LIMPS away toward the Slytherin table. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 That was ... disturbing. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 I tell you what's disturbing. Snape 
 smiling. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 That explains the blood.
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Blood? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Last night, Ron and I saw Snape heading 
 for the third floor. I'm guessing he let 
 the troll in as a diversion, tried to get 
@@ -3749,50 +3747,50 @@ past the three-headed dog, and got
 himself bit. That's why he's limping._ 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 But why would anyone go near that dog? 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 Listen. The day I was at Gringotts, 
 Hagrid took something out of one of the 
 vaults. Said it was Hogwarts business. 
 Very secret. 
 
 </sp>
-<sp>HERMIONE
+<sp who="HERMIONE">
 So you're saying...
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 That's what the dog's guarding. That's 
 what Snape wants. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 But what's safer than Gringotts? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 One place, according to Hagrid. Hogwarts. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Well, whatever it is, it must be really 
 valuable. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Or really dangerous. 
 
 Just then, an OWL beats into the room. 
 
 </sp>
-<sp>HERMIONE
+<sp who="HERMIONE">
 Bit early for mail, isn't it? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 That's Hedwig. 
 
 All watch as she swoops down with a LONG, THIN PACKAGE. Harry
@@ -3803,12 +3801,12 @@ HARRY (CONT'D)
 It's a broomstick.
 
 </sp>
-<sp>RON  
+<sp who="RON  ">
 That's not a broomstick, Harry. That's a 
 Nimbus Two Thousand. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 
 But who...?
 
@@ -3825,34 +3823,34 @@ field, the CROWD ROARS. Oliver Wood runs up alongside a
 nervous Harry, who clutches his new Nimbus 2000.
 
 </stage>
-<sp>WOOD 
+<sp who="WOOD ">
 I know what you'ree thinking, Harry. I'm 
 playing my first game of Quidditch, the  
 entire school's watching me and, worst of 
 all, it's against Slytherin. Am I right? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Pretty close. 
 
 </sp>
-<sp>WOOD 
+<sp who="WOOD ">
 It' s all right. I felt the same way 
 before my first game.
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What happened? 
 
 </sp>
-<sp>WOOD 
+<sp who="WOOD ">
 I don't really remember. I took a Bludger to the head 
 about two minutes in and woke up in the hospital week later. 
 
 Madame Hooch, clad in REFEREE ROBES, addresses the players. 
 
 </sp>
-<sp>MADAME HOOCH 
+<sp who="MADAME HOOCH ">
 Now, I want a nice clean game. From all 
 of you. 
 
@@ -3860,18 +3858,18 @@ She glances tellingly at Slytherin Captain MARCUS FLINT.
 Harry leans over to ANGELINA JOHNSON, Gryffindor Chaser. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Who's he, Angelina? 
 
 </sp>
-<sp>ANGELINA 
+<sp who="ANGELINA ">
 Marcus Flint. Slytherin Captain. They say 
 he's got troll blood in him. 
 
 Harry swallows as Flint glares at him murderously. 
 
 </sp>
-<sp>MADAME HOOCH 
+<sp who="MADAME HOOCH ">
 Mount your brooms, please. 
 
 Hands trembling, Harry waits, then... the WHISTLE BLASTS. 
@@ -3881,7 +3879,7 @@ Bludgers, then tosses up the Quaffle. In the stands, LEE
 JORDAN does COMMENTARY.
 
 </sp>
-<sp>LEE JORDAN 
+<sp who="LEE JORDAN ">
 Quaffle's up... and straight off taken by 
 Angelina Johnson of Gryffindor. What an 
 excellent Chaser that girl is, and rather 
@@ -3908,18 +3906,18 @@ As Gryffindor CHEERS fill the cold air, Hagrid makes his way
 up the stands, scattering students in his wake. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Budge up there. Clear the way.How's 
 Harry holdin' up? 
 
 Ron and Hermione squeeze together, giving Hagrid space. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 He hasn't had much to do yet.
 
 </sp>
-<sp>HAGRID
+<sp who="HAGRID">
 First game. He stays outta trouble, 
 that'll be doin' enough. 
 
@@ -3928,7 +3926,7 @@ Bludgers, two Weasleys and the Chaser, ZOOMING toward the
 goals... when suddenly a FLASH OF GOLD zips by his left ear. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 The Snitch! 
 
 Far below, Slytherin Seeker TERENCE HIGGS makes his move. 
@@ -3946,13 +3944,13 @@ higher. Instead, it LURCHES, nearly tossing him off. Below,
 Hagrid peers through his BINOCULARS, frowns. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Dunno what Harry thinks he's doin'. If I 
 didn't know better, I'd say he's lost 
 control of his broom... 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Maybe something happened to it when Flint 
 blocked him. 
 
@@ -3960,7 +3958,7 @@ In the stands, people gasp as the broom ROLLS OVER and leaves
 Harry DANGLING from one end. Neville buries his face. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 No. Can't nothin' interfere with a 
 broomstick except powerful Dark magic. No 
 kid could do that to a Nimbus 2000. 
@@ -3968,7 +3966,7 @@ kid could do that to a Nimbus 2000.
 Hearing this, Hermione GRABS Hagrid's binoculars. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 (whispering to Ron) 
 It's Snape. He's jinxing the broom. 
 
@@ -3976,40 +3974,40 @@ Ron takes the binoculars, looks. Snape sits MUTTERING in the
 opposite stands, staring into the sky. Staring at Harry. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Jinxing the broom? What do we do? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Leave it to me. 
 As Hermione dashes off, Ron turns the binoculars back to the 
 sky. Harry hangs from the broom with two hands while Fred 
 hovers nearby. George circles about ten feet below. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What's George doing? 
 
 </sp>
-<sp>FRED 
+<sp who="FRED ">
 Just in case you fall, George will... 
 (not sure of this himself) 
 ... catch you. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I knew I should have gone out for 
 football. 
 
 </sp>
-<sp>GEORGE 
+<sp who="GEORGE ">
 What's football? 
 
 Hermione fights her way through theSlytherin faithful, who 
 cackle at Harry's plight, toward Snape. 
 
 </sp>
-<sp>MALFOY 
+<sp who="MALFOY ">
 Take a good look, lads. With any luck 
 we'll be having Potter soup for supper. 
 
@@ -4019,7 +4017,7 @@ Snape, Hermione crouches down and whips out her wand.
 Across the field Ron peers through the binoculars ... 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Come on, Hermione...
 
 Just then, BLUE FLAMES spit from Hermione's wand, climbing 
@@ -4044,7 +4042,7 @@ Nimbus cartwheels away, Harry rolls off and, coming up on all
 fours, claps his hand to his mouth. As if he were sick. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL
+<sp who="PROFESSOR MCGONAGALL">
 Well, that's unfortunate. Understandable, 
 but unfortunate. 
 
@@ -4053,7 +4051,7 @@ binoculars, which,unfortunately for Ron,
 are still-around Ron's neck. 
 </sp>
 
-<sp>HAGRID 
+<sp who="HAGRID ">
 Unfortunate nothin'. He's got 
 the Snitch! 
 
@@ -4062,11 +4060,11 @@ The crowd ROARS. Marcus Flint touches down,
 fuming. 
 
 </sp>
-<sp>FLINT 
+<sp who="FLINT ">
 He didn't catch it. He swallowed it!. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 (popping in) 
 Nothing in the Quidditch rulebook 
 discriminates against catching the Snitch 
@@ -4075,7 +4073,7 @@ that matter. In fact, in a game played in
 Greece in the late seventeenth century- 
 
 </sp>
-<sp>MADAME HOOCH 
+<sp who="MADAME HOOCH ">
 Thank you, Miss Granger. We can dispense 
 with the more unattractive historical 
 details of the game. Nevertheless, your 
@@ -4093,61 +4091,61 @@ with Hagrid towards his home, a WOODEN HUT on the edge of the
 Dark Forest. 
 
 </stage>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Rubbish! Why would Snape put a curse on 
 Harry's broom? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Who knows? Why was he trying to get past 
 that three-headed dog on Halloween? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 How do you know about Fluffy? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Fluffy? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 That thing has a name? 
 
 </sp>
-<sp>HAGRID
+<sp who="HAGRID">
 'Course he's got a name. He's mine. 
 Bought him off an Irish bloke I met in 
 the Pub las' year. Lent him to Dumbledore 
 to guard the... 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Yes?
 
 </sp>
-<sp>HAGRID
+<sp who="HAGRID">
 Don' be askin' me anymore. That's top 
 secret, that is. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 But Hagrid, whatever Fluffy's guarding, 
 Snape's trying to steal it. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Codswallop! Snape's a Hogwart'steacher. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Hogwarts teacher or not, I know a jinx 
 when I see one, Hagrid. I've read all 
 about them. You've got to keep eye 
 contact, and Snape wasn't blinking.
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Now listen to me, all three of yeh--
 yer meddlin' in things that shouldn't be 
 meddled. It's dangerous. What that dog's 
@@ -4158,7 +4156,7 @@ Hagrid stops, furious with himself, then turns for his hut,
 where FANG, an enormous black boarhound, greets him. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Nicolas Flamel. Why does that name sound 
 familiar?
 
@@ -4177,7 +4175,7 @@ running GARLAND over the limbs, while Peeves plucks ORNAMENTS
 from the branches, hurling them to the floor. 
 
 </stage>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Listen up! As the lake is frozen,  all 
 students going home for holiday will take 
 a flying sleigh to the departure platform. Earmuffs are strongly 
@@ -4189,7 +4187,7 @@ Unlike Muggle chess, these figures are alive. Presently,
 Harry's BISHOP looks cross. 
 
 </sp>
-<sp>BISHOP 
+<sp who="BISHOP ">
 Don't send me there! Can't you see his 
 Knight? Send him. We can afford to lose 
 him. 
@@ -4197,7 +4195,7 @@ him.
 The bishop points to a PAWN. Harry sheepishly complies. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Queen to pawn six. 
 
 Ron YAWNS as his queen steps forward and--with extreme 
@@ -4205,35 +4203,35 @@ prejudice--disposes of the pawn. Hermione, huge trunk in tow,
 arrives just in time to witness the carnage. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Oh my god! That' s barbaric ! 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 That's chess. I see you're packed. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 I see you're not. 
 
 </sp>
-<sp>RON  
+<sp who="RON  ">
 Change of plans. My parents decided to go 
 to Romania to visit my brother Charlie. 
 He's studying dragons there. 
 
 </sp>
-<sp>HERMIONE
+<sp who="HERMIONE">
 You can help Harry then. He promised to 
 keep looking in the library for Nicolas 
 Flamel over holiday. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 We have looked. A hundred times. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 (as she exits) 
 Not in the Restricted Section.
 
@@ -4243,19 +4241,19 @@ Not in the Restricted Section.
 CAMERA PANS a stack of PACKAGES at Harry's bed.
 
 </stage>
-<sp>RON  
+<sp who="RON  ">
 Happy Christmas, Harry! 
 
 Harry rubs his eyes, sees Ron wearing a MAROON SWEATER over 
 his pajamas. Ron tosses him a present. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 
 I've got presents.
 
 </sp>
-<sp>RON  
+<sp who="RON  ">
 What'd you expect? In your hand's from 
 Hagrid. And by the looks of that lumpy 
 one, Mum's sent you a Weasley sweater. 
@@ -4265,7 +4263,7 @@ Hedwig cocks her head. It sounds like an owl. Harry takes up
 the next parcel. It' s very light. He reads the NOTEß attached. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Your father left this in my possession 
 before he died. It is time it was 
 returned to you.
@@ -4277,7 +4275,7 @@ HARRY (CONT'D)
 It's some kind of... cloak. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Well let's  see then. Put it on. 
 
 As Harry takes the cloth, we hang on Ron, watching, then: 
@@ -4293,7 +4291,7 @@ invisibility cloak. They're really rare.
 Who gave you this? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 ...There's no name ... It just says, 'Use it 
 well.' 
 
@@ -4316,7 +4314,7 @@ The lamp FLOATS into the room, the invisibility cloak drops.
 and, bit by bit, HARRY appears. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 Flamel. Nicolas Flamel...
 
 Harry runs his finger along the spines, stops. Takes a LARGE 
@@ -4338,24 +4336,24 @@ behind him, coming face to face with Snape and Quirrel, in
 the midst of a heated conversation.  
 
 </stage>
-<sp>SNAPE  
+<sp who="SNAPE  ">
 Have you found out how to get past that 
 beast of Hagrid's, yet? 
 
 </sp>
-<sp>QUIRRELL 
+<sp who="QUIRRELL ">
 B-b-but Severus, I-
 
 </sp>
-<sp>SNAPE 
+<sp who="SNAPE ">
 You don't want me as your enemy, Quirrel. 
 
 </sp>
-<sp>QUIRRELL
+<sp who="QUIRRELL">
 I don't know what you-
 
 </sp>
-<sp>SNAPE 
+<sp who="SNAPE ">
 You know perfectly well what I mean.  
 Your little bit of hocus pocus... 
 
@@ -4378,12 +4376,12 @@ Filch appears, from around the corridor, walks up to Snape
 and Quirrel.  
 
 </sp>
-<sp>FILCH 
+<sp who="FILCH ">
 Professors... I found this. In the  
 Restricted Section. It's still hot.  
 
 </sp>
-<sp>SNAPE 
+<sp who="SNAPE ">
 Then they can't be far. 
 
 Snape, Quirrel and Filch exit. 
@@ -4398,7 +4396,7 @@ is an INSCRIPTION: Erised stra ehru oyt ube cafru oyt on
 wohsi. He steps in front. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 Ah! 
 
 Harry turns--as if expecting to see someone--but finds only 
@@ -4415,7 +4413,7 @@ Mum? Dad?
 CLOSE UP: A SLEEPING RON 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 Ron! Ron! Wake up! 
 
 Ron squints in confusion, then Harry lowers the cloak. 
@@ -4430,16 +4428,16 @@ There's something you've got to see!
 Harry drags Ron to the mirror. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 Come look! It's my family. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 (yawning) 
 That's you, Harry. 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 Look in properly, go on, stand here. 
 
 Harry steps aside. Ron takes his place and... freezes. 
@@ -4449,14 +4447,14 @@ There. You see them, don't you? That's-
 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Me. Only I'm... Head Boy! And I'm holding 
 the Quidditch Cup and... bloody hell... I'm 
 Quidditch Captain too! Harry, do you
 think this mirror shows the future? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (troubled)
 How can it? All my family are dead. 
 
@@ -4468,23 +4466,23 @@ breakfast. The Weasleys chatter amongst themselves, laughing,
 then Ron looks away, sees Harry staring into the distance. 
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 Want to play chess? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 No. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Want to go visit Hagrid? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 No. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Harry, I know what you're thinking. But 
 don't. There's something not right about 
 that mirror. 
@@ -4506,11 +4504,11 @@ Mirror of Erised. I expect by now you
 realize what it does. 
 
 </stage>
-<sp>HARRY
+<sp who="HARRY">
 It shows me my family. 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 And it showed your friend Ron himself as 
 Head Boy.
 
@@ -4525,12 +4523,12 @@ of Erised and see only himself, exactly.
 as he is.
 
 </sp>
-<sp>HARRY  
+<sp who="HARRY  ">
 So, then, it shows us what we want...
 Whatever we want... 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 Yes and no. It shows us nothing more or 
 less than the deepest, most desperate 
 desire of our hearts. You, who have never 
@@ -4548,12 +4546,12 @@ looking for it again, Harry. It does not
 do to dwell on dreams and forget to live. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Can I ask you something, Professor? What 
 do you see when you look in the Mirror? 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 I? I see myself holding a pair of thick, 
 woolen socks. One can never have enough 
 socks, Harry. You'll do well to remember 
@@ -4581,33 +4579,33 @@ Hermione--book in hand--quizzes Ron, who seems more
 interested in the pack of Chocolate Frogs in his hand. 
 
 </stage>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 I'll ask you again. What are the three 
 most crucial ingredients in a 
 Forgetfulness Potion?
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 And I'll tell you again. I forgot. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 And what, may I ask, do you plan to do 
 should you get that question on final 
 exams? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Crib off you.  
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 You will not. Besides, according to 
 Professor McGonagall, we're to be given 
 special quills bewitched with an anti-cheating spell. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 That's insulting. It's as if they don't 
 trust us. 
 (frowning) 
@@ -4627,26 +4625,26 @@ Neville, breathing hard, reaches the Gryffindor table, then,
 before anyone can catch him, topples to the floor. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 You've got to start standing up to him, 
 Neville. 
 
 </sp>
-<sp>NEVILLE 
+<sp who="NEVILLE ">
 How? I can't stand up at all. 
 
 </sp>
-<sp>SEAMUS 
+<sp who="SEAMUS ">
 I offered to do the countercurse, but he 
 wouldn't let me. 
 
 </sp>
-<sp>NEVILLE
+<sp who="NEVILLE">
 Of course not. That's all I need, you to 
 set my bloody kneecaps on fire. 
 
 </sp>
-<sp>SEAMUS 
+<sp who="SEAMUS ">
 I don't appreciate the insinuation,
 Longbottom. Besides, if anyone cares to 
 notice, my eyebrows have completely grown 
@@ -4656,12 +4654,12 @@ As Seamus turns away, the others see a curious BALD SPOT on
 the back of his head. Ron takes out his wand. 
 
 </sp>
-<sp>RON
+<sp who="RON">
 All right then, Neville, who shall it be? 
 Me, Hermione, or...
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I've found him. 
 
 Ron stops, sees Harry holding up Dumbledore's wizard card. 
@@ -4669,7 +4667,7 @@ Ron stops, sees Harry holding up Dumbledore's wizard card.
 Ron takes it. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 He's bowling. So what? He's always 
 bowling. 
 
@@ -4685,18 +4683,18 @@ Nicolas Flamel.
 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 I knew the name sounded familiar. I read 
 it on the train that day.
 
 Hermione steps right over Neville. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Follow me. 
 
 </sp>
-<sp>NEVILLE 
+<sp who="NEVILLE ">
 Hey! Wait! What about that counter-curse! 
 Neville's eyes shift. Seamus smiles, raises an eyebrow. 
 
@@ -4708,16 +4706,16 @@ as it hits the table with a LOUD THUD. Hermione flips through
 the pages as Harry and Ron look over her shoulder. 
 
 </stage>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 How could I be so stupid! I checked this 
 out weeks ago for a bit of light reading. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 This is light? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Of course! Here it is! 
 (whispers dramatically)
 Nicolas Flamel is the only known maker of 
@@ -4729,7 +4727,7 @@ HARRY/RON
 The what? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Oh, honestly, don't you two read? 
 (reading) 
 The sorcerer's Stone is a legendary 
@@ -4739,19 +4737,19 @@ and produces the Elixir of Life, which
 will make the drinker immortal.
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Immortal. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 It means you'll never die. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 I know what it means--
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 The only stone currently in existence 
 belongs to Mr. Nicolas Flamel, the noted 
 alchemist, who last year celebrated his 
@@ -4762,29 +4760,29 @@ Third Floor. That's what's under the
 trapdoor. The Sorcerer's Stone! 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 So Flamel knows someone's after the 
 Stone... gives it to Dumbledore to keep 
 safe at Hogwarts ... not realizing that the 
 one who's after it .. . 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Teaches at Hogwarts. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 So Snape wants piles of gold and to live 
 forever. Who wouldn't? 
 
 Hermione closes the book, troubled by something. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What is it, Hermione? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 I don't want to scare you, Harry. It's 
 just ... if all Snape wants is the 
 Sorcerer's Stone ... why did he try to kill 
@@ -4797,12 +4795,12 @@ Harry, trailed by Ron and Hermione, KNOCKS on Hagrid's door.
 The door rattles, opens a crack, and Hagrid peers out. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Oh. Hullo. Er... not ter be rude, but I'm 
 not really fit ter entertain right about-
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 We know about the Sorcerer's Stone. 
 
 INT. HAGRID'S HUT - NIGHT  
@@ -4811,46 +4809,46 @@ to an already roaring fire, putters about a large,
 simmering kettle.
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Snape! Blimey, yer not still on abou' 
 him, are yeh? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Hagrid, we know he's after the Stone. We 
 just don't know... why. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Harry, Snape was one o' the teachers in 
 on protectin' the Stone. 
 He's not abou' ter steal it. 
 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Yeh heard me: Snape was one o' the 
 teachers in on protectin' the Stone. 
 Now, as I said, I'm a bit preoccupied at 
 moment--
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Wait a minute. One of the teachers? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Of course! There are other things 
 defending the Stone, aren't there? 
 Spells, enchantments...
 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Tha' right. Bloody waste 
 o' time if yeh ask me. T'ain't no 
 one goin' ter get past Fluffy. Not a soul 
@@ -4861,20 +4859,20 @@ from the kettle, then a curious SCRAPING.
 Harry looks. Sees a HUGE BLACK EGG. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Hagrid... exactly what is that? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Ah. Well. That's ... er ... 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 I know what that is! But Hagrid. 
 How did you ever get one? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Won it. Off a stranger in the village.
 Think he was glad ter be rid of it, ter 
 be honest. Blimey...
@@ -4885,28 +4883,28 @@ veins over its surface, then it... EXPLODES... SHELL FLYING
 LIKE SHRAPNEL. Harry, Ron and Hermione cover themselves. 
 
 </sp>
-<sp>HERMIONE. 
+<sp who="HERMIONE. ">
 Is that... a dragon? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 That's not just a dragon! That's 
 a Norwegian Ridgeback! My brother 
 Charlie works with these in Romania
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Isn't he' beautiful! Bless 'im, look, he 
 knows 'is Mummy! 
 (tickling the dragon's tuntrny)
 Hullo, Norbert.
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Norbert? 
 
 </sp>
-<sp>HAGRID
+<sp who="HAGRID">
 Well, he's got ter have a name. 
 
 The dragon blinks at Hagrid, screws up its face 
@@ -4921,7 +4919,7 @@ Hey, you there!
 All turn. Peering through the window is a FACE. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Malfoy! 
 
 They leap to the door--see a fleet figure racing across the 
@@ -4933,16 +4931,16 @@ grounds, disappearing in the night.
 Harry, Ron and Hermione walk toward the glittering castle. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 Hagrid always wanted a dragon. Told me so 
 the first time I ever met him.
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 But it's crazy. And worse, Malfoy knows. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I don't Understand. Is that bad? 
 
 PROFESSOR MCGONAGALL (O.S.) 
@@ -4953,7 +4951,7 @@ a jagged silhouette in
 castle-light. Beside her, Draco Malfoy grins arrogantly. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 It's bad. 
 
 INT. PROFESSOR MCGONAGALL's CLASSROOM - MOMENTS LATER 
@@ -4961,7 +4959,7 @@ Harry, Ron and Hermione stand before a displeased McGonagall,
 while Malfoy looks on, practically quivering with pleasure. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 As every schoolchild knows, dragon-
 breeding is against our laws, has been 
 ever since the Warlock's Convention of 
@@ -4971,7 +4969,7 @@ we've got a thirty-foot Ukranian
 Ironbelly running around the back garden. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Norwegian Ridgeback. 
 
 Professor Mcgonagall's eyes shift, narrow on Ron. 
@@ -4980,7 +4978,7 @@ RON (CONT'D)
 I just meant... in this case... sorry. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Personally, I don't care if Hagrid has a 
 Chinese Fireball sitting in his kitchen, 
 Mr. Weasley. He answers to Dumbledore. 
@@ -4994,22 +4992,22 @@ taken.
 As the others gasp, Malfoy's eyes glimmer with cruel ecstasy. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Fifty? 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL  
+<sp who="PROFESSOR MCGONAGALL  ">
 Each. And to insure it doesn't happen  
 again, all four of you will receive  
 detention. 
 
 </sp>
-<sp>MALFOY 
+<sp who="MALFOY ">
 Excuse me, Professor. Perhaps I heard you  
 wrong. I thought you said the four of us. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Indeed. You see, Mr. Malfoy, 
 noble your intentions, you too were
 out of bed after hours. You will 
@@ -5023,25 +5021,25 @@ tell the tale: Gryffindor has slipped to last place. Just
 then, Fred and George pass by. 
 
 </stage>
-<sp>FRED 
+<sp who="FRED ">
 Don't worry, you three. This'll all 
 blow over. 
 
 </sp>
-<sp>GEORGE 
+<sp who="GEORGE ">
 It may take a year or two, but 
 eventually people will start talking 
 to you again.  
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 (sniffing defensively) 
 Well, I for one, see nothing wrong 
 with a reduced social life. It'll give 
 us more time to revise for finals. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Why bother? Even with Malfoy losing 
 points, Slytherin's a lock for the 
 House Cup. And look. Malfoy knows it. 
@@ -5050,7 +5048,7 @@ All three peer at Malfoy. He raises a goblet in their
 direction, cackles with Crabbe and Goyle. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 He won't be smiling tonight. 
 (off Harry and Ron's looks) 
 Haven't you heard? For detention 
@@ -5062,7 +5060,7 @@ Beneath a pale moon, Filch, carrying a lantern, leads Harry,
 Ron, Hermione and Malfoy across the dark grounds. 
 
 </sp>
-<sp>FILCH 
+<sp who="FILCH ">
 A pity they let the old punishments die. 
 Was a time, detention would find you all 
 hanging by your thumbs in the dungeons...
@@ -5072,7 +5070,7 @@ As Filch and the others reach the yard, they find Hagrid
 stringing a crossbow, Fang at his side. 
 
 </sp>
-<sp>FILCH 
+<sp who="FILCH ">
 A sorry lot this, Hagrid. I pity you. 
 
 Filch squints, sees tears running down Hagrid's face. 
@@ -5082,13 +5080,13 @@ Good god, man, you're not still on about
 that bloody dragon, are you? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 (to Harry, Ron, Hermione)
 Norbert's gone. Dumbledore's sent him off 
 ter Romania ter live in a colony. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Well, that's good, isn't it? He'll be 
 with his own kind. Better all around, 
 don't you think? Especially for Fang. 
@@ -5096,31 +5094,31 @@ don't you think? Especially for Fang.
 Hearing his name, a singed Fang beats his BANDAGED tail. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 But what if Norbert doesn't like Romania. 
 What if the other dragons are mean to 
 him? He's only a baby, after all. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 A baby that breaths fire. 
 
 Harry elbows Ron, silencing, him. 
 
 </sp>
-<sp>FILCH 
+<sp who="FILCH ">
 For god's sake, pull yourself together, 
 man. You're going into the Forest, after 
 all. Got to have your wits about you.  
 
 </sp>
-<sp>MALFOY 
+<sp who="MALFOY ">
 The Forest? But I thought that was just a
 joke. We can't go in the Forest. Students 
 aren't allowed. And there's... werewolves. 
 
 </sp>
-<sp>FILCH 
+<sp who="FILCH ">
 (turning away) 
 Oh, there's more'n werewolves in those 
 trees, lad. You can be sure o' that. 
@@ -5132,14 +5130,14 @@ Harry and the others trail Hagrid down a skinny path
 through the dark trees. Hagrid turns to Harry, speaks low. 
 
 </stage>
-<sp>HAGRID
+<sp who="HAGRID">
 Sorry abou' this, Harry. Know it's me 
 that deserves punishin', not you. By 
 all rights I should be sittin' in a 
 cell in Azkaban tonight.  
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 It's all right Hagrid. Besides, it's 
 not your fault we were out after 
 hours. If we  hadn't come knocking on 
@@ -5152,7 +5150,7 @@ HARRY (CONT'D)
 What's that? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 The reason we're here.
 (rising) 
 All righ' now, lis'en up. See this 
@@ -5172,11 +5170,11 @@ come with me. Harry, yeh'll go with
 Malfoy.
 
 </sp>
-<sp>MALFOY 
+<sp who="MALFOY ">
 I want Fang then. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Fine. But jus' so yeh know. He's a 
 bloody coward. 
 
@@ -5187,25 +5185,25 @@ Fang trots down the path ahead of Harry, while a nervous
 Malfoy trails behind. 
 
 </stage>
-<sp>MALFOY
+<sp who="MALFOY">
 Wait until my father hears about this. 
 This is servant stuff. We should be 
 writing lines or... something. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 If I didn't know better, Draco, I'd 
 say you were scared. 
 
 </sp>
-<sp>MALFOY 
+<sp who="MALFOY ">
 You're too stupid to be scared, 
 Potter, growing up with Muggles. If 
 you were from a real wizard family, 
 you wouldn't be laughing. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I'm not, believe me...
 
 As Malfoy joins Harry, he stops dead. The trees ahead are 
@@ -5218,7 +5216,7 @@ drops its head over the leering WOUND on the unicorn's
 side... and begins to DRINK ITS BLOOD
 
 </sp>
-<sp>MALFOY
+<sp who="MALFOY">
 AAAAAAAAAAAAAAH!
 
 Malfoy bolts, slipping and sliding as Fang whimpers after. 
@@ -5235,18 +5233,18 @@ A SHADOW FALLS across Harry's face. It is a CENTAUR with
 eyes like pale saphires. He is FIRENZE.
 
 </sp>
-<sp>FIRENZE
+<sp who="FIRENZE">
 Harry Potter. You are known to many 
 creatures here. You must leave. The 
 forest is not safe at this time. 
 Especially for you. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What was that thing you saved me from? 
 
 </sp>
-<sp>FIRENZE  
+<sp who="FIRENZE  ">
 Only one who has nothing to lose would 
 commit such a crime. It is a monstrous 
 thing to slay a unicorn. The blood of 
@@ -5258,30 +5256,30 @@ moment the blood touches your lips--you will
 have a half life. A cursed life. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 But who would choose such a life? 
 
 </sp>
-<sp>FIRENZE 
+<sp who="FIRENZE ">
 Can you think of no one? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Do you mean to say that thing that killed the unicorn, that was drinking 
 its blood, that was Voldemort! 
 
 </sp>
-<sp>FIRENZE
+<sp who="FIRENZE">
 Do you know what is hidden in the 
 school at this very moment, Harry 
 Potter?
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 The Sorcerer's Stone. 
 
 </sp>
-<sp>AND FOR THE UK AUDIENCE...
+<sp who="AND FOR THE UK AUDIENCE...">
 
 HARRY (CONT'D) 
 The Philosopher's Stone.
@@ -5292,11 +5290,11 @@ slashing through the trees. As Harry reacts, the
 others break into the clearing.  
 
 </sp>
-<sp>HERMIONE
+<sp who="HERMIONE">
 Harry!
 
 </sp>
-<sp>HAGRID
+<sp who="HAGRID">
 Oh, it's you, is it, Firenze. I see 
 you've met our Mr. Potter. All right
 there, Harry?
@@ -5309,12 +5307,12 @@ Harry nods... but he looks anything but all right.
 Harry paces before the fire while Ron and Hermione watch.
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 You mean... You-Know-Who's out there, 
 right now, in the forest! 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 But he's weak. He's living off the 
 unicorns. Don't you see? We had it
 wrong. Snape doesn't want the Stone 
@@ -5324,24 +5322,24 @@ Voldemort will be strong again.
 He'll... come back. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 But if he comes back, you don't think 
 he'd try to... kill you? Do you? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I think if he'd had the chance, he
 might have tried to kill me tonight. 
 
 Ron looks vaguely sick. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 And to think I've been worrying about 
 my Potions final. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 No. We're forgetting one thing. Who's 
 the one wizard Voldemort always
 feared? 
@@ -5357,7 +5355,7 @@ touched.
 Students flock onto the sunny grounds, finished with exams.
 
 </stage>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 I'd always heard Hogwarts' end of year 
 exams were frightful. But I found that 
 rather enjoyable. Weren't you stunnei:l not 
@@ -5366,20 +5364,20 @@ to be asked about Elfric the Eager?
 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 I'm stunned my head didn't explode. 
 Alright there, Harry? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 My scar. Keeps... burning. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 It's happened before... 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Not like this...
 
 Harry glances across the grounds at Hagrid, sitting in his 
@@ -5389,14 +5387,14 @@ HARRY (CONT' D)
 No...
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Harry? 
 
 Harry starts across the grounds. Hermione and Ron glance at 
 one another, rush after. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Don't you think it's a bit odd, that what 
 Hagrid wants more than anything is a 
 dragon? And a stranger turns up who just 
@@ -5408,36 +5406,36 @@ INT. HAGRID'S HUT - MOMENTS LATER
 Hagrid shrugs, goes on polishing the FLUTE in his hand. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Ne'er saw his face... Kept his hood up. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Didn't that strike you as unusual? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Yeh meet a lot o' unusual types in the 
 village. Ain't 'xactly usual meself. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 This stranger, though. 
 talked... 
 You and he must've... 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 He asked what I did, the sorta creatures 
 I look after. Tol' him after Fluffy a 
 dragon would be easy. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 And did he seem interested in Fluffy? 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Well, yeah. How many three-headed dogs do 
 yeh meet, even if yeh're in the trade? So 
 I tells 'im, this stranger, the trick 
@@ -5448,7 +5446,7 @@ off ter sleep--
 
 Hagrid stops, horrified by his slip. 
 </sp>
-<sp> 
+<sp who=" ">
 HAGRID (CONT'D) 
 I shouldn'ta tol' yeh that! Forget I said 
 it! Hey! Where yeh goin'! Hey! 
@@ -5459,19 +5457,19 @@ through the door, Professor
 McGonagall looks up. 
 </stage>
 
-<sp>HARRY 
+<sp who="HARRY ">
 We have to see Professor  
 Dumbledore. Immediately.
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 I see. Well, I'm afraid Professor 
 Dumbledore is not here. Only moments ago, 
 he received an urgent owl from the 
 Ministry of Magic and flew off to London. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 He's gone? Now? But this 
 is important! This is about...
 the Sorcerer's Stone.
@@ -5480,15 +5478,15 @@ Professor McGonagall nearly drops the
 book in her hands. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 How do you know-- 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Someone's going to try and steal it. 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Nonsense. I don't know how you three 
 found out about the Stone, but I 
 assure you it is well protected. Now, 
@@ -5500,13 +5498,13 @@ run along.
 Harry leads the others down the corridor. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 That was no stranger Hagrid met in the 
 village. It was Snape. Which means be 
 knows how to get past Fluffy. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 And with Dumbledore gone...
 
 SNAPE (O.S.) 
@@ -5520,22 +5518,22 @@ such as yourselves be doing inside on
 such a lovely day? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 We were just... 
 
 </sp>
-<sp>SNAPE 
+<sp who="SNAPE ">
 You want to be careful. People will 
 think you're... up to something. 
 
 Snape eyes Harry, then turns away. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 What do we do now? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Go through the trapdoor. Tonight. 
 
 </sp>
@@ -5552,11 +5550,11 @@ Trevor.
 Trevor the toad blinks up at them. CROAK! 
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 Trevor! Shh! Go! You shouldn't be here!
 
 </sp>
-<sp>NEVILLE
+<sp who="NEVILLE">
 Neither should you. 
 
 They all jump. Neville rises from an armchair. 
@@ -5565,25 +5563,25 @@ NEVILLE (CONT'D)
 You're sneaking out again, aren't you? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Now, Neville, listen... 
 
 </sp>
-<sp>NEVILLE 
+<sp who="NEVILLE ">
 No! I won't let you. You'll get 
 Gryffindor in trouble again. I'll... I'll 
 fight you! You were the ones who told me 
 I had to stand up to people! 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 To people. Not us. 
 
 Neville raises his fists. Unfortunately, his teddy bear 
 pyjamas somewhat undermine the intended effect. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Neville. I'm really, really sorry about 
 this. 
 (raising her wand) 
@@ -5594,7 +5592,7 @@ SWAYS... then FALLS FLAT ... only his eyes moving, staring at
 them in horror. Harry and Ron look a little horrified too. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 You're a little scary sometimes, you know 
 that? Brilliant. But scary. 
 
@@ -5606,7 +5604,7 @@ rounds the corner, MUMBLING to himself as he JUGGLES a trio
 of APPLES. Suddenly, he stops, eyes narrowing suspiciously. 
 
 </stage>
-<sp>PEEVES  
+<sp who="PEEVES  ">
 Who's there? Know you're there, even if I
 can't see you. Are you ghoulie or ghostie 
 or wee student beastie? 
@@ -5625,7 +5623,7 @@ in his hand to Ron.
 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 That was close.
 
 Harry steps to the chamber before them. Inside, the thrum of 
@@ -5634,7 +5632,7 @@ door...when... CRUNCH! Hermione and Harry jump, turn. Ron
 stands chewing the apple. 
 
 </sp>
-<sp>RON  
+<sp who="RON  ">
 Sorry. I get hungry when I'm nervous. 
 
 Harry pushes the door clear... finds... a giant quivering nose 
@@ -5644,7 +5642,7 @@ RON (CONT'D)
 Wait a minute. He's... 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Snoring.
 
 Harry pushes the door further 
@@ -5657,21 +5655,21 @@ a TINY HARP. Playing by itself.
 As they enter, Harry takes a FLUTE from his pocket.
 
 </stage>
-<sp>HARRY
+<sp who="HARRY">
 Suppose we won't be needing this now. Look, 
 its obvious Snape's already got past Fluffy.
 If  you two want to go back--
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Don't be stupid.
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 We're coming. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Right then. All together now.
 
 Straining mightily, they put their shoulders
@@ -5687,13 +5685,13 @@ happens... get yourselves out--
 Does it seem a bit... quiet...to you? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 The harp... what happened to the--
 
 Splat! Something wet and sticky hits Ron's shoulder. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Yuck! What's this ruddy stuff-- 
 
 Slowly, they look up. A MONSTROUS,
@@ -5712,48 +5710,48 @@ quickly by Ron and Hermione. Harry adjusts his glasses, looks
 up. A tiny SQUARE OF LIGHT--the trapdoor--glimmers far above. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 That was...cool.
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 We must be miles under the school.
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Lucky this plant thing's here, really. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Wo! 
 
 A vine snakes out Ron's back collar. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Wo! 
 
 Twin creepers encircle Harry's chest. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Stop moving! Both of you! This is Devil 's 
 Snare! You have to relax. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Uh, Hermione, it's a bit difficult to 
 relax...
 (as a vine encircles his neck)
 ...given the circumstances. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 I know, Harry. But you must. If you 
 don 't, it'll only kill you faster. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Kill us faster? Oh now I can relax. 
 
 As they watch, Hermione takes a LONG, SLOW BREATH and... is 
@@ -5766,14 +5764,14 @@ Panicking, Harry and Ron begin to struggle anew, but the
 vines only wrap more tightly around them. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 What are we going to do now! 
 
 HERMIONE (O.S.) 
 Just relax. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (glancing about)
 Hermione? But how... where?
 
@@ -5783,7 +5781,7 @@ Do what I say!
 Harry looks at Ron. He's almost completely entwined.
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I suggest we do what she says. 
 
 Harry takes a DEEP BREATH and closes his eyes. Slowly, like 
@@ -5795,19 +5793,19 @@ undergrowth of Devil's snare and onto the ground next to
 Hermione. From above, Ron can be HEARD screaming for HELP. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 He's not relaxing, is he? 
 
 Ron's VOICE BELLOWS again. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Apparently not. 
 
 Hermione furrows her brow, thinking ALOUD in a sing-song. 
 
 </sp>
-<sp>HERMIONE
+<sp who="HERMIONE">
 Devil's Snare, Devil's Snare. Dances in 
 the dark, delights in the damp...
 
@@ -5816,7 +5814,7 @@ Ron, wrapped tight as a mummy by this point, cocks his ear in
 disbelief.  
 
 </sp>
-<sp>RON
+<sp who="RON">
 Is she doing a poem? It's not possible
 she's doing a poem, is it? 
 
@@ -5824,7 +5822,7 @@ INT. STAIRCASE (BENEATH DEVIL'S SNARE)
 Hermione ignores him, continuing in deep concentration. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 It's deadly fun, but will... sulk in the 
 sun! That's it! Light! Devil's Snare. 
 hates the light! 
@@ -5840,11 +5838,11 @@ INT. STAIRCASE (BENEATH DEVIL'S SNARE)
 Ron lands heavily, looks up.  
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Lucky we didn't panic.  
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Lucky Hermione pays attention in 
 Herbology. 
 
@@ -5852,11 +5850,11 @@ Just then... they detect a SOUND: a RUSTLING, a CLINKING. The
 three exchange a glance, begin to descend the staircase. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 What is that? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I don't know... sounds like wings. 
 
 </sp>
@@ -5870,12 +5868,12 @@ Ron and Hermione begin to cross to the door, gazing in wonder
 at the strangely beautiful creatures overhead. 
 
 </stage>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Curious. I've never seen birds like 
 these... 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 They're not birds...
 
 Ron and Hermione turn, see Harry standing by the floating
@@ -5888,11 +5886,11 @@ fits that door.
 Hermione tests the doorknob, nods. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Locked. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Alohomora! 
 
 Hermione turns, sees Ron waving his wand at the knob. No 
@@ -5902,13 +5900,13 @@ RON (CONT'D)
 Well, it was worth a try. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 (peering up)
 So what do we do? There must be a 
 thousand keys up there... 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 (examining the lock)
 We're looking for a big, old-fashioned 
 one--probably silver, like the handle. 
@@ -5918,26 +5916,26 @@ Ron points. Fluttering within a pocket of brass keys is a
 larger, SILVER one. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 What's wrong with its wing? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 The feather's pinched. Probably from 
 Snape catching it before us.  
 
 Hermione nods, sees Harry still staring at the broom. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Harry? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 It's... too simple.
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Oh, go on, Harry. If Snape could catch it 
 on that old CleanSweep, you can. It's not 
 for nothing you're the youngest Seeker in 
@@ -5989,7 +5987,7 @@ SHUT... just before the keys rain down like BULLETS.
 the darkness.
 
 </stage>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 I don't like this. I don't like this at 
 all.
 
@@ -5998,14 +5996,14 @@ illuminating little more than the trio's faces and some VAGUE
 SHAPES looming ahead. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Where are we? A graveyard? 
 
 Harry Steps forward and--suddenly--one of the SHAPES moves 
 towards them. Hermione GASPS. The SHAPE stops. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 This is no graveyard...
 
 Ron takes an unlit torch from the wall, touches it to the 
@@ -6020,14 +6018,14 @@ Sure enough. As the chamber glows with light, a kind of
 battlefield is revealed, studded with faceless soldiers.
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 But what're we to do? 
 
 As Hermione takes a tentative step onto the board, a 
 BISHOP'S STONE SWORD drops heavily down, barring her way. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 It's obvious, isn't it? We've got to 
 play our way across the room. Excuse 
 me... are we meant to join you? 
@@ -6038,11 +6036,11 @@ Now don't be offended, but neither of
 you are particularly good at chess-
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 Just tell us what to do. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 All right. Harry, you take the empty 
 Bishop's square. Hermione--you'll be 
 the Queenside castle. As for me...  
@@ -6053,11 +6051,11 @@ RON (CONT'D)
 ...I'll be a Knight. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 What happens now? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 We play. 
 
 Across the board, a WHITE PAWN moves forward two squares 
@@ -6065,7 +6063,7 @@ Across the board, a WHITE PAWN moves forward two squares
 apprehensively at the fierce pieces across the board. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Ron, you don't suppose this is going 
 to be like real wizard's chess, do 
 you? 
@@ -6074,7 +6072,7 @@ Ron--contemplating something--doesn't answer immediately,
 instead gesturing to his own pawn. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 You there... d5 
 
 As Ron's BLACK PAWN obliges, WHITE'S PAWN slides swiftly 
@@ -6102,7 +6100,7 @@ Unnerved, he glances up at Ron, but Ron's eyes see only the
 board. Harry turns, taking a look himself... and blinks. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Wait a minute... 
 (pointing to the Queen) 
 She's made the same mistake I always 
@@ -6113,29 +6111,29 @@ Ron nods, but it's clear he doesn't share Harry's
 enthusiasm. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 There's just one problem with that. 
 It's you that has to go on, Harry. I 
 know it. Not me. Not Hermione. You. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 No, Ron...
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 What is it?
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 He's going to sacrifice himself.
 
 </sp>
-<sp>HERMIONE
+<sp who="HERMIONE">
 No. There has to be another way! 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Do you want to stop Snape from getting 
 the Stone or not! 
 (turning to Harry) 
@@ -6150,7 +6148,7 @@ POUNCES. As Ron hits the floor, Hermione SCREAMS She
 starts to go to him, when Harry holds up his hand. 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 No! 
 (as she freezes)
 Don't forget we're still playing. 
@@ -6179,17 +6177,17 @@ Hermione turns, her eyes glittering. Without warning, she
 rushes forward, embraces Harry. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 You're a great wizard, Harry Potter! 
 You are, you know! 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (a bit embarrassed) . 
 Not as good as you. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Me! Books. And cleverness. There are 
 more important things--friendship and 
 bravery and--oh, Harry, be careful! 
@@ -6212,7 +6210,7 @@ view, he sees a FIGURE standing before the Mirror of
 Erised. 
 
 </stage>
-<sp>HARRY. 
+<sp who="HARRY. ">
 You!
 
 The figure turns. It is Professor Quirrell.
@@ -6221,19 +6219,19 @@ HARRY (CONT'D)
 No. It can't be. Snape...
 
 </sp>
-<sp>QUIRRELL 
+<sp who="QUIRRELL ">
 Mm, yes, he does seem the type,
 doesn't he? So useful Snape. Swooping around like an 
 overgrown bat. Next to him, who would suspect p-poorr st-
 stuttering Professor Quirrell? 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 But that day, during the Quidditch 
 match... Snape to kill me.
 
 </sp>
-<sp>QUIRRELL
+<sp who="QUIRRELL">
 No, dear boy, I tried to kill you.
 And, trust me, if Snape's cloak hadn't 
 caught fire and broken my eye contact, I would've succeeded. Even with 
@@ -6241,11 +6239,11 @@ Severus muttering his little
 countercurse. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Snape was trying to save me? 
 
 </sp>
-<sp>QUIRRELL
+<sp who="QUIRRELL">
 Oh, don't misunderstand. He hates you,
 just as he hated your father when they 
 were at Hogwarts together. But he 
@@ -6262,13 +6260,13 @@ were a danger to me right off.
 Especially after Halloween. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 You let the Troll in. 
 
 Quirrell nods, examining the Mirror as he speaks: 
 
 </sp>
-<sp>QUIRRELL
+<sp who="QUIRRELL">
 Yes. I have a way with trolls. Snape,
 unfortunately, wasn't fooled. While 
 everyone else was running about the 
@@ -6290,7 +6288,7 @@ Harry glances about in horror as the DARK VOICE echoes.
 Quirrell turns, eyes Harry.
 
 </sp>
-<sp>QUIRRELL
+<sp who="QUIRRELL">
 Come here, Potter 
 
 Quirrell points to the mirror. As Harry steps in front, he 
@@ -6310,7 +6308,7 @@ QUIRRELL (CONT'D)
 What is it? What do you see? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 
 I... I'm shaking hands with Dumbledore. 
 I... I've won the House cup. 
@@ -6319,14 +6317,14 @@ VOICE (O.S.)
 He lies. 
 
 </sp>
-<sp>QUIRRELL
+<sp who="QUIRRELL">
 Tell the truth! What do you see?
 
 VOICE (O.S.) 
 Let me speak to him.
 
 </sp>
-<sp>QUIRRELL
+<sp who="QUIRRELL">
 Master, you are not strong enough. 
 
 VOICE (O.S.). 
@@ -6337,12 +6335,12 @@ Harry watches a FACE appear... on the back of Quirrell's
 head. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (in a whisper)
 Voldemort. 
 
 </sp>
-<sp>VOLDEMORT 
+<sp who="VOLDEMORT ">
 Harry Potter. We meet... again. 
 
 Petrified, Harry stares at the face. It is hideous, 
@@ -6370,11 +6368,11 @@ horrific death, when you can join
 me... and live.  
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Never!
 
 </sp>
-<sp>VOLDEMORT 
+<sp who="VOLDEMORT ">
 Ah, bravery. Your parents had it too. 
 Tell me, Harry... would you like to see 
 your mother and father again? 
@@ -6402,13 +6400,13 @@ when... we RACK FOCUS...and Voldemort's hideous face
 surfaces through her's... and she is gone. 
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 Liar! 
 
 Voldemort's eyes narrow. 
 
 </sp>
-<sp>VOLDEMORT 
+<sp who="VOLDEMORT ">
 Kill him! 
 
 Instantly, Quirrell flies across the room, knocking 
@@ -6421,14 +6419,14 @@ amazement--Quirrell's own face returns, SCREAMING,
 releasing Harry and recoiling. 
 
 </sp>
-<sp>QUIRRELL
+<sp who="QUIRRELL">
 Wh-what is this magic? 
 
 Harry, breathing hard, follows Quirrell's gaze, stares in 
 horror: Quirrell's fingers are slowly turning to dust. 
 
 </sp>
-<sp>VOLDEMORT
+<sp who="VOLDEMORT">
 Fool! Get the Stone! 
 
 Harry rises, looks at Quirrell's withering fingers, then to 
@@ -6451,7 +6449,7 @@ WHISTLES FORWARD, passing through Harry, blasting him back
 through the air and onto the stone floor. As the dust
 disappears, all is quiet once more, and we CUT TO:
 </sp>
-<sp>WIDE SHOT
+<sp who="WIDE SHOT">
 Of Harry. Lying on the floor. The Stone glimmering dully in 
 his palm. 
 
@@ -6466,7 +6464,7 @@ next to him, TREATS are piled high, including a raft of
 open WIZARD CARDS. In one, Dumbledore beams down. 
 
 </stage>
-<sp>DUMBLEDORE
+<sp who="DUMBLEDORE">
 Good afternoon, Harry. 
 
 Harry squints, as if the card itself had spoken to him, 
@@ -6478,11 +6476,11 @@ DUMBLEDORE (CONT'D)
 Tokens from your admirers. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Admirers? 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 What happened down in the dungeons
 between you and Professor Quirrell is 
 a complete secret--so naturally the 
@@ -6493,34 +6491,34 @@ suspects Agrippa and Ptolemy still
 elude him.  
 
 </sp>
-<sp>HARRY
+<sp who="HARRY">
 Ron was here? Is he all right? What about 
 Hermione--
 
 </sp>
-<sp>DUMBLEDORE
+<sp who="DUMBLEDORE">
 Fine. Both of them. Madame Pomfrey has 
 explicitly forbidden visitors. But I 
 think--with the help of a certain cloak-- 
 they've managed to monitor your progress. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 But what happened to the--
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 Relax, dear boy. The Stone has been  
 destroyed. My friend Nicolas and I had a 
 little chat and agreed it was best all 
 around. 
 
 </sp>
-<sp>HARRY. 
+<sp who="HARRY. ">
 But then, Flamel... he'll die, won't he? 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 He has enough Elixir to set his affairs 
 in order. But, yes, he will die. 
 To one as young as you, I'm sure it seems 
@@ -6529,11 +6527,11 @@ mind, death is but the next great
 adventure. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 But to destroy such a remarkable thing...
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 Yes, yes. As much money and life as one 
 could ever want--the two things most 
 human beings would choose above all else. 
@@ -6542,12 +6540,12 @@ choosing precisely those things that are
 worst for them. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 How is it I got the Stone, Sir? One 
 minute I was staring in the mirror-- 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 Ah. You see, only a person who wanted to 
 find the Stone--find it, but not use it-would 
 be able to get it. One of my more  
@@ -6555,12 +6553,12 @@ brilliant ideas and, between you and me,
 that's saying something. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Does that mean--with the Stone gone, that 
 is--that Voldemort can never come back? 
 
 </sp>
-<sp>DUMBLEDORE
+<sp who="DUMBLEDORE">
 I'm afraid there are other ways for him 
 to return. And when--if--he does, it will 
 take someone willing to fight a losing 
@@ -6568,7 +6566,7 @@ battle to stop him again. Someone like
 your parents. Someone like you. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 (troubled)
 Professor Dumbledore. Voldemort said... if 
 I gave him the Stone, he could bring back 
@@ -6599,11 +6597,11 @@ of hatred and greed--cannot
 understand. Or bear to touch. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What is it? 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 Love, Harry. Love. 
 
 Dumbledore looks away then, smiles at Harry's treats. 
@@ -6628,21 +6626,21 @@ them, then they turn, see him. Nothing is said for a moment.
 All of them beyond words. Then Harry nods to Ron's bruises. 
 
 </stage>
-<sp>HARRY 
+<sp who="HARRY ">
 All right there, Ron? 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 All right. You? 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 All right. Hermione? 
 
 She smiles. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Never better. 
 
 </sp>
@@ -6652,47 +6650,47 @@ The roaring Hall is bedecked in GREEN AND SILVER--Slytherin
 colors--in honor of their winning the House Cup.  
 
 </stage>
-<sp>RON
+<sp who="RON">
 D'you think Dumbledore meant for it all 
 to happen'? And for you to do it'? Sending 
 you your father's cloak and all? 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Well,if he did-- I mean--that's terrible. 
 You could have been killed. Come to think 
 of it, I could've been killed...
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I think Dumbledore knows pretty much 
 everything that goes on here. The only 
 thing I don't understand is Snape...
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Professor Snape, Potter. 
 
 Harry looks up, sees Professor McGonagall there. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 Yes, of course. I was only wondering. Is 
 it true? Did he hate my father?
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 They were not compatible personalities, 
 if that's what you mean. And then, of 
 course, your father did something Severus 
 could never forgive. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 What was that?
 
 </sp>
-<sp>PROFESSOR MCGONAGALL
+<sp who="PROFESSOR MCGONAGALL">
 He saved his life. 
 
 Astonished, Harry glances at Snape sitting at the High Table. 
@@ -6702,26 +6700,26 @@ I suppose he felt it his... obligation
 ...to look after you this year. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 Of course! And now that he's squared 
 things, he can hate Harry in peace,  
 right, Professor? 
 
 </sp>
-<sp>PROFESSOR MCGONAGALL 
+<sp who="PROFESSOR MCGONAGALL ">
 Hogwarts teachers do not hate their 
 students, Mr. Weasley...
 (pointedly, as she exits) 
 No matter how taxing they may be. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 I think she's warming up to me. 
 
 At the High Table, Dumbledore rises and the Hall quiets. 
 
 </sp>
-<sp>DUMBLEDORE
+<sp who="DUMBLEDORE">
 Another year gone! Now as I understand 
 it, the House Cup needs awarding, and the 
 points stand thus: In fourth place, 
@@ -6730,12 +6728,12 @@ Gryffindor, with 312.
 Percy turns and glares at Ron. 
 
 </sp>
-<sp>RON 
+<sp who="RON ">
 You'd think saving the bloody school from 
 a Dark Lord would count for something. 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 In third place, Hufflepuff, with 352.In 
 second, Ravenclaw, with 426. And in first 
 place, with 472 points... Slytherin House. 
@@ -6763,11 +6761,11 @@ best played game of chess Hogwarts has
 seen in many years... fifty points.
 
 </sp>
-<sp>PERCY
+<sp who="PERCY">
 My youngest brother, you know! 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 Third, to Mr. Harry Potter, for pure 
 nerve and outstanding courage, I award 
 Gryffinder House... sixty points.
@@ -6775,11 +6773,11 @@ Gryffinder House... sixty points.
 The DIN is deafening as Hermione makes the calculations. 
 
 </sp>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Oh my goodness. We've tied Slytherin! 
 
 </sp>
-<sp>DUMBLEDORE 
+<sp who="DUMBLEDORE ">
 And finally... it takes a great deal of 
 bravery to stand up to our enemies, but 
 even more to stand up to our friends. I
@@ -6814,13 +6812,13 @@ The Hogwarts Express stands steaming, ready to depart. From
 the doorway, Ron calls to Harry, alone on the platform. 
 
 </stage>
-<sp>RON 
+<sp who="RON ">
 Come on now, Harry. 
 
 Harry glances about once more, then starts for the train. 
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 Didn' think yeh'd be leavin' without 
 sayin' goodbye, didya? 
 
@@ -6843,12 +6841,12 @@ grief, yeh can always threaten ter give
 of 'is. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 But Hagrid. We' re not allowed to do magic 
 away from Hogwarts. You know that.
 
 </sp>
-<sp>HAGRID 
+<sp who="HAGRID ">
 I do...
 (a wink) 
 But yer cousin don't. 
@@ -6865,7 +6863,7 @@ Erised. The faces of his mother and father.
 As the train lurches forward, Hermione looks up. 
 
 </stage>
-<sp>HERMIONE 
+<sp who="HERMIONE ">
 Feels strange, doesn't it? To be going
 home. 
 
@@ -6873,7 +6871,7 @@ Harry traces his finger over the smiling face of his mother,
 then looks up, following Hermione's gaze to the window. 
 
 </sp>
-<sp>HARRY 
+<sp who="HARRY ">
 I'm not going home... Not really. 
 
 </sp>
