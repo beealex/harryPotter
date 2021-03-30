@@ -1,13 +1,28 @@
 <xml>
-<header>Rev. 09/13/07 (Blue)
-Rev. 10/02/07 (Pink)
-Rev. 11/06/07 (Yellow) 
+    <header><!--metadata in here -->
+        <title>Harry Potter and the Half Blood Prince</title>
+        <screenWriter>Steve Kloves</screenWriter>
+        <drafts>
+            <revision color="Blue" date="2007-09-13"/>
+            <revision color="Pink" date="2007-10-02"/>
+            <revision color="Yellow" date="2007-11-06"/>
+        </drafts>
+        <productionStart date="2007-09-24"/> <!--Optional: if available. -->
+        <!--<productionEnd date="yyyy-mm-dd"/> Optional: if available. -->
+        <release date="2009-07-15"/><!--Look this up and verify -->
+        <digitalProject>
+            <editor who="bca">Bianka Alexander</editor>
+            <span from="yyyy-mm-dd" to="yyyy-mm-dd"/>
+            <desc>.......</desc>
+            <sourceText>
+                <siteName>.....</siteName>
+                <link><!--Website URL --></link>
+                <dateRetrieved>2020-10-01</dateRetrieved>
+            </sourceText>
+        </digitalProject>
+    </header>
 
-screenplay by 
-
-Steve Kloves 
-
-based on the novel by J.K. Rowling 
+<!--based on the novel by J.K. Rowling 
 
 This script is the confidential and proprietary property of Warner Bros. Pictures and no portion of it may be performed, distributed, reproduced, used,
 quoted or published without prior written permission. 
@@ -18,7 +33,7 @@ WARNER BROS. PICTURES INC. © 2007
 
 Warner Boulevard WARNER BROS. ENT. 
 
-Burbank, California 91522 All Rights Reserved </header>
+Burbank, California 91522 All Rights Reserved -->
 <script>
 <scene>
 <sp><stage>DARKNESS. 

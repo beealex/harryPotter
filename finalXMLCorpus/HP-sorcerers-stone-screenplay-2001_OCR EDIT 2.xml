@@ -1,13 +1,23 @@
 <xml>
-HARRY POTTER ANDTHE SORCERER'S STONE 
+<header>
+ <title>HARRY POTTER AND THE SORCERER'S STONE </title>
+<screenWriter>Steve Kloves </screenWriter>
+<!-- Based on the novel by J.K. Rowling -->
+ <productionStart date="yyyy-mm-dd"/> <!--Optional: if available: September 2000 -->
+ <!-- <productionEnd date="yyyy-mm-dd"  Optional: if available: March 2001 -->
+ <release date="2001-11-16"/><!--Look this up and verify -->
+ <digitalProject>
+  <editor who="bca">Bianka Alexander</editor>
+  <span from="2020-10-01" to="2021-05-06"/>
+  <desc>.......</desc>
+  <sourceText>
+   <siteName>.....</siteName>
+   <link><!--Website URL --></link>
+   <dateRetrieved>2020-10-01</dateRetrieved>
+  </sourceText>
+ </digitalProject>
 
-Screenplay 
-by 
-
-Steve Kloves 
-Based on the novel by J.K. Rowling 
-
-
+</header>
 <scene><stage cat="EXT" where=" PRIVET DRIVE NIGHT ">
 Dark at this hour, except for the STREET LAMPS that dot the street,
 spilling deep pools of light upon the ground. 
@@ -389,7 +399,7 @@ it was gone. It was like magic. <stage>
 Uncle Vernon hurls Harry into the cupboard, stares hard. 
 
 </stage></sp>
-<sp who="#UNCLE VERNON ">
+<sp who="#UNCLEVERNON ">
 There's... no ... such... thing... as... magic! <stage>
 
 The door SLAMS. Harry sits quietly. Then, from his pocket, he
@@ -411,13 +421,13 @@ and straw boater, tapping the floor with a KNOBBLY STICK,
 while a teary Aunt Petunia snaps a photo with a FLASH CAMERA. 
 
 </stage>
-<sp who="#AUNT PETUNIA ">
+<sp who="#AUNTPETUNIA ">
 Oh, Vernon, look at him. To think in only 
 a week he'll be off to Smeltings. 
 
 
 </sp>
-<sp who="#UNCLE VERNON ">
+<sp who="#UNCLEVERNON ">
 Proudest moment of my life. 
 
 </sp>
@@ -426,7 +436,7 @@ Proudest moment of my life.
 Will I have to wear that too? 
 
 </sp>
-<sp who="#AUNT PETUNIA ">
+<sp who="#AUNTPETUNIA ">
 You! Go to Smeltings? Don't be stupid. 
 You'll go to state school, where you 
 belong. That there'll be yours, once I'm 
@@ -441,7 +451,7 @@ But that's Dudley's old uniform. It'll
 fit me like bits of old elephant skin. 
 
 </sp>
-<sp who="#AUNT PETUNIA  ">
+<sp who="#AUNTPETUNIA  ">
 Fit you fine enough. Now fetch the post. 
 
 </sp>
@@ -507,26 +517,26 @@ HARRY'S POV
 of Uncle Vernon's thick black shoes pacing back and forth. 
 
 </stage></sp>
-<sp who="#AUNT PETUNIA ">
+<sp who="#AUNTPETUNIA ">
 Vernon. Look at the address. How could 
 they possibly know where he sleeps? You 
 don't think they're watching 
 the house? 
 
 </sp>
-<sp who="#UNCLE VERNON ">
+<sp who="#UNCLEVERNON ">
 Watching. Spying. Following us. We both know the 
 dangerous nonsense your sister and her husband were 
 mixed up in.
 
 </sp>
-<sp who="#AUNT PETUNIA ">
+<sp who="#AUNTPETUNIA ">
 But what should we do, Vernon? Should we
 write back. Tell them we don't 
 want-
 
 </sp>
-<sp who="#UNCLE VERNON ">
+<sp who="#UNCLEVERNON ">
 No. We'll 
 ignore it. If they don't get an answer... 
 Yes, that's best... I'll burn it. 
@@ -827,7 +837,7 @@ As Harry looks up, Hagrid winks, and takes a bite of
 sausage. 
 
 </stage></sp>
-<sp who="#UNCLE VERNON ">
+<sp who="#UNCLEVERNON ">
 He'll not be going, I tell you! We 
 swore when we took him in 
 we'd put a stop to that rubbish! 
@@ -839,7 +849,7 @@ You knew? You knew I'm a ... a wizard? <stage>
 Aunt Petunia--looking furious--emerges from the shadows. 
 
 </stage></sp>
-<sp who="#AUNT PETUNIA ">
+<sp who="#AUNTPETUNIA ">
 Of course we knew! How could you not 
 be, my dratted sister being what she 
 was? Oh, mother and father were so 
@@ -891,7 +901,7 @@ greatest headmaster Hogwart's has ever
 known, Albus Dumbledore--
 
 </stage></sp>
-<sp who="#UNCLE VERNON ">
+<sp who="#UNCLEVERNON ">
 I will not pay for some crackpot old 
 fool to teach him magic tricks! <stage>
 
@@ -1058,7 +1068,7 @@ solid wall. All around him, Harry sees mothers and fathers
 with children in tow, clutching LISTS similar to his own. 
 
 </stage>
-<sp who="#PLUMP WOMAN ">
+<sp who="#PLUMPWOMAN ">
 Seventeen Sickles an ounce for Dragon Liver,
 can you imagine? They're mad! 
 
@@ -2114,7 +2124,7 @@ As the applause subsides, the hat TWITCHES. At the brim, a
 rip OPENS WIDE, and the hat begins to TALK. 
 
 </stage></sp>
-<sp who="#SORTING HAT  ">
+<sp who="#SORTINGHAT  ">
 Oh, you may not think I'm pretty 
 But don't judge on what you see 
 I'll eat myself if you can find 
@@ -2128,7 +2138,7 @@ As the students APPLAUD, the hat takes a bow and Professor
 McGonagall steps forward with a ROLL OF PARCHMENT.  
 
 </stage></sp>
-<sp who="#PROFESSORMCGONAGALL ">
+<sp who="#MCGONAGALL ">
 When I call your name, you will come 
 forth, put on the hat and be sorted. 
 <stage>(consulting her list) </stage>
@@ -2179,7 +2189,7 @@ when he got power. And one of the first
 to come back when he lost it. 
 
 </sp>
-<sp who="#PROFESSOR MCGONAGALL. ">
+<sp who="#MCGONAGALL. ">
 Susan Bones. <stage>
 
 As SUSAN BONES dashes up front, Harry glances to the High 
@@ -2391,6 +2401,8 @@ when the staircases change.
 <stage>As the staircase before them moves to the right, Percy waits 
 briefly, then leads on without comment to a... 
 </stage>
+</sp>
+</scene>
 <scene><stage cat="INT" where="7TH FLOOR CORRIDOR - MOMENTS LATER - NIGHT">
 ...a new corridor. Up ahead, Harry spies a bundle of WALKING 
 STICKS floating in midair. Without warning, the walking 
@@ -3007,7 +3019,7 @@ Standard Book of Spells. Chapter Seven.
 </sp>
 </scene>
 <scene><stage cat="INT" where=" FORBIDDEN ROOM - CONTINUOUS  ">
-As·they fall inside, Hermione presses her ear to the door.
+As they fall inside, Hermione presses her ear to the door.
 
 </stage>
 <sp who="#RON ">
@@ -3029,12 +3041,12 @@ It was locked.
 <sp who="#HARRY">
 And for good reason... 
 
-Hermione and Ron turn. Standing a feet away is a DOG... only 
+<stage>Hermione and Ron turn. Standing a feet away is a DOG... only 
 this one has three heads, three pairs of mad, rolling eyes, 
 and three sets of hideous yellow fangs dripping with 
 saliva. 
 
-As the dog ROARS, they tumble back outside and... 
+As the dog ROARS, they tumble back outside and... </stage>
 </sp>
 </scene>
 <scene><stage cat="INT" wheree="3RD FLOOR CORRIDOR">
@@ -3151,10 +3163,11 @@ Catch it. Before the other team's Seeker.
 You catch this, the game is over. You 
 catch this, Potter... we win. 
 </sp>
+</scene>
 <scene><stage cat="INT" where="PROFESSOR FLITWICK'S CLASS - DAY">
 PROFESSOR FLITWICK, a very tiny, gnome-like wizard, stands on 
 a PILE OF BOOKS as he oversees the class. </stage>
-<sp who="#PROFESSOR FLITWICK ">
+<sp who="#PROFESSORFLITWICK ">
 Now don't forget that nice wrist movement 
 we've been practising. Swish and flick. 
 Swish and flick. <stage>
@@ -3169,7 +3182,7 @@ Wingardium Leviosa. <stage>
 The feather flutters, but never leaves the table. 
 
 </stage></sp>
-<sp who="#PROFESSOR FLITWICK ">
+<sp who="#PROFESSORFLITWICK ">
 And enunciate! Never forget Wizard 
 Bartiffio, who said 's' instead of 'f' and 
 found himself on the floor with a buffalo 
@@ -3198,7 +3211,7 @@ Wingardium Leviosa. <stage>
 Hermione swishes and flicks. Instantly the feather rises.
 
 </stage></sp>
-<sp who="#PROFESSOR FLITWICK ">
+<sp who="#PROFESSORFLITWICK ">
 Oh, well done! Everyone see here. Miss 
 Granger's done it! <stage>
 
@@ -3324,7 +3337,8 @@ What?
 </sp>
 <sp who="#HARRY ">
 Hermione. She doesn't know. 
-
+</sp>
+</scene>
 <scene><stage cat="INT" where="GIRL'S BATHROOM CORRIOOR - MOMENTS LATER - NIGHT"> 
 Harry and Ron slip away from the Gryffindors, in with the 
 Hufflepuffs, then down a deserted hallway. As FOOTSTEPS ring 
@@ -3368,7 +3382,7 @@ CUT TO:
 
 </stage></sp>
 <stage>CLOSE UP -- HERMIONE SCREAMING </stage>
-
+</scene>
 <scene><stage cat="INT" where="GIRL'S BATHROOM - NIGHT">
 A HUGE SHADOW falls over Hermione's face. 
 
@@ -4609,6 +4623,7 @@ you that day on the Quidditch pitch? <stage>
 
 Harry ponders this, but doesn't have an answer. 
 </stage></sp>
+</scene>
 <scene><stage cat="EXT" where="HAGRID'S HUT - LATER - NIGHT">
 Harry, trailed by Ron and Hermione, KNOCKS on Hagrid's door. 
 The door rattles, opens a crack, and Hagrid peers out. 
@@ -4759,7 +4774,7 @@ But it's crazy. And worse, Malfoy knows.
 
 </sp>
 <sp who="#HARRY ">
-I don't Understand. Is that bad? <stage>
+I don't Understand. Is that bad?
 
 <sp who="#MCGONAGALL"> <stage>(O.S.) </stage>
 Mr. Potter. Mr. Weasley. Miss Granger. 
@@ -4772,6 +4787,8 @@ castle-light. Beside her, Draco Malfoy grins arrogantly.
 <sp who="#RON ">
 It's bad. 
 </sp>
+</sp>
+</scene>
 <scene><stage cat="INT" where="PROFESSOR MCGONAGALL's CLASSROOM - MOMENTS LATER">
 Harry, Ron and Hermione stand before a displeased McGonagall,
 while Malfoy looks on, practically quivering with pleasure. 
@@ -4871,6 +4888,7 @@ Haven't you heard? For detention
 they're taking us into the Dark 
 Forest. 
 </sp>
+</scene>
 <scene><stage cat="EXT" where="HOGWARTS GROUNDS - NIGHT">
 Beneath a pale moon, Filch, carrying a lantern, leads Harry, 
 Ron, Hermione and Malfoy across the dark grounds. 
@@ -5255,6 +5273,7 @@ Hagrid stops, horrified by his slip.
 I shouldn'ta tol' yeh that! Forget I said 
 it! Hey! Where yeh goin'! Hey! 
 </sp>
+</scene>
 <scene><stage cat="INT" where="MCGONAGALL'S CLASSROOM - DAY">
 Harry, Ron and Hermione clang 
 through the door, Professor
