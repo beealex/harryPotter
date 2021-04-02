@@ -1,15 +1,26 @@
 <xml>
-<header>HARRY POTTER AND THE PRISONER OF AZKABAN 
+<header>
+ <title>HARRY POTTER AND THE PRISONER OF AZKABAN </title>
+ <screenWriter>Steve Kloves</screenWriter>
+<!--Based on the book by 
 
-by Steve Kloves 
-
-Based on the book by 
-
-J.K. Rowling 
-
-
-FULLTAN DRAFT
-<date>February 24, 2003</date> 
+J.K. Rowling -->
+ <drafts>
+  <revision color="Full Tan" date="February 24, 2003"/>
+ </drafts>
+ <productionStart date="yyyy-mm-dd"/> <!--Optional: if available. -->
+ <release date="yyyy-mm-dd"/><!--Look this up and verify -->
+ <digitalProject>
+   <editor who="bca">Bianka Alexander</editor>
+   <advisor who="ebb">Elisa Beshero-Bondar</advisor>
+  <span from="2020-10-01" to="2021-05-06"/>
+  <desc>.......</desc>
+  <sourceText>
+   <siteName>.....</siteName>
+   <link><!--Website URL --></link>
+   <dateRetrieved>yyyy-mm-dd</dateRetrieved>
+  </sourceText>
+ </digitalProject>
 </header>
 
 <stage>FADE IN: </stage>
