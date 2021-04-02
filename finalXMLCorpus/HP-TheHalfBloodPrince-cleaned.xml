@@ -36,7 +36,7 @@ Warner Boulevard WARNER BROS. ENT.
 Burbank, California 91522 All Rights Reserved -->
 <script>
 <scene>
-<sp><stage>DARKNESS. 
+<stage>DARKNESS. 
 THUNDER -- or something like it -- sounds in the distance. 
 BOOM. Then again. BOOM. 
 We GLIDE THROUGH the inky blackness. Ambient flashes 
@@ -48,7 +48,6 @@ we -FLASH!
 The PUPIL CONTRACTS and 
 CUT TO: 
 </stage>
-</sp>
 </scene>
 <scene><stage cat="INT" where=" MINISTRY OF MAGIC - ATRIUM - WIDER ANGLE - DAY">
 To find... HARRY POTTER, standing numbly beside ALBUS DUMBLEDORE amidst a MOB of REPORTERS. CAMERAS FLASH. 
@@ -103,7 +102,7 @@ Narcissa!
 </scene>
 <scene><stage cat="EXT" where=" SPINNER’S END - LATE AFTERNOON (MOMENTS LATER) ">
 Like a rat in a maze, Narcissa makes her way through a labyrinth of dilapidated brick houses. Bellatrix trails. 
-
+</stage>
 <sp who="#BELLATRIX">
 Cissy! You mustn’t do this. He 
 can’t be trusted. 
@@ -124,13 +123,11 @@ Or so I believe.
 Well, who can one trust these 
 days? 
 </sp>
-</stage>
 </scene>
 <scene><stage cat="INT" where=" MILL HOUSE - SAME TIME - LATE AFTERNOON">
-Grim and dark, lit by guttering candles. RAIN drums the 
+Grim and dark, lit by guttering candles. RAIN drums the
 roof eerily. A KNOCKER CLANGS. A SQUAT MAN SHUFFLES 
 forth, something familiar in his gait. 
-
 
 </stage>
 </scene>
@@ -142,16 +139,15 @@ The door cracks, spilling sallow light onto Narcissa and Bellatrix. A face: WORM
 </scene>
 <scene><stage cat="INT" where=" HALLWAY - LATE AFTERNOON (MOMENTS LATER) ">
 The sisters follow Wormtail down a narrow hallway. 
-
+</stage>
 <sp who="#BELLATRIX">
 He lives in this Muggle dunghill? 
 Wormtail glowers over his shoulder at her. They pass into... 
 
 </sp>
-</stage>
 </scene>
 <scene><stage cat="INT" where=" MILL HOUSE - SITTING ROOM - LATE AFTERNOON (MOMENTS LATER) ">
-... a room where a MAN sits by the window running withRAIN, his face hidden by the Daily Prophet. 
+... a room where a MAN sits by the window running with RAIN, his face hidden by the Daily Prophet. 
 
 On the front page is a PHOTOGRAPH of the MILLENNIUM BRIDGE CRASHING INTO THE THAMES. But even more prominent is the SILHOUETTE of a YOUNG WIZARD and a HEADLINE: 
 HARRY POTTER: THE CHOSEN ONE? 
@@ -196,14 +192,12 @@ The Dark Lord told you?
 <sp who="#SNAPE">
 Your sister doubts me, Narcissa. 
 Understandable. 
-
- 
 Over the years I have played my part well. So well I’ve deceived 
 one of the greatest wizards of all time. 
 
-Bellatrix makes a scathing sound.
+<stage>Bellatrix makes a scathing sound.
 hard. 
-Snape turns, eyes 
+Snape turns, eyes </stage>
 </sp>
 <sp who="#SNAPE">
 Dumbledore is a great wizard.
@@ -702,7 +696,7 @@ open.
 </stage>
 <sp who="#SLUGHORN">
 All right! I’ll do it. But I’ll 
-be wanting ProfessorMerrythought’s old office, not that water closet I had formerly.
+be wanting Professor Merrythought’s old office, not that water closet I had formerly.
 And I expect a raise! These are 
 mad times we live in! Mad! 
 </sp>
@@ -920,7 +914,7 @@ You’ve a bit of...
 </scene>
 <scene><stage cat="EXT" where=" THE BURROW - ATTIC - NIGHT (LATER)">
 
-The Daily Prophet tumbles within a makeshift campfire ofBLUE FLAMES, but magically doesn’t disintegrate. Harry teases the fire with the tip of his wand, where The 
+The Daily Prophet tumbles within a makeshift campfire of BLUE FLAMES, but magically doesn’t disintegrate. Harry teases the fire with the tip of his wand, where The 
 Chosen One? mingles with Draco’s haunted face in the 
 flames. 
 </stage>
@@ -3627,8 +3621,7 @@ way.
 Good luck, eh, Ron? 
 
 Ron nods shortly, then Seamus comes up on his side,
-</sp>
-<sp>WHISPERS CONSPIRATORIALLY. 
+<stage>WHISPERS CONSPIRATORIALLY. </stage>
 
 </sp>
 <sp who="#SEAMUS">
@@ -4024,16 +4017,13 @@ go, then moves off.</stage>
 </sp>
 
 </scene>
-<scene><stage cat="INT" where=" HOGWARTS CASTLE - ANOTHER CORRIDOR - SAME TIME -">
-
-<sp who="#NIGHT">
+<scene><stage cat="INT" where=" HOGWARTS CASTLE - ANOTHER CORRIDOR - SAME TIME -NIGHT">
 In the f.g., the BIRDCAGE glimmers dully in the gray 
 moonlight streaming through a window. Within, the TWO 
 BIRDS huddle quietly. We RACK FOCUS and see, THROUGH the 
 grid of wire, a FIGURE APPROACHING. 
 Draco moves down the corridor, eyes fixed oddly ahead.
 He looks pale in the moonlight. In his fist he grips an APPLE. As he passes the cage, we HOLD ON the BIRDS. 
-</sp>
 </stage>
 </scene>
 <scene><stage cat="INT" where=" SEVENTH FLOOR CORRIDOR - NIGHT (MOMENTS LATER) ">
