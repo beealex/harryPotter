@@ -154,7 +154,7 @@
             <sp who="#VOLDEMORT"> You know our hosts, of course, Severus. Narcissa in particular has
                 been most hospitable. Lucius, on the other hand, is, I fear, burdened by my
                 presence. Are you, Lucius? </sp>
-            <sp who="#LUCIUS"> My lord? </sp>
+            <sp who="#LUCIUSMALFOY"> My lord? </sp>
             <sp who="#VOLDEMORT"> Are you burdened? </sp>
             <sp who="#NARCISSAMALFOY"> My lord is always welcome here. <stage> Voldemort smiles, his
                     eyes shifting to Snape, who watches the great snake NAGINI as she slopes slowly
@@ -209,15 +209,15 @@
                     atVoldemort’s skeletal hand. Voldemort holds the wand to the light.
                 </stage></sp>
             <sp who="#VOLDEMORT"> Do I detect elm? </sp>
-            <sp who="#LUCIUS"> Yes, my lord. </sp>
+            <sp who="#LUCIUSMALFOY"> Yes, my lord. </sp>
             <sp who="#VOLDEMORT"> And the core? </sp>
-            <sp who="#LUCIUS"> Dragon -- dragon heartstring. <stage> Voldemort nods, getting a feel
+            <sp who="#LUCIUSMALFOY"> Dragon -- dragon heartstring. <stage> Voldemort nods, getting a feel
                     for the wand’s heft, then his eyes shift, catch Lucius staring at the WAND on
                     the table -- Voldemort’s own. </stage></sp>
             <sp who="#VOLDEMORT"> My wand? You can’t possibly thinkI would give you my wand. <stage>
                     Lucius’ eyes meet Voldemort’s. For a moment he is speechless. Finally his chin
                     drops. </stage></sp>
-            <sp who="#LUCIUS"> No, my lord. <stage> Voldemort studies Lucius’ bowed head, then
+            <sp who="#LUCIUSMALFOY"> No, my lord. <stage> Voldemort studies Lucius’ bowed head, then
                     returns his attention to the wand in his hand. Raising it, he points it at the
                     body above. With a FLICK, the body awakens, TWITCHING against its invisible
                     bonds. </stage></sp>

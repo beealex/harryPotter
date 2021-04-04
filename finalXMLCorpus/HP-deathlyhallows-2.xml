@@ -94,7 +94,7 @@
             <stage>Narcissa eyes her sister briefly, warily, then strides off, toward the
                 brightly-lit room ahead, where her husband Lucius stands, cradling a nearly-empty
                 wine glass. </stage>
-            <sp who="#LUCIUS"> Why Draco? </sp>
+            <sp who="#LUCIUSMALFOY"> Why Draco? </sp>
             <stage>Narcissa passes her husband without a word. </stage>
             <sp who="#BELLATRIX"> Just sit back and watch, Lucius. Hm? Pour yourself another glass
                 of wine. </sp>
@@ -122,7 +122,7 @@
             <sp who="#BELLATRIX"> Well...? </sp>
             <sp who="#DRACO"> I can’t... I can’t be sure. </sp>
             <stage>Lucius steps forward, wine glass sloshing. </stage>
-            <sp who="#LUCIUS"> Look close, Draco. If we’re the ones who hand Potter over to the Dark
+            <sp who="#LUCIUSMALFOY"> Look close, Draco. If we’re the ones who hand Potter over to the Dark
                 Lord, everything will be forgiven. Do you understand -</sp>
             <sp who="#SCABIOR"><stage>quietly menacing</stage> Now, we won’t be forgetting who
                 actually caught him, I hope, Mr. Malfoy? </sp>
@@ -1469,7 +1469,7 @@
             <stage>Neville, Ginny, Seamus and the DA peel off. </stage>
             <sp who="#FLITWICK"> You realize, of course, that nothing we do will be able to keep out
                 You-Know-Who indefinitely. </sp>
-            <sp who="#MADAMSPROUT"> That doesn’t mean we can’t hold him up. </sp>
+            <sp who="#SPROUT"> That doesn’t mean we can’t hold him up. </sp>
             <sp who="#MCGONAGALL"> That doesn’t mean we can’t hold him up. And his name is
                 Voldemort, Filius. You might as well use it. He’s going to try to kill you either
                 way.</sp>
@@ -2401,7 +2401,7 @@
                 falling. Stricken. Concerned. We GO TO BLACK... </stage>
             <stage>Then... Lily...</stage>
             <sp who="#SNAPE "><stage>O.S.</stage> Lily! </sp>
-            <sp who="#PETUNIA EVANS "><stage>O.S.</stage> Come out of there! Now! FADE IN: </sp>
+            <sp who="#PETUNIAEVANS "><stage>O.S.</stage> Come out of there! Now! FADE IN: </sp>
         </scene>
         <scene>
             <stage cat="EXT" where="WEEDY FIELD - DAY"> LILY EVANS emerges from some brush, a FLOWER
