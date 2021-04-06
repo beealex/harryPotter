@@ -531,7 +531,7 @@ Burbank, California 91522 All Rights Reserved -->
             <sp who="#FRED #GEORGE "> Ten Galleons. </sp>
             <sp who="#RON"> C’mon. Let’s go. <stage> The trio head for the door, passing LAVENDER
                     BROWN, who smiles flirtatiously at an oblivious Ron. </stage></sp>
-            <sp who="#LAVENDERBROWN"> Hi, Ron. </sp>
+            <sp who="#LAVENDER"> Hi, Ron. </sp>
             <sp who="#RON"> Hi. </sp>
 
         </scene>
@@ -1216,7 +1216,7 @@ Burbank, California 91522 All Rights Reserved -->
                     nearly falls off, rights himself in a panic, and deflects Ginny’s Quaffle...
                     with his forehead. As a few partisan CHEERS erupt from the stands, Harry grins,
                     then has to restrain himself. Hermione opens her eyes slowly. </stage></sp>
-            <sp who="#LAVENDERBROWN"> Isn’t he brilliant? <stage> Hermione stares balefully at
+            <sp who="#LAVENDER"> Isn’t he brilliant? <stage> Hermione stares balefully at
                     Lavender, then notices Cormac eyeing his broom incredulously. She gets up, slips
                     away. </stage></sp>
         </scene>
@@ -1598,7 +1598,7 @@ Burbank, California 91522 All Rights Reserved -->
             <sp who="#HERMIONE"> Actually, I was going to ask you. </sp>
             <sp who="#RON"> Really? </sp>
             <sp who="#HERMIONE"> Really. But seeing as you have such a distaste for the idea - </sp>
-            <sp who="#LAVENDERBROWN">
+            <sp who="#LAVENDER">
                 <stage>passing by</stage> Good luck today, Ron! I know you’ll be brilliant!
                     <stage>Ron smiles feebly, looks back down at his plate. Hermione stares
                     daggers.</stage>
@@ -1689,7 +1689,7 @@ Burbank, California 91522 All Rights Reserved -->
                 Ginny? <stage>off his look</stage> I know, Harry. You’re my best friend. I see how
                 you look at her. <stage> Just then the DOOR BURSTS WIDE and Ron rushes in, pulling a
                     GIGGLING Lavender by the hand. They stop. Take inventory. </stage></sp>
-            <sp who="#LAVENDERBROWN"> Oops. I think this room’s taken. <stage> As Lavender pulls Ron
+            <sp who="#LAVENDER"> Oops. I think this room’s taken. <stage> As Lavender pulls Ron
                     out, he cuts his VOICE LOW to Harry. </stage></sp>
             <sp who="#RON"> What’s with the birds? <stage> Before Harry can reply, Hermione rises,
                     points her wand. </stage></sp>
@@ -2120,7 +2120,7 @@ Burbank, California 91522 All Rights Reserved -->
                     glance ahead, see Ron and a pouting Lavender. Ron holds a GOLD CHAIN which
                     spells out “My Sweetheart.” </stage>
             </sp>
-            <sp who="#LAVENDERBROWN"> That’s my Won-Won. </sp>
+            <sp who="#LAVENDER"> That’s my Won-Won. </sp>
             <sp who="#HERMIONE"> Excuse me, I have to go vomit. <stage>As Hermione exits, Harry
                     spies Ginny, in an alcove, sitting by as Dean laughs with SEAMUS. Looking up,
                     she sees Harry, gives a feeble wave. He waves back and we - CUT TO:</stage>
@@ -2434,17 +2434,17 @@ Burbank, California 91522 All Rights Reserved -->
             <sp who="#DUMBLEDORE"> To whom might I ask? </sp>
             <sp who="#SLUGHORN"> You, Headmaster. <stage> Just then -- the DOOR BURSTS OPEN:
                     Lavender Brown. </stage></sp>
-            <sp who="#LAVENDERBROWN"> Where is he? Where’s my Won-Won! Has he been asking for me?
+            <sp who="#LAVENDER"> Where is he? Where’s my Won-Won! Has he been asking for me?
                     <stage>stopping; glaring daggers</stage> What’s she doing here? </sp>
             <sp who="#HERMIONE"> I might ask you the same. </sp>
-            <sp who="#LAVENDERBROWN"> I happen to be his girlfriend. </sp>
+            <sp who="#LAVENDER"> I happen to be his girlfriend. </sp>
             <sp who="#HERMIONE"> I happen to be his... friend. </sp>
-            <sp who="#LAVENDERBROWN"> Don’t make me laugh. You haven’t spoken in weeks. I suppose
+            <sp who="#LAVENDER"> Don’t make me laugh. You haven’t spoken in weeks. I suppose
                 you want to make up with him now that he’s suddenly all interesting. </sp>
             <sp who="#HERMIONE"> He’s been poisoned, you daft dimbo! And for the record, I’ve always
                 found him interesting. <stage> Hermione frowns, a bit embarrassed. Ron SNORTS,
                     stirring. </stage></sp>
-            <sp who="#LAVENDERBROWN"> Ha! See? He senses my presence. I’m here, Won-Won. I’m here - </sp>
+            <sp who="#LAVENDER"> Ha! See? He senses my presence. I’m here, Won-Won. I’m here - </sp>
             <sp who="#RON"> Er... My... Nee... Er! My! Nee! <stage> Ron, in a haze, reaches out
                     blindly. Blushing, Hermione takes his hand. Instantly, he falls unconscious
                     again. Lavender, vibrating with rage, stalks out. Dumbledore beams.
