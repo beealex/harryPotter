@@ -6,18 +6,23 @@
         <title>PotterPlays Home</title>
     </head>
     <body>
-        <div class="topnav">
-            <ul>
-                    <li><a href="index.html">Home</a></li> 
-                    <li><a href="about.html">About</a></li>  
-                    <li><a href="analysis.html">Analysis</a></li>  
-                    <li><a href="process.html">Process</a></li>
-            </ul>
-        </div>
+        <h1 class="webHeader">PotterPlays</h1>
+        <ul class="navbar">
+            <li class="navbar"><a href="index.html">Home</a></li> 
+            <li class="navbar"><a href="about.html">About</a></li> 
+            <li class="navbar"><a href="process.html">Process</a></li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Analysis</a>
+                <div class="dropdown-content">
+                    <a href="analysis.html">Mid-Semester Analysis</a>
+                    <a href="#">Project Analysis</a>
+                    <a href="gobletAnalysis.html">Goblet of Fire</a>
+                </div>
+            </li>    
+        </ul>
         <script type="text/javascript">
         alert ("Welcome to 'PotterPlays'! We are currently working on adding magical content and will be running soon.")
         </script>
-        <h1>PotterPlays Home</h1>
         <div class="main">
         <h2>Project Description</h2>
         <p>At PotterPlays we seek to analyze the open source screenplays of the magical series <i>Harry Potter</i>. </p>
@@ -25,7 +30,7 @@
         <h2>Project Plans</h2>
          <h3>***Still in the planning stages. Subject to change. ***</h3>
         <ul>
-         <li>Conduct OCR on the PDFs of the screenplays and convert to .txt files.</li>
+         <li >Conduct OCR on the PDFs of the screenplays and convert to .txt files.</li>
          <li>Research the role of gender in the open source screenplays.</li>
          <li>Research the infamous gender tweets relating to gender in the series.</li>
          <li>Utilize Antconc to pull out phrases and how many times they are mentioned. This can be used to analyze various characters and their gender role/description.</li>
