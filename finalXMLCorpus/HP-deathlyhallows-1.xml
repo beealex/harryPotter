@@ -979,7 +979,7 @@
                     only seconds before. A rope of green light singes Hermione’s hair. </stage></sp>
             <sp who="#HARRY"> Stupefy! <stage> The JET of RED LIGHT hits the biggest Death Eater
                     straight in the face and he crumples instantly. </stage></sp>
-            <sp who="DEATHEATER#2"> Expulsio! <stage> The table behind Harry explodes and the spell
+            <sp who="#DEATHEATER#2"> Expulsio! <stage> The table behind Harry explodes and the spell
                     ricochets, shattering the security mirror -- sending shards raining everywhere,
                     including one that laces Hermione’s cheek -- then striking the cappuccino
                     machine, which sprays hot liquid all over the Death Eater. He BELLOWS in pain
@@ -1372,7 +1372,7 @@
                 Maintenance Department. </sp>
             <sp who="#MAFALDAHOPKIRK/HERMIONE"> Mafalda Hopkirk, assistant in the Improper Use of
                 Magic Office. </sp>
-            <sp who="ALBERTRUNCORN/HARRY"><stage>patting his pockets</stage> I’m nobody. </sp>
+            <sp who="#ALBERTRUNCORN/HARRY"><stage>patting his pockets</stage> I’m nobody. </sp>
             <sp who="#MAFALDAHOPKIRK/HERMIONE"> You’re somebody. Be careful. <stage> Just then a
                     SKINNY WIZARD strides by. </stage></sp>
             <sp who="#SKINNYWIZARD"> Morning, Reg! Good luck today. </sp>

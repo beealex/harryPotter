@@ -9,8 +9,8 @@
       <release date="2007-07-11"/>
       <!--Look this up and verify -->
       <digitalProject>
-         <editor who="bca">Bianka Alexander</editor>
-         <advisor who="ebb">Elisa Beshero-Bondar</advisor>
+         <editor who="#bca">Bianka Alexander</editor>
+         <advisor who="#ebb">Elisa Beshero-Bondar</advisor>
          <span from="2020-10-01" to="2021-05-06"/>
          <desc>.......</desc>
          <sourceText>
@@ -38,7 +38,7 @@
          <stage cat="EXT" where="STREET  -  NIGHT"> Harry rounds the corner, only to find himself
             surrounded by Dudley's gang. </stage>
          <sp who="#DUDLEY">Oh, it's you. </sp>
-         <sp who="GANGTHUG1"> What should we do with him, Big D? Harry laughs. </sp>
+         <sp who="#GANGTHUG1"> What should we do with him, Big D? Harry laughs. </sp>
          <sp who="#HARRY">Big D? Cool name, but to me, you'll always be Ikkle Duddicums. </sp>
          <sp who="#DUDLEY">Shut up!<stage> One of Dudley's gang steps in as if to punch Harry. Harry
                glares at him. The gang member pauses, then steps back again. </stage></sp>
@@ -696,7 +696,7 @@
             various banned items, usually introduced by our humour experts Fred and George
                Weasley...<stage> Fred and George stand and take a bow to cheering, laughter, and
                yells. </stage></sp>
-         <sp who="DUMBLEDORE"><stage>CONT'D</stage> ...which are posted in an extensive list on the
+         <sp who="#DUMBLEDORE"><stage>CONT'D</stage> ...which are posted in an extensive list on the
             door to Mr. Filch's door. Harry grins at Fred and George. </sp>
          <sp who="#DUMBLEDORE">Also, we have two staffing changes this year. Professor Grubby-Plank
             will be taking the post of Care of Magical Creatures post as Professor Hagrid is
@@ -774,7 +774,7 @@
             in your past classes, hasn't it? <stage>pause</stage> Know now that this is about to be
             rectified. <stage>MORE</stage>
          </sp>
-         <sp who="UMBRIDGE"><stage>cont'd</stage> I will be following a pre-approved
+         <sp who="#UMBRIDGE"><stage>cont'd</stage> I will be following a pre-approved
             Ministry-prepared, theory-centered Defense lesson plan.<stage> She waves her wand at the
                blackboard and words are written down on it. </stage></sp>
          <sp who="#UMBRIDGE">Copy this down.<stage> Everyone opens their books and begins copying,
@@ -1066,7 +1066,7 @@
             worried you would take the 'Fred and George' route instead of following in my footsteps.
                <stage>MORE</stage>
          </sp>
-         <sp who="RON"><stage>cont'd</stage> You can imagine my relief that this is not the case."
+         <sp who="#RON"><stage>cont'd</stage> You can imagine my relief that this is not the case."
             He looks incredulously at Harry and Hermione. </sp>
          <sp who="#HERMIONE">Keep reading. </sp>
          <sp who="#RON">"Given your attachment to using me as a role model, I will give you a bit of
@@ -1714,7 +1714,7 @@
          <sp who="#DUMBLEDORE">Good. <stage>to McGonagall</stage>
             <stage>MORE</stage>
          </sp>
-         <sp who="DUMBLEDORE"><stage>cont'd</stage> Minerva, the rest of the Weasleys will need to
+         <sp who="#DUMBLEDORE"><stage>cont'd</stage> Minerva, the rest of the Weasleys will need to
             be awoken. She nods and departs. Dumbledore again turns to the portraits hanging on the
             wall. </sp>
          <sp who="#DUMBLEDORE">Phineas. </sp>
@@ -2011,7 +2011,7 @@
          <sp who="#SNAPE">As usual, you have all the subtlety of a stone wall, Potter.
                <stage>MORE</stage>
          </sp>
-         <sp who="SNAPE"><stage>cont'd</stage> The mind is not a book, of which any page can be
+         <sp who="#SNAPE"><stage>cont'd</stage> The mind is not a book, of which any page can be
             examined. The mind is complex and multi-layered. </sp>
          <sp who="#HARRY">So he could read our minds right now? </sp>
          <sp who="#SNAPE">Eye contact is normally required for Legilimency to work. In your case,
@@ -3453,7 +3453,7 @@
             a violent encounter with some Centaurs earlier this evening. <stage>pause</stage>
             <stage>MORE</stage>
          </sp>
-         <sp who="DUMBLEDORE"><stage>cont'd</stage> All Educational Decrees will be nullified and
+         <sp who="#DUMBLEDORE"><stage>cont'd</stage> All Educational Decrees will be nullified and
             you will call off the search on Hagrid so he can return to work. Fudge is sputtering
             incomprehensibly. </sp>
          <sp who="#DUMBLEDORE">I will return here later tonight, after I have seen to Harry. It
@@ -3543,7 +3543,7 @@
             the form of dreams. <stage>pause</stage>
             <stage>MORE</stage>
          </sp>
-         <sp who="DUMBLEDORE"><stage>cont'd</stage> Once he discovered the connection, Voldemort had
+         <sp who="#DUMBLEDORE"><stage>cont'd</stage> Once he discovered the connection, Voldemort had
             little difficulty in manipulating you into thinking he had captured Sirius. </sp>
          <sp who="#HARRY">But I checked Grimmauld Place! Kreacher said-- </sp>
          <sp who="#DUMBLEDORE">Kreacher lied. He wanted you to go to the Department of Mysteries. </sp>
@@ -3562,7 +3562,7 @@
          <sp who="#DUMBLEDORE">Ah. Apparently Kreacher had injured Buckbeak to distract him in case
             you tried to contact Headquarters. <stage>MORE</stage>
          </sp>
-         <sp who="DUMBLEDORE"><stage>cont'd</stage> Sirius was tending to the wounds when you
+         <sp who="#DUMBLEDORE"><stage>cont'd</stage> Sirius was tending to the wounds when you
             called. </sp>
          <sp who="#HARRY">And Hermione said we should be nice to Kreacher! </sp>
          <sp who="#DUMBLEDORE">She was quite right, Harry. Kreacher is what wizards have made him.
@@ -3583,7 +3583,7 @@
                <stage>pause</stage>
             <stage>MORE</stage>
          </sp>
-         <sp who="DUMBLEDORE"><stage>cont'd</stage> This magic is what your mother gave you when she
+         <sp who="#DUMBLEDORE"><stage>cont'd</stage> This magic is what your mother gave you when she
             died. That protection would only work, however, if you were cared for by a blood
             relative. Your Aunt, Petunia. </sp>
          <sp who="#HARRY">She never loved me. </sp>
@@ -3667,27 +3667,27 @@
       <scene>
          <stage cat="EXT" where="GREAT  LAKE  -  DAY"> Harry sits by himself on a boulder by the
             side of the lake. He watches the sunset. </stage>
-         <sp who="NEARLYHEADLESSNICK"> Hello, Harry.<stage> Harry turns to see NEARLY-HEADLESS NICK,
+         <sp who="#NEARLYHEADLESSNICK"> Hello, Harry.<stage> Harry turns to see NEARLY-HEADLESS NICK,
                a GHOST, standing beside him. </stage></sp>
          <sp who="#HARRY">Hey, Nick.<stage> Nick looks uncomfortable. </stage></sp>
-         <sp who="NEARLYHEADLESSNICK"> I--Well, Madam Pomfrey asked me to tell you that Hermione and
+         <sp who="#NEARLYHEADLESSNICK"> I--Well, Madam Pomfrey asked me to tell you that Hermione and
             Ron are out of the hospital wing. </sp>
          <sp who="#HARRY">Oh. Thanks. He stands and they begin to walk back to the castle together. </sp>
          <sp who="#HARRY">Nick, I was wondering about something? Nick looks even more uncomfortable
             now. </sp>
-         <sp who="NEARLYHEADLESSNICK"> I've been expecting this... </sp>
+         <sp who="#NEARLYHEADLESSNICK"> I've been expecting this... </sp>
          <sp who="#HARRY">Expecting what? </sp>
-         <sp who="NEARLYHEADLESSNICK"> A lot of people come to me when they've lost loved ones. </sp>
+         <sp who="#NEARLYHEADLESSNICK"> A lot of people come to me when they've lost loved ones. </sp>
          <sp who="#HARRY">I expect so... There is a silence. </sp>
-         <sp who="NEARLYHEADLESSNICK"> He's not coming back, Harry. There is another silence. </sp>
-         <sp who="NEARLYHEADLESSNICK"> Few wizards choose the path I have chosen. </sp>
+         <sp who="#NEARLYHEADLESSNICK"> He's not coming back, Harry. There is another silence. </sp>
+         <sp who="#NEARLYHEADLESSNICK"> Few wizards choose the path I have chosen. </sp>
          <sp who="#HARRY">Why? </sp>
-         <sp who="NEARLYHEADLESSNICK"> I am neither here nor there, Harry. Trapped between two
+         <sp who="#NEARLYHEADLESSNICK"> I am neither here nor there, Harry. Trapped between two
             worlds. That does not appeal to most. <stage>pause</stage> I know nothing of the secrets
             of death, Harry. I was afraid of it. I preferred to survive as a feeble imitation of
             life than face the vast unknown. <stage>pause</stage> I often wonder if that was a wise
             decision. They approach the great doors leading to the entry hall. Nick looks at Harry. </sp>
-         <sp who="NEARLYHEADLESSNICK"> I'm sorry I couldn't be of more help, Harry. Truly I
+         <sp who="#NEARLYHEADLESSNICK"> I'm sorry I couldn't be of more help, Harry. Truly I
                am.<stage> Nick vanishes through the wall into the castle. Harry steps through the
                doors into the entry hall. </stage></sp>
       </scene>
@@ -3717,7 +3717,7 @@
          <sp who="#HARRY">Then why are you putting up signs? </sp>
          <sp who="#LUNA">Oh, people take my things and hide them. <stage>MORE</stage>
          </sp>
-         <sp who="LUNA"><stage>cont'd</stage> I don't think they like me much. Some of them call me
+         <sp who="#LUNA"><stage>cont'd</stage> I don't think they like me much. Some of them call me
             "Loony" Lovegood. Harry looks at her in pity. </sp>
          <sp who="#HARRY">Do you need any help looking? </sp>
          <sp who="#LUNA">Oh no. It all turns up in the end. She looks at him serenely. </sp>

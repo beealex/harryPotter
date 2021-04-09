@@ -9,8 +9,8 @@
         <release date="2005-11-08"/>
         <!--Look this up and verify -->
         <digitalProject>
-            <editor who="bca">Bianka Alexander</editor>
-            <advisor who="ebb">Elisa Beshero-Bondar</advisor>
+            <editor who="#bca">Bianka Alexander</editor>
+            <advisor who="#ebb">Elisa Beshero-Bondar</advisor>
             <span from="2020-10-01" to="2021-05-06"/>
             <desc>.......</desc>
             <sourceText>
@@ -451,7 +451,7 @@
             <sp who="#DUMBLEDORE"> You heard Barty the rules are clear. </sp>
             <sp who="#MCGONAGALL"> Well the devil with Barty and his rules. And since when did you
                 accomodate them... </sp>
-            <sp who="#SEVERUS"> Master I too find it difficult to believe this mere coincidence, if
+            <sp who="#SNAPE"> Master I too find it difficult to believe this mere coincidence, if
                 we are to truly discover the meaning of these events perhaps we should for the time
                 being let them unfold. </sp>
             <sp who="#MCGONAGALL"> Do nothing?? Offer him up as bait? Potter is a boy not a piece of
@@ -1342,18 +1342,18 @@
                 inside the herbs store. </stage>
             <sp who="#IGOR"> It's a sign Severus, you know what it means as well as I.<stage> The
                     door opens and they see Harry. He looks at them. Igor leaves. </stage></sp>
-            <sp who="#SEVERUS"> Potter! What's your hurry? Congratulations, your performance in the
+            <sp who="#SNAPE"> Potter! What's your hurry? Congratulations, your performance in the
                 black lake was inspiring. Gilliweed, am I correct? </sp>
             <sp who="#HARRY"> Yes sir. </sp>
-            <sp who="#SEVERUS"> Ingenious. A rather rare herb gilliweed, not something found in your
+            <sp who="#SNAPE"> Ingenious. A rather rare herb gilliweed, not something found in your
                 every day garden. Nor is this, know what it is? </sp>
             <sp who="#HARRY"> Bubble juice sir? </sp>
-            <sp who="#SEVERUS"> Veritaserum. Three drops of this and you-know-who himself will spill
+            <sp who="#SNAPE"> Veritaserum. Three drops of this and you-know-who himself will spill
                 his darkest secrets. The use of this on a student is regrettably forbidden, however
                 should you ever steal from my personal stores again, my hand might just slip over
                 your morning pumpkin juice. </sp>
             <sp who="#HARRY"> I haven't stolen anything. </sp>
-            <sp who="#SEVERUS"> Don't lie to me. Gilliweed might be innocuous, but boomslang skin?
+            <sp who="#SNAPE"> Don't lie to me. Gilliweed might be innocuous, but boomslang skin?
                 lacewing flies? You and your friends are brewing polyjuice potion and believe me I'm
                 going to find out why.<stage> Severus closes the door in Harry's face. </stage></sp>
         </scene>
@@ -1570,7 +1570,7 @@
             <sp who="#ALASTOR"> I'm sorry Albus. </sp>
             <sp who="#HARRY"> That's Moody, but then who's...?<stage> Dumbledore holds up one of
                     Mad-Eye's Bottles. </stage></sp>
-            <sp who="#SEVERUS"> Polyjuice potion. </sp>
+            <sp who="#SNAPE"> Polyjuice potion. </sp>
             <sp who="#DUMBLEDORE"> Now we know who's been stealing it from your store
                     Severus.<stage> Dumbledore looks into the pit. </stage></sp>
             <sp who="#DUMBLEDORE"> We'll get you up in a minute.<stage> Alastor Moody groans. The

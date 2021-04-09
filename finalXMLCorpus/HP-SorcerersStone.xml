@@ -10,7 +10,7 @@
   <release date="2001-11-16"/>
   <!--Look this up and verify -->
   <digitalProject>
-   <editor who="bca">Bianka Alexander</editor>
+   <editor who="#bca">Bianka Alexander</editor>
    <advisor who="#ebb">Elisa Beshero-Bondar</advisor>
    <span from="2020-10-01" to="2021-05-06"/>
    <desc>.......</desc>
