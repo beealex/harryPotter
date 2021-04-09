@@ -106,20 +106,20 @@
             into the sky, watching the Dementors soar away. </stage>
          <sp who="#VERNON">What the hell are those? </sp>
          <sp who="#HARRY">Dementors. Petunia kneels on the ground next to Dudley. </sp>
-         <sp who="#PETUNIA">What happened, Duddikins? Vernon turns on Harry, who hastily lowers his
+         <sp who="#AUNTPETUNIA">What happened, Duddikins? Vernon turns on Harry, who hastily lowers his
             wand. </sp>
          <sp who="#VERNON">What the hell is a dementoid? Petunia seizes Dudley and attempts to look
             into his mouth. </sp>
-         <sp who="#PETUNIA">They didn't--? </sp>
+         <sp who="#AUNTPETUNIA">They didn't--? </sp>
          <sp who="#HARRY">No. Vernon shoves a large finger at Harry. </sp>
          <sp who="#VERNON">I want some answers! </sp>
          <sp who="#HARRY">We were attacked. </sp>
          <sp who="#VERNON">By those...things? </sp>
          <sp who="#HARRY">They're evil. If they get the chance, they'll suck your soul out through
             your mouth. </sp>
-         <sp who="#PETUNIA">They guard the wizard prison, Azkaban. Vernon and Harry look
-            dumbfounded. </sp>
-         <sp who="#VERNON">How do you know that? Petunia shakes her head, looking panicky.<stage>
+         <sp who="#AUNTPETUNIA">They guard the wizard prison, Azkaban. <stage>Vernon and Harry look
+            dumbfounded.</stage></sp>
+         <sp who="#VERNON">How do you know that? <stage>Petunia shakes her head, looking panicky.
                Vernon helps Dudley unsteadily to his feet, patting him on the shoulder.
             </stage></sp>
          <sp who="#VERNON">Fought 'em off, eh, Dud? Gave 'em the ol' one-two? </sp>
@@ -2600,10 +2600,10 @@
          <sp who="#RON">Oy! That's Umbridge down there!<stage> Several other students begin to watch
                the proceedings taking place below. Harry looks panicked. </stage></sp>
          <sp who="#HARRY">They're heading for Hagrid's! Ron and Harry exchange nervous glances. </sp>
-         <sp who="#PROFESSORTOFTY">Eyes back on the sky, please. The students ignore the
+         <sp who="#TOFTY">Eyes back on the sky, please. The students ignore the
                Professor.<stage> The six shadows approach the hut, silhouetted against the windows
                of it. They open the door, and it closes. </stage></sp>
-         <sp who="#PROFESSORTOFTY">Twenty minutes left on your exam, students.<stage> Shadows pace
+         <sp who="#TOFTY">Twenty minutes left on your exam, students.<stage> Shadows pace
                past the windows to Hagrid's hut. Raised voices reach them. Then a sharp BANG is
                heard, along with a flash of BLINDING light from within the cabin. The door bursts
                open and Hagrid stumbles out, clutching at his waist, followed by the other six. The
@@ -2641,7 +2641,7 @@
       <scene>
          <stage cat="EXT" where="ASTRONOMY  TOWER  -  NIGHT"> Several students scream in terror.
             Professor Tofty covers her mouth. </stage>
-         <sp who="#PROFESSORTOFTY">Not even a warning!<stage> Most of the students break for the
+         <sp who="#TOFTY">Not even a warning!<stage> Most of the students break for the
                doors leading back to the Entry Hall, Harry and Ron among them. Professor Tofty
                follows. </stage></sp>
       </scene>
@@ -2658,7 +2658,7 @@
             entry hall out into the night, running for McGonagall. They surround her, several
             teachers leaning over her. She looks very pale and her eyes are closed. Others keep the
             students at a safe distance. </stage>
-         <sp who="#PROFESSORSPROUT">Get her to the hospital wing right away.<stage> Professor
+         <sp who="#SPROUT">Get her to the hospital wing right away.<stage> Professor
                Flitwick steps forward and levitates McGonagall into the air, floating her up the
                steps and into the school. They leave dozens of muttering students behind, in the
                night. </stage></sp>
@@ -2668,10 +2668,10 @@
             moved aside. In their place, hundreds of desks have been set up. It is at one of these
             that Harry now sits. </stage>
          <stage>PROFESSOR MARCHBANKS stands near the staff table. </stage>
-         <sp who="#PROFESSORMARCHBANKS">Before we begin, I have an update on Professor McGonagall.
+         <sp who="#MARCHBANKS">Before we begin, I have an update on Professor McGonagall.
             She will be all right, and is resting in the hospital wing. Harry and Ron look
             encouraged. </sp>
-         <sp who="#PROFESSORMARCHBANKS">You may now turn your papers over and begin.<stage> Harry
+         <sp who="#MARCHBANKS">You may now turn your papers over and begin.<stage> Harry
                turns over his paper and stares at it. He begins to mark on it, scribbling answers.
             </stage></sp>
          <sp who="#DISSOLVE"> </sp>
@@ -2710,8 +2710,8 @@
       <scene>
          <stage cat="INT" where="ENTRY  HALL  -  DAY"> Professor Marchbanks looks at Harry, concern
             on his face. </stage>
-         <sp who="#PROFESSORMARCHBANKS">Are you all right, Potter? Harry shakes his head. </sp>
-         <sp who="#PROFESSORMARCHBANKS">Pressure of exams. It happens. Take a breath, and maybe
+         <sp who="#MARCHBANKS">Are you all right, Potter? Harry shakes his head. </sp>
+         <sp who="#MARCHBANKS">Pressure of exams. It happens. Take a breath, and maybe
             you'll be ready to go back in. Time is nearly up, but-- Harry is shaking his head. </sp>
          <sp who="#HARRY">No--no, I've done all I can.<stage> Professor Marchbanks nods, and returns
                to the Great Hall. He passes Ron and Hermione who run up to Harry. </stage></sp>

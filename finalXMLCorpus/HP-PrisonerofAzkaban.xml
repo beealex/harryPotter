@@ -363,7 +363,7 @@ J.K. Rowling -->
    <sp who="#FRED"> No, not a soul. Unless you count Tom. The day maid. The night maid. The cook.
     The bloke that came to fix the toilet. That wizard from Belgium... <stage> Mrs. Weasley takes
      Harry's face in her hands, smiles. As if relieved to see him. </stage></sp>
-   <sp who="#MRS. WEASLEY "> It's good to see you, Harry. </sp>
+   <sp who="#MRSWEASLEY "> It's good to see you, Harry. </sp>
    <sp who="#HARRY"> Good to see you too, Mrs. Weasley. </sp>
    <sp who="#ARTHURWEASLEY "> Harry. I wonder if I might have a word. </sp>
    <sp who="#HARRY"> Of course, Mr. Weasley. <stage> As Mr. Weasley pulls Harry away, the others
@@ -405,7 +405,7 @@ J.K. Rowling -->
     BLEATS ITS HORN, we CRANE OVER the milling horde of students. Parents hurry their children
     onboard, tiny siblings wave goodbyes... and Mr. Weasley dashes through the throng and up to an
     open train window. Ron! </stage>
-   <sp who="#MRS. WEASLEY "> She hands Scabbers through the open window to him. </sp>
+   <sp who="#MRSWEASLEY "> She hands Scabbers through the open window to him. </sp>
   </scene>
   <scene>
    <stage cat="INT" where=" HOGWARTS EXPRESS - TRAIN CAR - DAY (MOMENTS LATER) "> The aisle teems
@@ -477,7 +477,7 @@ J.K. Rowling -->
    <sp who="#RON"> Bloody hell. What's happening? <stage> SSSSST! A soft CRACKLING fills the car and
      FLAMES bloom... in the hands of R.J. Lupin. In the SHIVERING LIGHT, his face looks tired and
      gray, but his eyes are alert. Wary. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Don't. Move. </sp>
+   <sp who="#LUPIN "> Don't. Move. </sp>
    <stage>A HAND -- slimy and scabbed -- a hand of death -- GRIPS the half-open compartment door,
     pushes it aside. REVEALS: a TOWERING, CLOAKED FIGURE, its face hidden beneath its black hood.
     CROOKSHANKS' hair rises and as she HISSES... WHOOSHHHHH. The folds of the hood TREMBLE. A CHILL,
@@ -497,12 +497,12 @@ J.K. Rowling -->
    <sp who="#HARRY"> Thanks. <stage> Harry slips them on. Discovers the cold sweat glazing his brow.
      SNAP! Professor Lupin breaks a ragged triangle of CHOCOLATE off the SLAB in his hands. Holds it
      out. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Chocolate. Eat. It'll help. </sp>
+   <sp who="#LUPIN "> Chocolate. Eat. It'll help. </sp>
    <sp who="#HARRY"> What was that -- that thing? </sp>
-   <sp who="#PROFESSORLUPIN "> A Dementor. One of the guards of Azkaban. It's gone now. <stage>
+   <sp who="#LUPIN "> A Dementor. One of the guards of Azkaban. It's gone now. <stage>
      Harry frowns in confusion. </stage></sp>
    <sp who="#HERMIONE"> It was searching the train, Harry. For Sirius Black. </sp>
-   <sp who="#PROFESSORLUPIN "> I need to have a word with the driver. Excuse me. <stage>(the
+   <sp who="#LUPIN "> I need to have a word with the driver. Excuse me. <stage>(the
      chocolate)</stage> Eat. It'll help. <stage> As he leaves, Harry turns to Ron and Hermione.
     </stage></sp>
    <sp who="#HARRY"> What happened to me? </sp>
@@ -602,11 +602,11 @@ J.K. Rowling -->
    <stage cat="INT" where=" DIVINATION CLASSROOM - MORNING "> Harry, Ron and Hermione sit on fat
     little pouffes in a murky, incense-laden room, along with Neville, Dean, Seamus, LAVENDER BROWN,
     PARVATI PATIL and others. </stage>
-   <sp who="#PROFESSORTRELAWNEY "><stage>O.S.</stage> Welcome, my children. In this room, you shall
+   <sp who="#TRELAWNEY "><stage>O.S.</stage> Welcome, my children. In this room, you shall
     explore the mysterious art of Divination. In this room, you shall discover if you possess...
      <stage> A crimson scrim FLUTTERS and SYBIL TRELAWNEY, Divination Professor, glides dramatically
      INTO VIEW, eyes huge and bug-like behind enormous glasses. </stage></sp>
-   <sp who="#PROFESSORTRELAWNEY "> ... the Sight. Hello. I am Professor Trelawney. Together, we
+   <sp who="#TRELAWNEY "> ... the Sight. Hello. I am Professor Trelawney. Together, we
     shall cast ourselves into the future. But know this. One either has the Gift or not. It cannot
     be divined from the pages of a book. Books only cloud one's Inner Eye. </sp>
    <sp who="#HERMIONE"><stage>O.S.</stage>
@@ -614,37 +614,37 @@ J.K. Rowling -->
     </stage></sp>
    <sp who="#RON"> Where'd you come from? </sp>
    <sp who="#HERMIONE"> Me? I've been here all along. </sp>
-   <sp who="#PROFESSORTRELAWNEY ">
+   <sp who="#TRELAWNEY ">
     <stage>(spinning on Neville)</stage> You, boy! Is your grandmother well? </sp>
    <sp who="#NEVILLE">I...I think so. </sp>
-   <sp who="#PROFESSORTRELAWNEY "> I wouldn't be so sure of that. <stage>(continuing)</stage> The
+   <sp who="#TRELAWNEY "> I wouldn't be so sure of that. <stage>(continuing)</stage> The
     first term will be devoted to the reading of tea leaves. If all goes well, we will proceed to
     palmistry, fire omens, and finally... the crystal ball. <stage>(eyeing Parvati)</stage> By the
     way, dear, beware a red- haired man. <stage> Parvati eyes Ron dubiously. Edges her pouffe away.
     </stage></sp>
-   <sp who="#PROFESSORTRELAWNEY "> Unfortunately, classes will be disrupted in February by a nasty
+   <sp who="#TRELAWNEY "> Unfortunately, classes will be disrupted in February by a nasty
     bout of flu. I myself will lose my voice. And in late spring, one of our number will... leave us
     forever. <stage> As the class exchanges uneasy glances, Trelawney smiles brightly. </stage></sp>
-   <sp who="#PROFESSORTRELAWNEY "> Well then. Shall we? <stage> CUT TO: TEACUP - DETAIL - LATER
+   <sp who="#TRELAWNEY "> Well then. Shall we? <stage> CUT TO: TEACUP - DETAIL - LATER
      Inside, a CLOUD of TEA LEAVES mutates oddly. Harry, sitting opposite Ron now, frowns at the
      leaves, consults the SYMBOLS in the textbook (Unfogging the Future) at his elbow. Trelawney
      walks amongst them, robes flowing. </stage></sp>
-   <sp who="#PROFESSORTRELAWNEY "> Broaden your minds, my dears. And allow your eyes to see...
+   <sp who="#TRELAWNEY "> Broaden your minds, my dears. And allow your eyes to see...
     beyond. Trelawney takes Lavender Brown's cup, peers inside. </sp>
-   <sp who="#PROFESSORTRELAWNEY "> A five-leaf clover... You can expect to wake with a horrible rash
+   <sp who="#TRELAWNEY "> A five-leaf clover... You can expect to wake with a horrible rash
     tomorrow morning, dear. <stage>(then, casually)</stage> Mr. Longbottom, after you've broken your
     first cup... <stage> CA-CHINK! Neville fumbles the cup in his hands and the brittle CRASH of
      CHINA is heard. </stage></sp>
-   <sp who="#PROFESSORTRELAWNEY "> ... would you be so kind as to select one of the blue ones? I'm
+   <sp who="#TRELAWNEY "> ... would you be so kind as to select one of the blue ones? I'm
     rather partial to the pink. <stage>(pausing by Ron)</stage> What do you see in Mr. Potter's cup,
     Mr. Weasley? </sp>
    <sp who="#RON"> Well. He's got a wonky sort of cross -- that's trials and suffering. But this lot
     here could be the sun -- that's great happiness. So... he's going to suffer but be very happy
     about it. <stage> Professor Trelawney takes the cup, peers inside, and GASPS. </stage></sp>
-   <sp who="#PROFESSORTRELAWNEY "> Ahhh! </sp>
+   <sp who="#TRELAWNEY "> Ahhh! </sp>
    <sp who="#PARVATI"> What is it, Professor? <stage> Trelawney regards Harry with a mixture of pity
      and fear. </stage></sp>
-   <sp who="#PROFESSORTRELAWNEY "> My dear boy... You have the Grim. </sp>
+   <sp who="#TRELAWNEY "> My dear boy... You have the Grim. </sp>
    <sp who="#SEAMUS"> The Grin? What's the Grin? </sp>
    <sp who="#PARVATI"> Not the grin, you idiot. The Grim. </sp>
    <sp who="#DEANTHOMAS "> But what does it mean, Professor? </sp>
@@ -783,78 +783,78 @@ J.K. Rowling -->
   <scene>
    <stage cat="INT" where=" LUPIN'S CLASSROOM - MORNING "> A tall WARDROBE RATTLES VIOLENTLY as
     Harry, Ron and several classmates regard it warily. </stage>
-   <sp who="#PROFESSORLUPIN "> Intriguing, yes? Would anyone like to venture a guess as to what's
+   <sp who="#LUPIN "> Intriguing, yes? Would anyone like to venture a guess as to what's
     inside? </sp>
    <sp who="#SEAMUS">
     <stage>(in a hushed voice)</stage> That's a Boggart, that is. </sp>
-   <sp who="#PROFESSORLUPIN "> Very good, Mr. Finnigan. Can anyone tell us what a Boggart looks
+   <sp who="#LUPIN "> Very good, Mr. Finnigan. Can anyone tell us what a Boggart looks
     like? No one knows. </sp>
    <sp who="#HERMIONE"> Ron JUMPS, glances at Hermione, then WHISPERS to Harry. </sp>
    <sp who="#RON"> When'd she get here? </sp>
    <sp who="#HERMIONE"> Boggarts are shape-shifters. They take the shape of whatever a particular
     person fears most. That's what makes it so - </sp>
-   <sp who="#PROFESSORLUPIN "> Terrifying, yes. Luckily, a very simple charm exists to repel a
+   <sp who="#LUPIN "> Terrifying, yes. Luckily, a very simple charm exists to repel a
     Boggart. Let's practice it now, shall we? Without wands, please... Riddikulus! </sp>
    <sp who="#STUDENTS"> Riddikulus! </sp>
    <sp who="#DRACO">
     <stage>(muttering softly)</stage> It's this class that's ridiculous. </sp>
-   <sp who="#PROFESSORLUPIN "> Good. So much for the easy part. You see, the incantation alone is
+   <sp who="#LUPIN "> Good. So much for the easy part. You see, the incantation alone is
     not enough. What really finishes a Boggart off is... laughter. You need to force it to assume a
     shape you find truly amusing. Neville, come up here, will you? <stage> Neville eyes the rattling
      wardrobe, steps forward queasily. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> What would you say is the thing that frightens you most? </sp>
+   <sp who="#LUPIN "> What would you say is the thing that frightens you most? </sp>
    <sp who="#NEVILLE"> Profter... Snafpt... </sp>
-   <sp who="#PROFESSORLUPIN "> Didn't catch that, Neville, sorry. </sp>
+   <sp who="#LUPIN "> Didn't catch that, Neville, sorry. </sp>
    <sp who="#NEVILLE"> Professor Snape. <stage> Everyone LAUGHS good-naturedly. Lupin nods
      thoughtfully. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Hmmm... yes. Neville, I believe you live with your grandmother? </sp>
+   <sp who="#LUPIN "> Hmmm... yes. Neville, I believe you live with your grandmother? </sp>
    <sp who="#NEVILLE"> Yes, but I don't want the Boggart to turn into her either. </sp>
-   <sp who="#PROFESSORLUPIN "> It won't. But I want you to picture her clothes, only her clothes,
+   <sp who="#LUPIN "> It won't. But I want you to picture her clothes, only her clothes,
     very clearly in your mind. Can you do that? </sp>
    <sp who="#NEVILLE">
     <stage>(closing his eyes)</stage> She carries a red handbag... </sp>
-   <sp who="#PROFESSORLUPIN "> That's fine. We don't need to hear it. If you see it, we will. Now,
+   <sp who="#LUPIN "> That's fine. We don't need to hear it. If you see it, we will. Now,
     when I open this wardrobe, Neville, here's what I want you to do... <stage> Lupin leans close to
      Neville, WHISPERS. Neville's eyes POP OPEN in shock. Consider Lupin uncertainly. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> You can do this, Neville. <stage> Neville nods nervously, takes a
+   <sp who="#LUPIN "> You can do this, Neville. <stage> Neville nods nervously, takes a
      deep breath. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Right then. Wand at the ready. One. Two. Three! <stage> SPARKS jet
+   <sp who="#LUPIN "> Right then. Wand at the ready. One. Two. Three! <stage> SPARKS jet
      from Lupin's wand, strike the doorknob, and the wardrobe BURSTS OPEN. Instantly, Snape appears,
      eyes flashing hideously as he stalks forward. Neville backs away in fright. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Think, Neville. Think! </sp>
+   <sp who="#LUPIN "> Think, Neville. Think! </sp>
    <sp who="#NEVILLE"> R-r-riddikulus! <stage> CRACK! Snape stumbles in a FLASH OF LIGHT and
      reappears... in a LONG, LACE-TRIMMED DRESS, TOWERING MOTH-EATEN HAT, and CRIMSON HANDBAG.
      Instantly, the class ROARS (except for Draco and his fellow Slytherins). Neville blinks,
      amazed, then slowly, grins himself. Lupin drops the needle on an OLD GRAMAPHONE. As a SCRATCHY
      RHUMBA fills the room, he points to Ron. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Ron! Forward! <stage> Snape DISSOLVES into a mad whirling mass, then
+   <sp who="#LUPIN "> Ron! Forward! <stage> Snape DISSOLVES into a mad whirling mass, then
      mutates into a... GIANT SPIDER. As Ron GASPS, Harry and Hermione exchange an uncertain glance.
      Lupin puts his hands on Ron's shoulders to steady him. Ron raises his wand. </stage></sp>
    <sp who="#RON"> Riddikulus! <stage> CRACK! ROLLER SKATES materialize on the spider's hairy feet
      and it begins to shuffle crazily in place. Instantly, Ron relaxes as the class' LAUGHTER rings
      out. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Parvati! <stage> As Parvati steps up, the spider SPINS faster and
+   <sp who="#LUPIN "> Parvati! <stage> As Parvati steps up, the spider SPINS faster and
      faster, a DIZZYING BLUR, then reappears as a VAMPIRE. </stage></sp>
    <sp who="#PARVATI"> Riddikulus! <stage> As the vampire WHIPS its cloak across its eyes, we CUT
      BEHIND... so our POV is of the students. SWISH! The cloak reopens, the class LAUGHS, and we
      REVERSE again... see that the vampire is now dressed like CARMEN MIRANDA. As it begins to
      SHIMMY about -- against its will --the class starts to CLAP. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Mr. Thomas! As Dean steps up, the vampire's undulating body
+   <sp who="#LUPIN "> Mr. Thomas! As Dean steps up, the vampire's undulating body
     attenuates, its skin darkening with diamond-thatched SCALES becoming... a GIANT COBRA. </sp>
    <sp who="#DEANTHOMAS "> Riddikulus! <stage> The cobra's hooded head BOBS back and forth,
      transforms into a JACK-IN-THE-BOX. Lupin grins and... </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Next! <stage> ... turns, sees Harry step forward expectantly. Concern
+   <sp who="#LUPIN "> Next! <stage> ... turns, sees Harry step forward expectantly. Concern
      flickers through Lupin's face. The Jack-In-The-Box pivots on its spring, its face tumbling
      toward Harry, becoming more sinister, transforming into a... ... Dementor. Suddenly the MUSIC
      FADES. Harry starts to raise his wand, then... freezes, transfixed. The Dementor looms closer
      and closer, when... ... Lupin steps between, snaps his wand. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Here! <stage> CRACK! -- the Dementor vanishes and a ROILING MIST
+   <sp who="#LUPIN "> Here! <stage> CRACK! -- the Dementor vanishes and a ROILING MIST
      appears, which becomes CLOUDS. Something glows within the clouds, white, silvery and round...
     </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Riddikulus! <stage> POP! The orb deflates like a punctured balloon,
+   <sp who="#LUPIN "> Riddikulus! <stage> POP! The orb deflates like a punctured balloon,
      WHIZZES crazily about the room, then darts back into the wardrobe. The door SLAMS SHUT and the
      CLASS CHEERS. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Well done, everyone. I think that's enough excitement for today.
+   <sp who="#LUPIN "> Well done, everyone. I think that's enough excitement for today.
      <stage> As the students exit, chattering loudly, only Harry, subdued, remains behind. At the
      doorway, Lupin glances back, exchanges a private glance with him. As he exits, the WARDROBE
      gives one last RATTLE. </stage></sp>
@@ -873,48 +873,48 @@ J.K. Rowling -->
     that's my final word. <stage> Ron and Hermione -- watching Harry expectantly from across the way
      -- see him turn, shake his head. Their faces fall. Harry raises his hand in farewell. Watches
      them go. </stage></sp>
-   <sp who="#PROFESSORLUPIN "><stage>O.S.</stage> So. No Hogsmeade, eh ? </sp>
+   <sp who="#LUPIN "><stage>O.S.</stage> So. No Hogsmeade, eh ? </sp>
   </scene>
   <scene>
    <stage cat="EXT" where=" BRIDGE (HOGWARTS GROUNDS) - MORNING (MOMENTS LATER) "> Deep in the
     distance, some BOYS skate about on brooms, tossing a RAGGED QUAFFLE back and forth. CAMERA
     TILTS. FINDS Harry and Lupin walking along the bridge. </stage>
-   <sp who="#PROFESSORLUPIN "> Well, don't feel too bad. I was roundly disappointed the first time I
+   <sp who="#LUPIN "> Well, don't feel too bad. I was roundly disappointed the first time I
     went. Really? </sp>
    <sp who="#HARRY"> </sp>
-   <sp who="#PROFESSORLUPIN "> No. I was just trying to make you feel better. Honeydukes' sweets are
+   <sp who="#LUPIN "> No. I was just trying to make you feel better. Honeydukes' sweets are
     the best in the world. Their Pepper Imps are so strong you smoke at the ears. And Zonko's Joke
     Shop may be dangerous, but you can't beat their Stink Pellets. </sp>
    <sp who="#HARRY">
     <stage>(nodding glumly)</stage> Not to mention The Shrieking Shack, which, according to
     Hermione, is the most severely haunted building in Britain. </sp>
-   <sp who="#PROFESSORLUPIN "> Yes, that too... </sp>
+   <sp who="#LUPIN "> Yes, that too... </sp>
    <sp who="#HARRY"> Professor, can I ask you something? </sp>
-   <sp who="#PROFESSORLUPIN "> You'd like to know why I stopped you from facing the Boggart.
+   <sp who="#LUPIN "> You'd like to know why I stopped you from facing the Boggart.
      <stage>(off Harry's surprise)</stage> I should think it'd be obvious. I assumed the Boggart
     would take the shape of Lord Voldemort. <stage> Harry frowns. Lupin studies him curiously.
     </stage></sp>
-   <sp who="#PROFESSORLUPIN "> But clearly... I was wrong. </sp>
+   <sp who="#LUPIN "> But clearly... I was wrong. </sp>
    <sp who="#HARRY"> I did think of Voldemort first. But then, I remembered that night on the
     train... and the Dementors... </sp>
 
-   <sp who="#PROFESSORLUPIN "> Well, well. I'm impressed. That suggests that what you fear most of
+   <sp who="#LUPIN "> Well, well. I'm impressed. That suggests that what you fear most of
     all is... fear. Very wise. </sp>
    <sp who="#HARRY"> Before I fainted... I heard something. A woman. Screaming. </sp>
-   <sp who="#PROFESSORLUPIN "> Dementors force us to relive the worst memories of our lives. Our
+   <sp who="#LUPIN "> Dementors force us to relive the worst memories of our lives. Our
     pain becomes their power. </sp>
    <sp who="#HARRY"> I think it was my mother. The night she was murdered. <stage> Harry looks up.
      Finds Lupin studying him. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> The first time I saw you, Harry, I recognized you immediately. Not by
+   <sp who="#LUPIN "> The first time I saw you, Harry, I recognized you immediately. Not by
     your scar. By your eyes. They're your mother Lily's. <stage>(nodding)</stage> Yes. I knew her.
     She was there for me at a time when no one else was. We used to talk for hours. She was not only
     a singularly gifted witch but an uncommonly kind woman. She had a way of seeing the beauty in
     whoever she met, even -- and perhaps most especially -- when that person couldn't see it in
     themselves... <stage> Lupin's eyes glaze in memory, then he blinks, smiles. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Which perhaps explains her affection for your father. James had,
+   <sp who="#LUPIN "> Which perhaps explains her affection for your father. James had,
     shall we say, a certain talent for trouble. A gift, rumor has it, he passed on to you. <stage>
      Lupin turns, eyes Harry affectionately. Harry smiles vaguely. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> I could tell you stories -- and there are many about your parents,
+   <sp who="#LUPIN "> I could tell you stories -- and there are many about your parents,
     Harry -- but know this... <stage>(eyeing Harry intensely)</stage> They lived. Every moment of
     every day. You should know that. That's how they'd want to be remembered. </sp>
   </scene>
@@ -1081,7 +1081,7 @@ J.K. Rowling -->
     concealing potential danger. Beaters crisscross his path. A BLUDGER WHIZZES past, then a second
     ROCKETS DIRECTLY AT HIM. SWOOP! -- Harry ducks, watches the BLUDGER SHATTER the BROOM of a
     HUFFLEPUFF BEATER. The Beater goes into a wild spiral, vanishes in the mist. </stage>
-   <sp who="#INTHE STANDS "><stage> Ron squints upward, the players little more than STREAKING BLURS
+  <stage> IN THE STANDS Ron squints upward, the players little more than STREAKING BLURS
      from his vantage. KA-SSSST! A STITCH OF LIGHTNING strikes the TAIL of ANGELINA JOHNSON'S broom.
      As it BURSTS into FLAMES, she PLUMMETS to the pitch. Ron looks down at his own HAND. In the
      HIGHLY-CHARGED AIR, the HAIR above his knuckles RISES. In the sky, Harry flies fearlessly,
@@ -1100,7 +1100,7 @@ J.K. Rowling -->
      the veil of mist shrouding the high tower shifts and -- for one brief moment -- a GREAT DOG is
      revealed. As this mist closes, Harry frowns, jets away. As Harry pelts after the Snitch, the
      crowd RISES TO THEIR FEET, ROARING. Ron GRINS over the binoculars, watching Harry shred the
-     mist as he urges his broom on. </stage></sp>
+     mist as he urges his broom on. </stage>
    <sp who="#HARRY"> Come on! Faster! <stage> The trace of a smile forms on Harry's lips as he
      closes on the Snitch... only yards away... reaching out... when... ... a THIN GLAZE of ICE
      clouds his GLASSES. He wipes at them, then flinches: BLOOD trickles down his cheek. The rain is
@@ -1147,7 +1147,7 @@ J.K. Rowling -->
     -- it sort of landed in the Whomping Willow. And well... <stage> He tips a BAG of SPLINTERED
      WOOD and TWISTED TWIGS onto the bed. As Harry stares, we hear a gentle WIND, then...
     </stage></sp>
-   <sp who="#PROFESSORLUPIN "><stage>V.O.</stage> I'm sorry about your broom, Harry. There's no
+   <sp who="#LUPIN "><stage>V.O.</stage> I'm sorry about your broom, Harry. There's no
     chance of fixing it? </sp>
   </scene>
   <scene>
@@ -1155,23 +1155,23 @@ J.K. Rowling -->
     Lupin's question, then -- WHOOSH! -- sets Hedwig free of her traces. As she soars into the sky,
     Harry and Lupin watch from the lake's edge. </stage>
    <sp who="#HARRY"> Why do they affect me so, Professor? I mean, more than everyone else... </sp>
-   <sp who="#PROFESSORLUPIN "> Dementors are among the foulest creatures that walk this earth. They
+   <sp who="#LUPIN "> Dementors are among the foulest creatures that walk this earth. They
     feed on every good feeling, every happy memory, until a person is left with nothing but his
     worst experiences. You're not weak, Harry. The Dementors affect you most, because there are true
     horrors in your past. Horrors your classmates can scarcely imagine. You have nothing to be
     ashamed of. </sp>
    <sp who="#HARRY"> I'm scared, Professor. </sp>
-   <sp who="#PROFESSORLUPIN "> I'd consider you a fool if you weren't. </sp>
+   <sp who="#LUPIN "> I'd consider you a fool if you weren't. </sp>
    <sp who="#HARRY"> I need to learn how to fight them. You could teach me, Professor. You made that
     Dementor on the train go away... </sp>
-   <sp who="#PROFESSORLUPIN "> There was only one that night... </sp>
+   <sp who="#LUPIN "> There was only one that night... </sp>
    <sp who="#HARRY"> But you made it go away. </sp>
-   <sp who="#PROFESSORLUPIN ">
+   <sp who="#LUPIN ">
     <stage>(a beat)</stage> I don't pretend to be an expert, Harry. But yes, I can teach you.
     Perhaps after the holiday. For now, though, I need to rest. I'm feeling... tired. Harry turns,
     studies Lupin's haggard face. A weary smile appears as Hedwig's reflection glides over Lupin's
     irises. Beautiful... </sp>
-   <sp who="#PROFESSORLUPIN "> Harry looks up, watches Hedwig pinwheel through the blue, past the
+   <sp who="#LUPIN "> Harry looks up, watches Hedwig pinwheel through the blue, past the
     CLOCK TOWER and EXIT FRAME. CAMERA HOLDS, the skies PALES, and SNOW begins to fall. We TILT
     DOWN... </sp>
   </scene>
@@ -1249,10 +1249,9 @@ J.K. Rowling -->
    <sp who="#HARRY"> Mischief managed. </sp>
   </scene>
   <scene>
-   <stage cat="INT" where=" HONEYDUKE'S SWEETSHOP - CELLAR - SAME TIME - DAY "> </stage>
-   <sp who="#CRATES. HUGE ROLLING BINS. A WOOD STAIRCASE. A "> trapdoor lifts. Harry's eyes appear.
+   <stage cat="INT" where=" HONEYDUKE'S SWEETSHOP - CELLAR - SAME TIME - DAY ">CRATES. HUGE ROLLING BINS. A WOOD STAIRCASE. A trapdoor lifts. Harry's eyes appear.
     As he pulls himself up, a DOOR BANGS OPEN. Dense CHATTER ROARS from above. Quickly, Harry hides,
-    watches a MAN'S BOOTS descend the stairs. Then... </sp>
+    watches a MAN'S BOOTS descend the stairs. Then... </stage>
    <sp who="#WOMAN"><stage>O.S.</stage> A box of Jelly Slugs as well, Horace. We're nearly cleared
     out. HORACE grunts, begins moving boxes. Harry looks up to the cellar door, takes out the
     invisibility cloak... </sp>
@@ -1331,15 +1330,14 @@ J.K. Rowling -->
    <sp who="#MADAMROSMERTA "> Sirius Black? In Hogsmeade! And what would bring him here? </sp>
    <sp who="#CORNELIUSFUDGE "> Harry Potter. </sp>
    <sp who="#MADAMROSMERTA "> Harry Potter! <stage> Fudge looks around nervously, then jerks his
-     head toward the pub. As he leads Rosmerta and McGonagall inside, we - CUT BACK TO:
+     head toward the pub. As he leads Rosmerta and McGonagall inside, we - CUT BACK TO: HERMIONE AND RON
     </stage></sp>
-   <sp who="#HERMIONEAND RON "> </sp>
    <sp who="#RON"> Harry? <stage> He's gone. FOOTPRINTS track through the snow, into the pub.
     </stage></sp>
   </scene>
   <scene>
-   <stage cat="INT" where=" THREE BROOMSTICKS PUB - HARRY'S POV FROM UNDER THE "> INVISIBILITY CLOAK
-    - DAY (MOMENTS LATER) ... as he THREADS THROUGH the teeming pub, PAST a SIGN ("No Underage
+    <stage cat="INT" where=" THREE BROOMSTICKS PUB - HARRY'S POV FROM UNDER THE INVISIBILITY CLOAK - DAY (MOMENTS LATER) "> 
+      ... as he THREADS THROUGH the teeming pub, PAST a SIGN ("No Underage
     Wizards") and nearly collides with some very STRANGE-LOOKING PATRONS. Ron and Hermione ripple
     briefly past a frosted window, then... THREE SHRUNKEN HEADS swing INTO VIEW. </stage>
    <sp who="#SHRUNKENHEAD"> So I says to him, 'Careful, Ned. Don't want to go losing your head!' </sp>
@@ -1404,51 +1402,51 @@ J.K. Rowling -->
     painting Harry's face a fierce AMBER-RED as he stands opposite Lupin. ANCIENT CHARTS drape the
     walls while gleaming SPHERES OF SPUN GLASS ORBIT one another silently. Lupin paces before a
     LARGE TRUNK. </stage>
-   <sp who="#PROFESSORLUPIN "> You're sure about this, Harry? This is very advanced magic. Well
+   <sp who="#LUPIN "> You're sure about this, Harry? This is very advanced magic. Well
     beyond Ordinary Wizarding Level. </sp>
    <sp who="#HARRY"> If Black can fight the Dementors, I need to know how too. <stage> Lupin studies
      Harry -- as if conflicted -- then decides. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Very well. The spell I'm going to teach you is called the Patronus
+   <sp who="#LUPIN "> Very well. The spell I'm going to teach you is called the Patronus
     Charm. Ever hear of it? <stage> Harry shakes his head. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> A Patronus is a kind of positive force. For the wizard who can
+   <sp who="#LUPIN "> A Patronus is a kind of positive force. For the wizard who can
     conjure one, the Patronus works something like a shield. The Dementor feeds on it instead of
     him. <stage> Just then, the trunk RATTLES VIOLENTLY. As Harry's eyes wander, Lupin SNAPS his
      fingers, brings his attention back. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> But in order for it to work, you must think of a memory. And not just
+   <sp who="#LUPIN "> But in order for it to work, you must think of a memory. And not just
     any. This memory needs to be a very happy one. And powerful. <stage> Harry thinks a bit. Then...
      nods. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Got something? Good. Let it fill you up. Lose yourself in it. Then
+   <sp who="#LUPIN "> Got something? Good. Let it fill you up. Lose yourself in it. Then
     speak the incantation: Expecto Patronum. Without your wand... </sp>
    <sp who="#HARRY"> Expecto Patronum... </sp>
-   <sp who="#PROFESSORLUPIN "> Right then. Shall we? <stage> Harry nods, raises his wand. Lupin,
+   <sp who="#LUPIN "> Right then. Shall we? <stage> Harry nods, raises his wand. Lupin,
      watching closely, reaches over, grips the lid of the TRUNK... </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Concentrate, Harry. Concentrate... <stage> As Lupin FLINGS open the
+   <sp who="#LUPIN "> Concentrate, Harry. Concentrate... <stage> As Lupin FLINGS open the
      case, Harry OPENS HIS EYES. In the sun's BLOOD-LIGHT, the Dementor looks particularly horrific.
     </stage></sp>
    <sp who="#HARRY"> Expecto... Patronum... <stage> The torches on the wall FLICKER as a CHILL
      BREEZE fills the chamber. A SCREAM ECHOES distantly. Harry's hand trembles. His eyes begin to
      roll up... </stage></sp>
    <sp who="#HARRY"> Expecto... Expecto... </sp>
-   <sp who="#PROFESSORLUPIN "> Here! <stage> CRACK! -- the Dementor mutates into a SILVERY WHITE
+   <sp who="#LUPIN "> Here! <stage> CRACK! -- the Dementor mutates into a SILVERY WHITE
      ORB. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Riddikulus! <stage> Lupin flicks his wand, sends the orb back into
+   <sp who="#LUPIN "> Riddikulus! <stage> Lupin flicks his wand, sends the orb back into
      the packing case. Harry stands blinking. Dazed. Lupin fishes a CHOCOLATE FROG from his pocket.
      Presses it into Harry's trembling hand. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Quickly. <stage> Harry studies the frog. Takes a bite. Begins to
+   <sp who="#LUPIN "> Quickly. <stage> Harry studies the frog. Takes a bite. Begins to
      recover. </stage></sp>
    <sp who="#HARRY"> That's one nasty Dementor. </sp>
-   <sp who="#PROFESSORLUPIN "> Boggart, Harry. The real thing would be much, much worse. Just out of
+   <sp who="#LUPIN "> Boggart, Harry. The real thing would be much, much worse. Just out of
     interest, what were you thinking of? What memory did you choose? </sp>
    <sp who="#HARRY"> The first time I rode a broom. </sp>
-   <sp who="#PROFESSORLUPIN "> That's not good enough, Harry. Not nearly. <stage> Harry glances
+   <sp who="#LUPIN "> That's not good enough, Harry. Not nearly. <stage> Harry glances
      toward the window, at the bloody sun. </stage></sp>
    <sp who="#HARRY"> There's another. It's not happy exactly. I mean, it is. It's the happiest I've
     ever felt. But it's... complicated. </sp>
-   <sp who="#PROFESSORLUPIN "> Is it strong? <stage> Harry looks up into Lupin's eyes. Emotional.
+   <sp who="#LUPIN "> Is it strong? <stage> Harry looks up into Lupin's eyes. Emotional.
      Nods. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Then let's try it. <stage> Harry takes a breath. Tosses the frog
+   <sp who="#LUPIN "> Then let's try it. <stage> Harry takes a breath. Tosses the frog
      aside. Poises himself. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Think, Harry, think - </sp>
+   <sp who="#LUPIN "> Think, Harry, think - </sp>
    <sp who="#HARRY"> Just do it! <stage> Lupin blinks at Harry's quiet fierceness. Opens the packing
      case. Instantly, the Dementor appears again. A chill fills the air. The hair skates off Harry's
      scar. He sets his jaw... </stage></sp>
@@ -1456,11 +1454,11 @@ J.K. Rowling -->
      he holds his ground, when -- WHOOSH! -- a huge SILVER SHADOW BURSTS from the end of his wand,
      hovering between him and the Dementor. The Dementor falters... Harry's legs like water...
     </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Riddikulus! <stage>CRACK! The Dementor vanishes. Harry's arm drops.
+   <sp who="#LUPIN "> Riddikulus! <stage>CRACK! The Dementor vanishes. Harry's arm drops.
      Slack. Lupin eyes Harry with a kind of awe. His voice barely a WHISPER. </stage> Well done. </sp>
-   <sp who="#PROFESSORLUPIN "> </sp>
+   <sp who="#LUPIN "> </sp>
    <sp who="#HARRY"> I think I've had enough. today. For Lupin nods. Watches Harry move to the door. </sp>
-   <sp who="#PROFESSORLUPIN "> So you know, Harry: You'd have given your father a run for his money.
+   <sp who="#LUPIN "> So you know, Harry: You'd have given your father a run for his money.
     And, believe me, that's saying something. Harry ponders this. Then speaks, deep inside himself. </sp>
    <sp who="#HARRY"> I was thinking of him. And Mum. Seeing their faces. They're just talking to me.
     Just... talking. That was the memory I chose. I don't even know if it's real... <stage> Harry
@@ -1640,17 +1638,17 @@ J.K. Rowling -->
     business.' </sp>
    <sp who="#SNAPE">
     <stage>(smile drooping)</stage> Why you insolent little - </sp>
-   <sp who="#PROFESSORLUPIN "> Professor...? <stage>Snape turns. Sees Lupin standing in the shadows.
+   <sp who="#LUPIN "> Professor...? <stage>Snape turns. Sees Lupin standing in the shadows.
     </stage>
    </sp>
    <sp who="#SNAPE"> Well, well. Lupin. Out for a little walk in the moonlight, are we? Harry? </sp>
-   <sp who="#PROFESSORLUPIN "> You all right? </sp>
+   <sp who="#LUPIN "> You all right? </sp>
    <sp who="#SNAPE"> That remains to be seen. I've just now confiscated a rather curious artifact
     from Mr. Potter. Take a look, Lupin. This is supposed to be your area of expertise. <stage>
      Lupin takes the parchment, which now displays a rather unflattering caricature of Snape and a
      pair of potions. </stage></sp>
    <sp who="#SNAPE"> Clearly, it's full of Dark Magic. </sp>
-   <sp who="#PROFESSORLUPIN "> I seriously doubt that, Severus. It looks to me as if it merely
+   <sp who="#LUPIN "> I seriously doubt that, Severus. It looks to me as if it merely
     insults anyone who tries to read it. I suspect it's a Zonko product. Nevertheless, I shall
     pursue any hidden qualities it may possess. As you say, it's my area of expertise. Come, Harry.
    </sp>
@@ -1658,11 +1656,11 @@ J.K. Rowling -->
   <scene>
    <stage cat="INT" where=" CORRIDOR/LUPIN'S OFFICE - EVENING (MOMENTS LATER) "> Harry walks aside a
     fuming Lupin, who grips the map fiercely. </stage>
-   <sp who="#PROFESSORLUPIN "> I don't know how this map came to be in your possession, Harry, but
+   <sp who="#LUPIN "> I don't know how this map came to be in your possession, Harry, but
     I'm astounded that you didn't turn it in. Did you ever stop to think that this -- in the hands
     of Sirius Black -- is a map to you? <stage> Harry walks silently. Lupin can barely contain his
      anger. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Your father didn't set much store by rules either. But he and your
+   <sp who="#LUPIN "> Your father didn't set much store by rules either. But he and your
     mother did give their lives to save yours. Gambling their sacrifice by walking about the castle
     unprotected, with a killer on the loose, strikes me as a poor way to repay them. I won't cover
     up for you again, Harry. <stage> Lupin enters his office, tosses the map on his desk, and begins
@@ -1670,25 +1668,25 @@ J.K. Rowling -->
      MOON that glimmers beyond the window, then starts to turn away. Stops. </stage></sp>
    <sp who="#HARRY"> Professor. Just so you know, I don't think the map always works. Earlier, it
     showed someone in the castle. Someone I know to be dead. </sp>
-   <sp who="#PROFESSORLUPIN ">
+   <sp who="#LUPIN ">
     <stage>(only half-listening)</stage> And who was that, Harry? </sp>
    <sp who="#HARRY"> Peter Pettigrew. <stage> Lupin hesitates ever-so-slightly, then returns to his
      papers. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Very well. I'd like you to return to your dormitory now. Oh, and
+   <sp who="#LUPIN "> Very well. I'd like you to return to your dormitory now. Oh, and
     Harry? Don't take any detours. <stage> As Harry looks back, Lupin taps the map. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> If you do. I'll know. <stage> CUT TO: CLOSEUP - CRYSTAL BALL murky
+   <sp who="#LUPIN "> If you do. I'll know. <stage> CUT TO: CLOSEUP - CRYSTAL BALL murky
      with smoke. </stage></sp>
-   <sp who="#PROFESSORTRELAWNEY "><stage>V.O.</stage> Relax... Let your mind... go... </sp>
+   <sp who="#TRELAWNEY "><stage>V.O.</stage> Relax... Let your mind... go... </sp>
   </scene>
   <scene>
    <stage cat="INT" where=" DIVINATION CLASSROOM - MORNING "> The students gaze into CRYSTAL BALLS,
     faces reflecting the mist within, so that their very skin seems to be made of smoke.
     Conspicuously, Harry, Ron and Hermione sit apart. </stage>
-   <sp who="#PROFESSORTRELAWNEY "> Crystal-gazing requires that you clear the Inner Eye. Only then,
+   <sp who="#TRELAWNEY "> Crystal-gazing requires that you clear the Inner Eye. Only then,
     will you... See. Oh my, what do we have here...? <stage> As Trelawney eyes Harry's crystal,
      Hermione rolls her eyes. </stage></sp>
    <sp who="#HERMIONE"> Here we go again. It's the Grim! It's the Grim! </sp>
-   <sp who="#PROFESSORTRELAWNEY ">
+   <sp who="#TRELAWNEY ">
     <stage>(eyes narrowing)</stage> My dear, from the moment you first arrived in my class, I sensed
     that you did not possess the proper spirit for the noble art of Divination. You may be young in
     years, but the heart that beats beneath your bosom is as shriveled as an old maid's, your soul
@@ -1698,7 +1696,7 @@ J.K. Rowling -->
      OUT the doorway... </stage></sp>
    <sp who="#LAVENDER"> 'In late spring, one of our number will leave us forever!' You knew,
     Professor! You saw. </sp>
-   <sp who="#PROFESSORTRELAWNEY "> On these occasions, I take no joy in my gift, Miss Brown. </sp>
+   <sp who="#TRELAWNEY "> On these occasions, I take no joy in my gift, Miss Brown. </sp>
   </scene>
   <scene>
    <stage cat="EXT" where=" DIVINATION CLASSROOM - MORNING (LATER) "> As the students exit, Ron,
@@ -1715,14 +1713,14 @@ J.K. Rowling -->
     then, a SHADOW crawls the glossy surface of the crystal and... ... a HAND SNATCHES Harry's
     shoulder. He wheels, finds... </stage>
    <sp who="#HARRY"> Professor Trelawney - </sp>
-   <sp who="#PROFESSORTRELAWNEY "> He will return tonight.... <stage> Harry stiffens. Trelawney's
+   <sp who="#TRELAWNEY "> He will return tonight.... <stage> Harry stiffens. Trelawney's
      voice is eerily HOLLOW. </stage></sp>
    <sp who="#HARRY"> S-sorry? </sp>
-   <sp who="#PROFESSORTRELAWNEY "> Tonight, when the clock strikes twelve, the servant shall break
+   <sp who="#TRELAWNEY "> Tonight, when the clock strikes twelve, the servant shall break
     free. He and his Master shall be reunited. It cannot be prevented. <stage> Trelawney smiles
      savagely... then her head falls forward. When it rises, she blinks, eyes the hand that lies
      upon Harry's shoulder. Her hand. </stage></sp>
-   <sp who="#PROFESSORTRELAWNEY "> So sorry, dear boy. Did you say something? Her voice is normal
+   <sp who="#TRELAWNEY "> So sorry, dear boy. Did you say something? Her voice is normal
     once more. Harry shakes his head. </sp>
    <sp who="#HARRY"> No. Nothing. </sp>
   </scene>
@@ -1946,7 +1944,7 @@ J.K. Rowling -->
    <sp who="#HARRY #HERMIONE #RON"> Professor Lupin! <stage>Lupin ignores them, eying Black
      intensely. </stage>
    </sp>
-   <sp who="#PROFESSORLUPIN "> Looking a bit ragged, aren't we, Sirius? Finally the skin reflects
+   <sp who="#LUPIN "> Looking a bit ragged, aren't we, Sirius? Finally the skin reflects
     the madness within. </sp>
    <sp who="#SIRIUSBLACK "> You'd know all about the madness within, wouldn't you, Remus? <stage>
      The two regard each other, the moment taut with tension, then Lupin steps forward and...
@@ -1955,24 +1953,24 @@ J.K. Rowling -->
     friend! <stage>(pointing)</stage> He's a werewolf! That's why he's been missing classes! <stage>
      Harry and Ron stare, dumbfounded, at Lupin. Black HOWLS then, bitterly amused. Lupin eyes him,
      then turns back. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> How long have you known? </sp>
+   <sp who="#LUPIN "> How long have you known? </sp>
    <sp who="#HERMIONE"> Since Professor Snape set the essay. </sp>
-   <sp who="#PROFESSORLUPIN "> You're the brightest witch of your age I've ever met, Hermione. </sp>
+   <sp who="#LUPIN "> You're the brightest witch of your age I've ever met, Hermione. </sp>
    <sp who="#SIRIUSBLACK "> Yes, you glow like the sun. And you howl at the moon. Enough talk! He
     dies. Now. If you won't do it with me, Remus, I'll do it alone. </sp>
-   <sp who="#PROFESSORLUPIN "> Wait, Sirius - </sp>
+   <sp who="#LUPIN "> Wait, Sirius - </sp>
    <sp who="#SIRIUSBLACK "> I did my waiting! Twelve years of it! In Azkaban! Trust me, you wouldn't
     have lasted a week! <stage> Lupin eyes Black, then nods. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> All right then. As you wish... </sp>
+   <sp who="#LUPIN "> All right then. As you wish... </sp>
    <sp who="#HARRY"> No! <stage> Harry raises his wand when Lupin wheels and, with a flick of his
      own, disarms him. Furious, Harry eyes Black murderously. </stage></sp>
    <sp who="#HARRY"> You betrayed my parents! You sold them to Voldemort! </sp>
    <sp who="#SIRIUSBLACK "> It's a lie! I never would've betrayed James and Lily! </sp>
-   <sp who="#PROFESSORLUPIN "> Harry! You've got to listen - </sp>
+   <sp who="#LUPIN "> Harry! You've got to listen - </sp>
    <sp who="#HARRY"> Did he listen! When my mother was dying! Did he hear her screaming! </sp>
    <sp who="#SIRIUSBLACK "> No! I wasn't there! And I'll regret it the rest of my life! Harry's eyes
     flash to Black's, glittering with pain. </sp>
-   <sp who="#PROFESSORLUPIN "> Someone else betrayed your parents, Harry. Someone in this room right
+   <sp who="#LUPIN "> Someone else betrayed your parents, Harry. Someone in this room right
     now. Someone who, until quite recently, I believed to be dead. </sp>
    <sp who="#SIRIUSBLACK "> He's as good as dead. </sp>
    <sp who="#HARRY"> What're you talking about? There's nobody here. </sp>
@@ -1987,16 +1985,16 @@ J.K. Rowling -->
      Snape standing in the doorway, smiling smugly. </stage></sp>
    <sp who="#SNAPE">
     <stage>(eying Black)</stage> Ah, vengeance is sweet. How I hoped I'd be the one to catch you. </sp>
-   <sp who="#PROFESSORLUPIN "> Severus - </sp>
+   <sp who="#LUPIN "> Severus - </sp>
    <sp who="#SNAPE"> I told Dumbledore you were helping your old friend into the castle. And here's
     the proof. </sp>
    <sp who="#SIRIUSBLACK "> Brilliant! And -- as usual -dead wrong. Now give us our wands back.
     Remus and I have a bit of unfinished business to tend to. <stage> As Black approaches, Snape
      puts his wand to Black's neck. </stage></sp>
    <sp who="#SNAPE"> Give me a reason. I beg you. </sp>
-   <sp who="#PROFESSORLUPIN "> Don't be a fool, Severus! </sp>
+   <sp who="#LUPIN "> Don't be a fool, Severus! </sp>
    <sp who="#SIRIUSBLACK "> He can't help it. It's habit by now. </sp>
-   <sp who="#PROFESSORLUPIN "> Quiet, Sirius! </sp>
+   <sp who="#LUPIN "> Quiet, Sirius! </sp>
    <sp who="#SNAPE">
     <stage>(clucking his tongue)</stage> Listen to you two. Quarreling like an old married couple.
     The creature and the criminal. </sp>
@@ -2013,10 +2011,10 @@ J.K. Rowling -->
    <sp who="#HERMIONE"> Harry. You attacked a teacher. <stage> Harry looks a bit shocked himself,
      then turns to Black. </stage></sp>
    <sp who="#HARRY"> You said Peter before. Peter who? </sp>
-   <sp who="#PROFESSORLUPIN "> Pettigrew. He was at school with us. We thought he was a friend. </sp>
+   <sp who="#LUPIN "> Pettigrew. He was at school with us. We thought he was a friend. </sp>
    <sp who="#HARRY"> No. Pettigrew's dead. He killed him. <stage> As Harry points at Black, Black
      laughs mirthlessly. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> I thought so, too. Until you mentioned seeing Pettigrew on the Map. </sp>
+   <sp who="#LUPIN "> I thought so, too. Until you mentioned seeing Pettigrew on the Map. </sp>
    <sp who="#HARRY"> The Map was lying then - </sp>
    <sp who="#SIRIUSBLACK "> The Map never lies. Pettigrew's alive. And he's right there. <stage>
      Black points at... Ron. Ron goes white with fear. </stage></sp>
@@ -2052,7 +2050,7 @@ J.K. Rowling -->
     Ask yourself what you would have done, Sirius. What would you have done! </sp>
    <sp who="#SIRIUSBLACK "> Died! Died rather than betray my friends! And you should have realized,
     Peter, if Voldemort didn't kill you... </sp>
-   <sp who="#PROFESSORLUPIN "> We would. </sp>
+   <sp who="#LUPIN "> We would. </sp>
    <sp who="#PETTIGREW"> No... please... you can't... <stage>(eyes darting, finding) </stage> Ron!
     Haven't I been a good friend? A good pet? You won't let them kill me, will you? I was your
     rat... <stage> Ron draws back in disgust. Pettigrew turns to Hermione. </stage></sp>
@@ -2061,7 +2059,7 @@ J.K. Rowling -->
      trembling, closing his eyes in fear, when... </stage></sp>
    <sp who="#HARRY"> No. <stage> Pettigrew's lids lift. Lupin and Black turn. Staggered.
     </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Harry, this man... </sp>
+   <sp who="#LUPIN "> Harry, this man... </sp>
    <sp who="#HARRY"> I know what he is. But we'll take him to the castle. </sp>
    <sp who="#PETTIGREW"> Bless you, boy! Bless you - </sp>
    <sp who="#HARRY"> Get off! I said we'd take you to the castle. After that, the Dementors can have
@@ -2580,34 +2578,34 @@ J.K. Rowling -->
    <stage cat="INT" where=" CORRIDOR/LUPIN'S OFFICE - MORNING "> Harry walks softly toward an OPEN
     DOOR -- Lupin's office -- and peers in. Lupin stands over a battered suitcase, filling it with
     the last of his books. Without turning, he SPEAKS. </stage>
-   <sp who="#PROFESSORLUPIN "> Hello, Harry. <stage> Harry JUMPS. Lupin turns, smiles through
+   <sp who="#LUPIN "> Hello, Harry. <stage> Harry JUMPS. Lupin turns, smiles through
      haggard eyes. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Saw you coming. <stage> The Marauder's Map lies open on an otherwise
+   <sp who="#LUPIN "> Saw you coming. <stage> The Marauder's Map lies open on an otherwise
      bare desk. Harry nods, looks back to Lupin. Unable to disguise his shock at Lupin's appearance.
     </stage></sp>
-   <sp who="#PROFESSORLUPIN "> I've looked worse, believe me. <stage> Harry eyes the open desk
+   <sp who="#LUPIN "> I've looked worse, believe me. <stage> Harry eyes the open desk
      drawers... the bare bookshelves... </stage></sp>
    <sp who="#HARRY"> You've been sacked. </sp>
-   <sp who="#PROFESSORLUPIN "> Resigned, actually. </sp>
+   <sp who="#LUPIN "> Resigned, actually. </sp>
    <sp who="#HARRY"> Resigned! But why! </sp>
-   <sp who="#PROFESSORLUPIN "> It seems that someone has let slip the nature of my condition. </sp>
+   <sp who="#LUPIN "> It seems that someone has let slip the nature of my condition. </sp>
    <sp who="#HARRY"> Snape. </sp>
-   <sp who="#PROFESSORLUPIN "> Whoever. It was bound to get out. This time tomorrow, the owls will
+   <sp who="#LUPIN "> Whoever. It was bound to get out. This time tomorrow, the owls will
     start arriving. Parents will not want a --someone like me - teaching their children. </sp>
    <sp who="#HARRY"> But Dumbledore - </sp>
-   <sp who="#PROFESSORLUPIN "> Has already risked enough on my behalf. Besides, people like me,
+   <sp who="#LUPIN "> Has already risked enough on my behalf. Besides, people like me,
     well... let's just say I'm used to this by now. But before I go, tell me about your Patronus. </sp>
    <sp who="#HARRY"> Well. At first I thought it was a horse, or perhaps a unicorn, but I think it
     was - </sp>
-   <sp who="#PROFESSORLUPIN "> A stag. </sp>
+   <sp who="#LUPIN "> A stag. </sp>
    <sp who="#HARRY"> Yes. </sp>
-   <sp who="#PROFESSORLUPIN "> Your father used to transform into one. That's how he was able to
+   <sp who="#LUPIN "> Your father used to transform into one. That's how he was able to
     keep me company when I became... sick. He was a great friend James. <stage> Lupin smiles wanly,
      lifts his sorry suitcase. Then stops. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> There are stories about him and your mother, you know. Some are even
+   <sp who="#LUPIN "> There are stories about him and your mother, you know. Some are even
     true. But I think it's safe to say in the end, you'll know them best by getting to know
     yourself. <stage> Lupin then -- with a wicked twinkle -- raises his wand. </stage></sp>
-   <sp who="#PROFESSORLUPIN "> Mischief managed. <stage> Harry watches the Map go blank. Looks back.
+   <sp who="#LUPIN "> Mischief managed. <stage> Harry watches the Map go blank. Looks back.
      Lupin is gone. </stage></sp>
   </scene>
   <scene>

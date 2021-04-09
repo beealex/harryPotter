@@ -84,7 +84,7 @@
    <stage cat="EXT" where=" HALLWAY - DAY  "> Harry comes blinking out the cupboard door, watches
     his enormous cousin, DUDLEY, thunder down the last step. Just then, Harry's Aunt Petunia appears
     in the kitchen ahead. </stage>
-   <sp who="#AUNT PETUNIA "> There's the birthday boy! Don't you look smart for your trip to the
+   <sp who="#AUNTPETUNIA "> There's the birthday boy! Don't you look smart for your trip to the
     zoo. <stage>(scowling at Harry) </stage> You mind the bacon. And don't dare let it burn. I want
     everything perfect on my Dimplin' s special day . </sp>
    <sp who="#HARRY "> Yes, Aunt Petunia. </sp>
@@ -92,45 +92,45 @@
   <scene>
    <stage cat="INT" where=" KITCHEN - DAY  "> Harry enters, finds his UNCLE VERNON reading the Daily
     Mail behind a monstrous PILE OF PRESENTS. </stage>
-   <sp who="#UNCLE VERNON "> Bring my coffee, boy. </sp>
+   <sp who="#UNCLEVERNON "> Bring my coffee, boy. </sp>
    <sp who="#HARRY "> Yes, Uncle Vernon. <stage> Dudley enters, stares at the presents .
     </stage></sp>
    <sp who="#DUDLEY "> How many are there? </sp>
-   <sp who="#UNCLE VERNON "> Thirty-six. Counted them myself. </sp>
+   <sp who="#UNCLEVERNON "> Thirty-six. Counted them myself. </sp>
    <sp who="#DUDLEY "> Thirty-six. But last year ... last year I had thirty-seven ... </sp>
-   <sp who="#UNCLE VERNON "> Well now, son, some of these are quite a bit bigger than last year- </sp>
+   <sp who="#UNCLEVERNON "> Well now, son, some of these are quite a bit bigger than last year- </sp>
    <sp who="#DUDLEY "> I DON'T CARE HOW BIG THEY ARE! </sp>
-   <sp who="#AUNT PETUNIA "> Now, now, here's what we'll do. Today, when we're out, we'll buy you
+   <sp who="#AUNTPETUNIA "> Now, now, here's what we'll do. Today, when we're out, we'll buy you
     two more presents. How's that, popkin? </sp>
    <sp who="#DUDLEY "> So then I 'll have ... I' ll have ... </sp>
    <sp who="#HARRY "> Thirty-eight, popkin. <stage> Aunt Petunia cuffs Harry on the head on her way
      to the RINGING TELEPHONE. </stage></sp>
-   <sp who="#AUNT PETUNIA "> You just mind that bacon! </sp>
+   <sp who="#AUNTPETUNIA "> You just mind that bacon! </sp>
    <sp who="#HARRY "> Yes, Aunt Petunia. <stage> As Dudley tears open a BOX of LEAD SOLDIERS, Uncle
      Vernon ruffles his hair. </stage></sp>
-   <sp who="#UNCLE VERNON "> Want your money's worth, don't you, tiger. Well, look there. Aunt
+   <sp who="#UNCLEVERNON "> Want your money's worth, don't you, tiger. Well, look there. Aunt
     Marge's sent you the Fourth Battalion. <stage> Dudley twists the head off one. </stage></sp>
    <sp who="#DUDLEY "> This one's lost its head. </sp>
-   <sp who="#UNCLE VERNON "> Well now, son. Remember, we talked about this. They're not meant to
+   <sp who="#UNCLEVERNON "> Well now, son. Remember, we talked about this. They're not meant to
     move ... <stage> As Dudley tosses the damaged soldier aside, Harry studies it closely, then ...
      Aunt Petunia HANGS UP the phone, turns. </stage></sp>
-   <sp who="#AUNT PETUNIA "> Bad news. Mrs. Figgs' broken her leg. She can't take him. </sp>
-   <sp who="#UNCLE VERNON "> We could phone Yvonne. </sp>
-   <sp who="#AUNT PETUNIA "> Don't be silly. She hates the boy. </sp>
+   <sp who="#AUNTPETUNIA "> Bad news. Mrs. Figgs' broken her leg. She can't take him. </sp>
+   <sp who="#UNCLEVERNON "> We could phone Yvonne. </sp>
+   <sp who="#AUNTPETUNIA "> Don't be silly. She hates the boy. </sp>
    <sp who="#HARRY "> You could just leave me here. </sp>
-   <sp who="#UNCLE VERNON "> And come back to find the house in ruins? </sp>
+   <sp who="#UNCLEVERNON "> And come back to find the house in ruins? </sp>
    <sp who="#DUDLEY "> I... Don't... Want... Him... To... Come! He... always... spoils...
     everything! </sp>
-   <sp who="#AUNT PETUNIA "> Now, precious, don't cry. He won't spoil anything. What if Mummy buys
+   <sp who="#AUNTPETUNIA "> Now, precious, don't cry. He won't spoil anything. What if Mummy buys
     you three more presents. </sp>
    <sp who="#DUDLEY "> Three? </sp>
-   <sp who="#AUNT PETUNIA "> As many as you want, sweetums. <stage> As Aunt Petunia cuddles him,
+   <sp who="#AUNTPETUNIA "> As many as you want, sweetums. <stage> As Aunt Petunia cuddles him,
      Dudley shoots Harry a nasty grin through the gap in his mother's arms. </stage></sp>
   </scene>
   <scene>
    <stage cat="EXT" where=" NUMBER FOUR PRIVET DRIVE - A BIT LATER "> As Harry gets in the car,
     Uncle Vernon leans close. </stage>
-   <sp who="#UNCLE VERNON "> I'm warning you now, boy. Any funny business, any at all, and you'll
+   <sp who="#UNCLEVERNON "> I'm warning you now, boy. Any funny business, any at all, and you'll
     have no meals for a week. </sp>
   </scene>
   <scene>
@@ -187,7 +187,7 @@
     you belong. That there'll be yours, once I'm done dying it. <stage> Harry glances at a tub of
      grey mud boiling on the stove. </stage></sp>
    <sp who="#HARRY "> But that's Dudley's old uniform. It'll fit me like bits of old elephant skin. </sp>
-   <sp who="#AUNTPETUNIA  "> Fit you fine enough. Now fetch the post. </sp>
+   <sp who="#AUNTPETUNIA"> Fit you fine enough. Now fetch the post. </sp>
   </scene>
   <scene>
    <stage cat="INT" where=" FRONTHALL- DAY  "> Three letters lie on the mat. A bill. A postcard. An
@@ -199,12 +199,12 @@
   <scene>
    <stage cat="INT" where=" KITCHEN - DAY  "> Harry drops the post on the table and sits, staring in
     quiet wonderment at his envelope. Uncle Vernon takes the postcard. </stage>
-   <sp who="#UNCLE VERNON "> Marge's ill. Ate a funny whelk ... <stage> BAM! Dudley brings the
+   <sp who="#UNCLEVERNON "> Marge's ill. Ate a funny whelk ... <stage> BAM! Dudley brings the
      Smelting stick down hard on the table . </stage></sp>
    <sp who="#DUDLEY "> Dad! Look! Harry's got a letter! <stage> Quickly, Uncle Vernon SNATCHES it
      away. </stage></sp>
    <sp who="#HARRY "> That's mine! </sp>
-   <sp who="#UNCLE VERNON "> Yours. Who'd be writing to you-<stage> Uncle Vernon's face goes pale.
+   <sp who="#UNCLEVERNON "> Yours. Who'd be writing to you-<stage> Uncle Vernon's face goes pale.
     </stage></sp>
   </scene>
   <scene>
@@ -271,13 +271,13 @@
    <stage cat="INT" where=" LIVING ROOM - SUNDAY MORNING - DAY "> Dudley lies on the floor,
     destroying another birthday toy, as Aunt Petunia carefully sets a cup of coffee by Uncle Vernon,
     who sits in an armchair smiling strangely. </stage>
-   <sp who="#UNCLE VERNON "> Fine day, Sunday. Best day of the week in my opinion. Know why I say
+   <sp who="#UNCLEVERNON "> Fine day, Sunday. Best day of the week in my opinion. Know why I say
     that, Dudley? </sp>
    <sp who="#HARRY ">
     <stage>(entering)</stage> Because there's no post on Sundays. <stage> Uncle Vernon looks up
      brightly, but Harry's eyes are on the window behind him. Outside, the sky is DARK WITH OWLS.
     </stage></sp>
-   <sp who="#UNCLE VERNON "> Right you are, Harry! No damn letters today! No sir. Not one blasted
+   <sp who="#UNCLEVERNON "> Right you are, Harry! No damn letters today! No sir. Not one blasted
     ... <stage> Just then, something WHIZZES DOWN the chimney and SMACKS Uncle Vernon flat on the
      back of the head. Seconds later another follows, and then another, until the living room is
      aflock with ... LETTERS. Harry leaps onto a table, trying to snag one, when Uncle Vernon seizes
@@ -289,7 +289,7 @@
    <sp who="#DUDLEY "> Who on earth wants to talk to you this badly! <stage> A letter flutters on
      Harry's fingertips ... before Uncle Vernon sweeps it away, eyes crazed, SHOUTING CRAZILY:
     </stage></sp>
-   <sp who="#UNCLE VERNON "> That does it! We're going away! Far away! Where they can't find us!
+   <sp who="#UNCLEVERNON "> That does it! We're going away! Far away! Where they can't find us!
     Where they can't get to us! <stage> Dudley glances at his mother </stage></sp>
    <sp who="#DUDLEY "> Daddy's gone mad, hasn't he? </sp>
   </scene>
@@ -308,7 +308,7 @@
      SHUDDERS. HINGES squeal. A pin squirrels out of its housing. Falls to the floor. BOOM! Uncle
      Vernon comes sledding into the room in his socks, a RIFLE in hand, paper hanging by a string
      from the. barrel. </stage></sp>
-   <sp who="#UNCLE VERNON "> Who's there'? I warn you--I'm armed! <stage> SMASH! The door falls
+   <sp who="#UNCLEVERNON "> Who's there'? I warn you--I'm armed! <stage> SMASH! The door falls
      flat. An IMMENSE SILHOUETTE stands against the raging sea outside, identical to the beastly
      figure seen climbing the stairs in Godric's Hollow. He is HAGRID and is, rather obviously, a
      GIANT. Presently he is standing on the front door. · · </stage></sp>
@@ -321,7 +321,7 @@
    <sp who="#HARRY "> I am. <stage> Hagrid turns, watches Harry's face come into the light.
     </stage></sp>
    <sp who="#HAGRID "> Well now, course yeh are. </sp>
-   <sp who="#UNCLE VERNON "> I demand that you leave at once, sir! You are breaking and entering! </sp>
+   <sp who="#UNCLEVERNON "> I demand that you leave at once, sir! You are breaking and entering! </sp>
    <sp who="#HAGRID "> Ah, dry up, Dursley, yeh great prune. <stage>Hagrid takes the rifle, knots it
      like a piece of licorice. </stage> Anyway, Harry. Got summat fer yeh. 'Fraid I mighta sat on it
     at some point, but 'magine it'll taste all right jus' the same... let's see now... got it here
@@ -334,7 +334,7 @@
      the frying pan, lobs in the sausages. Dudley perks up as they sizzle. </stage></sp>
    <sp who="#HARRY "> Excuse me, but ... who are you? <stage> Harry stares blankly. Hagrid frowns.
     </stage></sp>
-   <sp who="#HAGRID  "> Blimey, Harry, did yeh never wonder where yer parents learnt it all? </sp>
+   <sp who="#HAGRID"> Blimey, Harry, did yeh never wonder where yer parents learnt it all? </sp>
    <sp who="#HARRY "> Learned what? </sp>
    <sp who="#HAGRID "> What? DURSLEY!!! Do yeh mean ter tell me the boy knows nothin? <stage> Uncle
      Vernon stands mute. Hagrid simmers, then shakes his head and turns back to the fire. Harry, yer
@@ -363,7 +363,7 @@
    <sp who="#HARRY "> Blown up? You told me my parents died in a car crash. </sp>
    <sp who="#HAGRID "> CAR CRASH! A car crash kill Lily and James Potter? It's an outrage! A
     scandal! </sp>
-   <sp who="#UNCLE VERNON "> HE'LL NOT BE GOING, I TELL YOU! </sp>
+   <sp who="#UNCLEVERNON "> HE'LL NOT BE GOING, I TELL YOU! </sp>
    <sp who="#HAGRID "> An' I s'ppose a great Muggle like yerself is gcin' ter stop him. </sp>
    <sp who="#HARRY "> Muggle? </sp>
    <sp who="#HAGRID "> Non-magic folk. <stage>(turning to Uncle Vernon)</stage> This boy's name's
@@ -601,7 +601,7 @@
     One reads TEN. Harry turns to a passing STATION OFFICER. </stage>
    <sp who="#HARRY "> Excuse me. Can you tell me where I might find Platform Nine and
     Three-Quarters. </sp>
-   <sp who="#STATION OFFICER ">
+   <sp who="#STATIONOFFICER ">
     <stage>(grumbling off)</stage> Think you're funny, do you? Nine and Three-Quarters indeed...
     Harry looks about, despairingly, then HEARS... </sp>
    <sp who="#MRS.WEASLEY">
@@ -612,11 +612,11 @@
      Harry squints in confusion. Next, Mrs. Weasley turns to a pair of cheeky twins (FRED and
      GEORGE). </stage> Fred. You next. </sp>
    <sp who="#FRED "> I'm not Fred I'm George. Honestly, woman, you call yourself our mother? </sp>
-   <sp who="#MRS. WEASLEY "> Sorry, George. </sp>
+   <sp who="#MRSWEASLEY "> Sorry, George. </sp>
    <sp who="#FRED "> Only joking. I am Fred. <stage> Fred dashes off, trailed by George. They too
      vanish. </stage></sp>
    <sp who="#HARRY "> Excuse me. Could you tell me-- </sp>
-   <sp who="#MRS. WEASLEY "> How to get onto the platform? Not to worry, dear. It's Ron's first time
+   <sp who="#MRSWEASLEY "> How to get onto the platform? Not to worry, dear. It's Ron's first time
     to Hogwarts as well. <stage>Harry looks at the youngest red-haired boy. He is tall, gangly, and
      presently has a SMUDGE on his nose. </stage> All you have to do is walk straight at the barrier
     between Platforms Nine and Ten. Focus ... but don't stop and don't be scared you'll crash into
@@ -649,7 +649,7 @@
    <sp who="#GEORGE "> Blimey. You're... </sp>
    <sp who="#FRED "> Harry Potter. </sp>
    <sp who="#HARRY "> What'? Oh, him. Yes. I mean, I am. </sp>
-   <sp who="#MRS. WEASLEY "> Fred! George! Come say goodbye to Ginny. Mrs. Weasley stands waving,
+   <sp who="#MRSWEASLEY "> Fred! George! Come say goodbye to Ginny. Mrs. Weasley stands waving,
     the redheaded girl clinging to her dress. The twins take one last look at Harry, dash off. </sp>
   </scene>
   <scene>
@@ -660,7 +660,7 @@
    <sp who="#FRED "> Mum! Guess who's on the train? Right now... </sp>
    <sp who="#FRED #GEORGE"> Harry Potter! </sp>
    <sp who="#GINNY "> Oh, Mum, can I go on and see him? Please. </sp>
-   <sp who="#MRS. WEASLEY "> Certainly not. The boy isn't something you goggle at in a zoo.
+   <sp who="#MRSWEASLEY "> Certainly not. The boy isn't something you goggle at in a zoo.
      <stage>(as the WHISTLE BLOWS) </stage> All right, on you go, all of what is that on your nose?
      <stage>She goes for a handkerchief, but Ron spins away. She sighs, calls after the
      twins.</stage> You two watch out for your brother. And behave yourselves this year. If I get
@@ -700,7 +700,7 @@
     Percy got an owl for making Prefect, but Mum and Dad couldn't afford-- I mean, I got Scabbers
     instead. <stage> Ron looks embarrassed. Just then, a DIMPLED WOMAN pushing a TROLLEY FULL OF
      SWEETS pops her head in. </stage></sp>
-   <sp who="#DIMPLED WOMAN "> Anything off the trolley, dears? <stage> Ron mumbles 'No thanks,'
+   <sp who="#DIMPLEDWOMAN "> Anything off the trolley, dears? <stage> Ron mumbles 'No thanks,'
      takes out a lumpy sandwich. Harry studies him, then digs into his pockets, heavy with coin.
     </stage></sp>
    <sp who="#HARRY "> We'll take the lot. <stage> CLOSE UP: TROVE OF TREATS </stage></sp>
@@ -807,7 +807,7 @@
    <sp who="#RON "> Some kind of test, I think. Fred says it hurts like hell, but I'm sure he was
     joking. At least... I think he was. <stage> Just then, Draco Malfoy pushes through the crowd,
      shadowed by the boys from the boat. Malfoy stares openly at Harry's scar. </stage></sp>
-   <sp who="#DRACO  "> It's true then, what they were saying on the train. Harry Potter has come to
+   <sp who="#DRACO"> It's true then, what they were saying on the train. Harry Potter has come to
     Hogwarts. <stage>Harry's eyes slide, appraise the other two boys. </stage> Oh. This is Crabbe
     and Goyle. And my name's Malfoy. Draco Malfoy. <stage>Ron COUGHS, masking a snigger. Malfoy's
      eyes narrow. </stage> Think my name's funny, do you? No need to ask yours. Red hair, freckles,
@@ -817,9 +817,9 @@
      level. </stage></sp>
    <sp who="#HARRY "> I think I can tell the wrong sort for myself, thanks. <stage> Malfoy's eyes
      glitter with rage. Finally he drops his hand, turns away. </stage></sp>
-   <sp who="#HERMIONE . "> Well, he's rather disagreeable, isn't he? <stage> Ron and Harry turn, see
+   <sp who="#HERMIONE"> Well, he's rather disagreeable, isn't he? <stage> Ron and Harry turn, see
      Hermione. Just then, Professor McGonagall returns. </stage></sp>
-   <sp who="#MCGONAGALL "> We are ready for you. </sp>
+   <sp who="#MCGONAGALL"> We are ready for you. </sp>
   </scene>
   <scene>
    <stage cat="INT" where=" GREAT HALL - NIGHT "> Harry and the others file into a strangely
@@ -836,7 +836,7 @@
      <stage> The Great Hall THUNDERS with APPLAUSE. </stage></sp>
    <sp who="#HERMIONE "> I hear he's a genius. <stage> As the applause subsides, the hat TWITCHES.
      At the brim, a rip OPENS WIDE, and the hat begins to TALK. </stage></sp>
-   <sp who="#SORTINGHAT  "> Oh, you may not think I'm pretty But don't judge on what you see I'll
+   <sp who="#SORTINGHAT"> Oh, you may not think I'm pretty But don't judge on what you see I'll
     eat myself if you can find A smarter hat than me. There' s nothing hidden in your head The
     Sorting Hat can't see So try me on and I will tell you Where you ought to be.... <stage> As the
      students APPLAUD, the hat takes a bow and Professor McGonagall steps forward with a ROLL OF
@@ -848,12 +848,12 @@
    <sp who="#RON ">
     <stage>(as she goes mumbling off) </stage> Mental, that one. I'm telling you. <stage> Both watch
      Hermione seat herself, lower the Hat. </stage></sp>
-   <sp who="#SORTING HAT "> GRYFFINDOR! <stage> Percy pulls out a chair for Hermione at the
+   <sp who="#SORTINGHAT "> GRYFFINDOR! <stage> Percy pulls out a chair for Hermione at the
      Gryffindor table. </stage></sp>
    <sp who="#MCGONAGALL "> Draco Malfoy. </sp>
    <sp who="#RON "> Slytherin. <stage> Draco Malfoy swaggers forth and grips the hat. He's barely
      touched it to his head, when: </stage></sp>
-   <sp who="#SORTING HAT "> SLYTHERIN! </sp>
+   <sp who="#SORTINGHAT "> SLYTHERIN! </sp>
    <sp who="#RON">
     <stage>(off Harry's amazement) </stage> There's not a witch or wizard who went bad who wasn't in
     Slytherin. Draco's father was one of the first to join You-Know-Who when he got power. And one
@@ -866,16 +866,16 @@
    <sp who="#HARRY "> Ouch! </sp>
    <sp who="#RON "> Harry? What is it? </sp>
    <sp who="#HARRY "> N-nothing. I'm fine. </sp>
-   <sp who="#SORTING HAT "> Hufflepuff! <stage> As Susan Bones runs off... </stage></sp>
+   <sp who="#SORTINGHAT "> Hufflepuff! <stage> As Susan Bones runs off... </stage></sp>
    <sp who="#MCGONAGALL "> Ronald Weasley. <stage> As Ron steps nervously away, Harry glances back
      to the High Table. Snape has returned to his conversation. </stage></sp>
-   <sp who="#SORTING HAT "> Gryffindor! <stage> Fred and George WHOOP LOUDLY as Ron comes grinning
+   <sp who="#SORTINGHAT "> Gryffindor! <stage> Fred and George WHOOP LOUDLY as Ron comes grinning
      out of the hat, greatly relieved. Harry starts to clap himself when... </stage></sp>
    <sp who="#MCGONAGALL "> Harry Potter. <stage>There is an abrupt drop in the CHATTER. As Harry
      makes his way, he avoids the eyes of the many who stare and whisper. </stage> If you will, Mr.
     Potter. <stage> Harry sits, takes the hat, and... slowly... lowers it. He waits, then the hat
      begins to SPEAK. </stage></sp>
-   <sp who="#SORTING HAT "> Hmmm. Difficult. Very Difficult. Plenty of courage, I see. Not a bad
+   <sp who="#SORTINGHAT "> Hmmm. Difficult. Very Difficult. Plenty of courage, I see. Not a bad
     mind either. There's talent, oh yes, and a thirst to prove yourself. But where to put you...?
      <stage>Harry grips the edge of the stool, closes his eyes. His lips move ever so slightly: Not
      Slytherin. Not Slytherin.</stage> Not Slytherin, eh? Are you sure? You could be great, you
@@ -899,14 +899,14 @@
    <sp who="#PERCY"> Potions. But everyone knows it's the Dark Arts he fancies. Been after
     Quirrell's job for years. <stage>Just then, several STUDENTS SHRIEK as a volley of GHOSTS stream
      into the hall overhead. One swoops down. </stage> Hello, Sir Nicolas. Have a nice summer? </sp>
-   <sp who="#NEARLY HEADLESS NICK "> Dismal. What with the Slytherins winning the House Cup six
+   <sp who="#NEARLYHEADLESSNICK "> Dismal. What with the Slytherins winning the House Cup six
     years in a row, the Bloody Baron's become unbearable. <stage>Nick nods his head in the direction
      of the Slytherin table, where a horrific, BLOOD-STAINED GHOST hovers imperiously. </stage> Then
     again, he's always been unbearable. </sp>
-   <sp who="#RON  "> I know you. You're Nearly Headless Nick. </sp>
-   <sp who="#NEARLY HEADLESS NICK "> I prefer Sir Nicolas, if you don't mind. </sp>
-   <sp who="#HERMIONE "> Nearly headless? How can you be nearly headless? </sp>
-   <sp who="#NEARLY HEADLESS NICK "> Like this. <stage> Seizing himself by the left ear, Nick swings
+   <sp who="#RON"> I know you. You're Nearly Headless Nick. </sp>
+   <sp who="#NEARLYHEADLESSNICK"> I prefer Sir Nicolas, if you don't mind. </sp>
+   <sp who="#HERMIONE"> Nearly headless? How can you be nearly headless? </sp>
+   <sp who="#NEARLYHEADLESSNICK "> Like this. <stage> Seizing himself by the left ear, Nick swings
      his ENTIRE HEAD off his neck and onto his shoulder, as if it were on a hinge. </stage></sp>
    <sp who="#NEVILLE ">
     <stage>(blanching) </stage> I think I'm done eating. <stage> Just then, Dumbledore rises at the
@@ -924,7 +924,7 @@
      Harry and his fellow First Years join a rousing, but rather dischordant, chorus of VOICES.
     </stage>
    </sp>
-   <sp who="#SCHOOL SINGING "> Hogwarts, Hogwarts, Hoggy Warty Hogwarts Teach us things worth
+    <sp who="#SCHOOL"> <stage>SINGING</stage> Hogwarts, Hogwarts, Hoggy Warty Hogwarts Teach us things worth
     knowing Bring back what we've forgot Just do your best, we'll do the rest And learn until our
     brains all rot ... </sp>
   </scene>
@@ -950,7 +950,7 @@
     <stage>(walking on)</stage> Rather a nuisance, I'm afraid. Ah. Here we are. <stage> At the very
      end of the corridor, hangs a PORTRAIT of a WOMAN in a pink silk dress. She looks at Percy.
     </stage></sp>
-   <sp who="#PINK LADY "> Password? </sp>
+   <sp who="#PINKLADY "> Password? </sp>
    <sp who="#PERCY "> Caput Draconis. <stage> The portrait SWINGS FORWARD, revealing a ROUND HOLE in
      the wall. The students all scramble through it, into the ... </stage></sp>
   </scene>
@@ -1058,7 +1058,7 @@
     Gryffindors, across from Malfoy and his Slytherin cronies. Between them, there is a LONG LINE OF
     BROOMSTICKS. MADAME HOOCH, a rangy witch with short grey hair and hawk-like eyes, stands between
     the two groups. </stage>
-   <sp who="#MADAME HOOCH "> Welcome to your first Flying Lesson. Well, what are you all waiting
+   <sp who="#MADAMEHOOCH "> Welcome to your first Flying Lesson. Well, what are you all waiting
     for? Everyone step up to a broomstick. Come now. Hurry up. <stage>Harry steps forward nervously,
      glances down. His broom is old, with twigs sticking out at odd angles. </stage> Stick out your
     right hand, over the broom, and say "Up"! <stage>SHOUTS of "Up!" ring on the cold afternoon air.
@@ -1071,7 +1071,7 @@
    <sp who="#DRACO"> Excuse me, Madam Hooch. Given that a few of us have been on sticks for years,
     would it not make sense to separate the expert flyers from... <stage>(glancing at Harry)</stage>
     the neophytes? </sp>
-   <sp who="#MADAME HOOCH "> Thank you, Mr. Malfoy, but I'm sure even an expert flyer such as
+   <sp who="#MADAMEHOOCH "> Thank you, Mr. Malfoy, but I'm sure even an expert flyer such as
     yourself can appreciate the benefits of reacquainting oneself with the basics. Your grip, for
     example. It's thumb in, not out. <stage>As Malfoy reddens, Harry and Ron share a grin. </stage>
     Very well. Now when I blow my whistle, I want each of you to kick off from the ground. Hard.
@@ -1235,12 +1235,12 @@
   <scene>
    <stage cat="INT" where="PROFESSOR FLITWICK'S CLASS - DAY"> PROFESSOR FLITWICK, a very tiny,
     gnome-like wizard, stands on a PILE OF BOOKS as he oversees the class. </stage>
-   <sp who="#PROFESSORFLITWICK "> Now don't forget that nice wrist movement we've been practising.
+   <sp who="#FLITWICK "> Now don't forget that nice wrist movement we've been practising.
     Swish and flick. Swish and flick. <stage> Harry, paired with Seamus, poses his wand over the
      FEATHER before him and begins to swish and flick. </stage></sp>
    <sp who="#HARRY "> Wingardium Leviosa. <stage> The feather flutters, but never leaves the table.
     </stage></sp>
-   <sp who="#PROFESSORFLITWICK "> And enunciate! Never forget Wizard Bartiffio, who said 's' instead
+   <sp who="#FLITWICK "> And enunciate! Never forget Wizard Bartiffio, who said 's' instead
     of 'f' and found himself on the floor with a buffalo on his chest. </sp>
    <sp who="#RON "> WINGARDIUM LEVIOSA! <stage> Ron windmills his arms grandly. Nothing. Hermione
      frowns. </stage></sp>
@@ -1249,7 +1249,7 @@
    <sp who="#RON"> You do it then, if you're so clever. </sp>
    <sp who="#HERMIONE "> Wingardium Leviosa. <stage> Hermione swishes and flicks. Instantly the
      feather rises. </stage></sp>
-   <sp who="#PROFESSORFLITWICK "> Oh, well done! Everyone see here. Miss Granger's done it! <stage>
+   <sp who="#FLITWICK "> Oh, well done! Everyone see here. Miss Granger's done it! <stage>
      PFFFT! Across the room, SMOKE curls between Seamus and Harry. </stage></sp>
    <sp who="#HARRY "> I think we're going to need another feather over here, Professor. </sp>
   </scene>
@@ -1358,7 +1358,7 @@
      wand, wipes it on the troll's trousers. A sudden VOLLEY of FOOTSTEPS announces the arrival of
      Professors McGonagall, Snape, and a still queasy Quirrell. Harry notices a SPOT OF BLOOD on
      Snape's leg, sees Snape shift his cloak to cover it. </stage></sp>
-   <sp who="#PROFESSOR MCGONAGAL"> Explain yourselves! Both of you. </sp>
+   <sp who="#MCGONAGALL"> Explain yourselves! Both of you. </sp>
    <sp who="#HERMIONE "> It's my fault, Professor McGonagall. </sp>
    <sp who="#MCGONAGALL "> Miss Granger! </sp>
    <sp who="#HERMIONE "> I went looking for the troll. I've read about them and thought I could
@@ -1432,11 +1432,11 @@
    <sp who="#HARRY "> Who's he, Angelina? </sp>
    <sp who="#ANGELINA "> Marcus Flint. Slytherin Captain. They say he's got troll blood in him.
      <stage> Harry swallows as Flint glares at him murderously. </stage></sp>
-   <sp who="#MADAME HOOCH "> Mount your brooms, please. <stage> Hands trembling, Harry waits,
+   <sp who="#MADAMEHOOCH "> Mount your brooms, please. <stage> Hands trembling, Harry waits,
      then... the WHISTLE BLASTS. FOURTEEN BROOMSTICKS rise into the air. As the crowd ROARS, Madam
      Hooch kicks the crate, releasing two SCREAMING Bludgers, then tosses up the Quaffle. In the
      stands, LEE JORDAN does COMMENTARY. </stage></sp>
-   <sp who="#LEE JORDAN "> Quaffle's up... and straight off taken by Angelina Johnson of Gryffindor.
+   <sp who="#LEEJORDAN "> Quaffle's up... and straight off taken by Angelina Johnson of Gryffindor.
     What an excellent Chaser that girl is, and rather attractive too, I might add... <stage>
      Professor McGonagall casts a disapproving glance at Jordan, then turns to watch the action
      below. Cradling the Quaffle, Angelina Johnson WEAVES wickedly past a Slytherin Chaser, DUCKS
@@ -1847,11 +1847,11 @@
     punishment for your actions, fifty points will be taken. <stage> As the others gasp, Malfoy's
      eyes glimmer with cruel ecstasy. </stage></sp>
    <sp who="#HARRY "> Fifty? </sp>
-   <sp who="#PROFESSOR MCGONAGALL  "> Each. And to insure it doesn't happen again, all four of you
+   <sp who="#MCGONAGALL"> Each. And to insure it doesn't happen again, all four of you
     will receive detention. </sp>
    <sp who="#DRACO "> Excuse me, Professor. Perhaps I heard you wrong. I thought you said the four
     of us. </sp>
-   <sp who="#MCGONAGALL "> Indeed. You see, Mr. Malfoy, noble your intentions, you too were out of
+   <sp who="#MCGONAGALL"> Indeed. You see, Mr. Malfoy, noble your intentions, you too were out of
     bed after hours. You will classmates in detention. </sp>
   </scene>
   <scene>
