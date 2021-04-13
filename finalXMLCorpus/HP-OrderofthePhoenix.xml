@@ -104,27 +104,27 @@
          <stage>FOOTSTEPS from behind Harry. He turns, wand at the ready, to see UNCLE VERNON and
             AUNT PETUNIA running up to him. He starts to lower it. But they are staring dumbfounded
             into the sky, watching the Dementors soar away. </stage>
-         <sp who="#VERNON">What the hell are those? </sp>
+         <sp who="#UNCLEVERNON">What the hell are those? </sp>
          <sp who="#HARRY">Dementors. Petunia kneels on the ground next to Dudley. </sp>
          <sp who="#AUNTPETUNIA">What happened, Duddikins? Vernon turns on Harry, who hastily lowers his
             wand. </sp>
-         <sp who="#VERNON">What the hell is a dementoid? Petunia seizes Dudley and attempts to look
+         <sp who="#UNCLEVERNON">What the hell is a dementoid? Petunia seizes Dudley and attempts to look
             into his mouth. </sp>
          <sp who="#AUNTPETUNIA">They didn't--? </sp>
          <sp who="#HARRY">No. Vernon shoves a large finger at Harry. </sp>
-         <sp who="#VERNON">I want some answers! </sp>
+         <sp who="#UNCLEVERNON">I want some answers! </sp>
          <sp who="#HARRY">We were attacked. </sp>
-         <sp who="#VERNON">By those...things? </sp>
+         <sp who="#UNCLEVERNON">By those...things? </sp>
          <sp who="#HARRY">They're evil. If they get the chance, they'll suck your soul out through
             your mouth. </sp>
          <sp who="#AUNTPETUNIA">They guard the wizard prison, Azkaban. <stage>Vernon and Harry look
             dumbfounded.</stage></sp>
-         <sp who="#VERNON">How do you know that? <stage>Petunia shakes her head, looking panicky.
+         <sp who="#UNCLEVERNON">How do you know that? <stage>Petunia shakes her head, looking panicky.
                Vernon helps Dudley unsteadily to his feet, patting him on the shoulder.
             </stage></sp>
-         <sp who="#VERNON">Fought 'em off, eh, Dud? Gave 'em the ol' one-two? </sp>
+         <sp who="#UNCLEVERNON">Fought 'em off, eh, Dud? Gave 'em the ol' one-two? </sp>
          <sp who="#HARRY">You can't give a Dementor the 'ol one-two.' </sp>
-         <sp who="#VERNON">Why is he all right then? </sp>
+         <sp who="#UNCLEVERNON">Why is he all right then? </sp>
          <sp who="#HARRY">Because I used magic to save his life! The street-lights die, plunging the
             street into darkness.<stage> Several cloaked people appear around them on the street.
                The Dursleys yell in surprise. They move closer. Harry stands, brandishing his wand.
@@ -132,7 +132,7 @@
          <sp who="#HARRY">Lumos!<stage> Ten wizards stand around them, wands out. Mad-eye Moody,
                Remus Lupin, Nymphadora Tonks, Kingsley Shacklebolt, Elphias Doge, Dedalus Diggle,
                Emmeline Vance, Sturgis Podmore, and Hestia Jones. </stage></sp>
-         <sp who="#VERNON">Who are all you lot? </sp>
+         <sp who="#UNCLEVERNON">Who are all you lot? </sp>
          <sp who="#MOODY">Quiet, Dursley. </sp>
          <sp who="#LUPIN">Harry, douse the light. We're exposed here. </sp>
          <sp who="#HARRY"><stage>nodding</stage> Nox.<stage> Darkness returns to the street, which
@@ -1973,7 +1973,7 @@
             mind from external intrusion. <stage>pause</stage> We begin at six-o-clock on Monday,
             Potter. Snape stands. </sp>
          <sp who="#SNAPE">Well, unlike Sirius here, I don't have unlimited leisure time. </sp>
-         <sp who="#SIRUS">Just a second, Snape. If I hear that you're using this to give Harry a
+         <sp who="#SIRIUS">Just a second, Snape. If I hear that you're using this to give Harry a
             hard time, you'll have me to answer to. Snape sneers again. </sp>
          <sp who="#SNAPE">How touching. Yet Potter is incredibly like his father. Criticism simply
             bounces off of him.<stage> Sirius stands and grabs Snape by the shoulders and roughly

@@ -1932,12 +1932,12 @@ J.K. Rowling -->
      the MAN standing in the shadows. Filthy, matted hair hangs to his shoulders. His skin like a
      corpse. SIRIUS BLACK. He studies Harry's face keenly. Harry draws his wand. </stage></sp>
    <sp who="#HERMIONE"> If you want to kill Harry, you'll -- you'll... have to kill us, too! </sp>
-   <sp who="#SIRIUSBLACK "> No. Only one will die tonight. </sp>
+   <sp who="#SIRIUS"> No. Only one will die tonight. </sp>
    <sp who="#HARRY"> Then it'll be you! </sp>
    <sp who="#HERMIONE"> Harry! No! <stage> Just then, FOOTSTEPS sound. Black wheels toward the door,
      edgy. Harry eyes Black, wand hand shaking violently. As Black turns back, he stops, regards
      Harry cautiously. </stage></sp>
-   <sp who="#SIRIUSBLACK "> Going to kill me, Harry? </sp>
+   <sp who="#SIRIUS"> Going to kill me, Harry? </sp>
    <sp who="#HARRY"> Yes. <stage>Harry raises his wand. BLAM! -- the DOOR CRASHES OPEN: Lupin.
     </stage>
    </sp>
@@ -1946,7 +1946,7 @@ J.K. Rowling -->
    </sp>
    <sp who="#LUPIN "> Looking a bit ragged, aren't we, Sirius? Finally the skin reflects
     the madness within. </sp>
-   <sp who="#SIRIUSBLACK "> You'd know all about the madness within, wouldn't you, Remus? <stage>
+   <sp who="#SIRIUS"> You'd know all about the madness within, wouldn't you, Remus? <stage>
      The two regard each other, the moment taut with tension, then Lupin steps forward and...
      EMBRACES Black like a brother. </stage></sp>
    <sp who="#HERMIONE"> No! I trusted you! I covered up for you. And all this time you've been his
@@ -1956,27 +1956,27 @@ J.K. Rowling -->
    <sp who="#LUPIN "> How long have you known? </sp>
    <sp who="#HERMIONE"> Since Professor Snape set the essay. </sp>
    <sp who="#LUPIN "> You're the brightest witch of your age I've ever met, Hermione. </sp>
-   <sp who="#SIRIUSBLACK "> Yes, you glow like the sun. And you howl at the moon. Enough talk! He
+   <sp who="#SIRIUS"> Yes, you glow like the sun. And you howl at the moon. Enough talk! He
     dies. Now. If you won't do it with me, Remus, I'll do it alone. </sp>
    <sp who="#LUPIN "> Wait, Sirius - </sp>
-   <sp who="#SIRIUSBLACK "> I did my waiting! Twelve years of it! In Azkaban! Trust me, you wouldn't
+   <sp who="#SIRIUS"> I did my waiting! Twelve years of it! In Azkaban! Trust me, you wouldn't
     have lasted a week! <stage> Lupin eyes Black, then nods. </stage></sp>
    <sp who="#LUPIN "> All right then. As you wish... </sp>
    <sp who="#HARRY"> No! <stage> Harry raises his wand when Lupin wheels and, with a flick of his
      own, disarms him. Furious, Harry eyes Black murderously. </stage></sp>
    <sp who="#HARRY"> You betrayed my parents! You sold them to Voldemort! </sp>
-   <sp who="#SIRIUSBLACK "> It's a lie! I never would've betrayed James and Lily! </sp>
+   <sp who="#SIRIUS"> It's a lie! I never would've betrayed James and Lily! </sp>
    <sp who="#LUPIN "> Harry! You've got to listen - </sp>
    <sp who="#HARRY"> Did he listen! When my mother was dying! Did he hear her screaming! </sp>
-   <sp who="#SIRIUSBLACK "> No! I wasn't there! And I'll regret it the rest of my life! Harry's eyes
+   <sp who="#SIRIUS"> No! I wasn't there! And I'll regret it the rest of my life! Harry's eyes
     flash to Black's, glittering with pain. </sp>
    <sp who="#LUPIN "> Someone else betrayed your parents, Harry. Someone in this room right
     now. Someone who, until quite recently, I believed to be dead. </sp>
-   <sp who="#SIRIUSBLACK "> He's as good as dead. </sp>
+   <sp who="#SIRIUS"> He's as good as dead. </sp>
    <sp who="#HARRY"> What're you talking about? There's nobody here. </sp>
-   <sp who="#SIRIUSBLACK "> Oh yes there is... <stage> Black turns then, to Ron, and CROONS in a
+   <sp who="#SIRIUS"> Oh yes there is... <stage> Black turns then, to Ron, and CROONS in a
      cruel sing song: </stage></sp>
-   <sp who="#SIRIUSBLACK "> Come out, come out, Peter Come out, come out and play... <stage> Ron
+   <sp who="#SIRIUS"> Come out, come out, Peter Come out, come out and play... <stage> Ron
      draws back from Black's demented gaze. </stage></sp>
    <sp who="#RON"> You're mad... <stage> Harry's eyes shift from Ron's FACE to his HANDS, where
      Scabbers TWISTS violently. As a curious expression befalls Harry, Lupin and Black, as one,
@@ -1988,17 +1988,17 @@ J.K. Rowling -->
    <sp who="#LUPIN "> Severus - </sp>
    <sp who="#SNAPE"> I told Dumbledore you were helping your old friend into the castle. And here's
     the proof. </sp>
-   <sp who="#SIRIUSBLACK "> Brilliant! And -- as usual -dead wrong. Now give us our wands back.
+   <sp who="#SIRIUS"> Brilliant! And -- as usual -dead wrong. Now give us our wands back.
     Remus and I have a bit of unfinished business to tend to. <stage> As Black approaches, Snape
      puts his wand to Black's neck. </stage></sp>
    <sp who="#SNAPE"> Give me a reason. I beg you. </sp>
    <sp who="#LUPIN "> Don't be a fool, Severus! </sp>
-   <sp who="#SIRIUSBLACK "> He can't help it. It's habit by now. </sp>
+   <sp who="#SIRIUS"> He can't help it. It's habit by now. </sp>
    <sp who="#LUPIN "> Quiet, Sirius! </sp>
    <sp who="#SNAPE">
     <stage>(clucking his tongue)</stage> Listen to you two. Quarreling like an old married couple.
     The creature and the criminal. </sp>
-   <sp who="#SIRIUSBLACK "> Piss off. </sp>
+   <sp who="#SIRIUS"> Piss off. </sp>
    <sp who="#SNAPE"> Witty as ever I see. Tell me, will you be so irreverent when I turn you over to
     the Dementors? <stage>(as Black reacts)</stage> Do I detect a flicker of fear? One can only
     imagine what it must be like to endure the Dementor's Kiss. It's said to be unbearable to
@@ -2016,18 +2016,18 @@ J.K. Rowling -->
      laughs mirthlessly. </stage></sp>
    <sp who="#LUPIN "> I thought so, too. Until you mentioned seeing Pettigrew on the Map. </sp>
    <sp who="#HARRY"> The Map was lying then - </sp>
-   <sp who="#SIRIUSBLACK "> The Map never lies. Pettigrew's alive. And he's right there. <stage>
+   <sp who="#SIRIUS"> The Map never lies. Pettigrew's alive. And he's right there. <stage>
      Black points at... Ron. Ron goes white with fear. </stage></sp>
    <sp who="#RON"> M-me? It's lunatic... </sp>
-   <sp who="#SIRIUSBLACK "> Not you, you idiot. Your rat. </sp>
+   <sp who="#SIRIUS"> Not you, you idiot. Your rat. </sp>
    <sp who="#RON"> Scabbers? Scabbers has been in my family for - </sp>
-   <sp who="#SIRIUSBLACK ">
+   <sp who="#SIRIUS">
     <stage>(bitterly)</stage> Twelve years. A curiously long life for a common garden rat. He's
     missing a toe, isn't he? <stage> Black unfolds a dog-eared clipping from The Daily Prophet: it
      shows Ron in Egypt with his family, Scabbers on his shoulder. </stage></sp>
    <sp who="#RON"> So what? </sp>
    <sp who="#HARRY"> All they could find of Pettigrew was his - </sp>
-   <sp who="#SIRIUSBLACK "> Finger. Dirty coward cut it off so everyone would think he was dead.
+   <sp who="#SIRIUS"> Finger. Dirty coward cut it off so everyone would think he was dead.
     Then he transformed into a rat. <stage> Harry stares into Black's sunken eyes. Wanting to
      believe. Desperate to believe. Glances at Ron, his agonized face. Scabbers SQUIRMS VIOLENTLY.
     </stage></sp>
@@ -2035,7 +2035,7 @@ J.K. Rowling -->
     </stage></sp>
    <sp who="#RON"> What are you going to do to him? <stage> Sirius and Lupin exchange a glance.
     </stage></sp>
-   <sp who="#SIRIUSBLACK "> Together. <stage> With that, Lupin takes out his wand and, as one, he
+   <sp who="#SIRIUS"> Together. <stage> With that, Lupin takes out his wand and, as one, he
      and Black cast a stream of BLUE-WHITE LIGHT. Scabbers twists madly in midair, then -- FLASH! --
      transforms into... a very short man with thinning hair and grubby hands. </stage></sp>
    <sp who="#PETERPETTIGREW. "> </sp>
@@ -2045,10 +2045,10 @@ J.K. Rowling -->
      flutter nervously, reveal a MISSING INDEX FINGER. </stage></sp>
    <sp who="#PETTIGREW"> Harry! Look at you! Y-you look just like your father. Like James. We were
     the best of friends, he and I - </sp>
-   <sp who="#SIRIUSBLACK "> Shut up! </sp>
+   <sp who="#SIRIUS"> Shut up! </sp>
    <sp who="#PETTIGREW"> I didn't mean to! The Dark Lord, you have no idea the weapons he possesses!
     Ask yourself what you would have done, Sirius. What would you have done! </sp>
-   <sp who="#SIRIUSBLACK "> Died! Died rather than betray my friends! And you should have realized,
+   <sp who="#SIRIUS"> Died! Died rather than betray my friends! And you should have realized,
     Peter, if Voldemort didn't kill you... </sp>
    <sp who="#LUPIN "> We would. </sp>
    <sp who="#PETTIGREW"> No... please... you can't... <stage>(eyes darting, finding) </stage> Ron!
@@ -2079,31 +2079,31 @@ J.K. Rowling -->
    <sp who="#PETTIGREW"> Sweet girl. Clever girl. Surely you won't let them... <stage> Hermione tugs
      her robes from Pettigrew's sweaty grasp. Harry turns, sees Black staring in wonder at the
      castle, shining radiantly under the bright bowl of the night sky. </stage></sp>
-   <sp who="#SIRIUSBLACK "> Beautiful, isn't it? I'll never forget the first time I walked through
+   <sp who="#SIRIUS"> Beautiful, isn't it? I'll never forget the first time I walked through
     those doors. It'll be nice to do it again. Freely. <stage>(turning to Harry)</stage> That was a
     noble thing you did back there. He doesn't deserve it. <stage> Harry studies Pettigrew briefly,
      looks away. Lost in thought. </stage></sp>
    <sp who="#HARRY"> I don't reckon my father'd want his best friends to become killers for a
     worthless piece of vermin like Pettigrew. Besides: Dead, the truth dies with him. Alive...
     you're free. <stage> Sirius studies Harry's profile, moved by this. </stage></sp>
-   <sp who="#SIRIUSBLACK "> I don't know if you know, Harry, but when you were born, James and Lily
+   <sp who="#SIRIUS"> I don't know if you know, Harry, but when you were born, James and Lily
     made me your guardian... </sp>
    <sp who="#HARRY"> I know. </sp>
-   <sp who="#SIRIUSBLACK "> And, well, I'll understand if you choose to stay with your aunt and
+   <sp who="#SIRIUS"> And, well, I'll understand if you choose to stay with your aunt and
     uncle, but, so you know, you could - </sp>
    <sp who="#HARRY"> Come live with you? When! </sp>
-   <sp who="#SIRIUSBLACK "> Soon as my name's cleared... <stage> Harry looks at Hogwarts. GRINS.
+   <sp who="#SIRIUS"> Soon as my name's cleared... <stage> Harry looks at Hogwarts. GRINS.
      Sirius does the same. Then, Hermione's voice rises on the air, quavering with fear.
     </stage></sp>
    <sp who="#HERMIONE"> Harry... <stage> He turns, see Hermione staring at the FULL MOON. His eyes
      shift. Lupin is a rigid silhouette, his fingers twitching. </stage></sp>
-   <sp who="#SIRIUSBLACK "> Remus, old friend... did you take your potion tonight? <stage> Lupin,
+   <sp who="#SIRIUS"> Remus, old friend... did you take your potion tonight? <stage> Lupin,
      twitching, SHAKES HIS HEAD. Pettigrew's eyes dart, taking in the situation, then slowly shift,
      note the WAND trembling in LUPIN'S LENGTHENING FIST. </stage></sp>
-   <sp who="#SIRIUSBLACK "> Run. All of you. Now. <stage> But none of them do, transfixed, watching
+   <sp who="#SIRIUS"> Run. All of you. Now. <stage> But none of them do, transfixed, watching
      as BRISTLES POKE THROUGH LUPIN'S SKIN. Black steps forward, wraps his arms around his friend,
      presses his mouth to his ear. </stage></sp>
-   <sp who="#SIRIUSBLACK "> You know the man you truly are, Remus. This flesh is only flesh.
+   <sp who="#SIRIUS"> You know the man you truly are, Remus. This flesh is only flesh.
      <stage>(pounding Lupin's chest)</stage> This heart is where you truly live. This heart! Here!
      <stage> As Lupin's WAND DROPS... Pettigrew LEAPS. </stage></sp>
    <sp who="#HARRY"> No! <stage>(flashing his wand)</stage> Expelliarmus! <stage> Lupin's wand flies
@@ -2510,11 +2510,11 @@ J.K. Rowling -->
    <stage cat="EXT" where=" DARK TOWER - TERRACE - NIGHT (SAME TIME) "> Wand flashing, Hermione
     tries spell after spell. </stage>
    <sp who="#HERMIONE"> Dunamis! Liberare! Annihilare! Emancipare! No. No. No. No. </sp>
-   <sp who="#SIRIUSBLACK "> You might try - </sp>
+   <sp who="#SIRIUS"> You might try - </sp>
    <sp who="#HERMIONE"> Quiet! I'm trying to think. <stage> She resumes pacing, MUTTERING furiously.
      Then... stops. Turns. </stage></sp>
    <sp who="#HERMIONE"> BOMBARDA! <stage> KA-BOOM! The CELL DOOR ROCKETS to the sky. </stage></sp>
-   <sp who="#SIRIUSBLACK "> That'll do. </sp>
+   <sp who="#SIRIUS"> That'll do. </sp>
   </scene>
   <scene>
    <stage cat="EXT" where=" SKY/HOGWARTS - HELICOPTER SHOT - NIGHT "> We see Buckbeak spirit Harry,
@@ -2524,23 +2524,23 @@ J.K. Rowling -->
   <scene>
    <stage cat="EXT" where=" BUCKBEAK - FLYING - NIGHT (MOMENTS LATER) "> Sirius laughs, hair blowing
     in the wind. </stage>
-   <sp who="#SIRIUSBLACK "> You truly are your father's son, Harry! </sp>
+   <sp who="#SIRIUS"> You truly are your father's son, Harry! </sp>
   </scene>
   <scene>
    <stage cat="EXT" where=" CLOCKTOWER COURTYARD - NIGHT (MOMENTS LATER) "> Black puts his hands to
     Hermione's waist, swings her off Buckbeak and onto the ground next to Harry. </stage>
-   <sp who="#SIRIUSBLACK "> I'll be forever grateful for this. To both of you. </sp>
+   <sp who="#SIRIUS"> I'll be forever grateful for this. To both of you. </sp>
    <sp who="#HARRY"> I want to go with you. </sp>
-   <sp who="#SIRIUSBLACK "> One day perhaps. For some time... life will be too... unpredictable.
+   <sp who="#SIRIUS"> One day perhaps. For some time... life will be too... unpredictable.
     Besides, you're meant to be here. <stage> Black claps his shoulder, looks him in the eye.
     </stage></sp>
-   <sp who="#SIRIUSBLACK "> But promise me something, Harry. </sp>
+   <sp who="#SIRIUS"> But promise me something, Harry. </sp>
    <sp who="#HARRY"> Anything. </sp>
-   <sp who="#SIRIUSBLACK "> Trust yourself. No matter the challenges you face -- and I fear they
+   <sp who="#SIRIUS"> Trust yourself. No matter the challenges you face -- and I fear they
     will be many -- you'll be surprised how many times you can find the answers... <stage>(tapping
      his heart)</stage> ...here. <stage> As Sirius climbs atop Buckbeak, a SHOOTING STAR arcs
      through the heavens. </stage></sp>
-   <sp who="#SIRIUSBLACK "> A shooting star. Make a wish. <stage> WHACK! -- Black gives Buckbeak a
+   <sp who="#SIRIUS"> A shooting star. Make a wish. <stage> WHACK! -- Black gives Buckbeak a
      SLAP and they soar into the glittering sky. Harry and Hermione stand watching, when... DING!
      They wheel. Look to the Clock Tower. </stage></sp>
    <sp who="#HERMIONE"> We have to go. <stage> As Harry and Hermione dash off, CAMERA TRACKS AFTER,

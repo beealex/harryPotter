@@ -2685,7 +2685,7 @@
             <sp who="#HARRY"> Why are you here? All of you? </sp>
             <sp who="#LILYPOTTER"> We never left, dear. </sp>
             <sp who="#HARRY"> Does it hurt? Dying? </sp>
-            <sp who="#SIRIUSBLACK"> Quicker than falling asleep. </sp>
+            <sp who="#SIRIUS"> Quicker than falling asleep. </sp>
             <sp who="#LUPIN"> And he will want it to be quick. </sp>
             <sp who="#JAMESPOTTER"> You’re nearly there, son. </sp>
             <sp who="#HARRY"> I’m sorry. I didn’t want any of you to die for me. And Remus, your
@@ -2697,7 +2697,7 @@
             <sp who="#JAMESPOTTER"> Until the end. </sp>
             <sp who="#HARRY"> He won’t be able to see you? </sp>
             <stage>Sirius shakes his head, gestures to Harry’s heart. </stage>
-            <sp who="#SIRIUSBLACK"> No. We’re here, you see. </sp>
+            <sp who="#SIRIUS"> No. We’re here, you see. </sp>
             <stage>Harry turns to his mother. </stage>
             <sp who="#HARRY"> Stay close to me. </sp>
             <sp who="#LILYPOTTER"> Always... </sp>

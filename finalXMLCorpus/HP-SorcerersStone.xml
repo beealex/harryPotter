@@ -1209,13 +1209,13 @@
   <scene>
    <stage cat="EXT" where=" PRACTICE FIELD - DUSK "> Harry stands with Oliver Wood on the empty
     practice pitch. </stage>
-   <sp who="#WOOD "> Quidditch is easy enough to understand. Each team has seven players: Three
+   <sp who="#OLIVERWOOD "> Quidditch is easy enough to understand. Each team has seven players: Three
     Chasers, two Beaters, one Keeper and the Seeker--that' s you. There are three kinds of balls.
     This one's called the Quaffle. <stage>(holds up a red ball) </stage> The Chasers handle the
     Quaffle and try to put it through one of three hoops. The Keeper--that's me--defends the hoops.
     With me so far? <stage> Harry nods, points to a WOOD CRATE rocking violently. </stage></sp>
    <sp who="#HARRY "> I think so. What's in there? </sp>
-   <sp who="#WOOD "> Here. Take this. <stage>Wood hands Harry a SMALL CLUB, kneels before the crate,
+   <sp who="#OLIVERWOOD "> Here. Take this. <stage>Wood hands Harry a SMALL CLUB, kneels before the crate,
      and unlashes a leather strap. Instantly, a BLACK BALL rockets into the sky, then, without
      warning, PLUMMETS straight down--at Harry's head. Startled, Harry jumps aside and--purely on
      instinct--clubs it back into the sky. </stage> Not bad, Potter. You'd make a fair Beater.
@@ -1223,13 +1223,13 @@
     </stage>
    </sp>
    <sp who="#HARRY "> What was that? </sp>
-   <sp who="#WOOD "> Bludger. Nasty little buggers. But you're a Seeker. The only ball I want you to
+   <sp who="#OLIVERWOOD "> Bludger. Nasty little buggers. But you're a Seeker. The only ball I want you to
     worry about is... this. <stage> Wood takes out a TINY BALL about the size of a walnut. BRIGHT
      GOLD, it has little, fluttering WINGS. </stage></sp>
    <sp who="#HARRY "> I like this ball. </sp>
-   <sp who="#WOOD "> You,like it now. Just wait. It's wicked fast and damn near impossible to see. </sp>
+   <sp who="#OLIVERWOOD "> You,like it now. Just wait. It's wicked fast and damn near impossible to see. </sp>
    <sp who="#HARRY"> What do I do with it? </sp>
-   <sp who="#WOOD "> Catch it. Before the other team's Seeker. You catch this, the game is over. You
+   <sp who="#OLIVERWOOD "> Catch it. Before the other team's Seeker. You catch this, the game is over. You
     catch this, Potter... we win. </sp>
   </scene>
   <scene>
@@ -1418,12 +1418,12 @@
     Neville and Seamus in the Gryffindor section, unfurl a banner that reads POTTER FOR PRESIDENT.
     As the Slytherin and Gryffindor teams take the field, the CROWD ROARS. Oliver Wood runs up
     alongside a nervous Harry, who clutches his new Nimbus 2000. </stage>
-   <sp who="#WOOD "> I know what you'ree thinking, Harry. I'm playing my first game of Quidditch,
+   <sp who="#OLIVERWOOD "> I know what you'ree thinking, Harry. I'm playing my first game of Quidditch,
     the entire school's watching me and, worst of all, it's against Slytherin. Am I right? </sp>
    <sp who="#HARRY "> Pretty close. </sp>
-   <sp who="#WOOD "> It' s all right. I felt the same way before my first game. </sp>
+   <sp who="#OLIVERWOOD "> It' s all right. I felt the same way before my first game. </sp>
    <sp who="#HARRY "> What happened? </sp>
-   <sp who="#WOOD "> I don't really remember. I took a Bludger to the head about two minutes in and
+   <sp who="#OLIVERWOOD "> I don't really remember. I took a Bludger to the head about two minutes in and
     woke up in the hospital week later. <stage> Madame Hooch, clad in REFEREE ROBES, addresses the
      players. </stage></sp>
    <sp who="#MADAMEHOOCH "> Now, I want a nice clean game. From all of you. <stage> She glances

@@ -515,14 +515,14 @@
         <scene>
             <stage cat="INT" where=" ROOFTOP"> An owl flies in with a letter for Harry, he takes it
                 and begins to read. </stage>
-            <sp who="#SIR">
+            <sp who="#SIRIUS">
                 <stage>VOICEOVER</stage> Harry. I couldn't risk sending Edward. It was since the
                 world cup and the ministry's been intercepting more and more owls and she's too
                 easily recognised. We need to talk Harry. Face to face. Meet me in the Griffindore
                 common room at one o clock this Saturday night and make sure you're alone.
                     P.S....<stage> The owl nips Harry's finger. </stage></sp>
             <sp who="#HARRY"> AGH! </sp>
-            <sp who="#SIR">
+            <sp who="#SIRIUS">
                 <stage>VOICEOVER CONT'D</stage> The bird bites. </sp>
         </scene>
         <scene>
@@ -535,31 +535,31 @@
                     desperate as he crumples up the newspaper and puts it on the fire. The fire
                     flares up a little, a face appears in it. </stage></sp>
             <sp who="#HARRY"> Sirius?! How... </sp>
-            <sp who="#SIR"> I don't have much time Harry so let me get straight to it. Did you or
+            <sp who="#SIRIUS"> I don't have much time Harry so let me get straight to it. Did you or
                 did you not put your name into the goblet of fire? </sp>
             <sp who="#HARRY"> No! </sp>
-            <sp who="#SIR"> Shh... I had to ask. Now, tell me about this dream of yours. You
+            <sp who="#SIRIUS"> Shh... I had to ask. Now, tell me about this dream of yours. You
                 mentioned Wormtail and Voldemort, but who was the third man in the room? </sp>
             <sp who="#HARRY"> I dunno. </sp>
-            <sp who="#SIR"> You didn't hear a name? </sp>
+            <sp who="#SIRIUS"> You didn't hear a name? </sp>
             <sp who="#HARRY"> No. Umm.. Voldemort was giving him a job to do. Something important. </sp>
-            <sp who="#SIR"> What was that? </sp>
+            <sp who="#SIRIUS"> What was that? </sp>
             <sp who="#HARRY"> He wanted... me. I dunno why, but he was gonna use this man to get to
                 me. I mean it was only a dream right? </sp>
-            <sp who="#SIR"> Yes. It's just a dream. Look Harry, the deatheaters at the world cup,
+            <sp who="#SIRIUS"> Yes. It's just a dream. Look Harry, the deatheaters at the world cup,
                 your name rising from that goblet these are not just coincidences. Hogwarts isn't
                 safe any more. </sp>
             <sp who="#HARRY"> What are you saying? </sp>
-            <sp who="#SIR"> I'm saying the devils are inside the walls. Igor Karkaroff, he was a
+            <sp who="#SIRIUS"> I'm saying the devils are inside the walls. Igor Karkaroff, he was a
                 deatheater. And no one, no one stops being a deatheater. Then there's Barty Crouch,
                 heart of stone, sent his OWN son to Azkaban. </sp>
             <sp who="#HARRY"> Do you think one of them put my name in the goblet? </sp>
-            <sp who="#SIR"> I haven't a clue who put your name in that goblet Harry but whoever did
+            <sp who="#SIRIUS"> I haven't a clue who put your name in that goblet Harry but whoever did
                 it is no friend to you. People die in this tournament. </sp>
             <sp who="#HARRY"> I'm not ready for this Sirius. </sp>
-            <sp who="#SIR"> You don't have a choice. </sp>
+            <sp who="#SIRIUS"> You don't have a choice. </sp>
             <sp who="#HARRY"> Someone's coming! </sp>
-            <sp who="#SIR"> Keep your friends close Harry.<stage> Ron enters the room. </stage></sp>
+            <sp who="#SIRIUS"> Keep your friends close Harry.<stage> Ron enters the room. </stage></sp>
             <sp who="#RON"> Who you talking to? </sp>
             <sp who="#HARRY"> Who says I was talking to anyone. </sp>
             <sp who="#RON"> I heard voices. </sp>
@@ -722,7 +722,7 @@
                     bright camera flashes, Rita Skeeter the journalist approaches. </stage></sp>
             <sp who="#RITA"> Young love! Ohh how.. stirring. If everything goes unfortunately today
                 you might make the front page. </sp>
-            <sp who="#VIKTOR">
+            <sp who="#KRUM">
                 <stage>To Rita</stage> You have no business here. This tent is for champions and
                 friends. </sp>
             <sp who="#RITA"> No matter. We've got what we wanted.<stage> Rita leaves and Dumbledore
@@ -1034,7 +1034,7 @@
         </scene>
         <scene>
             <stage cat="INT" where=" BEDROOM"> NIGHTMARE SEQUENCE We're back in the old house. </stage>
-            <sp who="#VOLDERMORT"> Let me see it again.<stage> A sleeve is rolled up and a marking
+            <sp who="#VOLDEMORT"> Let me see it again.<stage> A sleeve is rolled up and a marking
                     of a skull and snake in on the arm. </stage></sp>
             <sp who="#VOLDEMORT"> Ah yes, the time is close now. Harry! At last! Step aside Wormtail
                 so I can give our guest a proper greeting!<stage> Harry wakes up. The floorboards
@@ -1618,7 +1618,7 @@
         <scene>
             <stage cat="EXT" where=" HOGWARTS"> There's a large crowd gathered, the pupils are going
                 home. Viktor Krum gives Hermione a kiss and hands her some paper. </stage>
-            <sp who="#VIKTOR"> Write to me. Promise. </sp>
+            <sp who="#KRUM"> Write to me. Promise. </sp>
             <sp who="#HERMIONE"> Bye.<stage> Ron is sitting alone. The french sisters approach him,
                     they both in turn give him a kiss on the head. </stage></sp>
             <sp who="#FLEUR"> Au revoir Ron.<stage> The Beauxbatons girls leave in uniform, the
