@@ -70,7 +70,7 @@
     EYES jerk into the light. </stage>
 
 
-   <sp who="#WOMAN'SVOICE">
+   <sp who="#AUNTPETUNIA">
     <stage>(O.S.) </stage> Up! Now! <stage>THUMP! THUMP! ! THUMP! </stage> I said now! </sp>
 
    <stage>FOOTSTEPS RECEDE and HARRY POTTER, now ten years old, swings his skinny legs to the floor.
@@ -1057,8 +1057,8 @@
    <stage cat="EXT" where=" THE GROUNDS - HOGWARTS - DAY  "> Harry stands in a cluster of
     Gryffindors, across from Malfoy and his Slytherin cronies. Between them, there is a LONG LINE OF
     BROOMSTICKS. MADAME HOOCH, a rangy witch with short grey hair and hawk-like eyes, stands between
-    the two groups. </stage>
-   <sp who="#MADAMEHOOCH "> Welcome to your first Flying Lesson. Well, what are you all waiting
+    the two groups.HOOCH </stage>
+   <sp who="#HOOCH "> Welcome to your first Flying Lesson. Well, what are you all waiting
     for? Everyone step up to a broomstick. Come now. Hurry up. <stage>Harry steps forward nervously,
      glances down. His broom is old, with twigs sticking out at odd angles. </stage> Stick out your
     right hand, over the broom, and say "Up"! <stage>SHOUTS of "Up!" ring on the cold afternoon air.
@@ -1071,7 +1071,7 @@
    <sp who="#DRACO"> Excuse me, Madam Hooch. Given that a few of us have been on sticks for years,
     would it not make sense to separate the expert flyers from... <stage>(glancing at Harry)</stage>
     the neophytes? </sp>
-   <sp who="#MADAMEHOOCH "> Thank you, Mr. Malfoy, but I'm sure even an expert flyer such as
+   <sp who="#HOOCH "> Thank you, Mr. Malfoy, but I'm sure even an expert flyer such as
     yourself can appreciate the benefits of reacquainting oneself with the basics. Your grip, for
     example. It's thumb in, not out. <stage>As Malfoy reddens, Harry and Ron share a grin. </stage>
     Very well. Now when I blow my whistle, I want each of you to kick off from the ground. Hard.
@@ -1426,13 +1426,13 @@
    <sp who="#OLIVERWOOD "> I don't really remember. I took a Bludger to the head about two minutes in and
     woke up in the hospital week later. <stage> Madame Hooch, clad in REFEREE ROBES, addresses the
      players. </stage></sp>
-   <sp who="#MADAMEHOOCH "> Now, I want a nice clean game. From all of you. <stage> She glances
+   <sp who="#HOOCH "> Now, I want a nice clean game. From all of you. <stage> She glances
      tellingly at Slytherin Captain MARCUS FLINT. Harry leans over to ANGELINA JOHNSON, Gryffindor
      Chaser. </stage></sp>
    <sp who="#HARRY "> Who's he, Angelina? </sp>
    <sp who="#ANGELINA "> Marcus Flint. Slytherin Captain. They say he's got troll blood in him.
      <stage> Harry swallows as Flint glares at him murderously. </stage></sp>
-   <sp who="#MADAMEHOOCH "> Mount your brooms, please. <stage> Hands trembling, Harry waits,
+   <sp who="#HOOCH "> Mount your brooms, please. <stage> Hands trembling, Harry waits,
      then... the WHISTLE BLASTS. FOURTEEN BROOMSTICKS rise into the air. As the crowd ROARS, Madam
      Hooch kicks the crate, releasing two SCREAMING Bludgers, then tosses up the Quaffle. In the
      stands, LEE JORDAN does COMMENTARY. </stage></sp>
@@ -1514,7 +1514,7 @@
      <stage>(popping in) </stage> Nothing in the Quidditch rulebook discriminates against catching
      the Snitch in your mouth. Or any other place for that matter. In fact, in a game played in
      Greece in the late seventeenth century- </sp>
-    <sp who="#MADAMEHOOCH "> Thank you, Miss Granger. We can dispense with the more unattractive
+    <sp who="#HOOCH "> Thank you, Miss Granger. We can dispense with the more unattractive
      historical details of the game. Nevertheless, your point is well taken. Match to Gryffindor!
       <stage>As Harry's teammates lift him to their shoulders, Hermione spies Snape in the far
       stands, limping quickly away, hisrobes still smoking. </stage>

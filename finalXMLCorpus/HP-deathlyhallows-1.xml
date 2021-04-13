@@ -1372,7 +1372,7 @@
                 Maintenance Department. </sp>
             <sp who="#MAFALDAHOPKIRK/HERMIONE"> Mafalda Hopkirk, assistant in the Improper Use of
                 Magic Office. </sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"><stage>patting his pockets</stage> I’m nobody. </sp>
+            <sp who="#ALBERTRUNCORN/HARRY"><stage>patting his pockets</stage> I’m nobody. </sp>
             <sp who="#MAFALDAHOPKIRK/HERMIONE"> You’re somebody. Be careful. <stage> Just then a
                     SKINNY WIZARD strides by. </stage></sp>
             <sp who="#SKINNYWIZARD"> Morning, Reg! Good luck today. </sp>
@@ -1394,7 +1394,7 @@
                 looks to his left, sees a PAIR OF BOOTED FEET climb into the next toilet, then looks
                 to his right, sees Ron -- as Reg Cattermole -- peering in. </stage>
             <sp who="#REGCATTERMOLE/RON"> We flush ourselves in? </sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> Apparently so. </sp>
+            <sp who="#ALBERTRUNCORN/HARRY"> Apparently so. </sp>
             <sp who="#REGCATTERMOLE/RON"> That’s bloody disgusting. <stage> As Reg/Ron’s face
                     disappears, Harry steps up onto his toilet, dips his shoe in gingerly, then
                     withdraws it. Completely dry. Stepping in fully, he reaches up, pulls the chain
@@ -1406,7 +1406,7 @@
                 sees Hermione’s already arrived and standing before a MASSIVE STATUE ofBLACK STONE
                 depicting a witch and wizard sitting upon hundreds of naked bodies twisted in pain.
                 Harry joins her. </stage>
-            <sp who=" #ALBERTRUNCORN/HARRY"> Are those...? </sp>
+            <sp who="#ALBERTRUNCORN/HARRY"> Are those...? </sp>
             <sp who="#MAFALDAHOPKIRK/HERMIONE">
                 <stage>nodding; with disgust</stage> Muggles. In their rightful place. <stage> Harry
                     glances at the base of the statue, where the words MAGIC IS MIGHT are engraved.
@@ -1420,10 +1420,10 @@
             <sp who="#REGCATTERMOLE/RON"> I gotta tell you, I'm starting to freak out a bit. <stage>
                     Just then, a gang of YOUNG, ROUGH-LOOKING WIZARDS, led by their leader, SCABIOR,
                     enter the Atrium, pushing along as mall group of CAPTIVES. </stage></sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> The Ministry must be hiring young these days. </sp>
+            <sp who="#ALBERTRUNCORN/HARRY"> The Ministry must be hiring young these days. </sp>
             <sp who="#REGCATTERMOLE/RON"> hey’re not Ministry. They’reSnatchers. They hunt
                 Muggle-borns and blood-traitors for a price. </sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> How long did you say this batch of Polyjuice Potion
+            <sp who="#ALBERTRUNCORN/HARRY"> How long did you say this batch of Polyjuice Potion
                 would last, Hermione? </sp>
             <sp who="#MAFALDAHOPKIRK/HERMIONE"> I didn’t. </sp>
             <sp who="#YAXLEY"> Cattermole! <stage> They all jump. Yaxley strides directly up to Ron.
@@ -1443,9 +1443,9 @@
             <stage cat="INT" where=" LIFT - CONTINUOUS ACTION - MORNING  "> ...the doors close. </stage>
             <sp who="#REGCATTERMOLE/RON"> Oh my god. What am I going to do? My wife’s all alone
                 downstairs? </sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> Ron. You don’t have a wife. </sp>
+            <sp who="#ALBERTRUNCORN/HARRY"> Ron. You don’t have a wife. </sp>
             <sp who="#REGCATTERMOLE/RON"> Oh. Right. </sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> Look, we’ll go with you -- </sp>
+            <sp who="#ALBERTRUNCORN/HARRY"> Look, we’ll go with you -- </sp>
             <sp who="#REGCATTERMOLE/RON"> No, that’s mad. You two find Umbridge. I’ll be fine. But
                 how do I stop it raining? </sp>
             <sp who="#MAFALDAHOPKIRK/HERMIONE"> Try Finite Incantatem. Of course if something’s gone
@@ -1463,12 +1463,12 @@
                     <stage> But before she can respond the golden grilles of the lift close and she
                     and Harry are swept away. </stage></sp>
             <sp who="#MAFALDAHOPKIRK/HERMIONE"> I don’t like him being on his own down there. </sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> Ron’s been coming here since he was two years old. It’s
+            <sp who="#ALBERTRUNCORN/HARRY"> Ron’s been coming here since he was two years old. It’s
                 us you should be worrying about. </sp>
             <sp who="#MAFALDAHOPKIRK/HERMIONE"> You really have horrible teeth, you know that. </sp>
             <sp who="#FEMALE">
                 <stage>V.O.</stage> Level One. Minister of Magic and Support Staff... </sp>
-            <sp who=" #ALBERTRUNCORN/HARRY">
+            <sp who="#ALBERTRUNCORN/HARRY">
                 <stage>whispering quickly</stage> I say if we don’t locate Umbridge within the hour,
                 we go find Ron and come back another day. Deal? The grilles clang open again and
                 Harry and Hermione freeze. </sp>
@@ -1526,7 +1526,7 @@
             <stage cat="INT" where=" UMBRIDGE’S OFFICE - CONTINUOUS ACTION - MORNING "> ... slips
                 into Umbridge’s office, closes the door. The room’s decor is sickeningly cute. Lace
                 doilies. Dried flowers. Harry takes out his wand. </stage>
-            <sp who=" #ALBERTRUNCORN/HARRY"> Accio locket. <stage> Nothing. Harry frowns, glances
+            <sp who="#ALBERTRUNCORN/HARRY"> Accio locket. <stage> Nothing. Harry frowns, glances
                     about. A LEAFLET bearing his face -- “Undesirable #1” -- lies upon Umbridge’s
                     desk, along with PHOTOGRAPHS of other Order members. Two have a LARGE PINK “X”
                     scratched on them: Dumbledore and Mad-Eye. Harry begins to search the office,
@@ -1570,10 +1570,10 @@
                 his teeth. Hermione’s right. They’re awful. Just then, the grilles clang open and
                 Ron enters, soaking wet and wild-eyed. </stage>
             <sp who="#REGCATTERMOLE/RON"> M-morning. </sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> Ron, it’s me. </sp>
+            <sp who="#ALBERTRUNCORN/HARRY"> Ron, it’s me. </sp>
             <sp who="#REGCATTERMOLE/RON"> Harry! Blimey, I forgot what you looked like. Where’s
                 Hermione? </sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> She went down to the courtrooms with Umbridge -- The
+            <sp who="#ALBERTRUNCORN/HARRY"> She went down to the courtrooms with Umbridge -- The
                 grilles open again and reveal... Arthur Weasley, in the company of an elderly witch
                     <stage>WAKINDA</stage>. </sp>
             <sp who="#ARTHURWEASLEY"> I understand, Wakinda, but I can’t be a party to that. <stage>
@@ -1586,14 +1586,14 @@
             <sp who="#ARTHURWEASLEY"> Tell him to try an umbrella. <stage> Arthur and Wakinda exit.
                     As they go, Ron cranes his neck, watching with a look of longing as the grilles
                     begin to close. Suddenly, Harry reaches out, blocks the doors. </stage></sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> Arthur! You know you’re being tracked, don’t you?
+            <sp who="#ALBERTRUNCORN/HARRY"> Arthur! You know you’re being tracked, don’t you?
                     <stage> Arthur turns. </stage></sp>
             <sp who="#ARTHURWEASLEY"> Is that a threat, Runcorn? </sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> No, Arthur. It’s a fact. They’re watching you. <stage>
+            <sp who="#ALBERTRUNCORN/HARRY"> No, Arthur. It’s a fact. They’re watching you. <stage>
                     Arthur eyes Harry with a mixture of suspicion and confusion and perhaps...
                     recognition. Harry removes his hand. The grilles close. Ron stares at him.
                 </stage></sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> I’ll tell you later. Let’s find Hermione. </sp>
+            <sp who="#ALBERTRUNCORN/HARRY"> I’ll tell you later. Let’s find Hermione. </sp>
         </scene>
         <scene>
             <stage cat="INT" where=" PASSAGEWAY - MORNING (MOMENTS LATER)  "> Harry and Ron move
@@ -1620,7 +1620,7 @@
             <sp who="#REGCATTERMOLE/RON"> What is it? <stage> The corners of Harry’s eyes contract,
                     his head slightly cocked... as if he can sense the presence of something.
                 </stage></sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> It’s here... <stage> As Ron reacts -- deciphering
+            <sp who="#ALBERTRUNCORN/HARRY"> It’s here... <stage> As Ron reacts -- deciphering
                     Harry’s words -- a WOMAN’S VOICE comes their way: </stage></sp>
             <sp who="#MARYCATTERMOLE"> Reg... <stage> Ron turns. Below the balustrade, a frail
                     woman, MARY CATTERMOLE, sits alone, wrists chained. Seeing Ron, her wan face
@@ -1659,13 +1659,13 @@
             <sp who="#UMBRIDGE"> What the devil are you doing, Albert? <stage> As Harry speaks, his
                     own face ripples through Runcorn’s, the Polyjuice Potion wearing off.
                 </stage></sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> You’re lying. And one mustn’t tell lies, Dolores...
+            <sp who="#ALBERTRUNCORN/HARRY"> You’re lying. And one mustn’t tell lies, Dolores...
                 Stupefy! <stage> A flash of red light hits Umbridge and she slumps, forehead
                     striking the balustrade. Instantly the silver cat vanishes. Yaxley draws his
                     wand, but Ron is too quick and takes him out with a single blast. Hermione
                     strips the locket from Umbridge’s neck and leaps down. Instantly, her breath
                     comes in plumes as the Dementors drift forward. </stage></sp>
-            <sp who=" #ALBERTRUNCORN/HARRY"> EXPECTO PATRONUM! <stage> A SILVER STAG soars from the
+            <sp who="#ALBERTRUNCORN/HARRY"> EXPECTO PATRONUM! <stage> A SILVER STAG soars from the
                     tip of Harry’s wand, circling the room as it drives the Dementors back.
                 </stage></sp>
             <sp who="#HERMIONE"> Relashio! <stage> The chains encircling Mary Cattermole’s wrists

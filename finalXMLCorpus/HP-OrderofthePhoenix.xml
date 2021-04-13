@@ -1085,7 +1085,7 @@
          <sp who="#RON">He is the world's biggest git! He hurls the pieces into the fireplace. </sp>
          <sp who="#SIRIUS">Watch it!<stage> Ron jumps, startled. </stage></sp>
          <sp who="#HARRY"> Sirius?</sp>
-         <sp who="SIRIUS"> Right you are. Got you letter and though we should talk in person.
+         <sp who="#SIRIUS"> Right you are. Got you letter and though we should talk in person.
             <stage>He cranes his neck at the burning letter.</stage> What was that?</sp>
          <sp who="#HARRY">Letter from Percy. </sp>
          <sp who="#RON">Yeah, full of the usual rubbish. </sp>
@@ -1449,7 +1449,7 @@
                and knocking him to the ground. George breaks free of the Gryffindors and follows,
                hitting Malfoy too. Harry leaps onto Draco, hitting him again and again.
             </stage></sp>
-         <sp who="#MADAMHOOCH">Impedimenta!<stage> She blasts Harry and George with her spell,
+         <sp who="#HOOCH">Impedimenta!<stage> She blasts Harry and George with her spell,
                knocking them off of Malfoy. McGonagall storms onto the pitch, Gryffindor scarf
                flapping wildly in the wind. </stage></sp>
          <sp who="#MCGONAGALL"><stage>shouting</stage> What on earth do you two think you're
