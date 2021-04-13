@@ -94,7 +94,7 @@
             <stage>Narcissa eyes her sister briefly, warily, then strides off, toward the
                 brightly-lit room ahead, where her husband Lucius stands, cradling a nearly-empty
                 wine glass. </stage>
-            <sp who="#LUCIUSMALFOY"> Why Draco? </sp>
+            <sp who="#LUCIUS"> Why Draco? </sp>
             <stage>Narcissa passes her husband without a word. </stage>
             <sp who="#BELLATRIX"> Just sit back and watch, Lucius. Hm? Pour yourself another glass
                 of wine. </sp>
@@ -122,7 +122,7 @@
             <sp who="#BELLATRIX"> Well...? </sp>
             <sp who="#DRACO"> I can’t... I can’t be sure. </sp>
             <stage>Lucius steps forward, wine glass sloshing. </stage>
-            <sp who="#LUCIUSMALFOY"> Look close, Draco. If we’re the ones who hand Potter over to the Dark
+            <sp who="#LUCIUS"> Look close, Draco. If we’re the ones who hand Potter over to the Dark
                 Lord, everything will be forgiven. Do you understand -</sp>
             <sp who="#SCABIOR"><stage>quietly menacing</stage> Now, we won’t be forgetting who
                 actually caught him, I hope, Mr. Malfoy? </sp>
@@ -1622,17 +1622,17 @@
         <scene>
             <stage cat="EXT" where="BATTLEMENTS - SAME TIME - NIGHT"> Lupin and SHACKLEBOLT stride
                 out into the night as Dean tags after. Shacklebolt gives instructions to Dean. </stage>
-            <sp who="#KINGSLEYSHACKLEBOLT"> Tell Professor McGonagall Remus and I will handle this
+            <sp who="#SHACKLEBOLT"> Tell Professor McGonagall Remus and I will handle this
                 side of the castle. Yes, sir. </sp>
             <sp who="#DEAN"> As Dean starts off, the grounds beyond and below come INTO VIEW: a sea
                 of Death Eaters. Kingsley and Remus stop dead, narrow their eyes. </sp>
-            <sp who="#KINGSLEYSHACKLEBOLT"> Dean! (as Dean stops) On second thought, tell Professor
+            <sp who="#SHACKLEBOLT"> Dean! (as Dean stops) On second thought, tell Professor
                 McGonagall we might need one or two more wands this side. Dean nods, continues on,
                 merely trading a glance withArthur, Fred and George as they appear, staring in
                 stunned disbelief at the deadly throng across the landscape. </sp>
             <sp who="#LUPIN"> It’s the quality of one’s conviction that determines success, not the
                 number of one’s followers. Lupin stares straight ahead, as does Shacklebolt. </sp>
-            <sp who="#KINGSLEYSHACKLEBOLT"> Who said that? Me. </sp>
+            <sp who="#SHACKLEBOLT"> Who said that? Me. </sp>
             <sp who="#LUPIN"> For the first time, they look at each other, share a fatalistic smile.
                 Just then TONKS appears. </sp>
             <sp who="#LUPIN"> Speaking of quality. </sp>
@@ -2202,11 +2202,11 @@
             <stage>Lucius glances nervously to the weathered floor, to the BLOOD smeared there. He
                 closes his eyes to blot out the image when an EXPLOSION detonates in the distance.
                 He jumps. </stage>
-            <sp who="#LUCIUSMALFOY"> Forgive me, my Lord, but wouldn’t it be more prudent to call
+            <sp who="#LUCIUS"> Forgive me, my Lord, but wouldn’t it be more prudent to call
                 off this battle and seek the boy yourself? </sp>
             <sp who="#VOLDEMORT"> I do not need to seek the boy! Before the night is out, he will
                 come to me! Do you understand! </sp>
-            <sp who="#LUCIUSMALFOY"> Of c-course, my Lord. </sp>
+            <sp who="#LUCIUS"> Of c-course, my Lord. </sp>
             <stage>Lucius trembles, staring into Voldemort’s scarlet eyes. Voldemort steps forward,
                 voice more measured. </stage>
             <sp who="#VOLDEMORT"> How do you live with yourself, Lucius? <stage>eyeing him with
@@ -2958,10 +2958,10 @@
                 over the students and staff. </stage>
             <sp who="#VOLDEMORT"> Now is the time to declare yourself.</sp>
             <stage>There is a nervous MURMUR among the crowd. </stage>
-            <sp who="#LUCIUSMALFOY"> Draco... </sp>
+            <sp who="#LUCIUS"> Draco... </sp>
             <stage>Draco looks up, sees his father summon him forth with a short nod. He hesitates.
                 Lucius smiles thinly. </stage>
-            <sp who="#LUCIUSMALFOY"> Draco, don’t be stupid -</sp>
+            <sp who="#LUCIUS"> Draco, don’t be stupid -</sp>
             <sp who="#NARCISSA"> Come, Draco. </sp>
             <stage>Her tone is quiet, but absolute. Draco looks into her eyes, then ducks his head
                 and steps forward, avoiding the baleful glances directed his way as he crosses the

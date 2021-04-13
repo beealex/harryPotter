@@ -668,20 +668,20 @@ Burbank, California 91522 All Rights Reserved -->
                 Goyle continue to slumber.</stage>
 
 
-            <sp who="#MALFOY"> What just happened? Blaise? </sp>
+            <sp who="#DRACO"> What just happened? Blaise? </sp>
             <sp who="#BLAISE">
                 <stage>tense himself</stage> Don’t know. <stage> Just then, a SMALL BAG TEETERS...
                     then tumbles from a luggage rack. Malfoy wheels, eyes the bag. </stage></sp>
-            <sp who="#PANSY"> Relax, boys. The lights went out is all. Come, Draco. We’ll be at
+            <sp who="#PANSYPARKINSON"> Relax, boys. The lights went out is all. Come, Draco. We’ll be at
                 Hogwarts before you know it. She pats the seat. Draco eyes the bag, slings it back
                 onto the luggage rack and plops down. Pansy strokes his hair. </sp>
-            <sp who="#MALFOY"> Hogwarts. What a pathetic excuse for a school. I think I’d pitch
+            <sp who="#DRACO"> Hogwarts. What a pathetic excuse for a school. I think I’d pitch
                 myself off the Astronomy Tower ifI thought I had to continue on for another two
                 years. Pansy, gently twisting one of Draco’s locks, stops. </sp>
-            <sp who="#PANSY"> What’s that supposed to mean? </sp>
-            <sp who="#MALFOY"> Let’s just say I don’t think you’ll be seeing me wasting my time in
+            <sp who="#PANSYPARKINSON"> What’s that supposed to mean? </sp>
+            <sp who="#DRACO"> Let’s just say I don’t think you’ll be seeing me wasting my time in
                 Charms Class next year. Confused, Pansy glances at Blaise, who snorts derisively. </sp>
-            <sp who="#MALFOY"> Amused, Blaise? We’ll see just who’s laughing in the end. Blaise
+            <sp who="#DRACO"> Amused, Blaise? We’ll see just who’s laughing in the end. Blaise
                 shakes his head, smiling as he looks out the window at the darkness. Just then the
                 small bag in the upper rack shifts. Malfoy’s eyes play over it. </sp>
         </scene>
@@ -697,19 +697,19 @@ Burbank, California 91522 All Rights Reserved -->
         <scene>
             <stage> COMPARTMENT - DUSK/EVENING As Blaise and Pansy make to exit, Malfoy takes down
                 the small bag, grips the handle thoughtfully. </stage>
-            <sp who="#MALFOY"> You two go on. I want to check something. <stage> Malfoy slides shut
+            <sp who="#DRACO"> You two go on. I want to check something. <stage> Malfoy slides shut
                     the door. LETS THE BLINDS DOWN. A beat. </stage></sp>
-            <sp who="#MALFOY"> Didn’t mummy ever tell you it’s bad manners to eavesdrop, Potter?
+            <sp who="#DRACO"> Didn’t mummy ever tell you it’s bad manners to eavesdrop, Potter?
                 Petrificus Totalus! <stage>Malfoy wheels, points his wand at the luggage rack.
                     Something hits the floor with a THUMP. The Invisibility Cloak slips away and
                     reveals Harry, paralyzed on the floor. Malfoy grins. </stage>
             </sp>
-            <sp who="#MALFOY"> Oh, right, she was dead before you could wipe the drool off your
+            <sp who="#DRACO"> Oh, right, she was dead before you could wipe the drool off your
                 chin. <stage>Malfoy brings his boot down hard on Harry’s face. SNAP! Blood squirts
                     from Harry’s nose. Malfoy snatches up the Invisibility Cloak, pitches it over
                     Harry. </stage>
             </sp>
-            <sp who="#MALFOY"> Enjoy the ride back to London. </sp>
+            <sp who="#DRACO"> Enjoy the ride back to London. </sp>
 
         </scene>
         <scene>
@@ -754,19 +754,19 @@ Burbank, California 91522 All Rights Reserved -->
             <sp who="#LUNA"> Who are those people? <stage> Harry turns, sees Luna staring into the
                     darkness, where SHADOWS drift eerily, like ghosts. </stage></sp>
             <sp who="#FLITWICK"> Aurors. For security. </sp>
-            <sp who="#MALFOY "><stage>O.S.</stage> It’s a not a cane, you cretin. It’s a walking
+            <sp who="#DRACO "><stage>O.S.</stage> It’s a not a cane, you cretin. It’s a walking
                 stick. <stage> Harry and Luna turn. Draco stands amidst a mountain of TRUNKS and OWL
                     CAGES, watching Filch pass a long SECURITY DETECTOR over a WALKING STICK.
                 </stage></sp>
             <sp who="#FILCH"> And what exactly would you be wanting with a walking stick? </sp>
             <sp who="#SNAPE"> It was his father’s. <stage> Snape separates from the shadows. Draco
                     eyes him warily, then snatches the stick from Filch. </stage></sp>
-            <sp who="#MALFOY"> Is my father’s. He’s not dead. <stage> Snape watches Malfoy carefully
+            <sp who="#DRACO"> Is my father’s. He’s not dead. <stage> Snape watches Malfoy carefully
                     wrap the stick in felt, lay it back inside his trunk. </stage></sp>
             <sp who="#SNAPE"> It’s alright, Mr. Filch. I can vouch for Mr. Malfoy. <stage> Draco
                     eyes Snape warily again, then begins to slouch off, catches Harry looking.
                 </stage></sp>
-            <sp who="#MALFOY"> Nice face, Potter. <stage> Harry puts a hand to his nose, watches
+            <sp who="#DRACO"> Nice face, Potter. <stage> Harry puts a hand to his nose, watches
                     Malfoy disappear into the darkness, trailed by Snape. </stage></sp>
             <sp who="#LUNA"> Would you like me to fix it? Personally I think you look a bit more
                 devil-may-care this way. But it’s up to you. </sp>
@@ -1858,16 +1858,16 @@ Burbank, California 91522 All Rights Reserved -->
             <sp who="#HARRY"> Traveling? Where? <stage> Snape merely stares a Harry silently,
                     briefly, then exits, taking Harry’s gaze with him, to Slughorn once again,
                     wildly gesturing with a full glass of wine. </stage></sp>
-            <sp who="#MALFOY "><stage>O.S.</stage> Take your hands off me, you filthy squib! <stage>
+            <sp who="#DRACO "><stage>O.S.</stage> Take your hands off me, you filthy squib! <stage>
                     A frown overtakes Slughorn’s face and he turns toward the source of the
                     commotion, exits Harry’s view. Harry emerges from the hanging, finds Malfoy in
                     Filch’s rough grip. </stage></sp>
             <sp who="#FILCH"> Professor Slughorn, sir! I’ve just discovered this boy lurking in an
                 upstairs corridor. He claims to have been invited to your party. </sp>
-            <sp who="#MALFOY"> Okay, okay, I was gate-crashing. Happy? </sp>
+            <sp who="#DRACO"> Okay, okay, I was gate-crashing. Happy? </sp>
             <sp who="#SNAPE"> I’ll escort him out. <stage> Draco’s eyes shift, regard Snape. He
                     shrugs free ofFilch. </stage></sp>
-            <sp who="#MALFOY"> Certainly... Professor. </sp>
+            <sp who="#DRACO"> Certainly... Professor. </sp>
 
         </scene>
         <scene>
@@ -1880,11 +1880,11 @@ Burbank, California 91522 All Rights Reserved -->
                 you? <stage> Two SILHOUETTES come INTO VIEW -- Malfoy, slumped against the wall in
                     lazy insolence, and Snape. </stage></sp>
             <sp who="#SNAPE"> I swore to protect you. I made the Unbreakable Vow - </sp>
-            <sp who="#MALFOY"> I don’t need protection. I was chosen for this! Out of all others.
+            <sp who="#DRACO"> I don’t need protection. I was chosen for this! Out of all others.
                 Me! And I won’t fail him. </sp>
             <sp who="#SNAPE"> You’re afraid, Draco. You attempt to conceal it, but it’s obvious. Let
                 me assist you - </sp>
-            <sp who="#MALFOY"> No! I was chosen. This is my moment! <stage>Malfoy exits. Then Snape.
+            <sp who="#DRACO"> No! I was chosen. This is my moment! <stage>Malfoy exits. Then Snape.
                 </stage>
             </sp>
             <stage>WIDER ANGLE Harry is revealed in an adjacent alcove. He’s heard all. A TRAIN is
@@ -2514,16 +2514,16 @@ Burbank, California 91522 All Rights Reserved -->
                 ceiling, rains down. Malfoy HOWLS with RAGE. Harry readies himself.</stage>
 
 
-            <sp who="#MALFOY"> Cruci- </sp>
+            <sp who="#DRACO"> Cruci- </sp>
             <sp who="#HARRY"> SECTUMSEMPRA! <stage> BLOOD SPURTS from Malfoy’s face and SCARLET
                     SLASHES OOZE through the white of his shirt. He staggers, HOWLS again and
                     COLLAPSES. Harry glares at his wand in horror, then slushes across the floor,
                     the water running red with Malfoy’s blood. </stage></sp>
-            <sp who="#MALFOY"> Don’t touch me! Don’t you dare touch me! Harry stops dead...
+            <sp who="#DRACO"> Don’t touch me! Don’t you dare touch me! Harry stops dead...
                 transfixed by a FLASH of SOMETHING DARK pushing through the wet fabric of Malfoy’s
                 shirtsleeve. Just then... Snape BURSTS THROUGH THE DOOR. Seeing Malfoy -- and the
                 nature of his injuries -- he eyes Harry with keen curiosity. Kneeling, he traces
-                theTIP of his WAND over Malfoy’s wounds, MURMURING an EERIE INCANTATION. Instantly,
+                the TIP of his WAND over Malfoy’s wounds, MURMURING an EERIE INCANTATION. Instantly,
                 the skin begins to knit itself together. Harry backs away, Snape’s ancient CHANT
                 ringing in his ears, blood floating like crimson flowers on the floor, backing away
                 until he reaches the door... </sp>
@@ -3247,25 +3247,25 @@ Burbank, California 91522 All Rights Reserved -->
             <sp who="#DUMBLEDORE"> Good evening, Draco. What brings you out on such a fine Spring
                 evening? Or is it Summer? <stage> Draco stands poised, wand in hand, eyes darting
                     about. </stage></sp>
-            <sp who="#MALFOY"> Who else is here? I heard you talking. </sp>
+            <sp who="#DRACO"> Who else is here? I heard you talking. </sp>
             <sp who="#DUMBLEDORE"> I often talk aloud to myself. I find it extraordinarily useful.
                 That which sounds sane at a whisper can seem utterly mad when said for all the world
                 to hear. Haven’t been whispering to yourself, have you, Draco? <stage> Draco eyes
                     Dumbledore with unease. </stage></sp>
             <sp who="#DUMBLEDORE"> You are not an assassin, Draco. </sp>
-            <sp who="#MALFOY"> How do you know what I am? I’ve done things that would shock you. </sp>
+            <sp who="#DRACO"> How do you know what I am? I’ve done things that would shock you. </sp>
             <sp who="#DUMBLEDORE"> Like cursing Katie Bell and hoping she would, in turn, bear a
                 cursed necklace to me? Like replacing a bottle of mead with one laced with poison.
                 Forgive me, Draco, but these are attempts so feeble I cannot help but question if
                 your heart has been really in them. I’m curious. When Voldemort gave you this task,
                 when he asked you to kill me, was it in a whisper? </sp>
-            <sp who="#MALFOY"> He trusts me! I was chosen! <stage> Malfoy thrusts out his arm, pulls
+            <sp who="#DRACO"> He trusts me! I was chosen! <stage> Malfoy thrusts out his arm, pulls
                     back his sleeve and reveals the DARK MARK. Dumbledore barely looks at it.
                 </stage></sp>
             <sp who="#DUMBLEDORE"> Then I shall make it easy for you. <stage> Slowly and without
                     intent, Dumbledore draws his wand. Instantly Malfoy raises his own.
                 </stage></sp>
-            <sp who="#MALFOY"> Expelliarumus! <stage> Harry watches in horror as Dumbledore’s wand
+            <sp who="#DRACO"> Expelliarumus! <stage> Harry watches in horror as Dumbledore’s wand
                     flies free, clattering across the grid above. Malfoy watches it roll to a stop,
                     a curious mixture of fear and awe at his own actions. Dumbledore eyes the wand,
                     then Draco. </stage></sp>
@@ -3275,14 +3275,14 @@ Burbank, California 91522 All Rights Reserved -->
                 </stage></sp>
             <sp who="#DUMBLEDORE"> You’re not alone. Are you. There are others. How? <stage> A
                     sneering smile plays over Malfoy’s lips. </stage></sp>
-            <sp who="#MALFOY"> The Vanishing Cabinet in the Room of Requirement. </sp>
+            <sp who="#DRACO"> The Vanishing Cabinet in the Room of Requirement. </sp>
             <sp who="#DUMBLEDORE"> That cabinet has been broken for years. </sp>
-            <sp who="#MALFOY"> I’ve been mending it. </sp>
+            <sp who="#DRACO"> I’ve been mending it. </sp>
             <sp who="#DUMBLEDORE"> Ingenious. Let me guess. It has a sister. A twin. </sp>
-            <sp who="#MALFOY"> In Borgin &amp; Burkes. They form - </sp>
+            <sp who="#DRACO"> In Borgin &amp; Burkes. They form - </sp>
             <sp who="#DUMBLEDORE"> A passage, yes. Very good. <stage>eyes shifting</stage> I once
                 knew a boy years ago who made all the wrong choices. Let me help you, Draco. </sp>
-            <sp who="#MALFOY"> I don’t want your help! Don’t you see! I have to do it! I have to!
+            <sp who="#DRACO"> I don’t want your help! Don’t you see! I have to do it! I have to!
                     <stage>in a whisper</stage> I’ve got to kill you or he’ll kill me. </sp>
             <sp who="#DUMBLEDORE"> Say that again, Draco. But aloud this time. <stage> Draco looks
                     deep into Dumbledore’s eyes. His hand trembles. Transfixed, Harry watches from

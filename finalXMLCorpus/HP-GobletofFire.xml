@@ -132,11 +132,11 @@
             <stage cat="INT" where=" STADIUM"> The Weasleys and Harry are finding their seats. </stage>
             <sp who="#RON"> Blimey Dad, how far up ARE we?<stage> Lucius Malfoy and Draco are
                     walking below them. </stage></sp>
-            <sp who="#LUCIUSMALFOY"> Well put it this way, if it rains... you'll be the first to
+            <sp who="#LUCIUS"> Well put it this way, if it rains... you'll be the first to
                 know </sp>
             <sp who="#DRACO"> Father and I are in the minister's box, by personal invitation of
                 Cornelius Fudge himself. </sp>
-            <sp who="#LUCIUSMALFOY"> Don't boast Draco. There's no need with these people. Do enjoy
+            <sp who="#LUCIUS"> Don't boast Draco. There's no need with these people. Do enjoy
                 yourself won't you. While you can.<stage> The ceremonies begin. Balloons fly and
                     fireworks go off. </stage></sp>
             <sp who="#MRWEASLEY"> Come on up, take your seats. I told you these seats would be worth
@@ -658,8 +658,7 @@
             <sp who="#RON"> Fine.<stage> Draco calls out, he's sitting up a tree. </stage></sp>
             <sp who="#DRACO"> Why so tense Potter? My father and I have a bet you see. I don't think
                 you're gonna last ten minutes in this tournament. He disagrees. He thinks you won't
-                last </sp>
-            <sp who="#FIVE."> </sp>
+                last FIVE. </sp>
             <sp who="#HARRY"> I don't give a damn what you or your father thinks Malfoy. He's vile
                 and cruel, and you're just pathetic.<stage> Harry walks away and Draco angrily tries
                     casting a spell. Mad-Eye appears and quickly turns Malfoy into a ferret.
@@ -1015,7 +1014,7 @@
                     Hermione walks off. </stage></sp>
             <sp who="#PADMA"> Are you going to ask me to dance or not? </sp>
             <sp who="#RON"> No. </sp>
-            <sp who="#LATER"> </sp>
+            <stage>LATER</stage>
             <sp who="#RON">
                 <stage>To Hermione</stage> He's using you. </sp>
             <sp who="#HERMIONE"> How dare you! Besides I can take care of myself. </sp>
@@ -1073,22 +1072,22 @@
                 bath. He has his golden egg on the side. </stage>
             <sp who="#HARRY"> I must be out of my mind.<stage> He opens the egg and the horrible
                     screech noise comes out. </stage></sp>
-            <sp who="#MYRTLE"> I'd try putting it in the water if I were you. </sp>
+            <sp who="#MOANINGMYRTLE"> I'd try putting it in the water if I were you. </sp>
             <sp who="#HARRY"> Myrtle! </sp>
-            <sp who="#MYRTLE"> Long time no see.<stage> The ghostly figure of little Myrtle flies
+            <sp who="#MOANINGMYRTLE"> Long time no see.<stage> The ghostly figure of little Myrtle flies
                     around. </stage></sp>
-            <sp who="#MYRTLE"> I was circling a blocked drain the other day and could swear I saw a
+            <sp who="#MOANINGMYRTLE"> I was circling a blocked drain the other day and could swear I saw a
                 bit of polyjuice potion. Not being a bad boy again are you Harry? </sp>
             <sp who="#HARRY"> Polyjuice potion! Kicked the habit. Myrtle, did you say try putting it
                 in the water?<stage> Myrtle flies around again and gets in the water. </stage></sp>
-            <sp who="#MYRTLE"> Well. That's what he did. The other boy, the handsome one.
+            <sp who="#MOANINGMYRTLE"> Well. That's what he did. The other boy, the handsome one.
                     Cedric.<stage> Harry takes the egg and puts it under the water. </stage></sp>
-            <sp who="#MYRTLE"> Well go on, open it.<stage> Harry does so and goes underwater
+            <sp who="#MOANINGMYRTLE"> Well go on, open it.<stage> Harry does so and goes underwater
                     himself. He hears a voice singing. </stage></sp>
             <sp who="#VOICESINGING"> Come seek us where our voices sound. We cannot sing above the
                 ground. An hour long you'll have to look, to recover what we took. </sp>
             <sp who="#HARRY"> Myrtle, there aren't Merpeople in the black lake are there? </sp>
-            <sp who="#MYRTLE"> Ahhh, very good. Took Cedric ages to riddle it out. Almost all the
+            <sp who="#MOANINGMYRTLE"> Ahhh, very good. Took Cedric ages to riddle it out. Almost all the
                 bubbles were gone...<stage> Myrtle laughs and Harry is embarrassed. </stage></sp>
         </scene>
         <scene>
@@ -1451,10 +1450,10 @@
                 of you tried to find me.<stage> Voldemort begins slashing angrily at the hooded
                     figures. </stage></sp>
             <sp who="#VOLDEMORT"> Not even you, Lucius. </sp>
-            <sp who="#LUCIUSMALFOY"> My lord. Had I detected any sign or even a whisper of your
+            <sp who="#LUCIUS"> My lord. Had I detected any sign or even a whisper of your
                 whereabouts. </sp>
             <sp who="#VOLDEMORT"> There were signs my friend, and more than whispers. </sp>
-            <sp who="#LUCIUSMALFOY"> I assure you I never renounced the old ways. The face I have
+            <sp who="#LUCIUS"> I assure you I never renounced the old ways. The face I have
                 been obliged to present each day since your absence, that was my true mask. </sp>
             <sp who="#WORMTAIL"> I returned. </sp>
             <sp who="#VOLDEMORT"> Out of fear, not loyalty. Still you have proved yourself useful

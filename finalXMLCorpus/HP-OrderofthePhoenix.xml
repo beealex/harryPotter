@@ -157,7 +157,7 @@
          <sp who="#HARRY">How are we getting there? </sp>
          <sp who="#LUPIN">Brooms. Red sparks fly into the air in the distance. Tonks returns with
             the broom, handing it to Harry. </sp>
-         <sp who="#KINGSLEY">There's the first signal. </sp>
+         <sp who="#SHACKLEBOLT">There's the first signal. </sp>
          <sp who="#MOODY">Right, let's go. </sp>
          <sp who="#LUPIN">On your broom, Harry. Moody is moving around them. </sp>
          <sp who="#MOODY">Form up! Form up around Harry. Make it snappy!<stage> The advanced guard
@@ -171,7 +171,7 @@
          <sp who="#MOODY">We must be ready. This would be the perfect moment for Voldemort to strike
             Harry. </sp>
          <sp who="#HARRY">Uh, is that very likely? </sp>
-         <sp who="#KINGSLEY">No one's going to die. Blue sparks blast into the sky. </sp>
+         <sp who="#SHACKLEBOLT">No one's going to die. Blue sparks blast into the sky. </sp>
          <sp who="#LUPIN">There's the second signal! </sp>
          <sp who="#MOODY">Mount your brooms, everyone. Here we go!<stage> Seconds later, there is an
                explosion of green sparks in the sky. </stage></sp>
@@ -183,7 +183,7 @@
                is shouted their way. A dementor soars towards them, tattered robes snapping in the
                wind. </stage></sp>
          <sp who="#MOODY">Contacts to the south! </sp>
-         <sp who="#KINGSLEY">Mad-eye! You, Tonks, and Lupin take Harry! We'll slow them down! The
+         <sp who="#SHACKLEBOLT">Mad-eye! You, Tonks, and Lupin take Harry! We'll slow them down! The
             rest of the advanced guard peels away from the group. Harry checks the sky around them.
             It appears to be clear. </sp>
          <sp who="#LUPIN">There's the other one, Alastor! The other Dementor emerges very close by
@@ -207,7 +207,7 @@
          <sp who="#MOODY">We're not far, now!<stage> Soon after, Lupin and the rest of the advanced
                guard return, intact and without injury. </stage></sp>
          <sp who="#MOODY">Did you get rid of them? </sp>
-         <sp who="#KINGSLEY">They're gone, Alastor. </sp>
+         <sp who="#SHACKLEBOLT">They're gone, Alastor. </sp>
          <sp who="#TONKS">We're there! </sp>
          <sp who="#MOODY">Prepare for descent! Form up around Harry!<stage> They cut through the
                clouds, gliding lower as they went. Tonks touches down right before Harry did, the
@@ -215,7 +215,7 @@
                draw their wands. </stage></sp>
          <sp who="#LUPIN">Stay here, Harry.<stage> Several of the advanced guard move to the
                perimeter, to secure it. Clear! </stage></sp>
-         <sp who="#KINGSLEY"> </sp>
+         <sp who="#SHACKLEBOLT"> </sp>
          <sp who="#MOODY"> Right, Harry, this way.<stage> Harry follows him, Tonks and Lupin
                trailing after, wands at the ready, eyes flicking to the buildings surrounding them.
             </stage></sp>
@@ -668,7 +668,7 @@
          <stage>RON stares for a long moment, then looks at Harry. </stage>
          <sp who="#RON">Harry, there's nothing there, mate... </sp>
          <sp who="#HARRY">Yes it is, it's right there! He points. Ron shakes his head. </sp>
-         <sp who="#LUNALOVEGOOD">I see them too, Harry.<stage> Harry turns to her. LUNA LOVEGOOD is
+         <sp who="#LUNA">I see them too, Harry.<stage> Harry turns to her. LUNA LOVEGOOD is
                a spacy-looking girl, yet pretty in her own right. </stage></sp>
          <sp who="#HARRY">Er...you are? </sp>
          <sp who="#LUNA">Luna. Luna Lovegood. </sp>
@@ -827,15 +827,15 @@
       <scene>
          <stage cat="INT" where="McGONOGALL'S  OFFICE  -  DAY"> Harry stomps in and hands the note
             to McGonogall. She takes it and glances at it. </stage>
-         <sp who="#MCGONOGALL">Is this true? Did you shout at Professor Umbridge? </sp>
+         <sp who="#MCGONAGALL">Is this true? Did you shout at Professor Umbridge? </sp>
          <sp who="#HARRY">Yeah. But she called me a liar! </sp>
-         <sp who="#MCGONOGALL">My dear boy, do use your common sense! Umbridge is reporting directly
+         <sp who="#MCGONAGALL">My dear boy, do use your common sense! Umbridge is reporting directly
             to Fudge. She is here to...interfere...with Dumbledore. And things could get much worse,
             trust me. <stage>pause</stage> Use caution, always, Potter. Do not mess with Dolorus
             Umbridge, she is dangerous. The Order's hands are tied at Hogwarts, Harry. If you get
             too deep into trouble, we may not be able to get you out. Do you understand? </sp>
          <sp who="#HARRY">Yes, Professor. </sp>
-         <sp who="#MCGONOGALL">Good. Off you go. </sp>
+         <sp who="#MCGONAGALL">Good. Off you go. </sp>
       </scene>
       <scene>
          <stage cat="INT" where="GRYFFINDOR  COMMON  ROOM  -  DAY"> Harry, Hermione, and Ron sit in
@@ -878,8 +878,8 @@
          <sp who="#UMBRIDGE">Problem, Potter?<stage> Harry shakes his head and returns to his lines.
                He gasps after writing it again, the words on his hand had gotten deeper. Gritting
                his teeth, he forces himself on. </stage></sp>
-         <sp who="#DISSOLVE"> Harry's shaking, weak hand scratches the final line of the evening,
-            the words on the back of his hand not even healing any longer, but bleeding profusely. </sp>
+         <stage>DISSOLVE Harry's shaking, weak hand scratches the final line of the evening,
+            the words on the back of his hand not even healing any longer, but bleeding profusely. </stage>
          <sp who="#UMBRIDGE">That's enough for this evening. Same time, tomorrow, and we'll see if
             we can get the message to sink in a bit deeper.<stage> Harry staggers to his feet, weak
                and pale, and staggers from the office. </stage></sp>
@@ -1027,7 +1027,7 @@
             you happened to be sending a message to Sirius? Harry looks thoughtful. </sp>
          <sp who="#HARRY">Yeah, that does seem weird. You figure its Umbridge? </sp>
          <sp who="#HERMIONE">I don't know. Just then Malfoy appears close by. </sp>
-         <sp who="#MALFOY">Hey, Weasley! Nice job out on the field today! You'll be our best player
+         <sp who="#DRACO">Hey, Weasley! Nice job out on the field today! You'll be our best player
             on the pitch! </sp>
          <sp who="#HARRY">Get bent, Malfoy!<stage> Draco and the other Slytherins laugh. Ron shakes
                his head as they walk. </stage></sp>
@@ -1083,10 +1083,10 @@
          <sp who="#HARRY">Well, if you want to, ah, "break ties" with me, I swear I won't get
             violent. Ron tears the letter in half. </sp>
          <sp who="#RON">He is the world's biggest git! He hurls the pieces into the fireplace. </sp>
-         <sp who="#SIRIUS">Watch it!<stage> Ron jumps, startled. Sirius? </stage></sp>
-         <sp who="#HARRYSIRIUS"> Right you are. Got you letter and though we should talk in person.
-            He cranes his neck at the burning letter. </sp>
-         <sp who="#SIRIUS">What was that? </sp>
+         <sp who="#SIRIUS">Watch it!<stage> Ron jumps, startled. </stage></sp>
+         <sp who="#HARRY"> Sirius?</sp>
+         <sp who="SIRIUS"> Right you are. Got you letter and though we should talk in person.
+            <stage>He cranes his neck at the burning letter.</stage> What was that?</sp>
          <sp who="#HARRY">Letter from Percy. </sp>
          <sp who="#RON">Yeah, full of the usual rubbish. </sp>
          <sp who="#HERMIONE">Except he did mention that Dumbledore might not be in charge here much
@@ -1125,7 +1125,7 @@
       <scene>
          <stage cat="INT" where="GRYFFINDOR  BOYS  DORM  -  NIGHT"> Harry lays on his bed, fast
             asleep. He dreams... </stage>
-         <sp who="#DISSOLVE"> </sp>
+         <stage>DISSOLVE</stage>
       </scene>
       <scene>
          <stage cat="INT" where="DEPARTMENT  OF  MYSTERIES  -  NIGHT"> Harry strolls along the
@@ -1264,7 +1264,7 @@
             Secrets with that sword in Dumbledore's office. </sp>
          <sp who="#HARRY">Uh...well, yeah, I did. </sp>
          <sp who="#LEEJORDAN">Blimey, Harry... Half the crowd looks awestruck. </sp>
-         <sp who="#LAVANDERBROWN">Wow... </sp>
+         <sp who="#LAVENDERBROWN">Wow... </sp>
          <sp who="#FRED">Can't forget that he saved the Sorcerer's Stone from You-Know-Who in his
             first year.<stage> The Patil sisters' eyes are wide with respect and astonishment.
             </stage></sp>
@@ -1335,8 +1335,9 @@
          <stage cat="INT" where="GRYFFINDOR  COMMON  ROOM  -  NIGHT"> Harry is pacing in front of
             the fire. Hermione and Ron sit on chairs, watching him. </stage>
          <sp who="#HARRY">This isn't a coincidence. He looks at Ron and Hermione. </sp>
-         <sp who="#HARRY"> She knows.<stage> She can't! </stage></sp>
-         <sp who="#RONHARRY"> Look, we don't know how many people could have overheard our meeting
+         <sp who="#HARRY"> She knows.</sp>
+         <sp who="#RON">She can't!</sp>
+         <sp who="#HARRY"> Look, we don't know how many people could have overheard our meeting
             and told her. </sp>
          <sp who="#RON">Or somebody at the meeting could have blabbed to her. </sp>
          <sp who="#HERMIONE">No, they couldn't have. The parchment we all signed was enchanted, like
@@ -1421,7 +1422,7 @@
                Gryffindors. </stage></sp>
          <sp who="#LEEJORDAN"><stage>v.o.</stage> Another ten points to Slytherin. The score is now
             fifty-ten in favor of Slytherin. Malfoy pulls up on his broom near Ron as well. </sp>
-         <sp who="#MALFOY">I should thank you, Weasley. You're definitely our best player!<stage> He
+         <sp who="#DRACO">I should thank you, Weasley. You're definitely our best player!<stage> He
                laughs. Just then, the SNITCH blasts past Malfoy. He takes off in pursuit. Harry
                rockets after him at top speed, ignoring the bite of the snow against his face. He
                and Malfoy give chase, following the Snitch at top speed. Malfoy is still far closer
@@ -1566,7 +1567,7 @@
       </scene>
       <scene>
          <stage cat="INT" where="HAGRID'S  HUT  -  NIGHT"> There is silence. </stage>
-         <sp who="#ROM">So...no giants are coming? </sp>
+         <sp who="#RON">So...no giants are coming? </sp>
          <sp who="#HAGRID">Well, not righ' away. We brought our message, an' I expec' a fair few'll
             remember it afore teh end comes. </sp>
       </scene>
@@ -1763,7 +1764,7 @@
                into chairs around the table. George puts his head in his hands. Fred simply stares
                at the wall. Ginny is weeping softly. Ron puts his arm around her. Harry sits away
                from them, by himself. </stage></sp>
-         <sp who="#DISSOLVE"> </sp>
+         <stage>DISSOLVE</stage>
       </scene>
       <scene>
          <stage cat="INT" where="GRIMMAULD  PLACE  -  DAY"> Fred and Ginny lay slumped in chairs,
@@ -1921,7 +1922,7 @@
          <sp who="#HARRY">I won't hurt anybody else. </sp>
          <sp who="#PHINEAS">I see. You are running away out of nobility. You know, that's why I
             hated teaching. Young people always think they know what's best, as if no one else could
-            possibly understand things better. Harry moves to a window and opens it, leaning out. </sp>
+            possibly understand things better. <stage>Harry moves to a window and opens it, leaning out.</stage> </sp>
          <sp who="#PHINEAS">I've brought a message from Dumbledore. Harry stops and looks at him. </sp>
          <sp who="#HARRY">What is it? </sp>
          <sp who="#PHINEAS">Dumbledore says, 'Stay where you are.' </sp>
@@ -1929,13 +1930,14 @@
          <sp who="#PHINEAS">When in all your life has listening to Dumbledore ever led you into
             trouble? Whatever his reasons, he has your best interests at heart, Potter. Phineas
             moves off the portrait frame and vanishes. </sp>
-         <sp who="#HARRY">Fine! Go! And tell Dumbledore thanks for nothing! He tips his trunk over
+         <sp who="#HARRY">Fine! Go! And tell Dumbledore thanks for nothing! <stage>He tips his trunk over
             in anger and sits down on the bed. There is a knock on the door. Ginny walks in, looking
-            determined. </sp>
-         <sp who="#HARRY"> Get out!<stage> No. </stage></sp>
-         <sp who="#GINNYHARRY"> Ginny, I'm dangerous. You can't be around me. </sp>
-         <sp who="#GINNY">Did you forget that I've been possessed by You-Know-Who before? Harry
-            falls silent, looking cowed. </sp>
+            determined.</stage> </sp>
+         <sp who="#HARRY"> Get out!</sp>
+         <sp who="#GINNY"> No. </sp>
+         <sp who= "#HARRY"> Ginny, I'm dangerous. You can't be around me. </sp>
+         <sp who="#GINNY">Did you forget that I've been possessed by You-Know-Who before? <stage>Harry
+            falls silent, looking cowed.</stage> </sp>
          <sp who="#HARRY">I forgot. </sp>
          <sp who="#GINNY">Lucky you. Anyway, that's what I wanted to talk to you about.
                <stage>pause</stage> Can you remember everything you've done this year? There aren't
@@ -1944,10 +1946,10 @@
          <sp who="#GINNY">Then You-Know-Who has never possessed you, Harry. She sits down on the bed
             next to him. </sp>
          <sp who="#GINNY">I don't know what's going on with you right now, but possession's not one
-            of them. You're not dangerous. She smiles at him. Finally, he smiles back. </sp>
+            of them. You're not dangerous. <stage>She smiles at him. Finally, he smiles back.</stage> </sp>
          <sp who="#HARRY">
             <stage>mumbling</stage> Thanks, Ginny. </sp>
-         <sp who="#GINNY">Don't mention it. She hops off the bed and departs the room. </sp>
+         <sp who="#GINNY">Don't mention it. <stage>She hops off the bed and departs the room.</stage> </sp>
       </scene>
       <scene>
          <stage cat="INT" where="KITCHEN  -  DAY"> Harry wanders into the kitchen and opens the
@@ -1955,14 +1957,14 @@
          <sp who="#SIRIUS">Harry, have you seen Kreacher? I haven't seen him for days now. </sp>
          <sp who="#HARRY">Haven't seen him. </sp>
          <sp who="#SIRIUS">Oh well. Maybe he's crawled up into the air ducts and died...mustn't get
-            my hopes up though. The back door is shoved open and Snape enters. </sp>
+            my hopes up though. <stage>The back door is shoved open and Snape enters.</stage> </sp>
          <sp who="#SNAPE">Potter, excellent. I'd like a word. He marches over to the table and sits. </sp>
          <sp who="#SNAPE">Sit, Potter. </sp>
          <sp who="#SIRIUS">You know, I don't like people giving orders in my house. </sp>
          <sp who="#SNAPE">How unfortunate for you. Now kindly get out. My instructions from
             Dumbledore are to talk with Potter alone. </sp>
-         <sp who="#SIRIUS">I'm his godfather. I think I'll stay. Snape curls his lip in anger but
-            keeps quiet. </sp>
+         <sp who="#SIRIUS">I'm his godfather. I think I'll stay. <stage>Snape curls his lip in anger but
+            keeps quiet.</stage> </sp>
          <sp who="#SNAPE">Very well, then. I know how you like to pretend you're useful. Sirius
             stiffens, but ignores the jab. </sp>
          <sp who="#SNAPE">It is the Headmaster's wish that I teach you Occlumency, Potter. </sp>
@@ -2131,7 +2133,7 @@
          <sp who="#HARRY">They're all Death Eaters!<stage> Hermione nods fearfully. </stage></sp>
          <sp who="#HERMIONE">Yes. Harry grits his teeth. </sp>
          <sp who="#HARRY">Voldemort. </sp>
-         <sp who="#DISSOLVE"> </sp>
+         <stage>DISSOLVE</stage>
       </scene>
       <scene>
          <stage cat="INT" where="HOGSMEAD  -  DAY"> The sun rises over Hogwarts as Harry, Ron, and
@@ -2490,7 +2492,7 @@
          <sp who="#SNAPE"> Well, we shall see, won't we?<stage> He places his wand-tip to his head
                and extracts that same memory and places it in the pensive. Just then, the door opens
                and Draco Malfoy steps in. </stage></sp>
-         <sp who="#MALFOY">Excuse me, Professor. Professor Umbridge says she needs you right away. </sp>
+         <sp who="#DRACO">Excuse me, Professor. Professor Umbridge says she needs you right away. </sp>
          <sp who="#SNAPE">What on earth for? </sp>
          <sp who="#DRACO">Well, sir, remember when Montegue vanished over Christmas? She says he's
             turned up in a toilet on the fourth floor. </sp>
@@ -2522,27 +2524,27 @@
                us?<stage> Several bystanders laugh. James raises his wand, turning to the
                bystanders. </stage></sp>
          <sp who="#JAMES">And now, the moment you've all been waiting for-- </sp>
-         <sp who="#LILYEVENS">Leave him alone, James Potter!<stage> James turns. Harry does as well.
+         <sp who="#LILYEVANS">Leave him alone, James Potter!<stage> James turns. Harry does as well.
                It is LILY EVANS. Harry's mother. </stage></sp>
          <sp who="#JAMES">Another charity case, Lily? </sp>
-         <sp who="#LILYEVENS">What has he done to you? </sp>
+         <sp who="#LILYEVANS">What has he done to you? </sp>
          <sp who="#JAMES">Nothing. It's more the fact that he exists, you see...<stage> The
                IMPEDIMENT CURSE wears off. Snape grabs his wand and turns. James whirls. Semper--
             </stage></sp>
          <sp who="#SNAPE"> </sp>
          <sp who="#JAMES"> Levicorpus!<stage> Snape was lifted into the air and dangled by an ankle.
                He struggled madly, his robe hanging from his arms and over his head. </stage></sp>
-         <sp who="#LILYEVENS">Leave him alone, Potter! James turns and smiles at her. </sp>
+         <sp who="#LILYEVANS">Leave him alone, Potter! James turns and smiles at her. </sp>
          <sp who="#JAMES">I will if you go out with me. </sp>
-         <sp who="#LILYEVENS">I wouldn't go out with you if it were a choice between you and the
+         <sp who="#LILYEVANS">I wouldn't go out with you if it were a choice between you and the
             giant squid! Now let him down.<stage> James shrugs and gestures with his wand. Snape
                falls to the ground. He tries to go for his wand again, but Sirius hexes him.
             </stage></sp>
          <sp who="#SIRIUS">Locomotor mortis! Lily draws her wand. </sp>
-         <sp who="#LILYEVENS">I said, leave him alone!<stage> James slowly turns to regard her. The
+         <sp who="#LILYEVANS">I said, leave him alone!<stage> James slowly turns to regard her. The
                playful expression on his face has vanished. </stage></sp>
          <sp who="#JAMES">Don't make me hex you, Lily. </sp>
-         <sp who="#LILYEVENS">Then let him go! </sp>
+         <sp who="#LILYEVANS">Then let him go! </sp>
          <sp who="#JAMES">Fine!<stage> He mutters the counter-curse and Snape struggles to his feet
                again. </stage></sp>
          <sp who="#JAMES">You're lucky Lily was here, Snivellus! </sp>
@@ -2550,10 +2552,10 @@
                with anger. He points his wand, which is shaking in his hand from his rage, at Snape.
             </stage></sp>
          <sp who="#JAMES">Apologize to her! Now! </sp>
-         <sp who="#LILYEVENS">Don't make him apologize. Honestly, you're as bad as he is! James
+         <sp who="#LILYEVANS">Don't make him apologize. Honestly, you're as bad as he is! James
             whirls on her. </sp>
          <sp who="#JAMES">I would never call you that. She shakes her head. </sp>
-         <sp who="#LILYEVENS">You make me sick, Potter. She turns and walks away. </sp>
+         <sp who="#LILYEVANS">You make me sick, Potter. She turns and walks away. </sp>
          <sp who="#JAMES">Lily! Hey Lily!<stage> Harry watches her go. The adult Snape grabs Harry's
                arm roughly. Harry turns to him, horrified. Snape yanks on the arm and the memory
                dissolves around them. </stage></sp>
@@ -2674,7 +2676,7 @@
          <sp who="#MARCHBANKS">You may now turn your papers over and begin.<stage> Harry
                turns over his paper and stares at it. He begins to mark on it, scribbling answers.
             </stage></sp>
-         <sp who="#DISSOLVE"> </sp>
+         <stage>DISSOLVE</stage>
       </scene>
       <scene>
          <stage cat="INT" where="GREAT  HALL  -  DAY"> Harry stares at the last page of his exam. He
@@ -2840,7 +2842,7 @@
          <sp who="#GEORGE">Completely, Fred. </sp>
          <sp who="#FRED">Time to enter the real world? </sp>
          <sp who="#GEORGE">Definitely. Together they raise their wands. </sp>
-         <sp who="#FRED#GEORGE">Accio brooms! </sp>
+         <sp who="#FRED #GEORGE">Accio brooms! </sp>
       </scene>
       <scene>
          <stage cat="INT" where="UMBRIDGE'S  OFFICE  -  DAY"> Hermione shrieks as Fred and George's

@@ -49,8 +49,8 @@ J.K. Rowling -->
   </scene>
   <scene>
    <stage cat="EXT" where=" NUMBER FOUR PRIVET DRIVE - SAME TIME - NIGHT "> A BLINDING BLAST OF
-    LIGHT FLASHES from the second story window of Number Four. DOGS BARK. And a TITLE CARD appears: </stage>
-   <sp who="#HARRYPOTTER "> and the Prisoner of Azkaban </sp>
+    LIGHT FLASHES from the second story window of Number Four. DOGS BARK. And a TITLE CARD appears:
+    HARRY POTTER and the Prisoner of Azkaban </stage>
   </scene>
   <scene>
    <stage cat="INT" where=" HARRY'S ROOM - SAME TIME - NIGHT "> The light in the hallway SNAPS on,
@@ -752,7 +752,7 @@ J.K. Rowling -->
    <stage cat="INT" where=" GREAT HALL - NIGHT "> As Lavender and Parvati huddle over a DOZEN
     TEACUPS, Avidly interpreting patterns in HUSHED VOICES, Draco, arm bound in a SLING, holds court
     before a clot of Slytherins. </stage>
-   <sp who="#PANSY"> Does it hurt terribly, Draco? </sp>
+   <sp who="#PANSYPARKINSON"> Does it hurt terribly, Draco? </sp>
    <sp who="#DRACO">
     <stage>(a tad theatrical)</stage> It comes and goes. Still... I consider myself lucky. According
     to Madam Pomfrey, another minute or two... and I could've lost the arm. <stage> Harry, Ron and

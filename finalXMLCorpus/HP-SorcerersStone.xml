@@ -520,7 +520,7 @@
    <stage cat="INT" where=" OLLIVANDERS WAND SHOP - LATER"> HUNDRED OF WAND BOXES lie at Harry's
     feet. Hagrid, eyes heavy, sits on a spindly chair. Ollivander, meanwhile, stands at the top of a
     spindly ladder, eyeing his inventory. </stage>
-   <sp who="#OLIVANDER"> I wonder... <stage>Olivander descends, presents a box. Stifling a yawn,
+   <sp who="#OLLIVANDER"> I wonder... <stage>Olivander descends, presents a box. Stifling a yawn,
      Harry takes the wand... and his expression changes.</stage> Go on then. <stage>As Harry extends
      his arm, his hand trembles. A breeze stirs, sending the shop's tiny bell RINGING. The pages of
      a . BOOK FLUTTER on the counter, and Harry's hair feathers off his forehead, showing his scar.
@@ -604,7 +604,7 @@
    <sp who="#STATIONOFFICER ">
     <stage>(grumbling off)</stage> Think you're funny, do you? Nine and Three-Quarters indeed...
     Harry looks about, despairingly, then HEARS... </sp>
-   <sp who="#MRS.WEASLEY">
+   <sp who="#MRSWEASLEY">
     <stage>(O.S.)</stage> ...packed with Muggles, of course. <stage>Harry turns, sees a plump woman
      (MRS. WEASLEY) hurrying along FOUR RED-HEADED BOYS and their little, red-headed sister (GINNY).
      The boys all tow trunks identical to Harry's. </stage> All right, Percy. You first.
@@ -858,7 +858,7 @@
     <stage>(off Harry's amazement) </stage> There's not a witch or wizard who went bad who wasn't in
     Slytherin. Draco's father was one of the first to join You-Know-Who when he got power. And one
     of the first to come back when he lost it. </sp>
-   <sp who="#MCGONAGALL. "> Susan Bones. <stage> As SUSAN BONES dashes up front, Harry glances to
+   <sp who="#MCGONAGALL"> Susan Bones. <stage> As SUSAN BONES dashes up front, Harry glances to
      the High Table. Dumbledore watches the proceedings placidly, while Professor Quirrell talks to
      a hook-nosed man with greasy black hair and sallow skin, PROFESSOR SNAPE. Slowly, as if he can
      feel Harry's gaze, Snape turns, looks straight into Harry's eyes. Instantly, a sharp, hot PAIN
@@ -1803,7 +1803,7 @@
     ter be honest. Blimey...<stage> The scraping is furious now.Quickly, Hagrid takes the egg from
      the kettle, sets it on a table. Fissures spread like veins over its surface, then it...
      EXPLODES... SHELL FLYING LIKE SHRAPNEL. Harry, Ron and Hermione cover themselves. </stage></sp>
-   <sp who="#HERMIONE. "> Is that... a dragon? </sp>
+   <sp who="#HERMIONE"> Is that... a dragon? </sp>
    <sp who="#RON "> That's not just a dragon! That's a Norwegian Ridgeback! My brother Charlie works
     with these in Romania </sp>
    <sp who="#HAGRID "> Isn't he' beautiful! Bless 'im, look, he knows 'is Mummy! <stage>(tickling
