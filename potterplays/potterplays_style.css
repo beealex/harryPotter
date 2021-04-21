@@ -159,3 +159,46 @@ h3{
   margin-left: auto;
   margin-right: auto;
 }
+/*table, th, td {
+  border: 4px solid black;
+}
+th, td {
+  padding: 15px;
+}
+th {
+  text-align: left;
+}
+
+table {
+  border-spacing: 5px;
+}    */
+/* Table styling for Total Words Spoken in Corpus  */
+#t01 {
+  width: 100%; 
+  background-color: #f1f1c1;
+}
+#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+  background-color: #fff;
+}
+#t01 th {
+  color: white;
+  background-color: #0d0a5c;
+}
+/* Table styling for Vocabulary Density  
+#t02 {
+  width: 100%; 
+  background-color: #f1f1c1;
+}
+#t02 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t02 tr:nth-child(odd) {
+  background-color: #fff;
+}
+#t02 th {
+  color: white;
+  background-color: black;
+}*/
