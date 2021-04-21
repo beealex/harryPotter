@@ -7,16 +7,22 @@ body {
        }
        
 h1 {
-    display: block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 25%;
+  text-align: center;
 }
 h2 {
     display: block;
-  margin-left: auto;
+  /*  margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 25%;*/
+  text-align: center;
+}
+h2.index
+{
+    text-align:left;
 }
 h1.webHeader{
     display: block;
@@ -187,7 +193,10 @@ table {
   color: white;
   background-color: #0d0a5c;
 }
-/* Table styling for Vocabulary Density  
+/*  #t01 td{
+    text-align: center;
+}*/
+/* Table styling for Vocabulary Density */ 
 #t02 {
   width: 100%; 
   background-color: #f1f1c1;
@@ -200,5 +209,5 @@ table {
 }
 #t02 th {
   color: white;
-  background-color: black;
-}*/
+  background-color: #0d0a5c;
+}

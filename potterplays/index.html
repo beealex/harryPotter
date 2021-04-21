@@ -21,21 +21,43 @@
             </li>    
         </ul>
         <script type="text/javascript">
-        alert ("Welcome to 'PotterPlays'! We are currently working on adding magical content and will be running soon.")
+        alert ("Welcome to 'PotterPlays'! Feel free to explore the magical content and analyses on the Harry Potter Screenplays!")
         </script>
         <div class="main">
-        <h2>Project Description</h2>
+        <h2 class="index">Project Description</h2>
         <p>At PotterPlays we seek to analyze the open source screenplays of the magical series <i>Harry Potter</i>. </p>
-        <p> The goal of the project is to conduct word analysis on all 8 of the <i>Harry Potter</i> screenplays to discover how gender is represented through the scriptwriter's diction.  </p>
-        <h2>Project Plans</h2>
+        <p> The goal of the project is to conduct textanalysis on all 8 of the <i>Harry Potter</i> screenplays to determine whether there is a correlation between the Social Classes found in the series and the diction utilized by each Social Class.</p>
+            <br>
+            <br>
+            <hr>
+            <h2 class="index">Project Steps</h2>
+             <p>1. Research open source pdf scripts of the Harry Potter Screenplays to use for Educational Research under Fair Use.</p>
+             <p>2. Determine the accuracy of the research scripts based on the movies.</p>
+            <p>3. Determined the best program to use for OCR. Conducted OCR on the pdfs through Adobe Acrobat and convert to text files. </p>
+            
+            <img src="pdfExample_sorcerers.png" alt="Example of PDF file of Sorcerer's Stone" width="460"/>   
+            
+             <p>4. After conducting OCR, time was spent looking through each text file and cleaning the errors. These errors were portrayed through random text characters and the skewing of the lines of text. Additionally, there were pages missing that had to be hand-typed, strictly referencing the open source pdfs.  </p>      
+            <img src="unclean_sorcerers.png"  alt="Example of raw text file of Sorcerer's Stone" width="460"/>
+            
+             <p>5. After ensuring the cleanliness of the text files (leaving room for human error), a schema was carefully created so markup could be completed successfully. </p>
+            
+          <img src="cleaned_sorcerers.png" alt="Example of cleaned text file of Sorcerer's Stone" width="460"/>
+         <p>6. RegEx was then used on each text file to strategically add markup to the files and prepare them for textanalysis.</p>
+        <p>7. After many many weeks of careful planning and strategic curating, the corpus was ready for the beginning stages of textanalysis.</p>
+        <p>8. To prepare for the textanalysis of the Harry Potter Screenplays, and to connect the speeches to social class, the files were uploaded to Exist where queries were thoughtfully developed to include speeches taken only from the Malfoy Family, the Weasley Family, Harry Potter, Hermione Granger, and Argus Filch and Arabella Figg. By having at least one representation for each social class, terms could be thoughtfully analyzed to determine a potential correlation among diction usage and social class.</p>
+         <p>9. After the specific queries were created, each representative of the individual social classes had their own text file containing only the speech contents.</p>
+             <p>10. Once the resulting text files were downloaded, they were uploaded to Voyant and AntConc where textanalysis could occur. </p>
+             <p>11. Once significant data was found, it was anlayzed and interpreted to be presented on the project website</p>
+            <br>
+            <br>
+            <hr>
+         <h2 class="index">Project Plans</h2>
          <h3>***Still in the planning stages. Subject to change. ***</h3>
         <ul>
-         <li >Conduct OCR on the PDFs of the screenplays and convert to .txt files.</li>
-         <li>Research the role of gender in the open source screenplays.</li>
-         <li>Research the infamous gender tweets relating to gender in the series.</li>
-         <li>Utilize Antconc to pull out phrases and how many times they are mentioned. This can be used to analyze various characters and their gender role/description.</li>
          <li>Potentially develop a personography and/or character mentions</li>
          <li>Incorporate important timeline of events (book releases, production dates, movie releases)</li>
+         <li> Conduct and analysis on the Goblet of Fire script and how it birthed the question of why there is a lack of credible sources of the Harry Potter Screenplays, to be used for Educational Purposes under Fair Use.</li>
         </ul>
         </div>
     </body>
