@@ -24,12 +24,26 @@ h2.index
 {
     text-align:left;
 }
+
 h1.webHeader{
     display: block;
   margin-left: auto;
   margin-right: auto;
   width: 25%;
 }
+.center {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+/*.center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  height: 200px;
+}*/
 ul.navbar {
   list-style-type: none;
   margin: 0;
