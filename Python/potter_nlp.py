@@ -7,8 +7,8 @@ nlp = spacy.load('en_core_web_sm')
 lemmatizer = nlp.get_pipe("lemmatizer")
 print(lemmatizer.mode)  # 'rule'
 
-allSpeech = open('allSpeeches.txt', 'r')
-words = allSpeech.read()
+filchFiggSpeech = open('filch_figgSpeeches.txt', 'r')
+words = filchFiggSpeech.read()
 wordstrings = str(words)
 # print(wordstrings)
 
@@ -41,7 +41,7 @@ print(lastTen)
 bar_chartTopTwenty = pygal.Bar()
 
 # bar_chartOver10.title = 'Noun Lemma Forms in Disney Songs'
-bar_chartTopTwenty.title= 'All Adjective Lemmas in Potter Plays'
+bar_chartTopTwenty.title= 'All Adjective Lemmas in Argus Filch and Arabella Figg Speeches'
 
 # for a in adj_freq:
 #     # verb_freq is a dictionary structure, so we return its key and its value:
@@ -58,4 +58,4 @@ for t in topTwenty:
 # print(bar_chart)
 print(bar_chartTopTwenty.render(is_unicode=True))
 # bar_chartOver10.render_to_file('bar_chartOver10.svg')
-bar_chartTopTwenty.render_to_file('bar_chartTopTwenty.svg')
+bar_chartTopTwenty.render_to_file('filchFigg_chartTopTwenty.svg')

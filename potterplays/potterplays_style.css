@@ -225,3 +225,32 @@ table {
   color: white;
   background-color: #0d0a5c;
 }
+/* Floating div for portrait and about me */
+div.portrait
+{
+    float:right;
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+div.portrait
+{
+    float: right;
+width: 40%;
+padding-left: 5%;
+padding-right: 5%;
+margin-top: 2%;
+margin-bottom: 2%
+}
+div.about
+{
+    text-align: left;
+/*letter-spacing: 2px; */
+line-height: 1.5; 
+padding-left: 5%;
+padding-right: 5%;
+padding-top: 1%;
+padding-bottom: 1%;
+}
