@@ -30,6 +30,16 @@ h1.webHeader{
   margin-left: auto;
   margin-right: auto;
   width: 25%;
+  font-family: Lumos;
+  font-size: 50px;
+}
+.navBar
+{
+   font-family: Lumos; 
+}
+@font-face {
+font-family: 'Lumos'; /*a name to be used later*/
+    src: url('https://www.dafont.com/lumos.font#top'); /*URL to font*/
 }
 .center {
   margin-left: auto;
@@ -76,6 +86,7 @@ li a, .dropbtn {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: Lumos; 
 }
 
 li a:hover, .dropdown:hover .dropbtn {
